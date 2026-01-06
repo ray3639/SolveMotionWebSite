@@ -1,0 +1,157 @@
+﻿:root {
+  --bg: #0b0f14;
+  --panel: #121826;
+  --text: #e5e7eb;
+  --muted: #9ca3af;
+  --accent: #38bdf8;
+  --border: #1f2937;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+}
+
+header {
+  background: var(--panel);
+  border-bottom: 1px solid var(--border);
+}
+
+nav {
+  max-width: 1100px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  padding: 14px 20px;
+}
+
+.site-logo {
+  height: 40px;
+  margin-right: 16px;
+}
+
+nav a {
+  color: var(--text);
+  text-decoration: none;
+  margin-right: 18px;
+  font-weight: 500;
+}
+
+nav a:hover {
+  color: var(--accent);
+}
+
+main {
+  max-width: 1100px;
+  margin: auto;
+  padding: 48px 20px;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+.section {
+  margin-bottom: 64px;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 20px;
+}
+
+.card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.card img {
+  height: 48px;
+  margin-bottom: 12px;
+  display: block;
+}
+
+footer {
+  border-top: 1px solid var(--border);
+  background: var(--panel);
+  color: var(--muted);
+  text-align: center;
+  padding: 24px;
+  font-size: 14px;
+}
+
+.card h3 {
+  margin-top: 6px;
+}
+
+
+
+
+
+
+
+
+.app-badge {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 12px;
+  color: white;
+}
+
+.app-badge.motion   { background: #00c6ff; }
+.app-badge.solveit  { background: #6c63ff; }
+.app-badge.mind     { background: #ff9f43; }
+.app-badge.oura     { background: #2ed573; }
+.app-badge.pharmacy { background: #1e90ff; }
+
+
+.app-icon-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.app-logo {
+  height: 36px;
+  width: auto;
+  display: block;
+}
+
+
+.app-icon-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.app-icon-plate {
+  background: #000;
+  border-radius: 8px;
+  padding: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.app-logo {
+  height: 32px;
+  width: auto;
+  display: block;
+}
+

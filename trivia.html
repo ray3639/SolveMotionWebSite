@@ -1,0 +1,371 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Trivia – Keegs Digital</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+:root{
+  --bg-main:#05060e;
+  --bg-card:#0f111c;
+  --bg-chip:#151829;
+  --accent:#22c1c3;
+  --accent2:#5b86e5;
+  --accent-soft:rgba(34,193,195,.22);
+  --text-main:#f3f4ff;
+  --text-muted:#9ca0c2;
+  --border-subtle:#272b3d;
+}
+*{box-sizing:border-box;}
+body{
+  margin:0;
+  font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  background:radial-gradient(circle at top left,#1a2348 0,#05060e 46%,#020308 100%);
+  color:var(--text-main);
+}
+a{color:var(--accent);text-decoration:none;}
+a:hover{text-decoration:underline;}
+
+header{
+  position:sticky;
+  top:0;
+  z-index:20;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding:14px 24px;
+  background:rgba(5,7,18,.96);
+  backdrop-filter:blur(20px);
+  border-bottom:1px solid rgba(255,255,255,.04);
+}
+.brand{
+  display:flex;
+  align-items:center;
+  gap:12px;
+}
+.logo{
+  height:40px;
+  width:auto;
+  border-radius:12px;
+  box-shadow:0 0 22px rgba(0,0,0,.85);
+}
+.brand-text-main{
+  font-size:18px;
+  font-weight:600;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+}
+.brand-text-sub{
+  font-size:11px;
+  text-transform:uppercase;
+  color:var(--text-muted);
+  letter-spacing:.18em;
+}
+nav{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  font-size:13px;
+}
+nav a{
+  padding:6px 11px;
+  border-radius:999px;
+}
+nav a.active,
+nav a:hover{
+  background:var(--accent-soft);
+}
+
+main{
+  max-width:1180px;
+  margin:30px auto 70px;
+  padding:0 24px;
+}
+
+.hero{
+  display:grid;
+  grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);
+  gap:34px;
+  align-items:center;
+  margin-bottom:40px;
+}
+.hero-kicker{
+  font-size:11px;
+  letter-spacing:.2em;
+  text-transform:uppercase;
+  color:var(--text-muted);
+  margin-bottom:6px;
+}
+.hero-title{
+  font-size:32px;
+  font-weight:700;
+  letter-spacing:.06em;
+  margin-bottom:8px;
+}
+.hero-title span.app{
+  color:var(--accent);
+}
+.hero-sub{
+  color:var(--text-muted);
+  font-size:15px;
+  line-height:1.7;
+  margin-bottom:18px;
+}
+.chips{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  margin-bottom:20px;
+}
+.chip{
+  padding:4px 10px;
+  border-radius:999px;
+  background:var(--bg-chip);
+  border:1px solid var(--border-subtle);
+  font-size:12px;
+  color:var(--text-muted);
+  display:inline-flex;
+  align-items:center;
+  gap:6px;
+}
+.chip span.dot{
+  width:7px;height:7px;border-radius:999px;background:var(--accent);
+}
+.btn{
+  padding:9px 16px;
+  border-radius:999px;
+  font-size:13px;
+  border:1px solid transparent;
+  display:inline-flex;
+  align-items:center;
+  gap:7px;
+  cursor:pointer;
+}
+.btn-primary{
+  background:linear-gradient(120deg,var(--accent),var(--accent2));
+  color:#05060e;
+  font-weight:600;
+  box-shadow:0 14px 30px rgba(0,0,0,.85);
+}
+.btn-secondary{
+  background:transparent;
+  color:var(--text-main);
+  border-color:var(--border-subtle);
+}
+.hero-footnote{
+  font-size:11px;
+  color:var(--text-muted);
+  margin-top:10px;
+}
+
+.hero-phone{justify-self:center;}
+.phone-frame{
+  width:280px;
+  max-width:100%;
+  border-radius:40px;
+  padding:12px;
+  background:radial-gradient(circle at top,#454f86,#050611);
+  box-shadow:0 26px 70px rgba(0,0,0,.9);
+  border:1px solid rgba(255,255,255,.04);
+  position:relative;
+}
+.phone-frame::before,
+.phone-frame::after{
+  content:"";
+  position:absolute;
+  left:50%;
+  transform:translateX(-50%);
+  border-radius:999px;
+  background:rgba(0,0,0,.9);
+}
+.phone-frame::before{
+  top:7px;width:82px;height:7px;
+}
+.phone-frame::after{
+  bottom:7px;width:46px;height:3px;
+}
+.phone-screen{
+  border-radius:26px;
+  overflow:hidden;
+  background:#05060d;
+  border:1px solid rgba(255,255,255,.1);
+}
+.phone-screen img{display:block;width:100%;height:auto;}
+
+.section-title{
+  font-size:19px;
+  font-weight:600;
+  margin:4px 0 10px;
+}
+.section-sub{
+  font-size:14px;
+  color:var(--text-muted);
+  margin-bottom:12px;
+}
+.muted{
+  font-size:14px;
+  color:var(--text-muted);
+}
+
+.app-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+  gap:18px;
+  margin-top:20px;
+}
+.card-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+  gap:16px;
+  margin-top:16px;
+}
+.card{
+  padding:18px;
+  border-radius:20px;
+  background:var(--bg-card);
+  border:1px solid var(--border-subtle);
+  box-shadow:0 18px 40px rgba(0,0,0,.85);
+}
+.card h3{margin:0 0 6px;font-size:15px;}
+.card p{margin:0;font-size:13px;color:var(--text-muted);}
+
+.app-card-header{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  margin-bottom:4px;
+}
+.app-name{font-size:16px;font-weight:600;}
+.app-tagline{font-size:13px;color:var(--text-muted);}
+.badge{
+  padding:3px 8px;
+  border-radius:999px;
+  background:var(--accent-soft);
+  color:var(--accent);
+  font-size:11px;
+}
+
+.mini-phone{
+  margin-top:10px;
+  border-radius:22px;
+  padding:6px;
+  background:radial-gradient(circle at top,#3f4c77,#060713);
+  border:1px solid rgba(255,255,255,.06);
+}
+.mini-phone-inner{
+  border-radius:16px;
+  overflow:hidden;
+  border:1px solid rgba(255,255,255,.1);
+}
+.mini-phone-inner img{display:block;width:100%;}
+
+.gallery-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(190px,1fr));
+  gap:14px;
+  margin-top:16px;
+}
+.shot-item{
+  padding:9px;
+  border-radius:18px;
+  background:var(--bg-card);
+  border:1px solid var(--border-subtle);
+  box-shadow:0 14px 30px rgba(0,0,0,.85);
+}
+.shot-item img{width:100%;border-radius:12px;display:block;}
+
+.two-col{
+  display:grid;
+  grid-template-columns:minmax(0,1.05fr) minmax(0,1fr);
+  gap:24px;
+}
+
+form{
+  display:grid;
+  gap:10px;
+  margin-top:10px;
+}
+label{
+  font-size:13px;
+  color:var(--text-muted);
+}
+input,textarea{
+  width:100%;
+  padding:8px 10px;
+  border-radius:9px;
+  border:1px solid var(--border-subtle);
+  background:#090b14;
+  color:var(--text-main);
+  font-size:13px;
+}
+textarea{min-height:90px;resize:vertical;}
+
+footer{
+  max-width:1180px;
+  margin:0 auto 26px;
+  padding:0 24px;
+  font-size:11px;
+  color:var(--text-muted);
+  display:flex;
+  justify-content:space-between;
+  gap:12px;
+}
+footer a{font-size:11px;color:var(--accent);}
+
+@media(max-width:840px){
+  header{flex-direction:column;align-items:flex-start;gap:10px;}
+  .hero{grid-template-columns:minmax(0,1fr);}
+  .two-col{grid-template-columns:minmax(0,1fr);}
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="brand">
+    <div class="brand-logo-text">Keegs Digital Apps</div>
+    <div>
+      <div class="brand-text-main">Keegs Digital Apps</div>
+      <div class="brand-text-sub">Momentum · SolveIt</div>
+    </div>
+  </div>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="momentum.html">Momentum</a>
+    <a href="solveit.html">SolveIt</a>
+    <a href="screenshots.html">Screenshots</a>
+    <a href="features.html">Features</a>
+    <a href="pricing.html">Pricing</a>
+    <a href="downloads.html">Downloads</a>
+    <a href="history.html">History</a>
+    <a href="trivia.html" class="active">Trivia</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<main>
+<section>
+  <div class="section-title">Trivia & behind-the-scenes</div>
+  <p class="section-sub">A lighter page for the story behind how these apps and this site came together.</p>
+  <div class="card-grid">
+    <div class="card">
+      <h3>Script-first builds</h3>
+      <p>Most of the environment is driven by PowerShell so you can rebuild everything with one command.</p>
+    </div>
+    <div class="card">
+      <h3>QA roots</h3>
+      <p>The same mindset used in banking QA dashboards shows up here in personal tools.</p>
+    </div>
+    <div class="card">
+      <h3>Dark mode obsession</h3>
+      <p>Everything from the apps to this site is built to look best in dark environments.</p>
+    </div>
+  </div>
+</section>
+</main>
+<footer>
+  <div>© 2025 Keegs Digital Apps · Momentum & SolveIt</div>
+  <div><a href="index.html">Back to home</a></div>
+</footer>
+</body>
+</html>

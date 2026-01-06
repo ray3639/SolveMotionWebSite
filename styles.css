@@ -1,0 +1,156 @@
+﻿/* Solve Motion - Clean Dark Theme Baseline */
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background-color: #050712;
+  color: #E5ECFF;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 40px;
+  background-color: #050712;
+  border-bottom: 1px solid #151A2A;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.company-logo {
+  width: 140px;
+  height: auto;
+}
+
+.site-title {
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: #F5FAFF;
+}
+
+.nav.header-right {
+  display: flex;
+  gap: 24px;
+}
+
+.nav.header-right a {
+  color: #8CBDFF;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.nav.header-right a:hover {
+  color: #FFFFFF;
+  text-decoration: underline;
+}
+
+.content-container {
+  max-width: 1120px;
+  margin: 40px auto 48px auto;
+  padding: 0 24px;
+}
+
+.hero {
+  padding: 40px 32px;
+  border-radius: 24px;
+  background: radial-gradient(circle at top left, #1C2A4D, #050712);
+  border: 1px solid #151A2A;
+  box-shadow: 0 18px 48px rgba(0,0,0,0.4);
+}
+
+.hero h1 {
+  font-size: 32px;
+  margin: 0 0 12px 0;
+}
+
+.hero p {
+  margin: 0 0 16px 0;
+  color: #C0C7E6;
+}
+
+.hero-actions {
+  margin-top: 20px;
+  display: flex;
+  gap: 16px;
+}
+
+.btn-primary {
+  padding: 10px 20px;
+  border-radius: 999px;
+  background: #3B82F6;
+  border: none;
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.btn-outline {
+  padding: 10px 20px;
+  border-radius: 999px;
+  background: transparent;
+  border: 1px solid #3B82F6;
+  color: #C0D4FF;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.section-box {
+  background-color: #081021;
+  border-radius: 24px;
+  padding: 28px 32px;
+  border: 1px solid #151A2A;
+  box-shadow: 0 14px 42px rgba(0,0,0,0.5);
+  margin-bottom: 32px;
+}
+
+.section-box h1,
+.section-box h2,
+.section-box h3 {
+  margin-top: 0;
+}
+
+.two-column {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 20px;
+}
+
+.card {
+  background-color: #050A18;
+  border-radius: 20px;
+  padding: 20px 22px;
+  border: 1px solid #151A2A;
+}
+
+.card h3 {
+  margin-top: 0;
+}
+
+ul {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  padding-left: 22px;
+}
+
+.footer {
+  border-top: 1px solid #151A2A;
+  padding: 16px 40px;
+  font-size: 13px;
+  color: #9CA7C9;
+  background-color: #050712;
+}
+
+a {
+  color: #8CBDFF;
+}
+
+a:hover {
+  color: #FFFFFF;
+}

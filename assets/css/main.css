@@ -288,3 +288,73 @@ hr.sep{border:0;border-top:1px solid rgba(28,39,64,.7);margin:18px 0}
 /* ============================================================
    End comparison table styling
    ============================================================ */
+
+/* ============================================================
+   PRODUCT PAGE SPACING FIX
+   Aligns product pages with index.html header spacing
+   ============================================================ */
+
+main.section {
+  padding-top: 4rem;
+}
+
+.product-title {
+  margin-top: 2rem;
+  margin-bottom: 2.5rem;
+}
+
+.product-hero,
+.product-hero.small {
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.product-content h2 {
+  margin-top: 3rem;
+}
+
+.product-content {
+  max-width: 900px;
+}
+
+/* Prevent header crowding on small screens */
+@media (max-width: 768px) {
+  main.section {
+    padding-top: 3rem;
+  }
+}
+
+/* ================= BOOK FEATURE ================= */
+
+.book-section {
+  margin-top: 5rem;
+}
+
+.book-feature {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  gap: 2.5rem;
+  align-items: start;
+}
+
+.book-cover img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+}
+
+.book-description h3 {
+  margin-top: 0;
+}
+
+.book-description p {
+  max-width: 65ch;
+}
+
+.epigraph {
+  margin: 1.5rem 0;
+  font-style: italic;
+  opacity: 0.85;
+}
+

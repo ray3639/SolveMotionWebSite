@@ -375,3 +375,12 @@ main.section {
     grid-template-columns: 1fr;
   }
 }
+
+
+/* === SolveIt product image stabilization === */
+.product-hero {
+  background: #141821;
+  padding: 16px;
+  border-radius: 16px;
+}
+

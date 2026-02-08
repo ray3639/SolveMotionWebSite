@@ -384,3 +384,13 @@ main.section {
   border-radius: 16px;
 }
 
+
+
+/* === SOLVEIT HERO IMAGE RENDER FIX (LOCKED) === */
+.product-hero {
+  background-color: #0b0f16;
+  padding: 18px;
+  border-radius: 16px;
+  opacity: 1 !important;
+  filter: none !important;
+}

@@ -361,3 +361,17 @@ main.section {
 }
 
 
+
+/* === SOLVEIT PLATFORM SECTION OVERRIDE === */
+.product-content .platform-grid {
+  display: grid !important;
+  grid-template-columns: 1fr 460px;
+  gap: 48px;
+  align-items: start;
+}
+
+@media (max-width: 900px) {
+  .product-content .platform-grid {
+    grid-template-columns: 1fr;
+  }
+}

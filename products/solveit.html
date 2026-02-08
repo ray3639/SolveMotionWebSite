@@ -5,6 +5,29 @@
   <title>SolveIt | SolveMotion Labs</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="../assets/css/main.css">
+
+  <style>
+    /* SolveIt page-only layout (authoritative) */
+    .solveit-layout {
+      display: grid;
+      grid-template-columns: 1fr 460px;
+      gap: 48px;
+      margin-top: 40px;
+      align-items: start;
+    }
+
+    .solveit-media img {
+      width: 100%;
+      border-radius: 14px;
+      box-shadow: 0 12px 30px rgba(0,0,0,0.4);
+    }
+
+    @media (max-width: 900px) {
+      .solveit-layout {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
 </head>
 
 <body>
@@ -33,43 +56,80 @@
 </header>
 
 <main class="section">
+  <div class="container">
 
-  <img src="../assets/images/SolveIt/applogo.png" class="product-hero" alt="SolveIt logo">
+    <img src="../assets/images/SolveIt/applogo.png"
+         class="product-hero"
+         alt="SolveIt logo">
 
-  <div class="product-title">
-    <h1>SolveIt</h1>
-    <p>Video-based incident understanding and scenario analysis.</p>
+    <div class="product-title">
+      <h1>SolveIt</h1>
+      <p>Video-based incident understanding and scenario analysis.</p>
+    </div>
+
+    <div class="solveit-layout">
+
+      <!-- LEFT: TEXT -->
+      <div class="solveit-text">
+
+        <h2>NEW • SolveIt 2.0 Capabilities</h2>
+        <p>
+          SolveIt 2.0 introduces an on-device AI reasoning engine designed to support
+          clear, structured incident understanding without forcing conclusions.
+          The system prioritizes transparency, learning, and evidence preservation.
+        </p>
+
+        <ul>
+          <li>On-device AI engine for scenario reasoning</li>
+          <li>Structured video-based environment capture</li>
+          <li>Preservation of spatial and contextual evidence</li>
+          <li>Exploration of multiple plausible interpretations</li>
+          <li>No black-box decisions or hidden assumptions</li>
+          <li>Clear explanation surfaces for review and learning</li>
+          <li>Designed for education, training, and accountability</li>
+        </ul>
+
+        <h2>Who it’s for</h2>
+        <ul>
+          <li>Incident analysis and review</li>
+          <li>Training and educational environments</li>
+          <li>Scenario-based learning</li>
+          <li>Users who value clarity over certainty</li>
+        </ul>
+
+        <h2>How it’s used</h2>
+        <p>
+          Capture an environment, explore possible interpretations, and review outcomes
+          using structured reasoning tools that emphasize transparency and context.
+        </p>
+
+        <h2>Platform & Intelligence</h2>
+        <p>
+          SolveIt 2.0 is built on the SolveMotion Labs intelligence platform, sharing
+          core architectural principles with SolveMotion 2.0. The system is designed
+          to evolve safely with AI while remaining explainable and human-centered.
+        </p>
+
+        <div class="product-cta">
+          <a class="btn primary"
+             href="../downloads/solveit/SolveIt-latest.apk">
+             Download SolveIt (Android)
+          </a>
+          <p class="platform-note">iPhone support coming soon</p>
+        </div>
+
+      </div>
+
+      <!-- RIGHT: IMAGE -->
+      <div class="solveit-media">
+        <img
+          src="../assets/images/SolveIt/What's new in SolveIt 2.0.png"
+          alt="What's new in SolveIt 2.0">
+      </div>
+
+    </div>
+
   </div>
-
-  <div class="product-content">
-<h2>Features</h2>
-<ul>
-  <li>Capture incident environments using structured video</li>
-  <li>Preserve spatial and contextual evidence</li>
-  <li>Model multiple plausible scenarios</li>
-  <li>Avoid forced conclusions or assumptions</li>
-  <li>Support structured reasoning and review</li>
-  <li>Enable transparent explanation of findings</li>
-</ul>
-
-<h2>Who it’s for</h2>
-<ul>
-  <li>Analysts</li>
-  <li>Investigators</li>
-  <li>Training and review scenarios</li>
-</ul>
-
-<h2>How it’s used</h2>
-<p>
-Capture scenes, explore possible interpretations, and review outcomes with clarity
-and accountability.
-</p>
-
-<div class="product-cta">
-  <a href="../downloads.html">Download →</a>
-</div>
-</div>
-
 </main>
 
 <footer>
@@ -78,6 +138,3 @@ and accountability.
 
 </body>
 </html>
-
-
-

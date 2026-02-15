@@ -474,3 +474,11 @@ h1 {
   transform: translateY(-2px);
 }
 
+
+.footer .small a {
+  color: var(--accent);
+  font-weight: 600;
+}
+.footer .small a:hover {
+  opacity: 0.8;
+}

@@ -782,3 +782,16 @@ footer {
   margin-top: 60px;
 }
 
+
+/* === GLOBAL AUTHORITY BAND === */
+
+.authority-band {
+  text-align:center;
+  padding:10px 0;
+  font-size:13px;
+  font-weight:700;
+  letter-spacing:0.5px;
+  background: linear-gradient(90deg, rgba(10,20,40,.9), rgba(20,10,60,.9));
+  border-bottom:1px solid rgba(28,39,64,.8);
+  color: var(--muted);
+}

@@ -446,3 +446,31 @@ h1 {
   font-size: 17px;
 }
 
+
+/* === DOWNLOAD BUTTON UPGRADE === */
+
+.download-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 14px;
+  margin-top: 6px;
+  border-radius: 10px;
+  background: linear-gradient(135deg, rgba(79,195,255,.95), rgba(124,92,255,.95));
+  color: #071019 !important;
+  font-weight: 800;
+  font-size: 13px;
+  text-decoration: none;
+  box-shadow: 0 10px 25px rgba(0,0,0,.35);
+}
+
+.download-btn.secondary {
+  background: rgba(12,18,32,.9);
+  border: 1px solid rgba(28,39,64,.9);
+  color: var(--text) !important;
+}
+
+.download-btn:hover {
+  transform: translateY(-2px);
+}
+

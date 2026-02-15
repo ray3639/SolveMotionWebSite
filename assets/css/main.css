@@ -394,3 +394,55 @@ main.section {
   opacity: 1 !important;
   filter: none !important;
 }
+
+/* === AUTHORITY HIERARCHY UPGRADE === */
+
+.section {
+  padding: 40px 0;
+}
+
+.section h2 {
+  margin: 0 0 14px;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0.3px;
+}
+
+.section p {
+  font-size: 14px;
+  max-width: 70ch;
+}
+
+
+/* === CARD AUTHORITY ENHANCEMENT === */
+
+.card {
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 18px 40px rgba(0,0,0,0.45);
+}
+
+.card h3 {
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+
+/* === HERO PRESENCE BOOST === */
+
+.hero {
+  padding: 80px 0 28px;
+}
+
+h1 {
+  font-weight: 800;
+  letter-spacing: -0.5px;
+}
+
+.lede {
+  font-size: 17px;
+}
+

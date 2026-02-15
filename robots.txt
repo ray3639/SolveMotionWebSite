@@ -1,3 +1,4 @@
 ﻿User-agent: *
 Allow: /
-Sitemap: https://solvemotionlabs.com/sitemap.xml
+
+Sitemap: https://ray3639.github.io/SolveMotionWebSite/sitemap.xml

@@ -177,11 +177,10 @@ hr.sep{border:0;border-top:1px solid rgba(28,39,64,.7);margin:18px 0}
 }
 .small{font-size:12px;color:var(--muted)}
 
-.product-hero {
-  max-width: 420px;
-  width: 100%;
-  margin: 40px auto 24px;
-  display: block;
+
+
+.product-hero:hover {
+  transform: translateY(-4px);
 }
 .product-title {
   text-align: center;
@@ -190,12 +189,10 @@ hr.sep{border:0;border-top:1px solid rgba(28,39,64,.7);margin:18px 0}
 }
  /* === GLOBAL PRODUCT FIX (LOCKED) === */
 
-.product-hero {
-  max-width: 420px;
-  width: 100%;
-  height: auto;
-  display: block;
-  margin: 48px auto 24px;
+
+
+.product-hero:hover {
+  transform: translateY(-4px);
 }
 
 .product-title {
@@ -222,11 +219,10 @@ hr.sep{border:0;border-top:1px solid rgba(28,39,64,.7);margin:18px 0}
 }
 
  /* === PRODUCT IMAGE SIZE (LOCKED) === */
-.product-hero {
-  max-width: 300px;
-  width: 100%;
-  height: auto;
-  margin: 36px auto 20px;
+
+
+.product-hero:hover {
+  transform: translateY(-4px);
 }
 /* ============================================================
    Product card logo sizing fix
@@ -378,21 +374,19 @@ main.section {
 
 
 /* === SolveIt product image stabilization === */
-.product-hero {
-  background: #141821;
-  padding: 16px;
-  border-radius: 16px;
+
+
+.product-hero:hover {
+  transform: translateY(-4px);
 }
 
 
 
 /* === SOLVEIT HERO IMAGE RENDER FIX (LOCKED) === */
-.product-hero {
-  background-color: #0b0f16;
-  padding: 18px;
-  border-radius: 16px;
-  opacity: 1 !important;
-  filter: none !important;
+
+
+.product-hero:hover {
+  transform: translateY(-4px);
 }
 
 /* === AUTHORITY HIERARCHY UPGRADE === */
@@ -527,5 +521,70 @@ h1 {
 @media (max-width: 520px){
   .hero h2.hero-subtitle{ font-size:16px; }
   .pillars a{ font-size:11px; padding:7px 9px; }
+}
+
+
+
+
+
+/* ============================================================
+   Intelligence Map — Subtle Institutional Animation
+   ============================================================ */
+
+.map-card{
+  transition: transform .25s ease, box-shadow .25s ease, opacity .4s ease;
+  opacity: .95;
+}
+
+.map-card:hover{
+  transform: translateY(-4px);
+  box-shadow: 0 12px 28px rgba(0,0,0,.25);
+  opacity: 1;
+}
+
+.map-grid{
+  animation: fadeInMap .6s ease-in-out;
+}
+
+@keyframes fadeInMap{
+  from { opacity:0; transform: translateY(8px); }
+  to { opacity:1; transform: translateY(0); }
+}
+
+
+
+
+/* ============================================================
+   Institutional Elevation Panels
+   ============================================================ */
+
+.institution-panel{
+  background: rgba(12,18,32,.75);
+  border: 1px solid rgba(28,39,64,.9);
+  border-radius: 14px;
+  padding: 28px;
+  margin-bottom: 28px;
+  box-shadow: 0 8px 22px rgba(0,0,0,.25);
+  backdrop-filter: blur(6px);
+}
+
+.institution-panel h2{
+  margin-top: 0;
+}
+
+
+
+.product-hero {
+  display: block;
+  margin: 0 auto 36px auto;
+  padding: 24px;
+  background: rgba(255,255,255,0.08);
+  border-radius: 18px;
+  border: 1px solid rgba(255,255,255,0.08);
+  box-shadow:
+      0 12px 24px rgba(0,0,0,0.35),
+      0 0 40px rgba(90,140,255,0.08);
+  max-width: 240px;
+  height: auto;
 }
 

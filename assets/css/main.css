@@ -588,3 +588,81 @@ h1 {
   height: auto;
 }
 
+
+ /* ============================================================
+    INSTITUTIONAL TYPOGRAPHY UPGRADE
+    ============================================================ */
+
+h1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  letter-spacing: .4px;
+}
+
+h2 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin-top: 3rem;
+  border-left: 4px solid rgba(90,140,255,.6);
+  padding-left: 14px;
+}
+
+h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  color: #cfd6e6;
+}
+
+p {
+  line-height: 1.7;
+  color: #d8dbe4;
+}
+
+ul li {
+  margin-bottom: .6rem;
+}
+
+
+ /* ============================================================
+    INSTITUTIONAL FOOTER
+    ============================================================ */
+
+.institution-footer {
+  margin-top: 80px;
+  padding: 60px 0;
+  background: #0c1220;
+  border-top: 1px solid rgba(255,255,255,.06);
+}
+
+.footer-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px,1fr));
+  gap: 40px;
+}
+
+.institution-footer h3 {
+  margin-bottom: 16px;
+  font-size: 1.05rem;
+  font-weight: 600;
+  letter-spacing: .5px;
+}
+
+.institution-footer ul {
+  list-style: none;
+  padding: 0;
+}
+
+.institution-footer li {
+  margin-bottom: 10px;
+}
+
+.institution-footer a {
+  color: #cfd6e6;
+  text-decoration: none;
+}
+
+.institution-footer a:hover {
+  color: #ffffff;
+}
+

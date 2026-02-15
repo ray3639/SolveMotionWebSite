@@ -482,3 +482,50 @@ h1 {
 .footer .small a:hover {
   opacity: 0.8;
 }
+
+
+
+
+/* ============================================================
+   Institutional HERO - Pillar Strip (LOCKED)
+   ============================================================ */
+
+.pillars{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  margin-top:14px;
+}
+
+.pillars a{
+  display:inline-flex;
+  align-items:center;
+  padding:8px 10px;
+  border-radius:999px;
+  border:1px solid rgba(28,39,64,.9);
+  background:rgba(12,18,32,.65);
+  color:var(--text);
+  font-weight:800;
+  font-size:12px;
+  letter-spacing:.2px;
+  opacity:.95;
+}
+
+.pillars a:hover{
+  text-decoration:none;
+  transform:translateY(-1px);
+}
+
+.hero h2.hero-subtitle{
+  margin:8px 0 10px;
+  font-size:18px;
+  color:var(--muted);
+  font-weight:800;
+  letter-spacing:.2px;
+}
+
+@media (max-width: 520px){
+  .hero h2.hero-subtitle{ font-size:16px; }
+  .pillars a{ font-size:11px; padding:7px 9px; }
+}
+

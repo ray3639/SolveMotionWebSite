@@ -1,60 +1,135 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://ray3639.github.io/SolveMotionWebSite/</loc>
-  </url>
-
-  <url>
-    <loc>https://ray3639.github.io/SolveMotionWebSite/applications.html</loc>
-  </url>
-
-  <url>
-    <loc>https://ray3639.github.io/SolveMotionWebSite/platform.html</loc>
-  </url>
-
-  <url>
-    <loc>https://ray3639.github.io/SolveMotionWebSite/downloads.html</loc>
-  </url>
-
   <url>
     <loc>https://ray3639.github.io/SolveMotionWebSite/about.html</loc>
+    <lastmod>2026-02-15</lastmod>
   </url>
-
+  <url>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/applications.html</loc>
+    <lastmod>2026-02-15</lastmod>
+  </url>
   <url>
     <loc>https://ray3639.github.io/SolveMotionWebSite/contact.html</loc>
-  </url>
-
-  <url>
-    <loc>https://ray3639.github.io/SolveMotionWebSite/education/kinesiology.html</loc>
+    <lastmod>2026-02-15</lastmod>
   </url>
   <url>
-    <loc>https://ray3639.github.io/SolveMotionWebSite/education/criminology.html</loc>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/departments.html</loc>
+    <lastmod>2026-02-15</lastmod>
   </url>
   <url>
-    <loc>https://ray3639.github.io/SolveMotionWebSite/education/psychology.html</loc>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/doctrine.html</loc>
+    <lastmod>2026-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/downloads.html</loc>
+    <lastmod>2026-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/google-verification-placeholder.html</loc>
+    <lastmod>2026-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/google765d5e3681758aad.html</loc>
+    <lastmod>2026-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/index.html</loc>
+    <lastmod>2026-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/institutional.html</loc>
+    <lastmod>2026-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/intelligence-map.html</loc>
+    <lastmod>2026-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/learning-paths.html</loc>
+    <lastmod>2026-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/methodology.html</loc>
+    <lastmod>2026-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/partnerships.html</loc>
+    <lastmod>2026-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/platform.html</loc>
+    <lastmod>2026-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/research.html</loc>
+    <lastmod>2026-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/roadmap.html</loc>
+    <lastmod>2026-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/support.html</loc>
+    <lastmod>2026-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/downloads/index.html</loc>
+    <lastmod>2026-02-15</lastmod>
   </url>
   <url>
     <loc>https://ray3639.github.io/SolveMotionWebSite/education/chemical-literacy.html</loc>
+    <lastmod>2026-02-15</lastmod>
   </url>
   <url>
-    <loc>https://ray3639.github.io/SolveMotionWebSite/education/pharmacy.html</loc>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/education/criminology.html</loc>
+    <lastmod>2026-02-15</lastmod>
   </url>
   <url>
-    <loc>https://ray3639.github.io/SolveMotionWebSite/education/</loc>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/education/doctrine.html</loc>
+    <lastmod>2026-02-15</lastmod>
   </url>
   <url>
-    <loc>https://ray3639.github.io/SolveMotionWebSite/education/roadmap.html</loc>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/education/index.html</loc>
+    <lastmod>2026-02-15</lastmod>
   </url>
   <url>
     <loc>https://ray3639.github.io/SolveMotionWebSite/education/intelligence-map.html</loc>
+    <lastmod>2026-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/education/kinesiology.html</loc>
+    <lastmod>2026-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/education/pharmacy.html</loc>
+    <lastmod>2026-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/education/psychology.html</loc>
+    <lastmod>2026-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/education/roadmap.html</loc>
+    <lastmod>2026-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/products/solveit.html</loc>
+    <lastmod>2026-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/products/solvemind.html</loc>
+    <lastmod>2026-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/products/solvemotion.html</loc>
+    <lastmod>2026-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/products/solveoura.html</loc>
+    <lastmod>2026-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ray3639.github.io/SolveMotionWebSite/products/solvepharmacy.html</loc>
+    <lastmod>2026-02-15</lastmod>
   </url>
 </urlset>
-
-
-
-
-
-
-
-

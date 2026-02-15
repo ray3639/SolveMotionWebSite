@@ -54,7 +54,7 @@ header {
 .navlinks a.active{color:var(--accent)}
 
 .hero{
-  padding:60px 0 18px;
+  padding:72px 0 36px;
 }
 .hero-grid{
   display:grid;
@@ -74,7 +74,7 @@ header {
 }
 .dot{width:8px;height:8px;border-radius:50%;background:var(--good);box-shadow:0 0 0 4px rgba(49,208,170,.15)}
 
-h1{margin:14px 0 10px;font-size:44px;line-height:1.15}
+h1{margin:18px 0 14px;font-size:48px;line-height:1.1;letter-spacing:-0.5px}
 @media (max-width: 520px){ h1{font-size:36px} }
 
 .lede{color:var(--muted);font-size:16px;max-width:64ch}
@@ -115,7 +115,7 @@ h1{margin:14px 0 10px;font-size:44px;line-height:1.15}
 }
 
 .section{padding:26px 0}
-.section h2{margin:0 0 10px;font-size:22px}
+.section h2{margin:0 0 14px;font-size:24px;letter-spacing:.4px}
 .section p{color:var(--muted);margin:0 0 12px}
 
 .grid{
@@ -125,7 +125,7 @@ h1{margin:14px 0 10px;font-size:44px;line-height:1.15}
 }
 .card{
   grid-column: span 4;
-  background:rgba(12,18,32,.78);
+  background:rgba(12,18,32,.92);
   border:1px solid rgba(28,39,64,.85);
   border-radius: var(--radius);
   padding:18px;
@@ -135,7 +135,7 @@ h1{margin:14px 0 10px;font-size:44px;line-height:1.15}
 @media (max-width: 620px){ .card{grid-column: span 12;} }
 
 .card h3{margin:10px 0 6px;font-size:18px}
-.card p{margin:0;color:var(--muted);font-size:13px}
+.card p{margin:0 0 8px;color:var(--muted);font-size:13px;line-height:1.55}
 
 .icon-row{display:flex;align-items:center;gap:12px}
 .icon-tile{
@@ -664,5 +664,121 @@ ul li {
 
 .institution-footer a:hover {
   color: #ffffff;
+}
+
+
+
+.section-title{font-size:26px;font-weight:800;letter-spacing:.6px;margin-bottom:16px;border-bottom:1px solid rgba(28,39,64,.5);padding-bottom:10px}
+
+
+.hero h1{
+  font-weight:800;
+  letter-spacing:.4px;
+}
+
+.hero .lede{
+  max-width:72ch;
+}
+
+
+
+
+.authority-strip{
+  background:rgba(12,18,32,.65);
+  border-top:1px solid rgba(28,39,64,.5);
+  border-bottom:1px solid rgba(28,39,64,.5);
+  padding:12px 0;
+  text-align:center;
+  font-size:12px;
+  color:var(--muted);
+  letter-spacing:.5px;
+  font-weight:700;
+}
+
+
+.whitepaper-card{
+  border-left:4px solid var(--accent);
+  padding-left:18px;
+  margin-bottom:20px;
+}
+
+.whitepaper-card h3{
+  margin-top:0;
+}
+
+
+.institution-banner{
+  text-align:center;
+  padding:14px 0;
+  font-size:12px;
+  font-weight:700;
+  letter-spacing:.5px;
+  color:var(--accent);
+}
+
+
+/* === INSTITUTIONAL TYPE ELEVATION === */
+
+h1 {
+  font-size: 48px;
+  letter-spacing: -0.5px;
+  font-weight: 800;
+}
+
+h2 {
+  font-size: 26px;
+  font-weight: 700;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.lede {
+  font-size: 17px;
+  max-width: 72ch;
+}
+
+.navlinks a {
+  font-weight: 700;
+  letter-spacing: 0.4px;
+}
+
+footer p {
+  font-size: 12px;
+  opacity: 0.85;
+}
+
+/* === GLOBAL LAYOUT CONSISTENCY LOCK === */
+
+main.container {
+  padding-bottom: 40px;
+}
+
+.hero {
+  padding-top: 72px;
+  padding-bottom: 28px;
+}
+
+.section {
+  padding-top: 36px;
+  padding-bottom: 36px;
+}
+
+.section h2 {
+  margin-bottom: 14px;
+}
+
+.card {
+  transition: transform .15s ease;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+}
+
+footer {
+  margin-top: 60px;
 }
 

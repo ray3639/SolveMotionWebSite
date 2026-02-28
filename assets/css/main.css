@@ -358,7 +358,7 @@ main.section {
 
 
 
-/* === SOLVEIT PLATFORM SECTION OVERRIDE === */
+/* === SolveCrime PLATFORM SECTION OVERRIDE === */
 .product-content .platform-grid {
   display: grid !important;
   grid-template-columns: 1fr 460px;
@@ -373,7 +373,7 @@ main.section {
 }
 
 
-/* === SolveIt product image stabilization === */
+/* === SolveCrime product image stabilization === */
 
 
 .product-hero:hover {
@@ -382,7 +382,7 @@ main.section {
 
 
 
-/* === SOLVEIT HERO IMAGE RENDER FIX (LOCKED) === */
+/* === SolveCrime HERO IMAGE RENDER FIX (LOCKED) === */
 
 
 .product-hero:hover {
@@ -795,3 +795,4 @@ footer {
   border-bottom:1px solid rgba(28,39,64,.8);
   color: var(--muted);
 }
+

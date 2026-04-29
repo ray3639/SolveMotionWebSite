@@ -11,3 +11,6 @@ Thumbs.db
 
 *.bak-*
 *_DUMP.txt
+# Generated mobile binaries
+downloads/**/*.apk
+downloads/**/*.ipa

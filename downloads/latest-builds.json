@@ -1,0 +1,92 @@
+[
+    {
+        "app":  "SolveMotion",
+        "type":  "apk",
+        "status":  "published",
+        "file":  "downloads/solvemotion/SolveMotion-latest.apk",
+        "sizeMb":  93.92,
+        "source":  "C:\\src\\dist\\SolveMotion.apk",
+        "updatedUtc":  "2026-04-29T12:30:39Z"
+    },
+    {
+        "app":  "SolveMotion",
+        "type":  "ipa",
+        "status":  "published",
+        "file":  "downloads/solvemotion/SolveMotion-latest.ipa",
+        "sizeMb":  46.76,
+        "source":  "C:\\Users\\Owner\\OneDrive\\src\\dist\\SolveMotion-latest.ipa",
+        "updatedUtc":  "2026-04-29T12:30:39Z"
+    },
+    {
+        "app":  "SolveMind",
+        "type":  "apk",
+        "status":  "published",
+        "file":  "downloads/solvemind/SolveMind-latest.apk",
+        "sizeMb":  57.88,
+        "source":  "C:\\src\\dist\\SolveMind.apk",
+        "updatedUtc":  "2026-04-29T12:30:39Z"
+    },
+    {
+        "app":  "SolveMind",
+        "type":  "ipa",
+        "status":  "published",
+        "file":  "downloads/solvemind/SolveMind-latest.ipa",
+        "sizeMb":  36.97,
+        "source":  "C:\\Users\\Owner\\OneDrive\\src\\dist\\SolveMind-latest.ipa",
+        "updatedUtc":  "2026-04-29T12:30:39Z"
+    },
+    {
+        "app":  "SolvePharmacy",
+        "type":  "apk",
+        "status":  "skipped_oversized",
+        "file":  null,
+        "sizeMb":  149.05,
+        "source":  "C:\\src\\dist\\SolvePharmacy.apk",
+        "updatedUtc":  "2026-04-29T12:30:39Z"
+    },
+    {
+        "app":  "SolvePharmacy",
+        "type":  "ipa",
+        "status":  "published",
+        "file":  "downloads/solvepharmacy/SolvePharmacy-latest.ipa",
+        "sizeMb":  40.84,
+        "source":  "C:\\Users\\Owner\\OneDrive\\src\\dist\\SolvePharmacy-latest.ipa",
+        "updatedUtc":  "2026-04-29T12:30:39Z"
+    },
+    {
+        "app":  "SolveCrime",
+        "type":  "apk",
+        "status":  "published",
+        "file":  "downloads/solvecrime/SolveCrime-latest.apk",
+        "sizeMb":  60.34,
+        "source":  "C:\\src\\dist\\SolveCrime.apk",
+        "updatedUtc":  "2026-04-29T12:30:39Z"
+    },
+    {
+        "app":  "SolveCrime",
+        "type":  "ipa",
+        "status":  "published",
+        "file":  "downloads/solvecrime/SolveCrime-latest.ipa",
+        "sizeMb":  43.06,
+        "source":  "C:\\Users\\Owner\\OneDrive\\src\\dist\\SolveCrime-latest.ipa",
+        "updatedUtc":  "2026-04-29T12:30:39Z"
+    },
+    {
+        "app":  "SolveOura",
+        "type":  "apk",
+        "status":  "published",
+        "file":  "downloads/solveoura/SolveOura-latest.apk",
+        "sizeMb":  51.13,
+        "source":  "C:\\src\\dist\\SolveOura.apk",
+        "updatedUtc":  "2026-04-29T12:30:39Z"
+    },
+    {
+        "app":  "SolveOura",
+        "type":  "ipa",
+        "status":  "published",
+        "file":  "downloads/solveoura/SolveOura-latest.ipa",
+        "sizeMb":  30.27,
+        "source":  "C:\\Users\\Owner\\OneDrive\\src\\dist\\SolveOura-latest.ipa",
+        "updatedUtc":  "2026-04-29T12:30:41Z"
+    }
+]

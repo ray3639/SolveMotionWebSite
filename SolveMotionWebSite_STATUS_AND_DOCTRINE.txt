@@ -61,3 +61,11 @@ NEXT RECOMMENDED WORK
 3. Verify SolvePharmacy APK can be published.
 4. Restore SolvePharmacy APK link only after the manifest status changes from skipped_oversized to published.
 5. Continue website content polish only with ASCII-safe edits.
+ONE PRODUCTION SCRIPT RULE
+- The only active website production script is C:\src\PushWebDownloads.ps1.
+- DeployWebsite.ps1 was removed as a legacy duplicate.
+- Publish-Website.ps1 was removed as a legacy duplicate.
+- Sync-WebsiteDownloads.ps1 was removed as a wrapper duplicate.
+- Use this command for production website publishing:
+  Set-Location C:\src
+  .\PushWebDownloads.ps1

@@ -1,4 +1,4 @@
-﻿User-agent: *
+User-agent: *
 Allow: /
 
 Sitemap: https://ray3639.github.io/SolveMotionWebSite/sitemap.xml

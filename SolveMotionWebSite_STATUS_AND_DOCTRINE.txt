@@ -1,0 +1,63 @@
+SOLVEMOTION WEBSITE STATUS AND DOCTRINE
+
+Last Updated: 20260429-080200
+Current Production Commit: 30f73262eebfb3b0e1fe7d0d490369f5f22872da
+Current Baseline: C:\src\_BASELINES\SolveMotionWebSite-PRODUCTION-WEB-DOWNLOADS-ASCII-GREEN-20260429-080200
+
+STATUS
+- Production website deploy is GREEN.
+- Local main and origin/main are synchronized.
+- Website text files are ASCII-only.
+- SolveIt references and tracked SolveIt image assets have been removed.
+- SolveIt is replaced by SolveCrime for production download handling.
+- SolveCrime download paths use lowercase folder path downloads/solvecrime.
+- SolveCrime APK and IPA are published in the production downloads manifest.
+- SolvePharmacy APK is not published because the current APK is 149.05 MB and exceeds the GitHub production file limit.
+- SolvePharmacy IPA remains published.
+- Published manifest files were verified locally.
+- GitHub Pages production push completed successfully.
+
+DOWNLOAD MANIFEST STATUS
+- SolveMotion APK: published
+- SolveMotion IPA: published
+- SolveMind APK: published
+- SolveMind IPA: published
+- SolvePharmacy APK: skipped_oversized
+- SolvePharmacy IPA: published
+- SolveCrime APK: published
+- SolveCrime IPA: published
+- SolveOura APK: published
+- SolveOura IPA: published
+
+CURRENT KNOWN LIMITATION
+- SolvePharmacy APK must be reduced below the GitHub production download limit before it can be linked and published through the website.
+- Until then, all website pages must not link to SolvePharmacy-latest.apk.
+
+WEBSITE PRODUCTION RULES
+- PowerShell 5.1 only for file operations and production changes.
+- Inspect first before edits.
+- No assumptions.
+- No duplicate logic.
+- Use absolute paths.
+- Keep website text files ASCII-only.
+- Do not use smart quotes, em dashes, bullets, arrows, copyright symbols, emoji, or other non-ASCII symbols in source files.
+- Use ASCII replacements only:
+  - Dash: -
+  - Arrow: ->
+  - Bullet: -
+  - Copyright: (c)
+  - Smart quotes: plain quotes
+- Do not commit APK or IPA files over the GitHub hard limit.
+- Keep SolveCrime folder paths lowercase as downloads/solvecrime.
+- Do not reintroduce SolveIt files, links, folders, or assets.
+- Keep production deploy scripts deterministic.
+- Create central baselines under C:\src\_BASELINES only.
+- Do not create project-local backup folders.
+- Do not use /MIR for baseline creation.
+
+NEXT RECOMMENDED WORK
+1. Reduce SolvePharmacy APK size below the GitHub production limit.
+2. Re-run PushWebDownloads.ps1 after a smaller SolvePharmacy APK exists.
+3. Verify SolvePharmacy APK can be published.
+4. Restore SolvePharmacy APK link only after the manifest status changes from skipped_oversized to published.
+5. Continue website content polish only with ASCII-safe edits.

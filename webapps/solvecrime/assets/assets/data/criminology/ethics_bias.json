@@ -1,0 +1,58 @@
+{
+  "title": "Ethics, Bias, and Quality Controls",
+  "core_rules": [
+    {
+      "id": "neutral_language",
+      "title": "Neutral Language",
+      "requirements": [
+        "Separate observation from interpretation",
+        "Avoid loaded terms when facts are unclear",
+        "Document uncertainty explicitly"
+      ]
+    },
+    {
+      "id": "bias_controls",
+      "title": "Bias Controls",
+      "requirements": [
+        "Avoid profiling by protected traits",
+        "Use behavior and evidence, not stereotypes",
+        "Actively seek disconfirming evidence"
+      ],
+      "audit_prompts": [
+        "What evidence would prove this hypothesis wrong?",
+        "Have alternatives been documented fairly?",
+        "Are conclusions stronger than the data supports?"
+      ]
+    },
+    {
+      "id": "tunnel_vision",
+      "title": "Tunnel Vision Avoidance",
+      "requirements": [
+        "Maintain multiple working hypotheses",
+        "Use structured checklists",
+        "Peer review critical steps"
+      ]
+    },
+    {
+      "id": "documentation",
+      "title": "Documentation as QA",
+      "requirements": [
+        "Timestamped notes",
+        "Consistent evidence IDs",
+        "Cross-link photos, logs, statements"
+      ]
+    }
+  ],
+  "practice_exercises": [
+    {
+      "id": "exercise_1",
+      "title": "Hypothesis Audit",
+      "steps": [
+        "Write primary hypothesis",
+        "List 2 alternative hypotheses",
+        "List evidence supporting each",
+        "List evidence that would disconfirm each"
+      ]
+    }
+  ]
+}

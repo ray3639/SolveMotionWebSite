@@ -1,0 +1,51 @@
+{
+  "title": "Legal Framework (Concepts)",
+  "notes": [
+    "Educational concepts only. Real statutes and rules vary by jurisdiction.",
+    "Use this for vocabulary, not legal advice."
+  ],
+  "concepts": [
+    {
+      "id": "actus_reus",
+      "title": "Actus Reus",
+      "definition": "The physical act component of an offense (conceptual).",
+      "common_questions": ["What conduct occurred?", "What is the causal link to harm?"]
+    },
+    {
+      "id": "mens_rea",
+      "title": "Mens Rea",
+      "definition": "The mental state element (intent/knowledge/recklessness/negligence) depending on offense.",
+      "common_questions": ["What did the person know or intend?", "What was reasonably foreseeable?"]
+    },
+    {
+      "id": "causation",
+      "title": "Causation (Conceptual)",
+      "definition": "Link between conduct and result (actual + proximate concepts).",
+      "common_questions": ["Would the harm have occurred but for the act?", "Were intervening events present?"]
+    },
+    {
+      "id": "reasonable_doubt",
+      "title": "Beyond a Reasonable Doubt (Criminal Standard)",
+      "definition": "High burden of proof used in criminal trials (conceptual).",
+      "practice_note": "Investigations should document both supporting and conflicting facts."
+    },
+    {
+      "id": "probable_cause",
+      "title": "Probable Cause (Conceptual)",
+      "definition": "Threshold concept for certain actions; varies by context and jurisdiction.",
+      "practice_note": "Keep narratives factual and avoid speculation."
+    },
+    {
+      "id": "exclusionary_rule",
+      "title": "Exclusionary Rule (Conceptual)",
+      "definition": "Evidence may be suppressed if obtained in violation of certain legal protections.",
+      "practice_note": "Preservation and documentation reduce preventable suppression risks."
+    },
+    {
+      "id": "chain_of_custody",
+      "title": "Chain of Custody",
+      "definition": "Documented evidence handling history from collection to presentation.",
+      "practice_note": "Missing links weaken admissibility and credibility."
+    }
+  ]
+}

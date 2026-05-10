@@ -1,0 +1,66 @@
+{
+  "title": "Accident Reconstruction (Education-Only)",
+  "overview": {
+    "summary": "High-level principles used to reason about collisions, timelines, and contributing factors without providing operational procedures.",
+    "learning_outcomes": [
+      "Understand basic physics concepts relevant to collisions",
+      "Identify scene factors that affect interpretation",
+      "Recognize documentation needs and uncertainty"
+    ]
+  },
+  "core_principles": [
+    {
+      "id": "momentum",
+      "title": "Conservation of Momentum (Conceptual)",
+      "description": "In a closed system, total momentum is conserved; used conceptually to reason about pre/post-impact motion.",
+      "common_inputs": ["Vehicle mass (approx)", "Post-impact directions", "Rest positions"],
+      "limits": ["Real scenes include energy losses and external forces; calculations must state assumptions."]
+    },
+    {
+      "id": "energy",
+      "title": "Energy Transfer (Conceptual)",
+      "description": "Kinetic energy can convert to deformation, heat, sound, and motion; damage patterns relate to energy dissipation.",
+      "common_inputs": ["Deformation zones", "Relative overlap", "Secondary impacts"],
+      "limits": ["Damage is not a simple speedometer; material differences matter."]
+    },
+    {
+      "id": "friction",
+      "title": "Friction & Braking (Conceptual)",
+      "description": "Surface friction and braking influence stopping distance; context must include road condition.",
+      "scene_factors": ["Wet/ice", "Debris", "Grade/slope", "Tire condition (context)"],
+      "limits": ["Friction varies widely; do not overclaim precision."]
+    },
+    {
+      "id": "human_factors",
+      "title": "Human Factors (Conceptual)",
+      "description": "Perception-reaction time, attention, and visibility can influence event sequence.",
+      "common_questions": ["What was visible and when?", "Were there distractions?", "Lighting and weather conditions?"],
+      "limits": ["Avoid speculative claims without evidence."]
+    }
+  ],
+  "scene_documentation": {
+    "must_capture": [
+      "Time and lighting condition",
+      "Weather and road surface condition",
+      "Final rest positions (relative descriptions)",
+      "Visible damage profiles (photos + notes)",
+      "Witness accounts with timestamps"
+    ],
+    "common_failure_modes": [
+      "Missing orientation references",
+      "No baseline measurements or fixed reference points (conceptual)",
+      "Late photos after items moved"
+    ]
+  },
+  "education_case_prompts": [
+    {
+      "id": "prompt_1",
+      "title": "Two-vehicle intersection collision (fictional)",
+      "questions": [
+        "What are the competing hypotheses?",
+        "What documentation would reduce uncertainty most?",
+        "What timeline anchors could be corroborated?"
+      ]
+    }
+  ]
+}

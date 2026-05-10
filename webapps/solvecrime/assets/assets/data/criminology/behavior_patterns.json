@@ -1,0 +1,113 @@
+{
+  "title": "Behavioral Patterns & Risk Factors (Non-diagnostic, Educational)",
+  "notes": [
+    "Patterns are not proof. Use them to generate questions, not conclusions.",
+    "Avoid profiling based on protected traits. Focus on behavior, context, and evidence."
+  ],
+  "patterns": [
+    {
+      "id": "escalation",
+      "title": "Escalation Pattern",
+      "definition": "Behavior increases in severity or frequency over time.",
+      "observables": [
+        "Shorter intervals between incidents",
+        "Greater harm or intimidation",
+        "Broadening target selection"
+      ],
+      "investigative_questions": [
+        "What changed immediately before escalation?",
+        "Are there opportunity shifts (routine changes, access changes)?",
+        "Are multiple incidents actually linked or coincidental?"
+      ],
+      "cautions": ["Escalation can be interrupted by external events; absence does not disprove linkage."]
+    },
+    {
+      "id": "signature_vs_mo",
+      "title": "Signature vs Modus Operandi (Conceptual)",
+      "definition": "MO is functional; signature is psychologically expressive (conceptual).",
+      "observables": [
+        "Repeated functional steps (MO) may change with learning",
+        "Expressive elements may be more stable (but not guaranteed)"
+      ],
+      "cautions": ["Do not over-interpret. Require corroboration across multiple domains."]
+    },
+    {
+      "id": "organized_disorganized",
+      "title": "Organized vs Disorganized Behavior (Simplified)",
+      "organized_traits": [
+        "Planning indicators",
+        "Controlled approach",
+        "Reduced trace evidence (context-dependent)"
+      ],
+      "disorganized_traits": [
+        "Impulsivity indicators",
+        "Chaotic environment",
+        "Inconsistent steps"
+      ],
+      "cautions": [
+        "Real cases are mixed; avoid binary labels.",
+        "Scene messiness can reflect environment, not intent."
+      ]
+    },
+    {
+      "id": "repeat_location",
+      "title": "Repeat Location / Hotspot Pattern",
+      "definition": "Incidents cluster in space/time due to opportunity structures.",
+      "observables": [
+        "Same block/route segments repeatedly",
+        "Similar time windows (end of month, weekends, late night)"
+      ],
+      "prevention_lens": [
+        "Guardianship and lighting improvements",
+        "Natural surveillance and access control"
+      ]
+    },
+    {
+      "id": "victim_selection",
+      "title": "Victim Selection Factors (Non-blaming)",
+      "definition": "Selection may reflect access, exposure, or offender familiarity.",
+      "observables": [
+        "Known relationships or prior contact",
+        "Routine overlap",
+        "Environmental access paths"
+      ],
+      "cautions": [
+        "Never attribute responsibility to victims.",
+        "Focus on protective measures and support."
+      ]
+    }
+  ],
+  "risk_domains": [
+    {
+      "id": "individual",
+      "title": "Individual-Level Factors (Contextual)",
+      "examples": [
+        "Impulsivity under stress",
+        "Substance involvement risk context",
+        "Prior exposure to violence"
+      ],
+      "guardrails": [
+        "No deterministic claims",
+        "Use only with strong evidence and fairness checks"
+      ]
+    },
+    {
+      "id": "situational",
+      "title": "Situational/Environmental Factors",
+      "examples": [
+        "Low guardianship",
+        "High-value targets",
+        "Routine convergence points"
+      ]
+    },
+    {
+      "id": "social",
+      "title": "Social/Network Factors",
+      "examples": [
+        "Peer reinforcement",
+        "Group normalization of harmful behavior",
+        "Network opportunities"
+      ]
+    }
+  ]
+}

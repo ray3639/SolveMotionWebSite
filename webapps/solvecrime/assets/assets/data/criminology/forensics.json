@@ -1,0 +1,61 @@
+{
+  "title": "Forensic Disciplines (Overview)",
+  "notes": [
+    "This module is an educational overview. Methods and admissibility standards vary.",
+    "All forensic conclusions require clear limits, error rates where known, and documented methodology."
+  ],
+  "disciplines": [
+    {
+      "id": "fingerprints",
+      "title": "Fingerprint Examination",
+      "scope": "Comparison of ridge detail patterns to assess correspondence.",
+      "typical_outputs": ["Exclusion", "Inconclusive", "Association/identification (standards vary)"],
+      "quality_controls": [
+        "Independent verification where policy requires",
+        "Document clarity/quality limits"
+      ]
+    },
+    {
+      "id": "dna",
+      "title": "DNA Analysis",
+      "scope": "Biological sample profiling to assess contributor likelihoods.",
+      "typical_outputs": ["Profile match statistics (contextual)", "Mixture interpretation (advanced)"],
+      "quality_controls": [
+        "Contamination prevention",
+        "Clear interpretation language (avoid absolute claims without basis)"
+      ]
+    },
+    {
+      "id": "toxicology",
+      "title": "Toxicology (Conceptual)",
+      "scope": "Detect substances in biological samples for context in impairment or exposure questions.",
+      "notes": ["Education-only; no dosing or medical interpretation provided here."],
+      "quality_controls": ["Chain-of-custody, validated lab methods"]
+    },
+    {
+      "id": "ballistics",
+      "title": "Firearms / Toolmarks (Conceptual)",
+      "scope": "Comparison of marks and trajectories at a high level.",
+      "notes": ["Avoid operational details; focus on documentation and limits."],
+      "quality_controls": ["Method transparency, examiner documentation"]
+    },
+    {
+      "id": "digital_forensics",
+      "title": "Digital Forensics (Conceptual)",
+      "scope": "Preserve and analyze digital artifacts with integrity controls.",
+      "quality_controls": ["Reproducibility, audit logging, preservation of originals"]
+    },
+    {
+      "id": "trace",
+      "title": "Trace Evidence (Conceptual)",
+      "scope": "Small material transfers (fibers, glass, paint) to assess contact hypotheses.",
+      "quality_controls": ["Contamination control, contextual interpretation"]
+    },
+    {
+      "id": "forensic_photography",
+      "title": "Forensic Photography (Conceptual)",
+      "scope": "Neutral documentation of scenes and items.",
+      "quality_controls": ["Scale references, orientation, metadata preservation"]
+    }
+  ]
+}

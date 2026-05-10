@@ -1,0 +1,73 @@
+{
+  "title": "Evidence & Reliability",
+  "principles": [
+    {
+      "id": "chain_of_custody",
+      "title": "Chain of Custody",
+      "definition": "A documented history of evidence handling from collection to courtroom presentation.",
+      "why_it_matters": [
+        "Integrity: prevents tampering allegations",
+        "Authenticity: proves the item is what it is claimed to be",
+        "Continuity: shows no unexplained gaps"
+      ],
+      "required_fields": [
+        "Unique evidence ID",
+        "Collector name/ID",
+        "Date/time collected",
+        "Exact location/source",
+        "Packaging and seal description",
+        "Transfers: from/to + times"
+      ],
+      "failure_modes": [
+        "Unsealed packaging",
+        "Unlogged transfers",
+        "Ambiguous labeling or location notes",
+        "Commingling items"
+      ]
+    },
+    {
+      "id": "reliability",
+      "title": "Reliability & Weight (Conceptual)",
+      "themes": [
+        "Not all evidence is equal; weight depends on source, context, and corroboration",
+        "Prefer converging independent sources",
+        "Document uncertainty explicitly"
+      ],
+      "common_categories": [
+        { "type": "Physical", "examples": ["Trace materials", "Impressions", "Digital media"], "strength": "Often stable if preserved" },
+        { "type": "Testimonial", "examples": ["Witness accounts", "Statements"], "strength": "Context-dependent; can be influenced by memory and stress" },
+        { "type": "Documentary", "examples": ["Records, logs"], "strength": "Strong when provenance is clear" }
+      ],
+      "quality_checks": [
+        "Corroboration count: how many independent sources support the same point?",
+        "Timeline consistency: do timestamps align?",
+        "Alternative explanations: what else could produce the same observation?"
+      ]
+    },
+    {
+      "id": "digital_evidence",
+      "title": "Digital Evidence (High-Level)",
+      "themes": [
+        "Preservation is often time-sensitive",
+        "Metadata is evidence; do not overwrite originals",
+        "Keep logs of access and analysis steps"
+      ],
+      "common_items": [
+        "Device images (forensic copies)",
+        "Server logs",
+        "Location records (if legally obtained)",
+        "Communications records (if legally obtained)"
+      ],
+      "integrity_controls": [
+        "Hashing (conceptual)",
+        "Access controls and audit logs",
+        "Write-blocking when imaging media (conceptual)"
+      ]
+    }
+  ],
+  "practice_prompts": [
+    "What would a defense attorney challenge first in this evidence chain?",
+    "Which piece of evidence is most independent (least contaminated by other steps)?",
+    "Where does uncertainty remain and how is it documented?"
+  ]
+}

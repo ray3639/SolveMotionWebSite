@@ -1,0 +1,122 @@
+{
+  "title": "Crime Types & Categories",
+  "notes": [
+    "This taxonomy is educational. Legal definitions vary by jurisdiction.",
+    "Avoid operational 'how-to' details; focus on recognition, prevention, and investigative framing."
+  ],
+  "categories": [
+    {
+      "id": "violent",
+      "title": "Violent Crime",
+      "examples": ["Homicide", "Aggravated assault", "Robbery", "Domestic violence", "Sexual assault"],
+      "common_context_factors": [
+        "Interpersonal conflict and escalation",
+        "Substance involvement",
+        "Prior exposure to violence",
+        "Access to weapons (contextual risk, not determinism)"
+      ],
+      "investigative_focus": [
+        "Victim/offender relationship mapping",
+        "Timeline and witness reconciliation",
+        "Scene-to-hospital linkage (if applicable)",
+        "Threat assessment signals"
+      ],
+      "prevention_lens": [
+        "De-escalation resources",
+        "Protective orders support, safe reporting channels",
+        "Community violence interruption models"
+      ]
+    },
+    {
+      "id": "property",
+      "title": "Property Crime",
+      "examples": ["Burglary", "Theft", "Motor vehicle theft", "Arson (legal definitions vary)"],
+      "common_context_factors": [
+        "Opportunity and low guardianship",
+        "Economic stress",
+        "Repeat patterning in place/time"
+      ],
+      "investigative_focus": [
+        "Entry/exit indicators (high-level recognition)",
+        "Stolen property recovery pathways",
+        "Pattern linking across incidents"
+      ],
+      "prevention_lens": [
+        "Environmental design and guardianship",
+        "Security hygiene and asset tracking"
+      ]
+    },
+    {
+      "id": "white_collar",
+      "title": "White Collar / Financial",
+      "examples": ["Fraud", "Embezzlement", "Identity misuse", "Market manipulation"],
+      "common_context_factors": [
+        "Access to systems and weak controls",
+        "Pressure, opportunity, rationalization (fraud triangle)",
+        "Organizational culture signals"
+      ],
+      "investigative_focus": [
+        "Audit trails and control breakdown mapping",
+        "Anomaly detection framing",
+        "Privilege/access review"
+      ],
+      "prevention_lens": [
+        "Segregation of duties",
+        "Logging, monitoring, and reconciliations",
+        "Ethics and reporting protections"
+      ]
+    },
+    {
+      "id": "organized",
+      "title": "Organized / Networked Crime",
+      "examples": ["Trafficking networks (non-procedural)", "Illicit markets (high-level)", "Racketeering concepts"],
+      "common_context_factors": [
+        "Network resilience and compartmentalization",
+        "Corruption risk and coercion",
+        "Territorial and market competition"
+      ],
+      "investigative_focus": [
+        "Network mapping (relationships, roles, communications)",
+        "Financial flows and asset tracing",
+        "Interagency coordination concepts"
+      ],
+      "prevention_lens": [
+        "Disruption of enabling infrastructure",
+        "Community trust and reporting"
+      ]
+    },
+    {
+      "id": "cyber",
+      "title": "Cyber-Enabled Crime (Conceptual)",
+      "examples": ["Account takeover", "Phishing (awareness)", "Data breaches (high-level)"],
+      "common_context_factors": [
+        "Human factors and social engineering",
+        "Credential reuse and weak MFA",
+        "Supply chain exposures"
+      ],
+      "investigative_focus": [
+        "Attribution cautions",
+        "Log preservation and chain of custody",
+        "Incident timeline reconstruction"
+      ],
+      "prevention_lens": [
+        "Security awareness",
+        "MFA, least privilege",
+        "Monitoring and response playbooks"
+      ]
+    },
+    {
+      "id": "public_order",
+      "title": "Public Order / Regulatory",
+      "examples": ["Disorderly conduct concepts", "Nuisance violations", "Regulatory noncompliance"],
+      "common_context_factors": [
+        "Context-specific enforcement priorities",
+        "Community standards and discretion"
+      ],
+      "investigative_focus": [
+        "Documentation quality",
+        "Proportional response framing"
+      ]
+    }
+  ]
+}

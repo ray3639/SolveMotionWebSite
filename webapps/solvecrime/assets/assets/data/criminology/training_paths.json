@@ -1,0 +1,74 @@
+{
+  "title": "Training Paths & Skill Progressions",
+  "paths": [
+    {
+      "id": "path_foundations",
+      "title": "Foundations Track",
+      "description": "Build a strong base in theory, evidence integrity, and bias controls.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Core Concepts",
+          "targets": ["foundations.classical", "foundations.strain", "evidence.chain_of_custody", "ethics_bias.neutral_language"],
+          "checkpoint": "Explain theory differences and describe chain-of-custody fields."
+        },
+        {
+          "level": 2,
+          "title": "Applied Reasoning",
+          "targets": ["crime_types.violent", "crime_types.property", "ethics_bias.tunnel_vision", "interviews.memory_limits"],
+          "checkpoint": "Write a neutral hypothesis set with at least 2 alternatives."
+        },
+        {
+          "level": 3,
+          "title": "Quality & Review",
+          "targets": ["evidence.reliability", "ethics_bias.bias_controls", "case_studies.CS_PROP_002"],
+          "checkpoint": "Complete a hypothesis audit with corroboration mapping."
+        }
+      ]
+    },
+    {
+      "id": "path_accident",
+      "title": "Accident Reconstruction Track",
+      "description": "Learn scene documentation needs and conceptual physics signals.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Scene Literacy",
+          "targets": ["crime_scene.scene_overview", "crime_scene.midrange", "accident_reconstruction.scene_documentation"],
+          "checkpoint": "List must-capture fields and common failure modes."
+        },
+        {
+          "level": 2,
+          "title": "Conceptual Mechanics",
+          "targets": ["accident_reconstruction.momentum", "accident_reconstruction.energy", "accident_reconstruction.friction"],
+          "checkpoint": "Explain limitations and why precision claims can fail."
+        },
+        {
+          "level": 3,
+          "title": "Practice Case",
+          "targets": ["case_studies.CS_AR_001"],
+          "checkpoint": "Build a timeline with uncertainty markers and top 5 missing facts."
+        }
+      ]
+    },
+    {
+      "id": "path_financial",
+      "title": "Financial / White Collar Track",
+      "description": "Control breakdown mapping and documentation standards.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Control Concepts",
+          "targets": ["crime_types.white_collar", "evidence.digital_evidence", "ethics_bias.documentation"],
+          "checkpoint": "Explain the fraud triangle and basic integrity controls."
+        },
+        {
+          "level": 2,
+          "title": "Case Practice",
+          "targets": ["case_studies.CS_FIN_003"],
+          "checkpoint": "Produce a neutral fact set + remediation list."
+        }
+      ]
+    }
+  ]
+}

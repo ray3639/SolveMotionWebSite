@@ -1,0 +1,158 @@
+{
+  "title": "Foundations of Criminology",
+  "overview": {
+    "summary": "Criminology studies crime, offenders, victims, and societal responses. This module summarizes foundational theories and modern perspectives.",
+    "learning_outcomes": [
+      "Explain major criminological theories and what they attempt to predict/explain",
+      "Distinguish micro-level (individual) vs macro-level (societal) explanations",
+      "Identify common misuse risks: overgeneralization, confirmation bias, and false causality"
+    ]
+  },
+  "sections": [
+    {
+      "id": "classical",
+      "title": "Classical School",
+      "one_liner": "Crime as rational choice; deterrence through certainty/swiftness/proportionality.",
+      "core_ideas": [
+        "Individuals have agency; decisions respond to incentives",
+        "Deterrence emphasizes certainty of consequence over severity",
+        "Proportionality: punishment should match harm/culpability"
+      ],
+      "key_figures": [
+        { "name": "Cesare Beccaria", "contrib": "Proportional punishment, legality, due process ideals" },
+        { "name": "Jeremy Bentham", "contrib": "Utilitarian calculus; prevention vs retribution" }
+      ],
+      "common_misreadings": [
+        "Assuming all offenders weigh costs rationally in the same way",
+        "Ignoring situational constraints and impulsivity"
+      ],
+      "where_it_helps": [
+        "Policy: improving certainty of detection, reducing opportunity",
+        "Situational prevention: lighting, guardianship, design choices"
+      ]
+    },
+    {
+      "id": "positivist",
+      "title": "Positivist / Early Scientific Criminology",
+      "one_liner": "Crime as influenced by measurable individual and environmental factors.",
+      "core_ideas": [
+        "Empirical observation and pattern-finding",
+        "Multiple interacting factors: biological, psychological, social",
+        "Risk-factor frameworks (not destiny): probabilities, not certainties"
+      ],
+      "notes": [
+        "Modern criminology rejects deterministic and discriminatory historical claims; focuses on ethical, validated research and contextual factors."
+      ],
+      "where_it_helps": [
+        "Risk assessment frameworks (with strict fairness checks)",
+        "Public health style prevention approaches"
+      ]
+    },
+    {
+      "id": "strain",
+      "title": "Strain / Anomie",
+      "one_liner": "Crime can emerge when goals are blocked and pressure increases.",
+      "core_ideas": [
+        "Discrepancy between cultural goals and legitimate means",
+        "Adaptive responses: innovation, retreatism, rebellion, ritualism",
+        "Stressors may be economic, relational, institutional"
+      ],
+      "key_figures": [
+        { "name": "Robert Merton", "contrib": "Anomie and adaptation categories" }
+      ],
+      "analysis_prompts": [
+        "What blocked goal is present?",
+        "Which social supports are missing?",
+        "What alternative lawful pathways exist?"
+      ]
+    },
+    {
+      "id": "social_learning",
+      "title": "Social Learning / Differential Association",
+      "one_liner": "Behavior is learned through peers, reinforcement, and modeling.",
+      "core_ideas": [
+        "Definitions favorable/unfavorable to law are learned",
+        "Reinforcement strengthens behaviors",
+        "Networks shape opportunity and norms"
+      ],
+      "key_figures": [
+        { "name": "Edwin Sutherland", "contrib": "Differential association; white-collar focus" }
+      ],
+      "signals_to_watch": [
+        "Peer cluster shifts",
+        "Normalization of harmful behavior",
+        "Reward structures in groups"
+      ]
+    },
+    {
+      "id": "control",
+      "title": "Control Theories",
+      "one_liner": "Most people avoid crime due to bonds and stakes in conformity.",
+      "core_ideas": [
+        "Attachment, commitment, involvement, belief",
+        "Self-control: impulsivity can elevate risk in certain contexts",
+        "Prevention via strengthening bonds and structured opportunities"
+      ],
+      "analysis_prompts": [
+        "Which bonds are weak?",
+        "What prosocial commitments exist?",
+        "What stable routines reduce risk exposure?"
+      ]
+    },
+    {
+      "id": "routine_activity",
+      "title": "Routine Activity / Opportunity",
+      "one_liner": "Crime requires convergence of motivated offender, suitable target, and lack of guardianship.",
+      "core_ideas": [
+        "Opportunity structures matter",
+        "Environmental design can reduce risk",
+        "Temporal/spatial patterns are critical"
+      ],
+      "where_it_helps": [
+        "Hotspot analysis",
+        "Target hardening and guardianship improvements"
+      ]
+    },
+    {
+      "id": "labeling",
+      "title": "Labeling / Social Reaction",
+      "one_liner": "Societal responses and stigma can shape future behavior.",
+      "core_ideas": [
+        "Secondary deviance: identity effects",
+        "Discretion and inequality in processing",
+        "Policy focus: reintegration, reduce harmful stigma"
+      ],
+      "quality_checks": [
+        "Avoid assuming 'label' explains initial behavior; it explains pathways after system contact."
+      ]
+    },
+    {
+      "id": "critical",
+      "title": "Critical / Conflict Perspectives",
+      "one_liner": "Power, inequality, and enforcement priorities shape crime definitions and outcomes.",
+      "core_ideas": [
+        "Law can reflect power structures",
+        "Enforcement is selective; outcomes vary by resources",
+        "Macro-level analysis of institutions and incentives"
+      ],
+      "analysis_prompts": [
+        "What incentives exist for enforcement focus?",
+        "How do resources and access affect outcomes?"
+      ]
+    },
+    {
+      "id": "victimology",
+      "title": "Victimology (Basics)",
+      "one_liner": "Victimization patterns and prevention without blame.",
+      "core_ideas": [
+        "Risk is shaped by exposure, context, and guardianship",
+        "Trauma-informed approaches are essential",
+        "Never imply victim responsibility"
+      ],
+      "practice_rules": [
+        "Use neutral language: 'risk factors' not 'fault'",
+        "Prioritize safety, dignity, and support"
+      ]
+    }
+  ]
+}

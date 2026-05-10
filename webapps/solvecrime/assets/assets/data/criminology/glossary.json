@@ -1,0 +1,19 @@
+{
+  "title": "Criminology Glossary",
+  "terms": [
+    { "term": "Anomie", "definition": "A state of normlessness or breakdown of social norms associated with strain and disconnection." },
+    { "term": "Actus Reus", "definition": "The physical act component of an offense (conceptual)." },
+    { "term": "Mens Rea", "definition": "The mental state element (intent/knowledge/recklessness/negligence) depending on offense." },
+    { "term": "Deterrence", "definition": "Prevention via perceived certainty, swiftness, and proportionality of consequence." },
+    { "term": "Routine Activity", "definition": "Crime as convergence of motivated offender, suitable target, and absent guardian." },
+    { "term": "Differential Association", "definition": "Theory that crime is learned through social interactions and definitions favorable to law violation." },
+    { "term": "Chain of Custody", "definition": "Documented history of evidence handling." },
+    { "term": "Corroboration", "definition": "Independent support for a claim from separate sources." },
+    { "term": "Tunnel Vision", "definition": "Over-commitment to one hypothesis while ignoring alternatives." },
+    { "term": "Victimology", "definition": "Study of victimization patterns and impacts, emphasizing prevention without blame." },
+    { "term": "Fraud Triangle", "definition": "Pressure, opportunity, rationalization as common conditions in fraud contexts." },
+    { "term": "Hotspot", "definition": "Area with concentrated incidents due to opportunity and routine patterns." },
+    { "term": "MO (Modus Operandi)", "definition": "Functional method used to accomplish an act; may evolve over time." },
+    { "term": "Signature (Conceptual)", "definition": "Expressive elements beyond function (use cautiously; requires corroboration)." }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Criminal Justice Process (High-Level)",
+  "stages": [
+    {
+      "id": "reporting",
+      "title": "Reporting & Intake",
+      "purpose": "Receive information, triage risk, preserve immediate safety.",
+      "key_outputs": ["Initial report", "Triage priority", "First-contact notes"],
+      "quality_controls": [
+        "Record time, source, and exact phrasing where possible",
+        "Separate observation from interpretation",
+        "Preserve neutrality and avoid assumptions"
+      ]
+    },
+    {
+      "id": "response",
+      "title": "Initial Response",
+      "purpose": "Stabilize scene, ensure safety, begin documentation.",
+      "key_outputs": ["Scene secured", "Initial observations", "Witness separation (where appropriate)"],
+      "quality_controls": [
+        "Start a simple timeline immediately",
+        "Minimize contamination by limiting access",
+        "Document changes and actions taken"
+      ]
+    },
+    {
+      "id": "investigation",
+      "title": "Investigation",
+      "purpose": "Collect facts, evidence, statements, and reconcile contradictions.",
+      "key_outputs": ["Evidence log", "Statements", "Working hypotheses"],
+      "quality_controls": [
+        "Hypothesis testing: actively seek disconfirming evidence",
+        "Avoid tunnel vision; maintain alternative explanations",
+        "Maintain chain-of-custody rigor"
+      ]
+    },
+    {
+      "id": "charging",
+      "title": "Charging Decision (Conceptual)",
+      "purpose": "Assess whether facts support charges under relevant law.",
+      "key_outputs": ["Case file", "Probable cause narrative (where applicable)"],
+      "quality_controls": [
+        "Distinguish facts from inferences",
+        "Check completeness: missing witnesses, missing logs, missing dates"
+      ]
+    },
+    {
+      "id": "adjudication",
+      "title": "Adjudication (Conceptual)",
+      "purpose": "Court process: motions, trial, plea negotiations, judgments.",
+      "key_outputs": ["Court outcomes", "Discovery handling"],
+      "quality_controls": [
+        "Evidence integrity and disclosure compliance",
+        "Documentation of all material changes"
+      ]
+    },
+    {
+      "id": "corrections",
+      "title": "Corrections & Reentry (Conceptual)",
+      "purpose": "Sanctions, supervision, rehabilitation, and reintegration support.",
+      "quality_controls": [
+        "Risk/needs assessments used cautiously and audited for bias",
+        "Reentry supports reduce recidivism"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Interviews & Statements (Ethical, High-Level)",
+  "principles": [
+    {
+      "id": "memory_limits",
+      "title": "Memory and Recall Limits",
+      "points": [
+        "Stress can narrow attention and distort time perception",
+        "Memory is reconstructive; confidence is not accuracy",
+        "Leading questions can contaminate recall"
+      ]
+    },
+    {
+      "id": "cognitive_interview",
+      "title": "Cognitive Interview (Conceptual)",
+      "purpose": "Improve recall without suggestion by altering retrieval cues.",
+      "components": [
+        "Context reinstatement",
+        "Open narrative before questions",
+        "Multiple retrieval routes (time, perspective) without coercion"
+      ],
+      "quality_controls": [
+        "Use open-ended prompts first",
+        "Avoid introducing new facts in questions",
+        "Document exact phrasing"
+      ]
+    },
+    {
+      "id": "statement_quality",
+      "title": "Statement Quality Checklist",
+      "checks": [
+        "Who/what/when/where: anchored facts",
+        "Source: direct observation vs hearsay",
+        "Time markers: calls, texts, receipts, logs",
+        "Consistency across retellings (expect some variance)"
+      ]
+    },
+    {
+      "id": "vulnerable_witnesses",
+      "title": "Vulnerable Witness Considerations",
+      "points": [
+        "Use trauma-informed language",
+        "Reduce repeated retellings where possible",
+        "Ensure appropriate support resources"
+      ]
+    }
+  ],
+  "practice_prompts": [
+    "Which details are direct observation vs interpretation?",
+    "What independent sources could corroborate timeline details?",
+    "Where might a leading prompt have influenced an answer?"
+  ]
+}

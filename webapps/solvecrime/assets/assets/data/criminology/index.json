@@ -1,0 +1,31 @@
+{
+  "dataset_id": "solvecrime_training_v1",
+  "title": "SolveCrime — Criminology Training Dataset",
+  "version": "1.0.0",
+  "last_updated_utc": "2026-02-27T00:00:00Z",
+  "scope": {
+    "purpose": "Education-only criminology and investigative doctrine, organized for UI training screens.",
+    "exclusions": [
+      "No instructions for wrongdoing",
+      "No procedural 'how to commit crime' content",
+      "No medical dosing or clinical advice",
+      "No identifying real persons"
+    ]
+  },
+  "modules": [
+    { "id": "foundations", "file": "foundations.json", "title": "Foundations & Theory" },
+    { "id": "crime_types", "file": "crime_types.json", "title": "Crime Types & Modus Categories" },
+    { "id": "criminal_justice_process", "file": "criminal_justice_process.json", "title": "Criminal Justice Process" },
+    { "id": "evidence", "file": "evidence.json", "title": "Evidence, Chain of Custody, and Reliability" },
+    { "id": "forensics", "file": "forensics.json", "title": "Forensic Disciplines (Overview)" },
+    { "id": "interviews", "file": "interviews.json", "title": "Interviews & Statements (Ethical)" },
+    { "id": "crime_scene", "file": "crime_scene.json", "title": "Crime Scene Documentation (High-Level)" },
+    { "id": "behavior_patterns", "file": "behavior_patterns.json", "title": "Behavioral Patterns & Risk Factors" },
+    { "id": "accident_reconstruction", "file": "accident_reconstruction.json", "title": "Accident Reconstruction (Education)" },
+    { "id": "legal_framework", "file": "legal_framework.json", "title": "Legal Framework (Concepts)" },
+    { "id": "ethics_bias", "file": "ethics_bias.json", "title": "Ethics, Bias, and Quality Controls" },
+    { "id": "case_studies", "file": "case_studies.json", "title": "Practice Case Studies (Fictional)" },
+    { "id": "glossary", "file": "glossary.json", "title": "Glossary" },
+    { "id": "training_paths", "file": "training_paths.json", "title": "Training Paths & Skill Progressions" }
+  ]
+}

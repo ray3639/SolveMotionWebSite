@@ -1,0 +1,51 @@
+{
+  "title": "Crime Scene Documentation (High-Level)",
+  "goals": [
+    "Preserve the scene",
+    "Document objectively",
+    "Maintain evidence integrity",
+    "Create a reproducible record"
+  ],
+  "documentation_layers": [
+    {
+      "id": "scene_overview",
+      "title": "Overview Documentation",
+      "includes": [
+        "Weather/lighting (if relevant)",
+        "Access points and boundaries",
+        "General layout descriptions",
+        "Initial conditions upon arrival"
+      ]
+    },
+    {
+      "id": "midrange",
+      "title": "Midrange Documentation",
+      "includes": [
+        "Item locations relative to fixed points",
+        "Room/area-by-area summaries",
+        "Condition notes (open/closed, disturbed/undisturbed)"
+      ]
+    },
+    {
+      "id": "closeup",
+      "title": "Close-Up Documentation",
+      "includes": [
+        "Item identifiers and labels",
+        "Scale references (conceptual)",
+        "Condition before packaging",
+        "Distinctive markings"
+      ]
+    }
+  ],
+  "scene_integrity_risks": [
+    "Uncontrolled access",
+    "Moving items before documentation",
+    "Commingling evidence",
+    "Poor labeling"
+  ],
+  "practice_prompts": [
+    "Can a third party reconstruct the scene from the documentation alone?",
+    "What items changed position and were those changes logged?",
+    "Is the evidence log complete and consistent with photos/notes?"
+  ]
+}

@@ -1,0 +1,693 @@
+[
+    {
+        "id":  "naplex-pass-rates",
+        "title":  "NAPLEX Pass Rates (U.S.)",
+        "summary":  "Overview of NAPLEX exam pass rates and how to interpret them when preparing for pharmacist licensure.",
+        "tags":  [
+                     "NAPLEX",
+                     "Licensure",
+                     "Exams"
+                 ],
+        "keywords":  [
+                         "naplex",
+                         "pass rate",
+                         "licensure",
+                         "exam",
+                         "pharmacy exam",
+                         "nabp",
+                         "pass",
+                         "rates",
+                         "exams",
+                         "boards",
+                         "pharmacy boards"
+                     ],
+        "priority":  1,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "mpje-pass-rates",
+        "title":  "MPJE Pass Rates \u0026 State Law Resources",
+        "summary":  "Overview of MPJE pass rates and how state-specific law impacts exam outcomes.",
+        "tags":  [
+                     "MPJE",
+                     "Law",
+                     "Licensure",
+                     "Exams"
+                 ],
+        "keywords":  [
+                         "mpje",
+                         "pass rate",
+                         "law exam",
+                         "pharmacy law",
+                         "state board",
+                         "nabp",
+                         "jurisprudence",
+                         "law exam"
+                     ],
+        "priority":  1,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "exam-strategy-guide",
+        "title":  "NAPLEX \u0026 MPJE Exam Strategy: Why People Fail (and How to Pass)",
+        "summary":  "Common failure patterns on pharmacy licensure exams and proven strategies to avoid them.",
+        "tags":  [
+                     "NAPLEX",
+                     "MPJE",
+                     "Licensure",
+                     "Study",
+                     "Strategy"
+                 ],
+        "keywords":  [
+                         "exam strategy",
+                         "naplex failure",
+                         "mpje failure",
+                         "study plan",
+                         "time management",
+                         "test anxiety"
+                     ],
+        "priority":  10,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "licensure-exam-trends",
+        "title":  "NAPLEX \u0026 MPJE Trends (Illustrative)",
+        "summary":  "Illustrative trends showing exam performance patterns over time.",
+        "tags":  [
+                     "NAPLEX",
+                     "MPJE",
+                     "Trends",
+                     "Exams",
+                     "Study"
+                 ],
+        "keywords":  [
+                         "naplex trends",
+                         "mpje trends",
+                         "first time pass",
+                         "repeat taker",
+                         "exam statistics"
+                     ],
+        "priority":  20,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "pharmacy-law-and-regulation",
+        "title":  "Pharmacy Law \u0026 Regulation",
+        "summary":  "Federal and state laws governing pharmacy practice.",
+        "tags":  null,
+        "keywords":  [
+                         "pharmacy",
+                         "law",
+                         "regulation"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "mpje-law-breakdown",
+        "title":  "MPJE Law Breakdown",
+        "summary":  "State and federal law tested on the MPJE.",
+        "tags":  [
+                     "MPJE",
+                     "Law",
+                     "Licensure"
+                 ],
+        "keywords":  [
+                         "mpje",
+                         "law",
+                         "breakdown",
+                         "licensure",
+                         "boards",
+                         "law exam"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "naplex-core-topics",
+        "title":  "NAPLEX Core Topics",
+        "summary":  "High-yield content areas tested on the NAPLEX.",
+        "tags":  [
+                     "NAPLEX",
+                     "Clinical",
+                     "Licensure"
+                 ],
+        "keywords":  [
+                         "naplex",
+                         "core",
+                         "topics",
+                         "clinical",
+                         "licensure",
+                         "boards",
+                         "pharmacy boards"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "medication-safety",
+        "title":  "Medication Safety",
+        "summary":  "Preventing errors and improving patient safety.",
+        "tags":  null,
+        "keywords":  [
+                         "medication",
+                         "safety"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "ethics-and-professional-responsibility",
+        "title":  "Ethics \u0026 Professional Responsibility",
+        "summary":  "Ethical decision-making in pharmacy practice.",
+        "tags":  null,
+        "keywords":  [
+                         "ethics",
+                         "professional",
+                         "responsibility"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "compounding-usp-795-797-800",
+        "title":  "Compounding (USP \u003c795\u003e, \u003c797\u003e, \u003c800\u003e)",
+        "summary":  "Standards for sterile and non-sterile compounding.",
+        "tags":  null,
+        "keywords":  [
+                         "compounding",
+                         "usp",
+                         "795",
+                         "797",
+                         "800"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "drug-information-and-evidence-based-practice",
+        "title":  "Drug Information \u0026 Evidence-Based Practice",
+        "summary":  "Evaluating and applying medical literature.",
+        "tags":  null,
+        "keywords":  [
+                         "drug",
+                         "information",
+                         "evidence",
+                         "based",
+                         "practice"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "cdc-immunization-schedules",
+        "title":  "CDC Immunization Schedules",
+        "summary":  "Authoritative schedules for routine and catch-up immunizations (adult + pediatric).",
+        "tags":  [
+                     "CDC",
+                     "Vaccines",
+                     "Immunization"
+                 ],
+        "keywords":  [
+                         "cdc",
+                         "immunization",
+                         "schedules",
+                         "vaccines"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "high-risk-medications",
+        "title":  "High-Risk Medications",
+        "summary":  "Medications with increased risk of harm.",
+        "tags":  null,
+        "keywords":  [
+                         "high",
+                         "risk",
+                         "medications"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "ismp-high-alert-medications-acute-care",
+        "title":  "ISMP High-Alert Medications (Acute Care)",
+        "summary":  "High-alert medication categories with highest risk of severe harm when used in error.",
+        "tags":  [
+                     "ISMP",
+                     "Safety",
+                     "High-Alert"
+                 ],
+        "keywords":  [
+                         "ismp",
+                         "high",
+                         "alert",
+                         "medications",
+                         "acute",
+                         "care",
+                         "safety",
+                         "high-alert"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "mpje-fact-sheet-official",
+        "title":  "MPJE Fact Sheet (Official)",
+        "summary":  "MPJE overview and what knowledge areas the exam targets. Use this to build your law study outline.",
+        "tags":  [
+                     "MPJE",
+                     "Law",
+                     "Licensure"
+                 ],
+        "keywords":  [
+                         "mpje",
+                         "fact",
+                         "sheet",
+                         "official",
+                         "law",
+                         "licensure",
+                         "boards",
+                         "law exam"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "naplex-competency-statements-plus-sample-questions",
+        "title":  "NAPLEX Competency Statements + Sample Questions",
+        "summary":  "Official blueprint-style competency statements and sample questions to structure NAPLEX study plans.",
+        "tags":  [
+                     "NAPLEX",
+                     "Licensure"
+                 ],
+        "keywords":  [
+                         "naplex",
+                         "competency",
+                         "statements",
+                         "sample",
+                         "questions",
+                         "licensure",
+                         "boards",
+                         "pharmacy boards"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "fda-drug-safety-communications",
+        "title":  "FDA Drug Safety Communications",
+        "summary":  "FDA safety alerts, labeling changes, and new risk findings-use for real-time clinical awareness.",
+        "tags":  [
+                     "FDA",
+                     "Safety",
+                     "Labeling"
+                 ],
+        "keywords":  [
+                         "fda",
+                         "drug",
+                         "safety",
+                         "communications",
+                         "labeling"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "core-clinical-foundations-fast-checklist",
+        "title":  "Core Clinical Foundations (Fast Checklist)",
+        "summary":  "What you must know to be safe on day 1: dosing, renal/hepatic adjustments, monitoring, and interactions.",
+        "tags":  [
+                     "Clinical",
+                     "Foundations",
+                     "Study"
+                 ],
+        "keywords":  [
+                         "core",
+                         "clinical",
+                         "foundations",
+                         "fast",
+                         "checklist",
+                         "study"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "medication-error-reporting-fda-medwatch",
+        "title":  "Medication Error Reporting (FDA MedWatch)",
+        "summary":  "How to report adverse events and product problems; essential for safety culture and compliance.",
+        "tags":  [
+                     "MedWatch",
+                     "FDA",
+                     "Safety"
+                 ],
+        "keywords":  [
+                         "medication",
+                         "error",
+                         "reporting",
+                         "fda",
+                         "medwatch",
+                         "safety"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "cardiology-core-clinical-management",
+        "title":  "Cardiology - Core Clinical Management",
+        "summary":  "High-yield cardiology content for pharmacists: hypertension, heart failure, atrial fibrillation, ACS, and lipid management with real-world safety and monitoring focus.",
+        "tags":  [
+                     "Cardiology",
+                     "Clinical",
+                     "NAPLEX",
+                     "Practice"
+                 ],
+        "keywords":  [
+                         "cardiology",
+                         "core",
+                         "clinical",
+                         "management",
+                         "naplex",
+                         "practice",
+                         "pharmacy boards"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "endocrine-diabetes-and-hormonal-management",
+        "title":  "Endocrine - Diabetes \u0026 Hormonal Management",
+        "summary":  "High-yield endocrine management for pharmacists: diabetes, insulin safety, non-insulin agents, thyroid disease, and steroid fundamentals with monitoring and exam focus.",
+        "tags":  [
+                     "Endocrine",
+                     "Diabetes",
+                     "Clinical",
+                     "NAPLEX",
+                     "Practice"
+                 ],
+        "keywords":  [
+                         "endocrine",
+                         "diabetes",
+                         "hormonal",
+                         "management",
+                         "clinical",
+                         "naplex",
+                         "practice",
+                         "pharmacy boards"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "licensure-exams-start-here",
+        "title":  "Licensure Exams - Start Here",
+        "summary":  "Central guide for pharmacy licensure exams including NAPLEX, MPJE, and clinical readiness.",
+        "tags":  [
+                     "Licensure",
+                     "NAPLEX",
+                     "MPJE",
+                     "Clinical",
+                     "Practice"
+                 ],
+        "keywords":  [
+                         "exam",
+                         "exams",
+                         "licensure",
+                         "license",
+                         "pharmacy exam",
+                         "naplex",
+                         "mpje",
+                         "board exam",
+                         "pharmacist license",
+                         "start",
+                         "here",
+                         "clinical",
+                         "practice",
+                         "boards",
+                         "law exam",
+                         "pharmacy boards"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "antibiotic-stewardship-basics",
+        "title":  "Antibiotic Stewardship Basics",
+        "summary":  "How pharmacists prevent resistance: right drug, dose, duration; de-escalation and IV-\u003ePO switches.",
+        "tags":  [
+                     "ID",
+                     "Stewardship",
+                     "Antibiotics"
+                 ],
+        "keywords":  [
+                         "antibiotic",
+                         "stewardship",
+                         "basics",
+                         "antibiotics"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "psychiatry-core-psychopharmacology-and-safety",
+        "title":  "Psychiatry - Core Psychopharmacology \u0026 Safety",
+        "summary":  "High-yield psychiatric pharmacotherapy for pharmacists: depression, anxiety, bipolar disorder, schizophrenia, mood stabilizers, and antipsychotic safety with monitoring and exam focus.",
+        "tags":  [
+                     "Psychiatry",
+                     "Mental Health",
+                     "Clinical",
+                     "NAPLEX",
+                     "Practice"
+                 ],
+        "keywords":  [
+                         "psychiatry",
+                         "core",
+                         "psychopharmacology",
+                         "safety",
+                         "mental health",
+                         "clinical",
+                         "naplex",
+                         "practice",
+                         "pharmacy boards"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "infectious-disease-antimicrobial-therapy-and-stewardship",
+        "title":  "Infectious Disease - Antimicrobial Therapy \u0026 Stewardship",
+        "summary":  "High-yield infectious disease management for pharmacists: antibiotic selection, common infections, renal dosing, IV-to-PO conversion, resistance prevention, and stewardship fundamentals.",
+        "tags":  [
+                     "Infectious Disease",
+                     "Antibiotics",
+                     "Stewardship",
+                     "Clinical",
+                     "NAPLEX",
+                     "Practice"
+                 ],
+        "keywords":  [
+                         "infectious",
+                         "disease",
+                         "antimicrobial",
+                         "therapy",
+                         "stewardship",
+                         "infectious disease",
+                         "antibiotics",
+                         "clinical",
+                         "naplex",
+                         "practice",
+                         "pharmacy boards"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "oncology-chemotherapy-and-supportive-care-fundamentals",
+        "title":  "Oncology - Chemotherapy \u0026 Supportive Care Fundamentals",
+        "summary":  "Foundational oncology knowledge for pharmacists: chemotherapy safety, oral oncolytics, supportive care, adverse effect prevention, and high-risk medication handling.",
+        "tags":  [
+                     "Oncology",
+                     "Chemotherapy",
+                     "Clinical",
+                     "NAPLEX",
+                     "Practice"
+                 ],
+        "keywords":  [
+                         "oncology",
+                         "chemotherapy",
+                         "supportive",
+                         "care",
+                         "fundamentals",
+                         "clinical",
+                         "naplex",
+                         "practice",
+                         "pharmacy boards"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "exam-prescription-requirements",
+        "title":  "Prescription Requirements \u0026 Common Violations",
+        "summary":  "What legally constitutes a valid prescription and where errors occur.",
+        "tags":  [
+                     "Law",
+                     "Practice",
+                     "MPJE"
+                 ],
+        "keywords":  [
+                         "prescription",
+                         "requirements",
+                         "law",
+                         "mpje",
+                         "practice",
+                         "common",
+                         "violations",
+                         "law exam"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "exam-controlled-substances",
+        "title":  "Controlled Substances \u0026 DEA Schedules",
+        "summary":  "High-yield controlled substance material for MPJE and practice readiness.",
+        "tags":  [
+                     "Law",
+                     "Practice",
+                     "MPJE"
+                 ],
+        "keywords":  [
+                         "controlled substances",
+                         "dea",
+                         "schedules",
+                         "mpje",
+                         "law",
+                         "controlled",
+                         "substances",
+                         "practice",
+                         "law exam"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "anticoagulation-mini-guide",
+        "title":  "Anticoagulation Mini-Guide",
+        "summary":  "Warfarin + DOACs + heparins: monitoring, interactions, reversal, peri-procedural holds.",
+        "tags":  [
+                     "Anticoagulation",
+                     "Clinical"
+                 ],
+        "keywords":  [
+                         "anticoagulation",
+                         "mini",
+                         "guide",
+                         "clinical"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "public-health-and-cdc-guidance",
+        "title":  "Public Health \u0026 CDC Guidance",
+        "summary":  "Pharmacy\u0027s role in population health.",
+        "tags":  null,
+        "keywords":  [
+                         "public",
+                         "health",
+                         "cdc",
+                         "guidance"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "exam-mpje-law-framework",
+        "title":  "Federal vs State Pharmacy Law (MPJE Core)",
+        "summary":  "Foundational law concepts tested on the MPJE, emphasizing federal vs state authority.",
+        "tags":  [
+                     "MPJE",
+                     "Law",
+                     "Licensure"
+                 ],
+        "keywords":  [
+                         "mpje",
+                         "law",
+                         "federal",
+                         "state",
+                         "pharmacy law",
+                         "exam",
+                         "pharmacy",
+                         "core",
+                         "licensure",
+                         "boards",
+                         "law exam"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "exam-practice-readiness",
+        "title":  "Practice Readiness: First 90 Days as a Pharmacist",
+        "summary":  "Bridging exam knowledge into real-world pharmacy practice.",
+        "tags":  [
+                     "Practice",
+                     "Clinical",
+                     "Licensure"
+                 ],
+        "keywords":  [
+                         "practice",
+                         "new pharmacist",
+                         "readiness",
+                         "licensure",
+                         "first",
+                         "days",
+                         "pharmacist",
+                         "clinical",
+                         "boards"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "clinical-foundations",
+        "title":  "Clinical Foundations",
+        "summary":  "Core clinical knowledge required for safe and effective pharmacy practice.",
+        "tags":  null,
+        "keywords":  [
+                         "clinical",
+                         "foundations"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    },
+    {
+        "id":  "exam-naplex-calculations",
+        "title":  "NAPLEX Calculations \u0026 High-Yield Traps",
+        "summary":  "Core pharmacy calculations frequently tested on the NAPLEX, with emphasis on common mistakes.",
+        "tags":  [
+                     "NAPLEX",
+                     "Clinical",
+                     "Practice"
+                 ],
+        "keywords":  [
+                         "naplex",
+                         "calculations",
+                         "dosing",
+                         "iv",
+                         "kinetics",
+                         "exam",
+                         "high",
+                         "yield",
+                         "traps",
+                         "clinical",
+                         "practice",
+                         "pharmacy boards"
+                     ],
+        "priority":  50,
+        "route":  "knowledge"
+    }
+]

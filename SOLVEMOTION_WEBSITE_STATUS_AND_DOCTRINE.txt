@@ -33,12 +33,12 @@ PHASE 3 COMPLETED PAGES:
 ARCHITECTURE POSITIONING:
 - SolveMotion Labs is positioned as Applied Intelligence Infrastructure.
 - Core 12.0 is the deterministic operational intelligence spine.
-- The 6.0 ecosystem includes:
+- The 6.0 ecosystem currently includes four completed Core-connected applications plus SolveOura in progress:
   - SolveMotion 6.0: Applied Movement Intelligence System.
   - SolveMind 6.0: Applied Cognitive Intelligence System.
   - SolveCrime 6.0: Applied Investigation Intelligence System.
   - SolvePharmacy 6.0: Applied Pharmacology Intelligence System.
-  - SolveOura 6.0: Applied Recovery Intelligence System.
+  - SolveOura: Applied Recovery Intelligence direction in progress, not yet a completed Core-connected application.
 
 CORE 12.0 WEBSITE DOCTRINE:
 - Applications emit DomainSignal or structured domain input.
@@ -107,3 +107,237 @@ NEXT WEBSITE SCOPE:
 - Phase 8: Operational intelligence presentation.
 - Phase 9: SEO / sitemap / structured data recheck.
 - Phase 10: Website deployment / GitHub Pages verification.
+
+PHASE 5C HOMEPAGE + PRODUCT DEEP CONTENT GREEN
+Updated: 20260510-080955
+
+PHASE 5C STATUS:
+- Homepage professional Core 12.0 / 6.0 upgrade completed.
+- Homepage now explains Core 12.0, DomainSignal, CoreIntelligenceOrchestrator, DTO output, render-only applications, no-local-computation, release gate discipline, enterprise direction, investor direction, commercialization, and Core 12.0 as a Service.
+- The completed applications and SolveOura in progress product pages have been deep-expanded.
+- Product pages now include: What It Does, What We Built, Core 12.0 Outputs, What Changed, Use Cases, Boundaries, Core 12.0 Alignment, Features, Downloads, and Platform Role.
+- Five-product cross-page recheck PASS.
+- ASCII / NO_BOM PASS across the completed applications and SolveOura in progress product pages.
+- Structure checks PASS across the completed applications and SolveOura in progress product pages.
+- Download artifact checks PASS across the completed applications and SolveOura in progress product pages.
+
+PHASE 5C GREEN BASELINE:
+C:\src\_BASELINES\SolveMotionWebSite-PHASE5C-HOMEPAGE-PRODUCT-DEEP-CONTENT-GREEN-20260510-080955
+
+PHASE 5C COMPLETED PAGES:
+- index.html
+- products\solvemotion.html
+- products\solvemind.html
+- products\solvecrime.html
+- products\solvepharmacy.html
+- products\solveoura.html
+
+PHASE 5C FINAL CHECK:
+- MissingFiles: 0
+- SharedTermFailures: 0
+- AppSpecificFailures: 0
+- StructureFailures: 0
+- ArtifactFailures: 0
+- OverallStatus: PASS
+
+APPLICATION CONTENT STATUS:
+- SolveMotion 6.0 now includes deeper Applied Movement Intelligence content: camera intelligence evolution, Environment Engine, weather, surface conditions, injury risk, training adaptation, session report, trend, trajectory, confidence, risk, missing evidence, and Core 12.0 output ownership.
+- SolveMind 6.0 now includes deeper Applied Cognitive Intelligence content: cognitive readiness, reflection, learning, stress context, Core 12.0 Knowledge direction, reports, trend, trajectory, confidence, risk, and missing evidence.
+- SolveCrime 6.0 now includes deeper Applied Investigation Intelligence content: case reasoning, evidence, scene intelligence, timeline, diagram direction, CaseLab, CaseCracker, next action, human-governed boundaries, confidence, risk, and missing evidence.
+- SolvePharmacy 6.0 now includes deeper Applied Pharmacology Intelligence content: medication knowledge, pharmacology, compound and relationship intelligence, career, employer, training, education, safety, confidence, risk, missing evidence, and verified AAB / IPA downloads.
+- SolveOura 6.0 now includes deeper Applied Recovery Intelligence content: recovery readiness, wearable interpretation, sleep, strain, adaptive guidance, recovery reports, trend, trajectory, confidence, risk, missing evidence, and verified APK / IPA downloads.
+
+DOWNLOAD ARTIFACT STATUS:
+- SolveMotion APK / IPA: PASS.
+- SolveMind APK / IPA: PASS.
+- SolveCrime APK / IPA: PASS.
+- SolvePharmacy AAB / IPA: PASS.
+- SolveOura APK / IPA: PASS.
+
+NEXT WEBSITE SCOPE:
+- Phase 5D: Add platform-evolution.html.
+- Phase 5E: Add capabilities.html.
+- Phase 5F: Add reports.html.
+- Phase 5G: Add core12-service.html.
+- Phase 5H: Add investors.html.
+- Phase 5I: Add enterprise.html.
+- Phase 5J: Upgrade research / doctrine / education pages.
+- Phase 5K: Update navigation / footer / sitemap.
+- Phase 5L: Full cross-page audit.
+- Phase 5M: GREEN baseline.
+- Phase 5N: Push live and verify production.
+
+PHASE 5D PLATFORM EVOLUTION GREEN
+Updated: 20260510-084828
+
+PHASE 5D STATUS:
+- platform-evolution.html created.
+- Platform Evolution page explains the transition from app portfolio to Core 12.0 Applied Intelligence Infrastructure.
+- Page covers Core 12.0, four completed 6.0 applications plus SolveOura in progress systems, DomainSignal input, CoreIntelligenceOrchestrator, DTO output, render-only applications, no-local-computation, governance, release discipline, commercialization, enterprise direction, investor direction, acquisition readiness, licensing, white-label, SDK/API, and Core 12.0 as a Service.
+- Footer Platform Evolution links added to confirmed footer targets only.
+- sitemap.xml updated with platform-evolution.html.
+- Sitemap URL balance PASS.
+- Cross-page Platform Evolution link verification PASS.
+- Weird-character / mojibake concern audited at byte level.
+- Active source byte audit confirms no weird/Chinese characters in active source bytes.
+
+PHASE 5D GREEN BASELINE:
+C:\src\_BASELINES\SolveMotionWebSite-PHASE5D-PLATFORM-EVOLUTION-GREEN-20260510-084828
+
+PHASE 5D COMPLETED FILES:
+- platform-evolution.html
+- sitemap.xml
+- index.html
+- applications.html
+- platform.html
+- methodology.html
+- intelligence-map.html
+- institutional.html
+- products\solvemotion.html
+- products\solvemind.html
+- products\solvecrime.html
+- products\solvepharmacy.html
+- products\solveoura.html
+
+PHASE 5D FINAL CHECK:
+- ActiveSourceFileCount: 40
+- EncodingIssues: 0
+- SitemapHasPlatformEvolution: YES
+- SitemapPlatformEvolutionHitCount: 1
+- SitemapUrlBalance: PASS
+- LinkFailures: 0
+- WeirdCharacterConclusion: NO_WEIRD_CHARACTERS_IN_ACTIVE_SOURCE_BYTES
+- OverallStatus: PASS
+
+WEIRD CHARACTER / MOJIBAKE DOCTRINE:
+- Treat Chinese-looking pasted console characters as a rendering/log display issue unless byte-level inspection proves otherwise.
+- Source truth is byte-level audit: UTF8 BOM false, UTF16 BOM false, NonAsciiByteCount 0.
+- Do not rewrite active source files to remove characters unless NonAsciiByteCount or exact byte offsets prove source contamination.
+- Continue ASCII / NO_BOM checks before baselines and production pushes.
+
+NEXT WEBSITE SCOPE:
+- Phase 5E: Add capabilities.html.
+- Phase 5F: Add reports.html.
+- Phase 5G: Add core12-service.html.
+- Phase 5H: Add investors.html.
+- Phase 5I: Add enterprise.html.
+- Phase 5J: Upgrade research / doctrine / education pages.
+- Phase 5K: Update navigation / footer / sitemap.
+- Phase 5L: Full cross-page audit.
+- Phase 5M: GREEN baseline.
+- Phase 5N: Push live and verify production.
+
+PHASE 5E CAPABILITIES GREEN
+Updated: 20260510-091120
+
+PHASE 5E STATUS:
+- capabilities.html created.
+- Capabilities page explains the Core 12.0 capability matrix across four completed 6.0 applications plus SolveOura in progress applied intelligence systems.
+- Page covers confidence, risk, recommendation, missing evidence, reports, trajectory, trend, DomainSignal, CoreIntelligenceOrchestrator, DTO output, render-only applications, no-local-computation, governance, release gates, baselines, audits, commercialization, Core 12.0 as a Service, licensing, white-label, SDK/API, enterprise deployment, investor review, human-governed boundaries, and decision-support framing.
+- Footer Capabilities links added to confirmed footer targets only.
+- sitemap.xml updated with capabilities.html.
+- Sitemap URL balance PASS.
+- Cross-page Capabilities link verification PASS.
+- ASCII / NO_BOM PASS across Phase 5E checked files.
+- HTML tag balance PASS across Phase 5E checked pages.
+
+PHASE 5E GREEN BASELINE:
+C:\src\_BASELINES\SolveMotionWebSite-PHASE5E-CAPABILITIES-GREEN-20260510-091120
+
+PHASE 5E COMPLETED FILES:
+- capabilities.html
+- sitemap.xml
+- index.html
+- applications.html
+- platform.html
+- platform-evolution.html
+- methodology.html
+- intelligence-map.html
+- institutional.html
+- products\solvemotion.html
+- products\solvemind.html
+- products\solvecrime.html
+- products\solvepharmacy.html
+- products\solveoura.html
+
+PHASE 5E FINAL CHECK:
+- MissingFiles: 0
+- ContentFailures: 0
+- LinkFailures: 0
+- SitemapHasCapabilities: YES
+- CapabilitiesHitCount: 1
+- SitemapUrlBalance: PASS
+- EncodingFailures: 0
+- HtmlTagFailures: 0
+- OverallStatus: PASS
+
+NEXT WEBSITE SCOPE:
+- Phase 5F: Add reports.html.
+- Phase 5G: Add core12-service.html.
+- Phase 5H: Add investors.html.
+- Phase 5I: Add enterprise.html.
+- Phase 5J: Upgrade research / doctrine / education pages.
+- Phase 5K: Update navigation / footer / sitemap.
+- Phase 5L: Full cross-page audit.
+- Phase 5M: GREEN baseline.
+- Phase 5N: Push live and verify production.
+
+PHASE 5F REPORTS AND TRUTHFULNESS GREEN
+Updated: 20260510-104114
+
+PHASE 5F STATUS:
+- reports.html created.
+- reports.html explains professional report and output preview direction for SolveMotion Labs Core 12.0.
+- Reports page uses official naming: SolveMotion Labs Core 12.0 first, Core 12.0 as short name after formal reference.
+- Reports page preserves truthfulness rule: four completed Core-connected applications plus SolveOura in progress.
+- Reports page covers confidence, risk, recommendation, missing evidence, trajectory, trend, DomainSignal, DTO, human-governed decision support, release gates, governance, baselines, enterprise use, investor review, licensing, SDK/API direction, and Core 12.0 as a Service.
+- reports.html linked from confirmed footer targets.
+- sitemap.xml updated with reports.html.
+- High-risk overstatement terms removed from inspected truthfulness targets.
+- SolveOura language now states in-progress direction and does not claim it is a completed Core-connected application.
+- ASCII / NO_BOM PASS across active checked source files.
+- HTML tag balance PASS across active checked HTML files.
+
+PHASE 5F GREEN BASELINE:
+C:\src\_BASELINES\SolveMotionWebSite-PHASE5F-REPORTS-TRUTHFULNESS-GREEN-20260510-104114
+
+PHASE 5F COMPLETED FILES:
+- reports.html
+- sitemap.xml
+- index.html
+- applications.html
+- platform.html
+- platform-evolution.html
+- capabilities.html
+- methodology.html
+- intelligence-map.html
+- institutional.html
+- products\solvemotion.html
+- products\solvemind.html
+- products\solvecrime.html
+- products\solvepharmacy.html
+- products\solveoura.html
+- SOLVEMOTION_WEBSITE_STATUS_AND_DOCTRINE.txt
+
+PHASE 5F FINAL CHECK:
+- MissingFiles: 0
+- ReportContentFailures: 0
+- LinkFailures: 0
+- SitemapHasReports: YES
+- ReportsHitCount: 1
+- SitemapUrlBalance: PASS
+- RemainingOverstatementHits: 0
+- EncodingFailures: 0
+- HtmlTagFailures: 0
+- OverallStatus: PASS
+
+NEXT WEBSITE SCOPE:
+- Phase 5G: Add core12-service.html.
+- Phase 5H: Add investors.html.
+- Phase 5I: Add enterprise.html.
+- Phase 5J: Upgrade research / doctrine / education pages.
+- Phase 5K: Update navigation / footer / sitemap.
+- Phase 5X: Formal naming cleanup for tracked Core 12.0 references.
+- Phase 5L: Full cross-page audit.
+- Phase 5M: GREEN baseline.
+- Phase 5N: Push live and verify production.

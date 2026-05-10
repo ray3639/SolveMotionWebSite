@@ -796,3 +796,21 @@ footer {
   color: var(--muted);
 }
 
+/* Phase 4B - Product CTA layout */
+.product-cta {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 14px;
+  margin-top: 32px;
+  text-align: center;
+}
+
+.product-cta .btn {
+  min-width: 220px;
+}
+
+.product-cta p {
+  margin: 10px 12px;
+}

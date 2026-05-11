@@ -341,3 +341,38 @@ NEXT WEBSITE SCOPE:
 - Phase 5L: Full cross-page audit.
 - Phase 5M: GREEN baseline.
 - Phase 5N: Push live and verify production.
+
+===============================================================================
+PHASE 5Y SOLVEMOTION WEB PORTAL CAMERA PANEL GREEN - 20260510-200516
+===============================================================================
+
+Status:
+- SolveMotion web portal is production published.
+- SolveMotion production URL is live:
+  https://ray3639.github.io/SolveMotionWebSite/webapps/solvemotion/index.html
+- Camera screen production build now includes panel controls:
+  - Show / Hide Intelligence Panel
+  - Show / Hide Metrics Rail
+  - Show / Hide Intelligence Details
+- Production JavaScript verification passed with cache-busted GitHub Pages checks.
+- Local, Raw GitHub, and GitHub Pages main.dart.js lengths matched.
+- Four completed web portals are confirmed:
+  - SolvePharmacy
+  - SolveMind
+  - SolveCrime
+  - SolveMotion
+- SolveOura remains excluded from live web app portal publishing until complete.
+- Website files and scripts remain ASCII / NO_BOM clean.
+- Baseline created:
+  C:\src\_BASELINES\WEBSITE-PHASE5Y-SOLVEMOTION-WEB-PORTAL-CAMERA-PANEL-GREEN-20260510-200516
+
+Rules reinforced:
+- PowerShell 5.1 only.
+- Inspect first.
+- No assumptions.
+- No duplicate logic.
+- No blind edits.
+- Existing scripts only.
+- Verify production before assuming live.
+- SolveOura must remain excluded until upgrade completion.
+===============================================================================

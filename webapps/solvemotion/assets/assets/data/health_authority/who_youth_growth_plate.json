@@ -1,0 +1,34 @@
+{
+    "severity":  "moderate",
+    "id":  "who_youth_growth_plate",
+    "ageGroups":  [
+                      "youth",
+                      "teen"
+                  ],
+    "authority":  "WHO",
+    "title":  "Growth Plate Stress Risk",
+    "riskMultiplier":  1.25,
+    "trainingPhases":  [
+                           "in-season",
+                           "off-season"
+                       ],
+    "sources":  [
+                    "CDC",
+                    "WHO"
+                ],
+    "domains":  [
+                    "musculoskeletal"
+                ],
+    "readinessPenalty":  0.12,
+    "summary":  "High-impact and heavy loading during growth spurts increases risk of growth plate injuries.",
+    "movements":  [
+                      "plyometrics",
+                      "lifting"
+                  ],
+    "recommendations":  [
+                            "Avoid maximal loads during rapid growth phases",
+                            "Emphasize technique over intensity",
+                            "Increase recovery days"
+                        ],
+    "lastReviewed":  "2026-01-15T18:00:00Z"
+}

@@ -1,0 +1,49 @@
+[
+    {
+        "summary":  "How efficient, stable, and symmetrical movement reduces injury risk.",
+        "title":  "Movement Quality Fundamentals",
+        "sections":  [
+                         {
+                             "h":  "Key Concepts",
+                             "b":  [
+                                       "Symmetry between left and right sides",
+                                       "Joint stability under load",
+                                       "Controlled range of motion",
+                                       "Neuromuscular coordination"
+                                   ]
+                         },
+                         {
+                             "h":  "Why It Matters",
+                             "b":  [
+                                       "Poor movement increases injury risk",
+                                       "Quality precedes strength",
+                                       "Efficiency improves performance"
+                                   ]
+                         }
+                     ],
+        "id":  "mq_001"
+    },
+    {
+        "summary":  "Understanding how joints are designed to move.",
+        "title":  "Joint Mechanics",
+        "sections":  [
+                         {
+                             "h":  "Joint Types",
+                             "b":  [
+                                       "Hinge joints (knee, elbow)",
+                                       "Ball-and-socket joints (hip, shoulder)",
+                                       "Pivot joints (neck)"
+                                   ]
+                         },
+                         {
+                             "h":  "Red Flags",
+                             "b":  [
+                                       "Asymmetrical loading",
+                                       "Limited range",
+                                       "Instability under motion"
+                                   ]
+                         }
+                     ],
+        "id":  "mq_002"
+    }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "sessionId": "debug-20260101-171010",
+    "date": "2026-01-01",
+    "movement": "squat",
+    "qualityScore": 0.78,
+    "riskFlags": ["knee_valgus"],
+    "load": "moderate"
+  }
+]

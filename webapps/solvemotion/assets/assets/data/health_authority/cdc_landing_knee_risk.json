@@ -1,0 +1,34 @@
+{
+    "severity":  "moderate",
+    "id":  "cdc_landing_knee_risk",
+    "ageGroups":  [
+                      "youth",
+                      "teen"
+                  ],
+    "authority":  "CDC",
+    "title":  "Knee Injury Risk During Landings",
+    "riskMultiplier":  1.30,
+    "trainingPhases":  [
+                           "in-season",
+                           "off-season"
+                       ],
+    "sources":  [
+                    "CDC",
+                    "WHO"
+                ],
+    "domains":  [
+                    "musculoskeletal"
+                ],
+    "readinessPenalty":  0.15,
+    "summary":  "High-impact and poorly controlled landings increase knee injury risk, especially under fatigue.",
+    "movements":  [
+                      "landing",
+                      "plyometrics"
+                  ],
+    "recommendations":  [
+                            "Emphasize soft, quiet landings",
+                            "Avoid depth jumps when fatigued",
+                            "Focus on knee tracking over toes"
+                        ],
+    "lastReviewed":  "2026-01-15T18:00:00Z"
+}

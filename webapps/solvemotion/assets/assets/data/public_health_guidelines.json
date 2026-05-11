@@ -1,0 +1,309 @@
+{
+    "lastUpdated":  "2026-01-15T19:22:46.3944312-06:00",
+    "sources":  [
+                    {
+                        "title":  "Physical Activity Indicators (Live)",
+                        "org":  "CDC",
+                        "sections":  [
+                                         {
+                                             "topic":  "Percent of adults aged 18 years and older who have obesity",
+                                             "confidence":  0.9,
+                                             "aiHints":  [
+                                                             "Population activity trends influence injury and conditioning risk.",
+                                                             "Low activity correlates with reduced joint stability and endurance.",
+                                                             "Consistency of movement exposure impacts long-term biomechanics."
+                                                         ],
+                                             "tags":  [
+                                                          "cdc",
+                                                          "activity",
+                                                          "population"
+                                                      ],
+                                             "sourceReliability":  "high",
+                                             "summary":  [
+                                                             "Location: Alabama",
+                                                             "Reported Value: 34.8"
+                                                         ],
+                                             "movementDomains":  [
+                                                                     "general"
+                                                                 ],
+                                             "riskImpact":  0.35
+                                         },
+                                         {
+                                             "topic":  "Percent of adults aged 18 years and older who have obesity",
+                                             "confidence":  0.9,
+                                             "aiHints":  [
+                                                             "Population activity trends influence injury and conditioning risk.",
+                                                             "Low activity correlates with reduced joint stability and endurance.",
+                                                             "Consistency of movement exposure impacts long-term biomechanics."
+                                                         ],
+                                             "tags":  [
+                                                          "cdc",
+                                                          "activity",
+                                                          "population"
+                                                      ],
+                                             "sourceReliability":  "high",
+                                             "summary":  [
+                                                             "Location: Alabama",
+                                                             "Reported Value: 35.8"
+                                                         ],
+                                             "movementDomains":  [
+                                                                     "general"
+                                                                 ],
+                                             "riskImpact":  0.35
+                                         },
+                                         {
+                                             "topic":  "Percent of adults aged 18 years and older who have obesity",
+                                             "confidence":  0.9,
+                                             "aiHints":  [
+                                                             "Population activity trends influence injury and conditioning risk.",
+                                                             "Low activity correlates with reduced joint stability and endurance.",
+                                                             "Consistency of movement exposure impacts long-term biomechanics."
+                                                         ],
+                                             "tags":  [
+                                                          "cdc",
+                                                          "activity",
+                                                          "population"
+                                                      ],
+                                             "sourceReliability":  "high",
+                                             "summary":  [
+                                                             "Location: Alabama",
+                                                             "Reported Value: 32.3"
+                                                         ],
+                                             "movementDomains":  [
+                                                                     "general"
+                                                                 ],
+                                             "riskImpact":  0.35
+                                         },
+                                         {
+                                             "topic":  "Percent of adults aged 18 years and older who have obesity",
+                                             "confidence":  0.9,
+                                             "aiHints":  [
+                                                             "Population activity trends influence injury and conditioning risk.",
+                                                             "Low activity correlates with reduced joint stability and endurance.",
+                                                             "Consistency of movement exposure impacts long-term biomechanics."
+                                                         ],
+                                             "tags":  [
+                                                          "cdc",
+                                                          "activity",
+                                                          "population"
+                                                      ],
+                                             "sourceReliability":  "high",
+                                             "summary":  [
+                                                             "Location: Alabama",
+                                                             "Reported Value: 34.1"
+                                                         ],
+                                             "movementDomains":  [
+                                                                     "general"
+                                                                 ],
+                                             "riskImpact":  0.35
+                                         },
+                                         {
+                                             "topic":  "Percent of adults aged 18 years and older who have obesity",
+                                             "confidence":  0.9,
+                                             "aiHints":  [
+                                                             "Population activity trends influence injury and conditioning risk.",
+                                                             "Low activity correlates with reduced joint stability and endurance.",
+                                                             "Consistency of movement exposure impacts long-term biomechanics."
+                                                         ],
+                                             "tags":  [
+                                                          "cdc",
+                                                          "activity",
+                                                          "population"
+                                                      ],
+                                             "sourceReliability":  "high",
+                                             "summary":  [
+                                                             "Location: Alabama",
+                                                             "Reported Value: 28.8"
+                                                         ],
+                                             "movementDomains":  [
+                                                                     "general"
+                                                                 ],
+                                             "riskImpact":  0.35
+                                         },
+                                         {
+                                             "topic":  "Percent of adults aged 18 years and older who have obesity",
+                                             "confidence":  0.9,
+                                             "aiHints":  [
+                                                             "Population activity trends influence injury and conditioning risk.",
+                                                             "Low activity correlates with reduced joint stability and endurance.",
+                                                             "Consistency of movement exposure impacts long-term biomechanics."
+                                                         ],
+                                             "tags":  [
+                                                          "cdc",
+                                                          "activity",
+                                                          "population"
+                                                      ],
+                                             "sourceReliability":  "high",
+                                             "summary":  [
+                                                             "Location: Alabama",
+                                                             "Reported Value: 16.3"
+                                                         ],
+                                             "movementDomains":  [
+                                                                     "general"
+                                                                 ],
+                                             "riskImpact":  0.35
+                                         },
+                                         {
+                                             "topic":  "Percent of adults aged 18 years and older who have obesity",
+                                             "confidence":  0.9,
+                                             "aiHints":  [
+                                                             "Population activity trends influence injury and conditioning risk.",
+                                                             "Low activity correlates with reduced joint stability and endurance.",
+                                                             "Consistency of movement exposure impacts long-term biomechanics."
+                                                         ],
+                                             "tags":  [
+                                                          "cdc",
+                                                          "activity",
+                                                          "population"
+                                                      ],
+                                             "sourceReliability":  "high",
+                                             "summary":  [
+                                                             "Location: Alabama",
+                                                             "Reported Value: 27.8"
+                                                         ],
+                                             "movementDomains":  [
+                                                                     "general"
+                                                                 ],
+                                             "riskImpact":  0.35
+                                         },
+                                         {
+                                             "topic":  "Percent of adults aged 18 years and older who have obesity",
+                                             "confidence":  0.9,
+                                             "aiHints":  [
+                                                             "Population activity trends influence injury and conditioning risk.",
+                                                             "Low activity correlates with reduced joint stability and endurance.",
+                                                             "Consistency of movement exposure impacts long-term biomechanics."
+                                                         ],
+                                             "tags":  [
+                                                          "cdc",
+                                                          "activity",
+                                                          "population"
+                                                      ],
+                                             "sourceReliability":  "high",
+                                             "summary":  [
+                                                             "Location: Alabama",
+                                                             "Reported Value: 35.2"
+                                                         ],
+                                             "movementDomains":  [
+                                                                     "general"
+                                                                 ],
+                                             "riskImpact":  0.35
+                                         },
+                                         {
+                                             "topic":  "Percent of adults aged 18 years and older who have obesity",
+                                             "confidence":  0.9,
+                                             "aiHints":  [
+                                                             "Population activity trends influence injury and conditioning risk.",
+                                                             "Low activity correlates with reduced joint stability and endurance.",
+                                                             "Consistency of movement exposure impacts long-term biomechanics."
+                                                         ],
+                                             "tags":  [
+                                                          "cdc",
+                                                          "activity",
+                                                          "population"
+                                                      ],
+                                             "sourceReliability":  "high",
+                                             "summary":  [
+                                                             "Location: Alabama",
+                                                             "Reported Value: 35.5"
+                                                         ],
+                                             "movementDomains":  [
+                                                                     "general"
+                                                                 ],
+                                             "riskImpact":  0.35
+                                         },
+                                         {
+                                             "topic":  "Percent of adults aged 18 years and older who have obesity",
+                                             "confidence":  0.9,
+                                             "aiHints":  [
+                                                             "Population activity trends influence injury and conditioning risk.",
+                                                             "Low activity correlates with reduced joint stability and endurance.",
+                                                             "Consistency of movement exposure impacts long-term biomechanics."
+                                                         ],
+                                             "tags":  [
+                                                          "cdc",
+                                                          "activity",
+                                                          "population"
+                                                      ],
+                                             "sourceReliability":  "high",
+                                             "summary":  [
+                                                             "Location: Alabama",
+                                                             "Reported Value: 38.0"
+                                                         ],
+                                             "movementDomains":  [
+                                                                     "general"
+                                                                 ],
+                                             "riskImpact":  0.35
+                                         }
+                                     ],
+                        "year":  2026
+                    },
+                    {
+                        "title":  "Global Physical Activity Indicators (Live)",
+                        "org":  "WHO",
+                        "sections":  [
+                                         {
+                                             "summary":  [
+                                                             "Code: NCD_CCS_paaware",
+                                                             "Description: Implementation of physical activity public awareness program"
+                                                         ],
+                                             "tags":  [
+                                                          "who",
+                                                          "activity",
+                                                          "global"
+                                                      ],
+                                             "topic":  "Implementation of physical activity public awareness program"
+                                         },
+                                         {
+                                             "summary":  [
+                                                             "Code: NCD_CCS_dietpaaware",
+                                                             "Description: Implementation of diet and/or physical activity public awareness program"
+                                                         ],
+                                             "tags":  [
+                                                          "who",
+                                                          "activity",
+                                                          "global"
+                                                      ],
+                                             "topic":  "Implementation of diet and/or physical activity public awareness program"
+                                         },
+                                         {
+                                             "summary":  [
+                                                             "Code: NCD_PAC",
+                                                             "Description: Prevalence of insufficient physical activity among adults aged 18+ years (crude estimate) (%)"
+                                                         ],
+                                             "tags":  [
+                                                          "who",
+                                                          "activity",
+                                                          "global"
+                                                      ],
+                                             "topic":  "Prevalence of insufficient physical activity among adults aged 18+ years (crude estimate) (%)"
+                                         },
+                                         {
+                                             "summary":  [
+                                                             "Code: NCD_PAA",
+                                                             "Description: Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%)"
+                                                         ],
+                                             "tags":  [
+                                                          "who",
+                                                          "activity",
+                                                          "global"
+                                                      ],
+                                             "topic":  "Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%)"
+                                         },
+                                         {
+                                             "summary":  [
+                                                             "Code: NCD_CCS_PA_POL_WORK",
+                                                             "Description: Existence of policy promoting physical activity: workplace initiatives"
+                                                         ],
+                                             "tags":  [
+                                                          "who",
+                                                          "activity",
+                                                          "global"
+                                                      ],
+                                             "topic":  "Existence of policy promoting physical activity: workplace initiatives"
+                                         }
+                                     ],
+                        "year":  2026
+                    }
+                ]
+}

@@ -1,0 +1,35 @@
+{
+    "severity":  "high",
+    "id":  "cdc_heat_illness",
+    "ageGroups":  [
+                      "youth",
+                      "teen"
+                  ],
+    "authority":  "CDC",
+    "title":  "Heat Illness Risk During Training",
+    "riskMultiplier":  1.35,
+    "trainingPhases":  [
+                           "in-season"
+                       ],
+    "sources":  [
+                    "CDC",
+                    "WHO"
+                ],
+    "domains":  [
+                    "environmental",
+                    "cardiorespiratory"
+                ],
+    "readinessPenalty":  0.18,
+    "summary":  "High temperatures and humidity increase risk of heat exhaustion and heat stroke during intense training.",
+    "movements":  [
+                      "running",
+                      "plyometrics",
+                      "lifting"
+                  ],
+    "recommendations":  [
+                            "Hydrate before, during, and after activity",
+                            "Reduce intensity in hot conditions",
+                            "Use shaded or indoor environments when possible"
+                        ],
+    "lastReviewed":  "2026-01-15T18:00:00Z"
+}

@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "tracks": [
+    {
+      "id": "athlete",
+      "title": "Athlete",
+      "whoFor": "Athletes who want performance with fewer injuries.",
+      "summary": "Build movement quality, repeatability, and safe mechanics under fatigue.",
+      "focusAreas": [
+        "Movement quality before load",
+        "Consistency across reps",
+        "Fatigue awareness",
+        "Jump/land safety"
+      ],
+      "schoolRoadmapRefs": ["strength_conditioning"],
+      "fundamentalsRefs": ["joint_mechanics","force_absorption","fatigue_quality"],
+      "cameraSessions": [
+        {"label":"Squat Form Check","movementId":"air_squat"},
+        {"label":"Jump/Land Check","movementId":"jump_land"},
+        {"label":"Hinge Pattern Check","movementId":"hip_hinge"}
+      ],
+      "nextSteps": [
+        {"label":"Run a Camera Session","route":"camera"},
+        {"label":"Review Movement Library","route":"movement","routeArg":"air_squat"},
+        {"label":"Take Fundamentals Quiz","route":"quiz","routeArg":"Fundamentals"}
+      ]
+    },
+    {
+      "id": "coach",
+      "title": "Coach",
+      "whoFor": "Coaches who need fast, reliable cues and safe programming decisions.",
+      "summary": "Spot patterns, track risk trends, and build coaching systems.",
+      "focusAreas": [
+        "Pattern recognition",
+        "Cue efficiency",
+        "Group risk trends",
+        "Progression planning"
+      ],
+      "schoolRoadmapRefs": ["strength_conditioning","kinesiology_research"],
+      "fundamentalsRefs": ["joint_mechanics","mobility_vs_stability","fatigue_quality"],
+      "cameraSessions": [
+        {"label":"Squat + Landing Combo","movementId":"jump_land"},
+        {"label":"Hinge Mechanics","movementId":"hip_hinge"}
+      ],
+      "nextSteps": [
+        {"label":"Coach Cues Quiz","route":"quiz","routeArg":"Coaching"},
+        {"label":"Motor Learning Topic","route":"schoolTopic","routeArg":"cc_motor_learning"}
+      ]
+    },
+    {
+      "id": "pt",
+      "title": "Physical Therapy / Rehab",
+      "whoFor": "Rehab-focused athletes or students: control, symmetry, and tolerance.",
+      "summary": "Restore range, symmetry, and safe loading with controlled progressions.",
+      "focusAreas": [
+        "Controlled range",
+        "Symmetry restoration",
+        "Low-load tolerance",
+        "Return-to-play readiness"
+      ],
+      "schoolRoadmapRefs": ["physical_therapy"],
+      "fundamentalsRefs": ["mobility_vs_stability","joint_mechanics"],
+      "cameraSessions": [
+        {"label":"Lunge Mechanics","movementId":"split_squat"},
+        {"label":"Hinge Control","movementId":"hip_hinge"}
+      ],
+      "nextSteps": [
+        {"label":"Mobility vs Stability","route":"fundamentals","routeArg":"mobility_vs_stability"},
+        {"label":"Run Camera Session","route":"camera"}
+      ]
+    },
+    {
+      "id": "strength",
+      "title": "Strength & Conditioning Coach",
+      "whoFor": "Strength coaches building resilient athletes under load.",
+      "summary": "Teach positions, manage volume, and keep mechanics clean under intensity.",
+      "focusAreas": [
+        "Depth under load",
+        "Stiffness vs absorption",
+        "Volume tolerance",
+        "Progression systems"
+      ],
+      "schoolRoadmapRefs": ["strength_conditioning"],
+      "fundamentalsRefs": ["joint_mechanics","force_absorption","fatigue_quality"],
+      "cameraSessions": [
+        {"label":"Squat Depth & Control","movementId":"goblet_squat"},
+        {"label":"Landing Quality","movementId":"jump_land"}
+      ],
+      "nextSteps": [
+        {"label":"Biomechanics Topic","route":"schoolTopic","routeArg":"cp_biomechanics_101"},
+        {"label":"Run Camera Session","route":"camera"}
+      ]
+    }
+  ]
+}
+
+

@@ -1,0 +1,10 @@
+[
+    {
+        "name":  "Movement Quality Score",
+        "desc":  "Composite score from symmetry, stability, and range"
+    },
+    {
+        "name":  "Symmetry Index",
+        "desc":  "Left vs right movement comparison"
+    }
+]

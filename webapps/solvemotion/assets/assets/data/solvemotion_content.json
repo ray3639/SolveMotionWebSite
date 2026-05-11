@@ -1,0 +1,77 @@
+{
+    "version":  "1.0",
+    "contentIndex":  [
+                         {
+                             "id":  "edu_foundations_biomechanics",
+                             "type":  "education",
+                             "title":  "Foundations: Biomechanics",
+                             "tags":  [
+                                          "biomechanics",
+                                          "torque",
+                                          "force"
+                                      ]
+                         },
+                         {
+                             "id":  "edu_foundations_anatomy",
+                             "type":  "education",
+                             "title":  "Foundations: Anatomy",
+                             "tags":  [
+                                          "anatomy",
+                                          "joints",
+                                          "muscle"
+                                      ]
+                         },
+                         {
+                             "id":  "move_squat",
+                             "type":  "movement",
+                             "title":  "Squat",
+                             "tags":  [
+                                          "squat",
+                                          "lower body",
+                                          "pattern"
+                                      ]
+                         },
+                         {
+                             "id":  "move_hinge",
+                             "type":  "movement",
+                             "title":  "Hinge",
+                             "tags":  [
+                                          "hinge",
+                                          "posterior chain",
+                                          "pattern"
+                                      ]
+                         },
+                         {
+                             "id":  "cdc_knee_injury_prevention",
+                             "title":  "Knee Injury Prevention (CDC)",
+                             "tags":  [
+                                          "knee",
+                                          "injury",
+                                          "prevention",
+                                          "sports",
+                                          "cdc"
+                                      ],
+                             "type":  "education",
+                             "source":  "CDC",
+                             "summary":  "Guidelines to reduce risk of knee injuries in athletes.",
+                             "content":  "Strength training, balance exercises, and proper landing mechanics reduce ACL and knee injury risk.",
+                             "updated":  "2026-01-14"
+                         },
+                         {
+                             "id":  "who_warmup_guidelines",
+                             "title":  "Warm-Up and Injury Reduction (WHO)",
+                             "tags":  [
+                                          "warmup",
+                                          "injury",
+                                          "prevention",
+                                          "who",
+                                          "training"
+                                      ],
+                             "type":  "education",
+                             "source":  "WHO",
+                             "summary":  "Evidence-based warm-up guidance for training safety.",
+                             "content":  "Dynamic warmups increase joint readiness and reduce muscle strain during physical activity.",
+                             "updated":  "2026-01-14"
+                         }
+                     ]
+}

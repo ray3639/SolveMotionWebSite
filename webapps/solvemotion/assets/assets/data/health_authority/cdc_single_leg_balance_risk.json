@@ -1,0 +1,34 @@
+{
+    "severity":  "moderate",
+    "id":  "cdc_single_leg_balance_risk",
+    "ageGroups":  [
+                      "youth",
+                      "teen"
+                  ],
+    "authority":  "CDC",
+    "title":  "Balance and Ankle Injury Risk",
+    "riskMultiplier":  1.20,
+    "trainingPhases":  [
+                           "in-season",
+                           "off-season"
+                       ],
+    "sources":  [
+                    "CDC",
+                    "WHO"
+                ],
+    "domains":  [
+                    "musculoskeletal"
+                ],
+    "readinessPenalty":  0.10,
+    "summary":  "Poor single-leg stability increases ankle and knee injury risk.",
+    "movements":  [
+                      "balance",
+                      "single_leg"
+                  ],
+    "recommendations":  [
+                            "Improve foot tripod control",
+                            "Avoid unstable surfaces when fatigued",
+                            "Progress balance before adding load"
+                        ],
+    "lastReviewed":  "2026-01-15T18:00:00Z"
+}

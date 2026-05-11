@@ -1,0 +1,35 @@
+{
+    "severity":  "moderate",
+    "id":  "cdc_running_volume",
+    "ageGroups":  [
+                      "youth",
+                      "teen"
+                  ],
+    "authority":  "CDC",
+    "title":  "Running Volume Injury Risk",
+    "riskMultiplier":  1.20,
+    "trainingPhases":  [
+                           "in-season",
+                           "off-season"
+                       ],
+    "sources":  [
+                    "CDC",
+                    "WHO"
+                ],
+    "domains":  [
+                    "musculoskeletal",
+                    "cardiorespiratory"
+                ],
+    "readinessPenalty":  0.10,
+    "summary":  "Rapid increases in running volume increase overuse injury risk.",
+    "movements":  [
+                      "running",
+                      "gait"
+                  ],
+    "recommendations":  [
+                            "Increase weekly distance gradually",
+                            "Alternate hard and easy days",
+                            "Monitor soreness patterns"
+                        ],
+    "lastReviewed":  "2026-01-15T18:00:00Z"
+}

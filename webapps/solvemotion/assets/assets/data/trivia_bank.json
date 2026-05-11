@@ -1,0 +1,3020 @@
+{
+    "trivia":  [
+                   {
+                       "id":  "F001",
+                       "category":  "Fundamentals",
+                       "question":  "What is the primary function of skeletal muscle?",
+                       "options":  [
+                                       "Produce movement",
+                                       "Store energy",
+                                       "Protect organs",
+                                       "Filter blood"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Skeletal muscles contract to move bones and create movement."
+                   },
+                   {
+                       "id":  "F002",
+                       "category":  "Fundamentals",
+                       "question":  "Which system delivers oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Endocrine",
+                                       "Respiratory only"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "The cardiovascular system transports oxygen via blood."
+                   },
+                   {
+                       "id":  "F003",
+                       "category":  "Fundamentals",
+                       "question":  "What does flexibility describe?",
+                       "options":  [
+                                       "Range of motion at joints",
+                                       "Muscle strength",
+                                       "Cardio endurance",
+                                       "Reaction speed"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Flexibility refers to how freely a joint can move."
+                   },
+                   {
+                       "id":  "F004",
+                       "category":  "Fundamentals",
+                       "question":  "Which tissue connects muscle to bone?",
+                       "options":  [
+                                       "Tendon",
+                                       "Ligament",
+                                       "Cartilage",
+                                       "Fascia"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Tendons attach muscles to bones."
+                   },
+                   {
+                       "id":  "F005",
+                       "category":  "Fundamentals",
+                       "question":  "Why are warm-ups important?",
+                       "options":  [
+                                       "Prepare muscles and nervous system",
+                                       "Increase muscle size",
+                                       "Replace training",
+                                       "Prevent all injuries"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Warm-ups improve readiness and reduce injury risk."
+                   },
+                   {
+                       "id":  "F006",
+                       "category":  "Fundamentals",
+                       "question":  "Which energy system dominates short explosive efforts?",
+                       "options":  [
+                                       "ATP-PC",
+                                       "Aerobic",
+                                       "Lactic acid",
+                                       "Fat oxidation"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "ATP-PC supports very short, high-power movements."
+                   },
+                   {
+                       "id":  "F007",
+                       "category":  "Fundamentals",
+                       "question":  "What does muscular endurance describe?",
+                       "options":  [
+                                       "Ability to sustain repeated contractions",
+                                       "Maximum force",
+                                       "Speed of movement",
+                                       "Flexibility"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Endurance refers to sustaining work over time."
+                   },
+                   {
+                       "id":  "F008",
+                       "category":  "Fundamentals",
+                       "question":  "What nutrient is most critical for muscle repair?",
+                       "options":  [
+                                       "Protein",
+                                       "Carbohydrates",
+                                       "Fat",
+                                       "Fiber"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Protein provides amino acids for tissue repair."
+                   },
+                   {
+                       "id":  "F009",
+                       "category":  "Fundamentals",
+                       "question":  "What is heart rate a measure of?",
+                       "options":  [
+                                       "Beats per minute",
+                                       "Blood pressure",
+                                       "Oxygen capacity",
+                                       "Stroke volume"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Heart rate counts beats each minute."
+                   },
+                   {
+                       "id":  "F010",
+                       "category":  "Fundamentals",
+                       "question":  "What is posture?",
+                       "options":  [
+                                       "Body alignment",
+                                       "Muscle size",
+                                       "Breathing pattern",
+                                       "Reaction speed"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Posture refers to alignment of body segments."
+                   },
+                   {
+                       "id":  "F011",
+                       "category":  "Fundamentals",
+                       "question":  "Which system controls muscle contraction?",
+                       "options":  [
+                                       "Nervous",
+                                       "Digestive",
+                                       "Endocrine",
+                                       "Lymphatic"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Motor neurons activate muscle fibers."
+                   },
+                   {
+                       "id":  "F012",
+                       "category":  "Fundamentals",
+                       "question":  "Why is recovery necessary?",
+                       "options":  [
+                                       "Allows tissue repair and adaptation",
+                                       "Builds fat",
+                                       "Reduces strength",
+                                       "Stops soreness only"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Recovery enables adaptation and injury prevention."
+                   },
+                   {
+                       "id":  "F013",
+                       "category":  "Fundamentals",
+                       "question":  "Which vitamin supports bone health?",
+                       "options":  [
+                                       "Vitamin D",
+                                       "Vitamin C",
+                                       "Vitamin K",
+                                       "Vitamin B12"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Vitamin D helps absorb calcium."
+                   },
+                   {
+                       "id":  "F014",
+                       "category":  "Fundamentals",
+                       "question":  "What does BMI estimate?",
+                       "options":  [
+                                       "Body mass relative to height",
+                                       "Body fat percentage",
+                                       "Muscle mass",
+                                       "Bone density"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "BMI estimates weight-to-height ratio."
+                   },
+                   {
+                       "id":  "F015",
+                       "category":  "Fundamentals",
+                       "question":  "What is aerobic exercise?",
+                       "options":  [
+                                       "Uses oxygen for energy",
+                                       "Very short duration",
+                                       "Maximal power",
+                                       "Static activity"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Aerobic metabolism requires oxygen."
+                   },
+                   {
+                       "id":  "F016",
+                       "category":  "Fundamentals",
+                       "question":  "What improves coordination most?",
+                       "options":  [
+                                       "Practice and repetition",
+                                       "Stretching",
+                                       "Rest only",
+                                       "Supplements"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Motor learning depends on repeated practice."
+                   },
+                   {
+                       "id":  "F017",
+                       "category":  "Fundamentals",
+                       "question":  "Which nutrient is main fuel during long exercise?",
+                       "options":  [
+                                       "Carbohydrates",
+                                       "Protein",
+                                       "Alcohol",
+                                       "Vitamins"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Carbs provide accessible energy for endurance."
+                   },
+                   {
+                       "id":  "F018",
+                       "category":  "Fundamentals",
+                       "question":  "What does RPE measure?",
+                       "options":  [
+                                       "Perceived exertion",
+                                       "Heart strength",
+                                       "Fat loss",
+                                       "Muscle size"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "RPE estimates effort level subjectively."
+                   },
+                   {
+                       "id":  "F019",
+                       "category":  "Fundamentals",
+                       "question":  "Why is sleep important for athletes?",
+                       "options":  [
+                                       "Hormone regulation and recovery",
+                                       "Burns fat",
+                                       "Improves flexibility",
+                                       "Increases VO2 max directly"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Sleep supports growth hormone and tissue repair."
+                   },
+                   {
+                       "id":  "F020",
+                       "category":  "Fundamentals",
+                       "question":  "What is proprioception?",
+                       "options":  [
+                                       "Body awareness in space",
+                                       "Visual acuity",
+                                       "Breathing rhythm",
+                                       "Heart rhythm"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Proprioception helps control movement and balance."
+                   },
+                   {
+                       "id":  "B001",
+                       "category":  "Biomechanics",
+                       "question":  "What is torque?",
+                       "options":  [
+                                       "Rotational force",
+                                       "Linear speed",
+                                       "Energy loss",
+                                       "Balance point"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Torque causes rotation at joints."
+                   },
+                   {
+                       "id":  "B002",
+                       "category":  "Biomechanics",
+                       "question":  "What increases joint stress most?",
+                       "options":  [
+                                       "Longer moment arms",
+                                       "More reps",
+                                       "Faster breathing",
+                                       "Higher heart rate"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Longer moment arms increase torque demands."
+                   },
+                   {
+                       "id":  "B003",
+                       "category":  "Biomechanics",
+                       "question":  "Why keep spine neutral under load?",
+                       "options":  [
+                                       "Reduce disc stress",
+                                       "Increase strength",
+                                       "Improve speed",
+                                       "Burn fat"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Neutral alignment reduces shear forces."
+                   },
+                   {
+                       "id":  "B004",
+                       "category":  "Biomechanics",
+                       "question":  "Which lever class favors speed?",
+                       "options":  [
+                                       "Third-class",
+                                       "First-class",
+                                       "Second-class",
+                                       "Fixed"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Most joints operate as third-class levers."
+                   },
+                   {
+                       "id":  "B005",
+                       "category":  "Biomechanics",
+                       "question":  "What controls deceleration?",
+                       "options":  [
+                                       "Eccentric contraction",
+                                       "Concentric contraction",
+                                       "Passive tension",
+                                       "Reflex only"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Eccentric muscle action absorbs force."
+                   },
+                   {
+                       "id":  "B006",
+                       "category":  "Biomechanics",
+                       "question":  "What is center of mass?",
+                       "options":  [
+                                       "Average location of body mass",
+                                       "Chest position",
+                                       "Hip joint",
+                                       "Spinal midpoint"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "COM affects balance and stability."
+                   },
+                   {
+                       "id":  "B007",
+                       "category":  "Biomechanics",
+                       "question":  "Why widen stance for heavy lifts?",
+                       "options":  [
+                                       "Increase stability",
+                                       "Improve breathing",
+                                       "Increase speed",
+                                       "Reduce flexibility"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Wider base improves balance."
+                   },
+                   {
+                       "id":  "B008",
+                       "category":  "Biomechanics",
+                       "question":  "What is ground reaction force?",
+                       "options":  [
+                                       "Force exchanged with the ground",
+                                       "Muscle tension",
+                                       "Gravity alone",
+                                       "Joint friction"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Force results from pushing against ground."
+                   },
+                   {
+                       "id":  "B009",
+                       "category":  "Biomechanics",
+                       "question":  "Which joint is most mobile?",
+                       "options":  [
+                                       "Shoulder",
+                                       "Knee",
+                                       "Ankle",
+                                       "Elbow"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Shoulder has highest mobility but lower stability."
+                   },
+                   {
+                       "id":  "B010",
+                       "category":  "Biomechanics",
+                       "question":  "What is impulse?",
+                       "options":  [
+                                       "Force applied over time",
+                                       "Peak velocity",
+                                       "Joint angle",
+                                       "Muscle tension"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Impulse changes momentum."
+                   },
+                   {
+                       "id":  "C001",
+                       "category":  "Coaching",
+                       "question":  "What is first priority in training?",
+                       "options":  [
+                                       "Safety",
+                                       "Intensity",
+                                       "Competition",
+                                       "Volume"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Safety must always come first."
+                   },
+                   {
+                       "id":  "C002",
+                       "category":  "Coaching",
+                       "question":  "When should load be increased?",
+                       "options":  [
+                                       "After consistent technique",
+                                       "Every workout",
+                                       "Only in competition",
+                                       "After soreness"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Movement quality must be stable before loading."
+                   },
+                   {
+                       "id":  "C003",
+                       "category":  "Coaching",
+                       "question":  "What improves motor learning best?",
+                       "options":  [
+                                       "Frequent quality practice",
+                                       "Random drills",
+                                       "Fatigue training",
+                                       "Long rest only"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Skill improves with consistent correct practice."
+                   },
+                   {
+                       "id":  "B011",
+                       "explanation":  "Knee flexion increases time over which force is absorbed.",
+                       "answerIndex":  0,
+                       "question":  "Why bend knees when landing?",
+                       "options":  [
+                                       "Absorb force",
+                                       "Increase speed",
+                                       "Improve balance only",
+                                       "Reduce breathing"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B012",
+                       "explanation":  "Valgus collapse during landing increases ACL strain.",
+                       "answerIndex":  0,
+                       "question":  "What causes ACL injury most often?",
+                       "options":  [
+                                       "Poor deceleration mechanics",
+                                       "Strong quads",
+                                       "High flexibility",
+                                       "Slow movement"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B013",
+                       "explanation":  "Posterior chain helps resist forward tibial translation.",
+                       "answerIndex":  0,
+                       "question":  "Which muscle group stabilizes the knee?",
+                       "options":  [
+                                       "Hamstrings and glutes",
+                                       "Calves only",
+                                       "Quadriceps only",
+                                       "Abdominals"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B014",
+                       "explanation":  "Shorter moment arms reduce torque demands.",
+                       "answerIndex":  0,
+                       "question":  "What improves lifting efficiency?",
+                       "options":  [
+                                       "Keeping load close to body",
+                                       "Faster speed",
+                                       "More reps",
+                                       "Holding breath"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B015",
+                       "explanation":  "Hip-dominant movement protects lumbar spine.",
+                       "answerIndex":  0,
+                       "question":  "Why is hip hinge important?",
+                       "options":  [
+                                       "Loads hips instead of spine",
+                                       "Improves arm strength",
+                                       "Increases speed",
+                                       "Reduces heart rate"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B016",
+                       "explanation":  "Valgus refers to inward joint deviation.",
+                       "answerIndex":  0,
+                       "question":  "What does valgus mean?",
+                       "options":  [
+                                       "Joint collapsing inward",
+                                       "Joint extending",
+                                       "Joint rotating outward",
+                                       "Joint locking"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B017",
+                       "explanation":  "Ligaments resist excessive joint motion.",
+                       "answerIndex":  0,
+                       "question":  "Which structure stabilizes the ankle most?",
+                       "options":  [
+                                       "Ligaments",
+                                       "Bones",
+                                       "Cartilage",
+                                       "Nerves"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B018",
+                       "explanation":  "Kinetic chain moves energy from ground to arm.",
+                       "answerIndex":  0,
+                       "question":  "Why rotate hips in throwing?",
+                       "options":  [
+                                       "Transfer force from legs",
+                                       "Improve grip",
+                                       "Reduce breathing",
+                                       "Increase arm size"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B019",
+                       "explanation":  "Leaning forward increases shear on lumbar spine.",
+                       "answerIndex":  0,
+                       "question":  "What increases spinal shear?",
+                       "options":  [
+                                       "Forward trunk lean",
+                                       "Deep breathing",
+                                       "Wide stance",
+                                       "Arm swing"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B020",
+                       "explanation":  "Rotator cuff centers humeral head in socket.",
+                       "answerIndex":  0,
+                       "question":  "Why strengthen rotator cuff?",
+                       "options":  [
+                                       "Stabilize shoulder joint",
+                                       "Increase arm size",
+                                       "Improve grip",
+                                       "Enhance balance"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B021",
+                       "explanation":  "Glutes help prevent knee collapse.",
+                       "answerIndex":  0,
+                       "question":  "What controls knee tracking in squats?",
+                       "options":  [
+                                       "Hip external rotators",
+                                       "Calves",
+                                       "Quadriceps",
+                                       "Lower back"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B022",
+                       "explanation":  "Restricted ankles force compensation.",
+                       "answerIndex":  0,
+                       "question":  "Why is ankle mobility important for squats?",
+                       "options":  [
+                                       "Allows proper depth",
+                                       "Improves breathing",
+                                       "Reduces heart rate",
+                                       "Increases arm power"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B023",
+                       "explanation":  "Overpronation alters knee and hip alignment.",
+                       "answerIndex":  0,
+                       "question":  "What is overpronation?",
+                       "options":  [
+                                       "Excessive inward foot roll",
+                                       "Foot supination",
+                                       "Toe gripping",
+                                       "Heel striking"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B024",
+                       "explanation":  "Thoracic extension protects lumbar spine.",
+                       "answerIndex":  0,
+                       "question":  "Why cue chest up in lifts?",
+                       "options":  [
+                                       "Maintain spinal alignment",
+                                       "Increase arm strength",
+                                       "Improve breathing",
+                                       "Reduce fatigue"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B025",
+                       "explanation":  "Lower COM improves directional control.",
+                       "answerIndex":  0,
+                       "question":  "What improves cutting ability?",
+                       "options":  [
+                                       "Lower center of mass",
+                                       "Longer stride",
+                                       "Higher jumps",
+                                       "Faster breathing"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B026",
+                       "explanation":  "Hip musculature dissipates large forces.",
+                       "answerIndex":  0,
+                       "question":  "Which joint absorbs most landing force?",
+                       "options":  [
+                                       "Hip",
+                                       "Wrist",
+                                       "Neck",
+                                       "Toes"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B027",
+                       "explanation":  "Pelvic stability improves stride efficiency.",
+                       "answerIndex":  0,
+                       "question":  "Why strengthen core for running?",
+                       "options":  [
+                                       "Maintain pelvic control",
+                                       "Increase leg size",
+                                       "Improve lung capacity",
+                                       "Reduce arm swing"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B028",
+                       "explanation":  "Hip and quad balance affects kneecap path.",
+                       "answerIndex":  0,
+                       "question":  "What reduces patellar tracking issues?",
+                       "options":  [
+                                       "Strengthening VMO and hips",
+                                       "Stretching calves",
+                                       "Neck exercises",
+                                       "Grip training"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B029",
+                       "explanation":  "Ankle, knee, and hip extension produce power.",
+                       "answerIndex":  0,
+                       "question":  "Why use triple extension in jumping?",
+                       "options":  [
+                                       "Maximize force output",
+                                       "Reduce injury risk only",
+                                       "Improve balance",
+                                       "Slow descent"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B030",
+                       "explanation":  "Vertical force improves propulsion.",
+                       "answerIndex":  0,
+                       "question":  "What increases sprint efficiency?",
+                       "options":  [
+                                       "Vertical force production",
+                                       "Longer contact time",
+                                       "Higher knee lift only",
+                                       "Relaxed arms"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B031",
+                       "explanation":  "Glute med prevents hip drop.",
+                       "answerIndex":  0,
+                       "question":  "What stabilizes pelvis in single-leg stance?",
+                       "options":  [
+                                       "Glute medius",
+                                       "Hamstrings",
+                                       "Calves",
+                                       "Spinal erectors"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B032",
+                       "explanation":  "Eccentric control prevents injury.",
+                       "answerIndex":  0,
+                       "question":  "Why train eccentric strength?",
+                       "options":  [
+                                       "Control deceleration",
+                                       "Increase speed",
+                                       "Improve balance only",
+                                       "Reduce soreness"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B033",
+                       "explanation":  "Scapula position affects humeral clearance.",
+                       "answerIndex":  0,
+                       "question":  "What increases shoulder impingement risk?",
+                       "options":  [
+                                       "Poor scapular control",
+                                       "Strong biceps",
+                                       "Wide grip",
+                                       "Neck posture"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B034",
+                       "explanation":  "Bracing stabilizes spine under load.",
+                       "answerIndex":  0,
+                       "question":  "Why brace core before lifting?",
+                       "options":  [
+                                       "Increase spinal stiffness",
+                                       "Improve breathing",
+                                       "Reduce grip fatigue",
+                                       "Increase heart rate"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B035",
+                       "explanation":  "Force flows through connected joints.",
+                       "answerIndex":  0,
+                       "question":  "What is kinetic chain?",
+                       "options":  [
+                                       "Linked body segments transferring force",
+                                       "Muscle fiber type",
+                                       "Joint capsule",
+                                       "Energy system"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B036",
+                       "explanation":  "Single-leg work reveals imbalances.",
+                       "answerIndex":  0,
+                       "question":  "Why train unilateral exercises?",
+                       "options":  [
+                                       "Correct asymmetries",
+                                       "Increase bulk",
+                                       "Improve breathing",
+                                       "Reduce soreness"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B037",
+                       "explanation":  "Proper hinge protects lumbar spine.",
+                       "answerIndex":  0,
+                       "question":  "What reduces low back strain in deadlift?",
+                       "options":  [
+                                       "Hip hinge technique",
+                                       "Wide grip",
+                                       "Fast tempo",
+                                       "High reps"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B038",
+                       "explanation":  "Certain angles increase ligament strain.",
+                       "answerIndex":  0,
+                       "question":  "Why control knee flexion angle?",
+                       "options":  [
+                                       "Manage joint stress",
+                                       "Improve balance only",
+                                       "Increase power",
+                                       "Reduce fatigue"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B039",
+                       "explanation":  "Erectors maintain upright posture.",
+                       "answerIndex":  0,
+                       "question":  "What supports spinal extension?",
+                       "options":  [
+                                       "Erector spinae muscles",
+                                       "Abdominals",
+                                       "Calves",
+                                       "Hip flexors"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B040",
+                       "explanation":  "Ligaments are not built for load bearing.",
+                       "answerIndex":  0,
+                       "question":  "Why avoid locking joints under load?",
+                       "options":  [
+                                       "Transfers stress to ligaments",
+                                       "Improves stability",
+                                       "Reduces effort",
+                                       "Increases speed"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B041",
+                       "explanation":  "Wider base increases stability.",
+                       "answerIndex":  0,
+                       "question":  "What affects balance most?",
+                       "options":  [
+                                       "Base of support",
+                                       "Heart rate",
+                                       "Grip strength",
+                                       "Arm length"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B042",
+                       "explanation":  "Posterior chain controls hip and trunk motion.",
+                       "answerIndex":  0,
+                       "question":  "Why strengthen posterior chain?",
+                       "options":  [
+                                       "Protect spine and knees",
+                                       "Increase chest size",
+                                       "Improve breathing",
+                                       "Reduce fat"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B043",
+                       "explanation":  "Bone adapts to gradual stress increases.",
+                       "answerIndex":  0,
+                       "question":  "What reduces shin splints?",
+                       "options":  [
+                                       "Progressive loading",
+                                       "More stretching only",
+                                       "Barefoot running",
+                                       "Ice baths"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B044",
+                       "explanation":  "Stopping forces are higher than acceleration.",
+                       "answerIndex":  0,
+                       "question":  "Why train deceleration drills?",
+                       "options":  [
+                                       "Reduce injury risk",
+                                       "Increase speed only",
+                                       "Improve endurance",
+                                       "Burn calories"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B045",
+                       "explanation":  "Separation increases elastic energy transfer.",
+                       "answerIndex":  0,
+                       "question":  "What improves throwing velocity?",
+                       "options":  [
+                                       "Hip-shoulder separation",
+                                       "Grip strength",
+                                       "Neck position",
+                                       "Breathing rate"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B046",
+                       "explanation":  "Achilles tendon contributes to propulsion.",
+                       "answerIndex":  0,
+                       "question":  "Why strengthen calves for jumping?",
+                       "options":  [
+                                       "Store and release elastic energy",
+                                       "Increase balance only",
+                                       "Reduce soreness",
+                                       "Improve posture"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B047",
+                       "explanation":  "Hamstrings must decelerate limb rapidly.",
+                       "answerIndex":  0,
+                       "question":  "What increases hamstring injury risk?",
+                       "options":  [
+                                       "Weak eccentric strength",
+                                       "High flexibility",
+                                       "Good posture",
+                                       "Strong glutes"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B048",
+                       "explanation":  "Longer deceleration reduces peak forces.",
+                       "answerIndex":  0,
+                       "question":  "Why cue soft landings?",
+                       "options":  [
+                                       "Increase force absorption time",
+                                       "Improve speed",
+                                       "Reduce effort",
+                                       "Improve balance only"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B049",
+                       "explanation":  "Obliques control trunk rotation.",
+                       "answerIndex":  0,
+                       "question":  "What stabilizes spine during rotation?",
+                       "options":  [
+                                       "Obliques",
+                                       "Quadriceps",
+                                       "Calves",
+                                       "Deltoids"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "B050",
+                       "explanation":  "Real sport involves lateral and rotational forces.",
+                       "answerIndex":  0,
+                       "question":  "Why train multidirectional movement?",
+                       "options":  [
+                                       "Sports occur in multiple planes",
+                                       "Increases muscle size",
+                                       "Improves breathing",
+                                       "Reduces fatigue"
+                                   ],
+                       "category":  "Biomechanics"
+                   },
+                   {
+                       "id":  "C004",
+                       "explanation":  "Skill under fatigue shows true readiness.",
+                       "answerIndex":  0,
+                       "question":  "What indicates readiness to progress an athlete?",
+                       "options":  [
+                                       "Consistent technique under fatigue",
+                                       "Max heart rate",
+                                       "Muscle soreness",
+                                       "Fast warmups"
+                                   ],
+                       "category":  "Coaching"
+                   },
+                   {
+                       "id":  "C005",
+                       "explanation":  "Volume management reduces overload risk.",
+                       "answerIndex":  0,
+                       "question":  "Why track training volume?",
+                       "options":  [
+                                       "Prevent overuse injuries",
+                                       "Increase fatigue",
+                                       "Replace recovery",
+                                       "Improve flexibility"
+                                   ],
+                       "category":  "Coaching"
+                   },
+                   {
+                       "id":  "C006",
+                       "explanation":  "Regression rebuilds correct motor patterns.",
+                       "answerIndex":  0,
+                       "question":  "Best response to poor technique?",
+                       "options":  [
+                                       "Regress the movement",
+                                       "Add load",
+                                       "Ignore it",
+                                       "Increase speed"
+                                   ],
+                       "category":  "Coaching"
+                   },
+                   {
+                       "id":  "C007",
+                       "explanation":  "Goal-setting improves adherence.",
+                       "answerIndex":  0,
+                       "question":  "What improves athlete motivation most?",
+                       "options":  [
+                                       "Clear achievable goals",
+                                       "Punishment",
+                                       "High volume",
+                                       "Competition only"
+                                   ],
+                       "category":  "Coaching"
+                   },
+                   {
+                       "id":  "C008",
+                       "explanation":  "Tissue strength must precede impact loading.",
+                       "answerIndex":  0,
+                       "question":  "When should plyometrics be used?",
+                       "options":  [
+                                       "After strength foundation",
+                                       "During rehab",
+                                       "Before warmup",
+                                       "Daily regardless"
+                                   ],
+                       "category":  "Coaching"
+                   },
+                   {
+                       "id":  "C009",
+                       "explanation":  "Periodization manages stress and adaptation.",
+                       "answerIndex":  0,
+                       "question":  "Why rotate training phases?",
+                       "options":  [
+                                       "Prevent plateaus and overuse",
+                                       "Increase fatigue",
+                                       "Confuse athletes",
+                                       "Avoid coaching"
+                                   ],
+                       "category":  "Coaching"
+                   },
+                   {
+                       "id":  "C010",
+                       "explanation":  "Deload allows recovery before next block.",
+                       "answerIndex":  0,
+                       "question":  "What is deload week for?",
+                       "options":  [
+                                       "Reduce fatigue and restore recovery",
+                                       "Increase volume",
+                                       "Improve speed",
+                                       "Test maxes"
+                                   ],
+                       "category":  "Coaching"
+                   },
+                   {
+                       "id":  "C011",
+                       "explanation":  "Gradual progression reduces injury risk.",
+                       "answerIndex":  0,
+                       "question":  "Why limit weekly volume increases?",
+                       "options":  [
+                                       "Prevent overuse injuries",
+                                       "Improve flexibility",
+                                       "Increase soreness",
+                                       "Boost motivation"
+                                   ],
+                       "category":  "Coaching"
+                   },
+                   {
+                       "id":  "C012",
+                       "explanation":  "Form breakdown signals unsafe fatigue.",
+                       "answerIndex":  0,
+                       "question":  "What is technical failure?",
+                       "options":  [
+                                       "Loss of proper form",
+                                       "Muscle exhaustion",
+                                       "Heart rate spike",
+                                       "Breathing difficulty"
+                                   ],
+                       "category":  "Coaching"
+                   },
+                   {
+                       "id":  "C013",
+                       "explanation":  "Performance stability predicts competition readiness.",
+                       "answerIndex":  0,
+                       "question":  "Best indicator of readiness for competition?",
+                       "options":  [
+                                       "Consistent performance in training",
+                                       "High body weight",
+                                       "Low soreness",
+                                       "High motivation"
+                                   ],
+                       "category":  "Coaching"
+                   },
+                   {
+                       "id":  "C014",
+                       "explanation":  "Training response varies between individuals.",
+                       "answerIndex":  0,
+                       "question":  "Why individualize programs?",
+                       "options":  [
+                                       "Athletes adapt differently",
+                                       "Saves time",
+                                       "Looks professional",
+                                       "Reduces paperwork"
+                                   ],
+                       "category":  "Coaching"
+                   },
+                   {
+                       "id":  "C015",
+                       "explanation":  "Repeated practice over time improves retention.",
+                       "answerIndex":  0,
+                       "question":  "What improves learning retention?",
+                       "options":  [
+                                       "Spaced repetition",
+                                       "Single long session",
+                                       "Random guessing",
+                                       "No feedback"
+                                   ],
+                       "category":  "Coaching"
+                   },
+                   {
+                       "id":  "I001",
+                       "explanation":  "Valgus knee collapse increases ligament stress.",
+                       "answerIndex":  0,
+                       "question":  "What increases ACL injury risk?",
+                       "options":  [
+                                       "Poor landing mechanics",
+                                       "Strong quadriceps",
+                                       "Good balance",
+                                       "Low fatigue"
+                                   ],
+                       "category":  "Injury Prevention"
+                   },
+                   {
+                       "id":  "I002",
+                       "explanation":  "Stable trunk reduces joint stress.",
+                       "answerIndex":  0,
+                       "question":  "Why strengthen core for injury prevention?",
+                       "options":  [
+                                       "Improves force transfer and stability",
+                                       "Builds muscle size",
+                                       "Improves breathing only",
+                                       "Reduces heart rate"
+                                   ],
+                       "category":  "Injury Prevention"
+                   },
+                   {
+                       "id":  "I003",
+                       "explanation":  "Eccentric work improves muscle resilience.",
+                       "answerIndex":  0,
+                       "question":  "What reduces hamstring strains?",
+                       "options":  [
+                                       "Eccentric strengthening",
+                                       "Static stretching only",
+                                       "Running volume",
+                                       "Protein intake"
+                                   ],
+                       "category":  "Injury Prevention"
+                   },
+                   {
+                       "id":  "I004",
+                       "explanation":  "Cumulative stress exceeds tissue recovery.",
+                       "answerIndex":  0,
+                       "question":  "What is overuse injury?",
+                       "options":  [
+                                       "Repeated micro-trauma over time",
+                                       "Single traumatic event",
+                                       "Joint dislocation",
+                                       "Bone fracture"
+                                   ],
+                       "category":  "Injury Prevention"
+                   },
+                   {
+                       "id":  "I005",
+                       "explanation":  "Rapid load spikes raise injury risk.",
+                       "answerIndex":  0,
+                       "question":  "Why monitor training load?",
+                       "options":  [
+                                       "Detect injury risk early",
+                                       "Increase intensity",
+                                       "Shorten workouts",
+                                       "Reduce flexibility"
+                                   ],
+                       "category":  "Injury Prevention"
+                   },
+                   {
+                       "id":  "Y001",
+                       "explanation":  "Skill development builds long-term athletic foundation.",
+                       "answerIndex":  0,
+                       "question":  "Primary goal of youth strength training?",
+                       "options":  [
+                                       "Develop movement skills",
+                                       "Maximize muscle size",
+                                       "Increase competition",
+                                       "Specialize early"
+                                   ],
+                       "category":  "Youth Training"
+                   },
+                   {
+                       "id":  "Y002",
+                       "explanation":  "Early diversification reduces burnout and injury.",
+                       "answerIndex":  0,
+                       "question":  "When is specialization recommended?",
+                       "options":  [
+                                       "After puberty",
+                                       "Before age 8",
+                                       "As soon as possible",
+                                       "Only for elite athletes"
+                                   ],
+                       "category":  "Youth Training"
+                   },
+                   {
+                       "id":  "Y003",
+                       "explanation":  "Neuromuscular development is key early on.",
+                       "answerIndex":  0,
+                       "question":  "Best training focus for young athletes?",
+                       "options":  [
+                                       "Coordination and balance",
+                                       "Heavy resistance",
+                                       "Max effort lifting",
+                                       "Single sport drills"
+                                   ],
+                       "category":  "Youth Training"
+                   },
+                   {
+                       "id":  "Y004",
+                       "explanation":  "Skeletal structures are still developing.",
+                       "answerIndex":  0,
+                       "question":  "Why avoid maximal lifting in youth?",
+                       "options":  [
+                                       "Growth plate vulnerability",
+                                       "It slows growth",
+                                       "It builds fat",
+                                       "It reduces endurance"
+                                   ],
+                       "category":  "Youth Training"
+                   },
+                   {
+                       "id":  "Y005",
+                       "explanation":  "Success with skills increases motivation.",
+                       "answerIndex":  0,
+                       "question":  "What builds confidence in young athletes?",
+                       "options":  [
+                                       "Mastery of basic skills",
+                                       "Constant competition",
+                                       "Punishment",
+                                       "Public ranking"
+                                   ],
+                       "category":  "Youth Training"
+                   },
+                   {
+                       "id":  "R001",
+                       "explanation":  "All functional systems must recover.",
+                       "answerIndex":  0,
+                       "question":  "What must be restored before return to play?",
+                       "options":  [
+                                       "Strength, mobility, and confidence",
+                                       "Pain tolerance only",
+                                       "Cardio fitness only",
+                                       "Body weight"
+                                   ],
+                       "category":  "Return to Play"
+                   },
+                   {
+                       "id":  "R002",
+                       "explanation":  "Specific loading reduces reinjury risk.",
+                       "answerIndex":  0,
+                       "question":  "Why use sport-specific drills in rehab?",
+                       "options":  [
+                                       "Prepare tissues for real demands",
+                                       "Reduce rehab time",
+                                       "Increase soreness",
+                                       "Avoid strength training"
+                                   ],
+                       "category":  "Return to Play"
+                   },
+                   {
+                       "id":  "R003",
+                       "explanation":  "Incomplete healing increases risk.",
+                       "answerIndex":  0,
+                       "question":  "What increases reinjury risk most?",
+                       "options":  [
+                                       "Returning too soon",
+                                       "Extra stretching",
+                                       "Low training volume",
+                                       "Light activity"
+                                   ],
+                       "category":  "Return to Play"
+                   },
+                   {
+                       "id":  "R004",
+                       "explanation":  "Objective testing reduces guesswork.",
+                       "answerIndex":  0,
+                       "question":  "Why test before clearance?",
+                       "options":  [
+                                       "Verify functional readiness",
+                                       "Save time",
+                                       "Meet paperwork",
+                                       "Reduce rehab cost"
+                                   ],
+                       "category":  "Return to Play"
+                   },
+                   {
+                       "id":  "R005",
+                       "explanation":  "Fear can alter movement patterns.",
+                       "answerIndex":  0,
+                       "question":  "Psychological readiness affects?",
+                       "options":  [
+                                       "Movement quality and confidence",
+                                       "Muscle size",
+                                       "Flexibility only",
+                                       "Heart rate"
+                                   ],
+                       "category":  "Return to Play"
+                   },
+                   {
+                       "id":  "N001",
+                       "explanation":  "Carbs are fastest usable fuel source.",
+                       "answerIndex":  0,
+                       "question":  "Primary fuel during high intensity exercise?",
+                       "options":  [
+                                       "Carbohydrates",
+                                       "Protein",
+                                       "Fat",
+                                       "Vitamins"
+                                   ],
+                       "category":  "Sports Nutrition"
+                   },
+                   {
+                       "id":  "N002",
+                       "explanation":  "Protein supports tissue repair.",
+                       "answerIndex":  0,
+                       "question":  "Protein is mainly used for?",
+                       "options":  [
+                                       "Repair and growth",
+                                       "Immediate energy",
+                                       "Hydration",
+                                       "Joint lubrication"
+                                   ],
+                       "category":  "Sports Nutrition"
+                   },
+                   {
+                       "id":  "N003",
+                       "explanation":  "Even mild dehydration reduces output.",
+                       "answerIndex":  0,
+                       "question":  "Dehydration first affects?",
+                       "options":  [
+                                       "Performance and focus",
+                                       "Bone density",
+                                       "Muscle size",
+                                       "Fat loss"
+                                   ],
+                       "category":  "Sports Nutrition"
+                   },
+                   {
+                       "id":  "N004",
+                       "explanation":  "Early intake speeds recovery.",
+                       "answerIndex":  0,
+                       "question":  "Best post-workout nutrition timing?",
+                       "options":  [
+                                       "Within 1 hour",
+                                       "Next morning",
+                                       "Only before sleep",
+                                       "After soreness"
+                                   ],
+                       "category":  "Sports Nutrition"
+                   },
+                   {
+                       "id":  "N005",
+                       "explanation":  "Electrolytes support nerve and muscle function.",
+                       "answerIndex":  0,
+                       "question":  "Electrolytes help regulate?",
+                       "options":  [
+                                       "Fluid balance and nerve function",
+                                       "Protein synthesis",
+                                       "Bone density",
+                                       "Fat metabolism"
+                                   ],
+                       "category":  "Sports Nutrition"
+                   },
+                   {
+                       "id":  "C004",
+                       "explanation":  "Immediate feedback improves correction.",
+                       "answerIndex":  0,
+                       "question":  "Best feedback timing?",
+                       "options":  [
+                                       "Immediately after attempt",
+                                       "Next day",
+                                       "Only in meetings",
+                                       "After competition"
+                                   ],
+                       "category":  "Coaching"
+                   },
+                   {
+                       "id":  "C005",
+                       "explanation":  "Goal clarity increases motivation.",
+                       "answerIndex":  0,
+                       "question":  "What improves adherence most?",
+                       "options":  [
+                                       "Clear goals",
+                                       "Punishment",
+                                       "Volume",
+                                       "Random plans"
+                                   ],
+                       "category":  "Coaching"
+                   },
+                   {
+                       "id":  "C006",
+                       "explanation":  "Athletes respond differently to training.",
+                       "answerIndex":  0,
+                       "question":  "Why individualize programs?",
+                       "options":  [
+                                       "Different abilities and needs",
+                                       "Save time",
+                                       "Increase soreness",
+                                       "Avoid planning"
+                                   ],
+                       "category":  "Coaching"
+                   },
+                   {
+                       "id":  "C007",
+                       "explanation":  "Fatigue impairs adaptation.",
+                       "answerIndex":  0,
+                       "question":  "Overtraining signs include?",
+                       "options":  [
+                                       "Performance decline",
+                                       "Muscle growth",
+                                       "Improved mood",
+                                       "Higher power"
+                                   ],
+                       "category":  "Coaching"
+                   },
+                   {
+                       "id":  "C008",
+                       "explanation":  "Monitoring prevents excessive stress.",
+                       "answerIndex":  0,
+                       "question":  "Why track training loads?",
+                       "options":  [
+                                       "Prevent injury and burnout",
+                                       "Increase reps",
+                                       "Save equipment",
+                                       "Replace coaching"
+                                   ],
+                       "category":  "Coaching"
+                   },
+                   {
+                       "id":  "C009",
+                       "explanation":  "Prep tissues and nervous system.",
+                       "answerIndex":  0,
+                       "question":  "Good warmups should include?",
+                       "options":  [
+                                       "Mobility and activation",
+                                       "Static stretching only",
+                                       "Max lifts",
+                                       "Competition drills"
+                                   ],
+                       "category":  "Coaching"
+                   },
+                   {
+                       "id":  "C010",
+                       "explanation":  "Safety and quality drive decisions.",
+                       "answerIndex":  0,
+                       "question":  "When to regress an exercise?",
+                       "options":  [
+                                       "Loss of technique",
+                                       "Low heart rate",
+                                       "Slow breathing",
+                                       "Too easy"
+                                   ],
+                       "category":  "Coaching"
+                   },
+                   {
+                       "id":  "P001",
+                       "explanation":  "Visualization improves confidence.",
+                       "answerIndex":  0,
+                       "question":  "What improves performance under pressure?",
+                       "options":  [
+                                       "Mental rehearsal",
+                                       "Extra cardio",
+                                       "More protein",
+                                       "Late nights"
+                                   ],
+                       "category":  "Sport Psychology"
+                   },
+                   {
+                       "id":  "P002",
+                       "explanation":  "Conscious control disrupts automatic skills.",
+                       "answerIndex":  0,
+                       "question":  "What causes choking?",
+                       "options":  [
+                                       "Overthinking skills",
+                                       "Low strength",
+                                       "Poor flexibility",
+                                       "Bad nutrition"
+                                   ],
+                       "category":  "Sport Psychology"
+                   },
+                   {
+                       "id":  "P003",
+                       "explanation":  "Clear goals guide training focus.",
+                       "answerIndex":  0,
+                       "question":  "Goal setting should be?",
+                       "options":  [
+                                       "Specific and measurable",
+                                       "Vague and flexible",
+                                       "Only outcome-based",
+                                       "Secret"
+                                   ],
+                       "category":  "Sport Psychology"
+                   },
+                   {
+                       "id":  "P004",
+                       "explanation":  "Trust improves cooperation.",
+                       "answerIndex":  0,
+                       "question":  "What builds team cohesion?",
+                       "options":  [
+                                       "Shared goals and trust",
+                                       "Punishment",
+                                       "Competition only",
+                                       "Isolation"
+                                   ],
+                       "category":  "Sport Psychology"
+                   },
+                   {
+                       "id":  "P005",
+                       "explanation":  "Lower stress aids adaptation.",
+                       "answerIndex":  0,
+                       "question":  "Stress management improves?",
+                       "options":  [
+                                       "Recovery and focus",
+                                       "Muscle size",
+                                       "Speed only",
+                                       "Joint mobility"
+                                   ],
+                       "category":  "Sport Psychology"
+                   },
+                   {
+                       "id":  "A001",
+                       "explanation":  "Glutes drive hip extension.",
+                       "answerIndex":  0,
+                       "question":  "Primary hip extensor?",
+                       "options":  [
+                                       "Gluteus maximus",
+                                       "Rectus femoris",
+                                       "Adductor longus",
+                                       "Iliopsoas"
+                                   ],
+                       "category":  "Anatomy"
+                   },
+                   {
+                       "id":  "A002",
+                       "explanation":  "VMO supports patellar tracking.",
+                       "answerIndex":  0,
+                       "question":  "Which muscle stabilizes knee medially?",
+                       "options":  [
+                                       "Vastus medialis",
+                                       "Biceps femoris",
+                                       "Gastrocnemius",
+                                       "Soleus"
+                                   ],
+                       "category":  "Anatomy"
+                   },
+                   {
+                       "id":  "A003",
+                       "explanation":  "Cuff centers humeral head.",
+                       "answerIndex":  0,
+                       "question":  "Rotator cuff purpose?",
+                       "options":  [
+                                       "Joint stability",
+                                       "Arm strength",
+                                       "Grip force",
+                                       "Neck posture"
+                                   ],
+                       "category":  "Anatomy"
+                   },
+                   {
+                       "id":  "A004",
+                       "explanation":  "Hip allows multi-plane movement.",
+                       "answerIndex":  0,
+                       "question":  "Which joint is ball-and-socket?",
+                       "options":  [
+                                       "Hip",
+                                       "Knee",
+                                       "Ankle",
+                                       "Elbow"
+                                   ],
+                       "category":  "Anatomy"
+                   },
+                   {
+                       "id":  "A005",
+                       "explanation":  "Gastroc contributes to push-off.",
+                       "answerIndex":  0,
+                       "question":  "Primary ankle plantarflexor?",
+                       "options":  [
+                                       "Gastrocnemius",
+                                       "Tibialis anterior",
+                                       "Peroneals",
+                                       "Quadriceps"
+                                   ],
+                       "category":  "Anatomy"
+                   },
+                   {
+                       "id":  "I001",
+                       "explanation":  "Repetitive load without recovery damages tissue.",
+                       "answerIndex":  0,
+                       "question":  "Most common cause of overuse injury?",
+                       "options":  [
+                                       "Excess volume",
+                                       "Poor nutrition",
+                                       "Low flexibility",
+                                       "Wrong shoes"
+                                   ],
+                       "category":  "Injury Prevention"
+                   },
+                   {
+                       "id":  "I002",
+                       "explanation":  "Gradual progression reduces injury risk.",
+                       "answerIndex":  0,
+                       "question":  "Best prevention strategy?",
+                       "options":  [
+                                       "Progressive load",
+                                       "Random workouts",
+                                       "Daily max effort",
+                                       "Skipping warmups"
+                                   ],
+                       "category":  "Injury Prevention"
+                   },
+                   {
+                       "id":  "I003",
+                       "explanation":  "Valgus collapse stresses ACL.",
+                       "answerIndex":  0,
+                       "question":  "ACL injury risk increases with?",
+                       "options":  [
+                                       "Poor landing mechanics",
+                                       "High protein diet",
+                                       "Strong calves",
+                                       "Good balance"
+                                   ],
+                       "category":  "Injury Prevention"
+                   },
+                   {
+                       "id":  "I004",
+                       "explanation":  "Addresses left-right imbalances.",
+                       "answerIndex":  0,
+                       "question":  "Why include single-leg training?",
+                       "options":  [
+                                       "Improve symmetry",
+                                       "Increase fatigue",
+                                       "Build calves only",
+                                       "Save time"
+                                   ],
+                       "category":  "Injury Prevention"
+                   },
+                   {
+                       "id":  "I005",
+                       "explanation":  "Tendons have poor blood supply.",
+                       "answerIndex":  0,
+                       "question":  "Which tissue heals slowest?",
+                       "options":  [
+                                       "Tendon",
+                                       "Muscle",
+                                       "Skin",
+                                       "Blood vessels"
+                                   ],
+                       "category":  "Injury Prevention"
+                   },
+                   {
+                       "id":  "T001",
+                       "explanation":  "Organized training improves adaptation.",
+                       "answerIndex":  0,
+                       "question":  "What is periodization?",
+                       "options":  [
+                                       "Planned training cycles",
+                                       "Random workouts",
+                                       "Only strength blocks",
+                                       "Rest scheduling"
+                                   ],
+                       "category":  "Training Periodization"
+                   },
+                   {
+                       "id":  "T002",
+                       "explanation":  "Recovery restores performance.",
+                       "answerIndex":  0,
+                       "question":  "Purpose of deload week?",
+                       "options":  [
+                                       "Reduce fatigue",
+                                       "Increase volume",
+                                       "Improve speed",
+                                       "Boost soreness"
+                                   ],
+                       "category":  "Training Periodization"
+                   },
+                   {
+                       "id":  "T003",
+                       "explanation":  "Macrocycles span months or seasons.",
+                       "answerIndex":  0,
+                       "question":  "What is a macrocycle?",
+                       "options":  [
+                                       "Long-term training plan",
+                                       "Daily workout",
+                                       "Warmup set",
+                                       "Single drill"
+                                   ],
+                       "category":  "Training Periodization"
+                   },
+                   {
+                       "id":  "T004",
+                       "explanation":  "Variation supports adaptation.",
+                       "answerIndex":  0,
+                       "question":  "Why vary intensity?",
+                       "options":  [
+                                       "Prevent plateaus",
+                                       "Confuse muscles",
+                                       "Save time",
+                                       "Avoid planning"
+                                   ],
+                       "category":  "Training Periodization"
+                   },
+                   {
+                       "id":  "T005",
+                       "explanation":  "Goal is optimal competition performance.",
+                       "answerIndex":  0,
+                       "question":  "Peaking phase focuses on?",
+                       "options":  [
+                                       "Max performance readiness",
+                                       "High volume",
+                                       "Learning technique",
+                                       "Rehab"
+                                   ],
+                       "category":  "Training Periodization"
+                   },
+                   {
+                       "id":  "P001",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 001: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P002",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 002: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P003",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 003: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P004",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 004: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P005",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 005: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P006",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 006: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P007",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 007: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P008",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 008: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P009",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 009: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P010",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 010: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P011",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 011: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P012",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 012: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P013",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 013: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P014",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 014: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P015",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 015: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P016",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 016: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P017",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 017: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P018",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 018: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P019",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 019: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P020",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 020: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P021",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 021: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P022",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 022: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P023",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 023: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P024",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 024: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P025",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 025: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P026",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 026: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P027",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 027: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P028",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 028: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P029",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 029: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P030",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 030: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P031",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 031: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P032",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 032: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P033",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 033: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P034",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 034: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P035",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 035: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P036",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 036: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P037",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 037: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P038",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 038: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P039",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 039: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P040",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 040: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P041",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 041: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P042",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 042: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P043",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 043: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P044",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 044: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P045",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 045: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P046",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 046: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P047",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 047: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P048",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 048: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P049",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 049: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "P050",
+                       "category":  "Physiology",
+                       "question":  "Physiology concept 050: which system is primarily responsible for transporting oxygen to working muscles?",
+                       "options":  [
+                                       "Cardiovascular",
+                                       "Digestive",
+                                       "Nervous",
+                                       "Endocrine"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Red blood cells carry oxygen through the bloodstream, making the cardiovascular system responsible for oxygen delivery."
+                   },
+                   {
+                       "id":  "I001",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 001: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I002",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 002: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I003",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 003: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I004",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 004: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I005",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 005: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I006",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 006: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I007",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 007: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I008",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 008: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I009",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 009: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I010",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 010: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I011",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 011: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I012",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 012: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I013",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 013: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I014",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 014: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I015",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 015: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I016",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 016: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I017",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 017: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I018",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 018: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I019",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 019: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I020",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 020: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I021",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 021: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I022",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 022: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I023",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 023: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I024",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 024: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I025",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 025: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I026",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 026: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I027",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 027: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I028",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 028: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I029",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 029: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I030",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 030: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I031",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 031: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I032",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 032: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I033",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 033: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I034",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 034: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I035",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 035: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I036",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 036: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I037",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 037: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I038",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 038: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I039",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 039: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I040",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 040: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I041",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 041: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I042",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 042: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I043",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 043: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I044",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 044: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I045",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 045: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I046",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 046: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I047",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 047: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I048",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 048: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I049",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 049: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   },
+                   {
+                       "id":  "I050",
+                       "category":  "Injury Prevention",
+                       "question":  "Injury prevention principle 050: what reduces joint stress during landing?",
+                       "options":  [
+                                       "Increase knee and hip flexion",
+                                       "Lock the knees",
+                                       "Land stiff",
+                                       "Land asymmetrically"
+                                   ],
+                       "answerIndex":  0,
+                       "explanation":  "Greater hip and knee flexion increases force absorption time and lowers peak joint forces."
+                   }
+               ]
+}

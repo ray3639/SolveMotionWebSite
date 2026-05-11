@@ -1,0 +1,91 @@
+{
+    "movements":  [
+                      {
+                          "id":  "back_squat",
+                          "name":  "Squat",
+                          "purpose":  "Evaluates lower-body mobility, stability, and control.",
+                          "observations":  [
+                                               "Knee tracking",
+                                               "Hip depth",
+                                               "Trunk control",
+                                               "Symmetry",
+                                               "Movement control"
+                                           ]
+                      },
+                      {
+                          "id":  "hip_hinge_drill",
+                          "name":  "Hip Hinge",
+                          "purpose":  "Evaluates posterior-chain coordination and spinal control.",
+                          "observations":  [
+                                               "Hip dominance",
+                                               "Spine neutrality",
+                                               "Pelvic control"
+                                           ]
+                      },
+                      {
+                          "id":  "forward_lunge",
+                          "name":  "Lunge",
+                          "purpose":  "Evaluates unilateral strength, balance, and coordination.",
+                          "observations":  [
+                                               "Knee alignment",
+                                               "Hip stability",
+                                               "Balance control"
+                                           ]
+                      },
+                      {
+                          "id":  "overhead_squat",
+                          "name":  "Overhead Reach",
+                          "purpose":  "Evaluates shoulder mobility and thoracic extension.",
+                          "observations":  [
+                                               "Arm symmetry",
+                                               "Spinal extension",
+                                               "Scapular control"
+                                           ]
+                      },
+                      {
+                          "id":  "single_leg_rdl",
+                          "name":  "Single-Leg Balance",
+                          "purpose":  "Evaluates postural control and proprioception.",
+                          "observations":  [
+                                               "Pelvic stability",
+                                               "Foot control",
+                                               "Postural sway"
+                                           ]
+                      },
+                      {
+                          "id":  "cossack_squat",
+                          "name":  "Rotation / Twist",
+                          "purpose":  "Evaluates rotational control and mobility.",
+                          "observations":  [
+                                               "Thoracic rotation",
+                                               "Pelvic dissociation",
+                                               "Symmetry"
+                                           ]
+                      },
+                      {
+                          "id":  "kettlebell_swing",
+                          "name":  "Move Your Booty",
+                          "purpose":  "Fun glute activation and coordination drill to encourage hip movement awareness.",
+                          "observations":  [
+                                               "Hip isolation",
+                                               "Pelvic control",
+                                               "Rhythm and coordination",
+                                               "Symmetry",
+                                               "Body awareness"
+                                           ],
+                          "instructions":  [
+                                               "Stand relaxed with feet shoulder-width apart",
+                                               "Gently isolate hip movement",
+                                               "Shift weight side-to-side with control",
+                                               "Keep chest upright and knees soft",
+                                               "Move with rhythm, not speed"
+                                           ],
+                          "tips":  [
+                                       "Small movements count",
+                                       "Focus on symmetry",
+                                       "Relax your upper body",
+                                       "Have fun with the rhythm"
+                                   ]
+                      }
+                  ]
+}

@@ -1,0 +1,61 @@
+{
+  "foundations": [
+    {
+      "id": "kinesiology_overview",
+      "title": "What Is Kinesiology?",
+      "content": [
+        "Kinesiology is the scientific study of human movement.",
+        "It integrates anatomy, physiology, biomechanics, motor control, psychology, and neuroscience.",
+        "Kinesiology is used in sports performance, rehabilitation, injury prevention, ergonomics, and clinical assessment."
+      ],
+      "links": [
+        { "label": "NIH Overview", "url": "https://www.ncbi.nlm.nih.gov/books/NBK538193/" },
+        { "label": "Britannica", "url": "https://www.britannica.com/science/kinesiology" }
+      ]
+    }
+  ],
+  "anatomy": [
+    {
+      "id": "muscle_types",
+      "title": "Muscle Types",
+      "content": [
+        "Skeletal muscle: voluntary, striated, attached to bones.",
+        "Smooth muscle: involuntary, found in organs and vessels.",
+        "Cardiac muscle: involuntary, striated, found in the heart."
+      ],
+      "links": [
+        { "label": "TeachMeAnatomy", "url": "https://teachmeanatomy.info/muscles/" }
+      ]
+    }
+  ],
+  "movement": [
+    {
+      "id": "joint_actions",
+      "title": "Joint Actions",
+      "content": [
+        "Flexion: decreasing joint angle.",
+        "Extension: increasing joint angle.",
+        "Abduction: movement away from midline.",
+        "Adduction: movement toward midline.",
+        "Rotation: internal or external movement around axis."
+      ],
+      "links": [
+        { "label": "PhysioPedia", "url": "https://www.physio-pedia.com/Joint_Movement" }
+      ]
+    }
+  ],
+  "biomechanics": [
+    {
+      "id": "force_motion",
+      "title": "Force and Motion",
+      "content": [
+        "Force is any push or pull acting on the body.",
+        "Torque causes rotational movement around joints.",
+        "Levers in the body optimize strength, speed, or range of motion."
+      ],
+      "links": [
+        { "label": "OpenStax Biomechanics", "url": "https://openstax.org/details/books/anatomy-and-physiology" }
+      ]
+    }
+  ]
+}

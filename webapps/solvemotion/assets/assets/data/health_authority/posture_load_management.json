@@ -1,0 +1,24 @@
+{
+  "id": "posture_load_management",
+  "source": "WHO",
+  "title": "Load Management & Posture",
+  "severity": "MODERATE",
+  "overview": "Proper posture and gradual training load reduce fatigue and overuse injuries.",
+  "recommendations": [
+    "Increase training intensity gradually",
+    "Avoid sustained poor posture",
+    "Rest when pain persists"
+  ],
+  "riskFactors": [
+    "Sudden workload increases",
+    "Improper lifting technique",
+    "Weak stabilizing muscles"
+  ],
+  "links": [
+    {
+      "label": "WHO Physical Activity Guidance",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+    }
+  ]
+}
+

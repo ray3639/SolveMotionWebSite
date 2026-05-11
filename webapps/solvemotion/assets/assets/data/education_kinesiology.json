@@ -1,0 +1,320 @@
+{
+    "foundations":  [
+                        {
+                            "id":  "biomechanics",
+                            "title":  "Biomechanics Fundamentals",
+                            "summary":  "How forces act on the human body during movement.",
+                            "sections":  [
+                                             {
+                                                 "title":  "Force, torque, and moment arms",
+                                                 "content":  [
+                                                                 "Force is any interaction that changes motion or posture in the body.",
+                                                                 "In human movement, forces originate from muscles, gravity, and external loads.",
+                                                                 "Torque is rotational force produced around a joint when force is applied at a distance.",
+                                                                 "Moment arms determine how much torque a muscle or load produces.",
+                                                                 "Small changes in joint position can dramatically increase muscular demand and joint stress.",
+                                                                 "Understanding torque explains why some positions feel easy while others feel unstable or heavy."
+                                                             ]
+                                             },
+                                             {
+                                                 "title":  "Joint loading principles",
+                                                 "content":  [
+                                                                 "Joint loading describes how forces are transmitted through joints during movement.",
+                                                                 "Efficient movement distributes load across muscles and joints rather than concentrating stress.",
+                                                                 "Poor mechanics can increase compressive or shear forces beyond tissue tolerance.",
+                                                                 "Repeated excessive loading is a primary contributor to overuse injuries.",
+                                                                 "Healthy joints adapt to progressive load when movement quality is maintained."
+                                                             ]
+                                             },
+                                             {
+                                                 "title":  "Efficiency vs compensation",
+                                                 "content":  [
+                                                                 "Efficient movement uses the most appropriate joints and muscles for a task.",
+                                                                 "Compensation occurs when the body avoids a weak, painful, or restricted area.",
+                                                                 "Short-term compensation may preserve performance under fatigue or injury.",
+                                                                 "Long-term compensation often leads to overload in secondary tissues.",
+                                                                 "Identifying compensation patterns is key to injury prevention and performance longevity."
+                                                             ]
+                                             }
+                                         ]
+                        },
+                        {
+                            "id":  "anatomy",
+                            "title":  "Human Anatomy Overview",
+                            "summary":  "Key structures involved in movement and performance.",
+                            "sections":  [
+                                             {
+                                                 "title":  "Bones and joints",
+                                                 "content":  [
+                                                                 "Bones provide structural support and act as levers for movement.",
+                                                                 "Joint shape determines available range of motion and stability.",
+                                                                 "Some joints prioritize mobility while others prioritize stability.",
+                                                                 "Joint alignment affects how forces are transmitted through the body.",
+                                                                 "Poor alignment increases stress on cartilage, ligaments, and tendons.",
+                                                                 "Healthy joints rely on both structure and muscular control."
+                                                             ]
+                                             },
+                                             {
+                                                 "title":  "Muscle roles",
+                                                 "content":  [
+                                                                 "Muscles generate force by contracting and pulling on bones.",
+                                                                 "Prime movers create the main motion during an exercise.",
+                                                                 "Stabilizers control joint position and prevent unwanted movement.",
+                                                                 "Synergists assist prime movers to improve efficiency.",
+                                                                 "Poor coordination between muscle roles reduces performance.",
+                                                                 "Balanced recruitment protects joints and improves power output."
+                                                             ]
+                                             },
+                                             {
+                                                 "title":  "Connective tissue",
+                                                 "content":  [
+                                                                 "Connective tissues include tendons, ligaments, and fascia.",
+                                                                 "Tendons transmit force from muscle to bone.",
+                                                                 "Ligaments provide passive joint stability.",
+                                                                 "Fascia helps distribute force across regions of the body.",
+                                                                 "Connective tissue adapts slowly compared to muscle.",
+                                                                 "Gradual loading is essential to maintain tissue health and resilience."
+                                                             ]
+                                             }
+                                         ]
+                        },
+                        {
+                            "id":  "patterns",
+                            "title":  "Movement Patterns",
+                            "summary":  "Foundational human movement categories that underpin strength, performance, and injury resilience.",
+                            "sections":  [
+                                             {
+                                                 "content":  [
+                                                                 "The squat is a foundational lower-body movement pattern used in daily life and sport.",
+                                                                 "Efficient squatting distributes force across the hips, knees, and ankles rather than overloading one joint.",
+                                                                 "Depth should be determined by mobility, control, and intent rather than arbitrary standards.",
+                                                                 "Loss of balance, knee collapse, or excessive forward lean often signal strength or mobility limitations.",
+                                                                 "Mastery of the squat builds a base for jumping, running, and lifting performance."
+                                                             ],
+                                                 "title":  "Squat"
+                                             },
+                                             {
+                                                 "content":  [
+                                                                 "The hinge pattern emphasizes hip flexion with a relatively stable spine.",
+                                                                 "Proper hinging loads the posterior chain, including the glutes and hamstrings.",
+                                                                 "Spinal movement during hinges often indicates compensation or insufficient hip control.",
+                                                                 "Deadlifts, kettlebell swings, and hip thrusts are common hinge variations.",
+                                                                 "A strong hinge pattern protects the spine during lifting and daily tasks."
+                                                             ],
+                                                 "title":  "Hinge"
+                                             },
+                                             {
+                                                 "content":  [
+                                                                 "Push patterns involve force production away from the body using the upper extremities.",
+                                                                 "Efficient pushing depends on coordinated scapular movement and shoulder stability.",
+                                                                 "Poor pushing mechanics often lead to shoulder irritation or neck tension.",
+                                                                 "Push-ups, presses, and overhead movements all rely on push pattern fundamentals.",
+                                                                 "Balanced push development supports performance and injury resilience."
+                                                             ],
+                                                 "title":  "Push"
+                                             },
+                                             {
+                                                 "content":  [
+                                                                 "Pull patterns counterbalance pushing movements and support shoulder health.",
+                                                                 "Strong pulling improves posture by reinforcing scapular retraction and control.",
+                                                                 "Rows, pull-ups, and carries all express pull mechanics differently.",
+                                                                 "Weak pulling patterns often contribute to rounded shoulders and neck strain.",
+                                                                 "Pull strength is essential for both athletic performance and longevity."
+                                                             ],
+                                                 "title":  "Pull"
+                                             },
+                                             {
+                                                 "content":  [
+                                                                 "Rotation patterns transfer force between the lower and upper body.",
+                                                                 "Effective rotation originates from the hips and trunk rather than the spine alone.",
+                                                                 "Uncontrolled rotation increases stress on the lumbar spine.",
+                                                                 "Anti-rotation strength is just as important as rotational power.",
+                                                                 "Rotational control enhances agility, throwing, and change-of-direction ability."
+                                                             ],
+                                                 "title":  "Rotate"
+                                             }
+                                         ]
+                        }
+                    ],
+    "technique":  [
+                      {
+                          "summary":  "Lower-body movement pattern for strength and power.",
+                          "title":  "Squat Technique",
+                          "sections":  [
+                                           {
+                                               "riskScore":  5.6,
+                                               "content":  [
+                                                               "Feet shoulder-width apart with slight toe-out.",
+                                                               "Bar positioned over mid-foot.",
+                                                               "Brace core before descent."
+                                                           ],
+                                               "faults":  [
+                                                              {
+                                                                  "weight":  1.2,
+                                                                  "description":  "Loss of balance toward the toes.",
+                                                                  "name":  "Heels lifting",
+                                                                  "confidence":  0.8,
+                                                                  "severity":  6
+                                                              },
+                                                              {
+                                                                  "weight":  1,
+                                                                  "description":  "Feet lose structural tension.",
+                                                                  "name":  "Collapsed arches",
+                                                                  "confidence":  0.7,
+                                                                  "severity":  5
+                                                              }
+                                                          ],
+                                               "name":  "Setup and stance",
+                                               "id":  "setup"
+                                           }
+                                       ],
+                          "id":  "squat"
+                      },
+                      {
+                          "summary":  "Posterior chain dominant movement pattern.",
+                          "title":  "Hip Hinge",
+                          "sections":  [
+                                           {
+                                               "title":  "Fundamentals",
+                                               "content":  [
+                                                               "Maintain a neutral spine throughout the movement.",
+                                                               "Initiate motion from the hips rather than the lower back.",
+                                                               "Keep the load close to the body to reduce spinal stress.",
+                                                               "Drive through the hips to return to standing.",
+                                                               "Control the descent to maintain positional awareness."
+                                                           ]
+                                           }
+                                       ],
+                          "id":  "hinge"
+                      },
+                      {
+                          "summary":  "Unilateral lower-body movement and stability.",
+                          "title":  "Lunge Pattern",
+                          "sections":  [
+                                           {
+                                               "title":  "Fundamentals",
+                                               "content":  [
+                                                               "Keep the torso tall and stable during the movement.",
+                                                               "Track the front knee in line with the toes.",
+                                                               "Control depth to maintain balance and joint alignment.",
+                                                               "Push evenly through the front foot to return.",
+                                                               "Avoid excessive forward lean or collapse."
+                                                           ]
+                                           }
+                                       ],
+                          "id":  "lunge"
+                      },
+                      {
+                          "summary":  "Upper-body pushing mechanics and control.",
+                          "title":  "Push Pattern",
+                          "sections":  [
+                                           {
+                                               "title":  "Fundamentals",
+                                               "content":  [
+                                                               "Maintain shoulder stability during pressing motions.",
+                                                               "Control scapular movement rather than locking the shoulders.",
+                                                               "Brace the core to support force transfer.",
+                                                               "Avoid flaring elbows excessively under load.",
+                                                               "Move smoothly through the full range of motion."
+                                                           ]
+                                           }
+                                       ],
+                          "id":  "push"
+                      },
+                      {
+                          "summary":  "Upper-body pulling mechanics and posture.",
+                          "title":  "Pull Pattern",
+                          "sections":  [
+                                           {
+                                               "title":  "Fundamentals",
+                                               "content":  [
+                                                               "Initiate pulling from the upper back rather than the arms.",
+                                                               "Maintain neutral spine posture throughout the movement.",
+                                                               "Control the return phase to avoid momentum.",
+                                                               "Keep shoulder blades coordinated and stable.",
+                                                               "Avoid shrugging or excessive neck tension."
+                                                           ]
+                                           }
+                                       ],
+                          "id":  "pull"
+                      },
+                      {
+                          "summary":  "Core stability and gait under load.",
+                          "title":  "Loaded Carries",
+                          "sections":  [
+                                           {
+                                               "title":  "Fundamentals",
+                                               "content":  [
+                                                               "Maintain controlled movement quality.",
+                                                               "Prioritize joint alignment and stability.",
+                                                               "Avoid excessive speed or loss of balance.",
+                                                               "Focus on consistent breathing and posture."
+                                                           ]
+                                           }
+                                       ],
+                          "id":  "carry"
+                      },
+                      {
+                          "summary":  "Trunk rotational control and force transfer.",
+                          "title":  "Rotation \u0026 Anti-Rotation",
+                          "sections":  [
+                                           {
+                                               "title":  "Fundamentals",
+                                               "content":  [
+                                                               "Maintain controlled movement quality.",
+                                                               "Prioritize joint alignment and stability.",
+                                                               "Avoid excessive speed or loss of balance.",
+                                                               "Focus on consistent breathing and posture."
+                                                           ]
+                                           }
+                                       ],
+                          "id":  "rotation"
+                      },
+                      {
+                          "summary":  "Walking, running, and dynamic movement efficiency.",
+                          "title":  "Locomotion",
+                          "sections":  [
+                                           {
+                                               "title":  "Fundamentals",
+                                               "content":  [
+                                                               "Maintain controlled movement quality.",
+                                                               "Prioritize joint alignment and stability.",
+                                                               "Avoid excessive speed or loss of balance.",
+                                                               "Focus on consistent breathing and posture."
+                                                           ]
+                                           }
+                                       ],
+                          "id":  "locomotion"
+                      }
+                  ],
+    "learningPaths":  [
+                          {
+                              "id":  "movement_foundations",
+                              "sections":  [
+                                               {
+                                                   "ref":  "biomechanics"
+                                               },
+                                               {
+                                                   "ref":  "anatomy"
+                                               },
+                                               {
+                                                   "ref":  "patterns"
+                                               }
+                                           ],
+                              "checklist":  [
+                                                "Learn the 6 movement patterns: squat, hinge, lunge, push, pull, carry.",
+                                                "Practice slow control without wobbling or compensation.",
+                                                "Identify your weak link: mobility, stability, or coordination.",
+                                                "Apply quality movement under light fatigue."
+                                            ],
+                              "summary":  "Learn how the body moves, why it breaks down, and how to build resilient, repeatable movement.",
+                              "keyIdeas":  [
+                                               "Your body is a system: joints, muscles, and nervous system working together.",
+                                               "Good movement is repeatable, controlled, and safe under fatigue.",
+                                               "Pain is not a badge of honor. Learn the difference between effort and injury signals.",
+                                               "Posture and balance affect everything: lifting, running, sport, and daily life."
+                                           ],
+                              "title":  "Movement Foundations"
+                          }
+                      ]
+}

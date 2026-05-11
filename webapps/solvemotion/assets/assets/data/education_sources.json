@@ -1,0 +1,14 @@
+{
+  "sources": [
+    {
+      "name": "World Health Organization (WHO)",
+      "url": "https://www.who.int",
+      "topics": ["Physical Activity", "Injury Prevention", "Rehabilitation"]
+    },
+    {
+      "name": "Centers for Disease Control and Prevention (CDC)",
+      "url": "https://www.cdc.gov",
+      "topics": ["Musculoskeletal Health", "Exercise Guidelines", "Biomechanics"]
+    }
+  ]
+}

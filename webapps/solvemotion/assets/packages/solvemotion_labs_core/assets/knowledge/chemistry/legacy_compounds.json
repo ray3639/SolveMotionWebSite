@@ -1,0 +1,23 @@
+{"_deprecated": {
+  "status": "inactive",
+  "reason": "Compounds are sourced from chemicals.json",
+  "note": "This file is not read by any repository, model, or UI in SolvePharmacy 2.0",
+  "do_not_populate": true
+},
+    "compounds":  [
+
+                  ],
+    "_meta":  {
+                  "phase":  "2.3.1",
+                  "created":  "2026-02-02 15:53:55",
+                  "description":  "SolvePharmacy 2.0 — Compound Database (Education-Only)",
+                  "rules":  [
+                                "No medical advice",
+                                "No exposure thresholds",
+                                "No risk scoring",
+                                "Education-only",
+                                "Non-clinical"
+                            ]
+              }
+}
+

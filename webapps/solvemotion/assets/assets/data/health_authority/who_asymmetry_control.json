@@ -1,0 +1,34 @@
+{
+    "severity":  "moderate",
+    "id":  "who_asymmetry_control",
+    "ageGroups":  [
+                      "youth",
+                      "teen"
+                  ],
+    "authority":  "WHO",
+    "title":  "Asymmetry and Single-Leg Control",
+    "riskMultiplier":  1.15,
+    "trainingPhases":  [
+                           "in-season",
+                           "off-season"
+                       ],
+    "sources":  [
+                    "CDC",
+                    "WHO"
+                ],
+    "domains":  [
+                    "musculoskeletal"
+                ],
+    "readinessPenalty":  0.08,
+    "summary":  "Poor unilateral control increases lower limb injury risk.",
+    "movements":  [
+                      "single_leg",
+                      "balance"
+                  ],
+    "recommendations":  [
+                            "Train unilateral strength",
+                            "Include balance drills",
+                            "Address left-right discrepancies"
+                        ],
+    "lastReviewed":  "2026-01-15T18:00:00Z"
+}

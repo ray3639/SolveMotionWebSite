@@ -1,0 +1,98 @@
+{
+  "education": [
+    {
+      "id": "edu_biomech_01",
+      "title": "Biomechanics Foundations",
+      "summary": "Forces, moments, levers, and joint loading - how movement creates stress and performance.",
+      "sections": [
+        {"title": "Force & Torque", "body": "Force changes motion; torque rotates joints. External torque vs internal muscle torque defines demand."},
+        {"title": "Levers", "body": "Most human joints operate as third-class levers - favoring speed and range over mechanical advantage."},
+        {"title": "Ground Reaction Force", "body": "GRF informs loading patterns. Foot placement and trunk angle shift joint moments."}
+      ],
+      "tags": ["biomechanics","force","torque","grf"]
+    },
+    {
+      "id": "edu_strength_01",
+      "title": "Strength & Power Essentials",
+      "summary": "Strength qualities, power production, and technique that reduces unnecessary stress.",
+      "sections": [
+        {"title": "Strength vs Power", "body": "Strength is force capacity; power is force * velocity. Programming targets both with intent."},
+        {"title": "Intent & Technique", "body": "Technique consistency enables safe intensity. Intent drives neural recruitment."}
+      ],
+      "tags": ["strength","power","programming"]
+    },
+    {
+      "id": "edu_mobility_01",
+      "title": "Mobility & Control",
+      "summary": "Range of motion plus control - joint prep and stability to express movement safely.",
+      "sections": [
+        {"title": "Mobility vs Flexibility", "body": "Mobility is usable ROM with control; flexibility alone may not transfer to movement."},
+        {"title": "Stability", "body": "Stability directs force. When stability lags, compensation patterns appear."}
+      ],
+      "tags": ["mobility","stability","control"]
+    },
+    {
+      "id": "edu_injury_01",
+      "title": "Injury Risk Signals",
+      "summary": "Common signals in squats, hinges, and lunges and how to correct them.",
+      "sections": [
+        {"title": "Knee Valgus", "body": "Often driven by hip control and foot mechanics; cue tripod foot and hip external rotation control."},
+        {"title": "Lumbar Rounding", "body": "May indicate hip ROM limits or bracing deficits; regress load and pattern hinge."}
+      ],
+      "tags": ["injury","valgus","bracing"]
+    }
+  ],
+  "movements": [
+    {
+      "id": "mv_squat",
+      "name": "Back Squat",
+      "category": "Lower Body",
+      "description": "Compound squat pattern emphasizing knee/hip coordination and trunk stability.",
+      "coachingCues": ["Tripod foot", "Brace then descend", "Knees track over toes", "Drive midfoot to stand"],
+      "commonMistakes": ["Knee valgus", "Heels rising", "Lumbar rounding", "Forward collapse"],
+      "relatedEducation": ["edu_biomech_01","edu_strength_01","edu_injury_01"],
+      "relatedQuizCategories": ["Biomechanics","Strength","Injury Prevention"]
+    },
+    {
+      "id": "mv_hinge",
+      "name": "Hip Hinge",
+      "category": "Posterior Chain",
+      "description": "Foundational pattern for deadlifts and swings - hip flexion with neutral spine control.",
+      "coachingCues": ["Push hips back", "Maintain neutral spine", "Feel hamstrings load", "Stand by driving hips forward"],
+      "commonMistakes": ["Spine rounding", "Knees forward too much", "Loss of brace"],
+      "relatedEducation": ["edu_biomech_01","edu_injury_01"],
+      "relatedQuizCategories": ["Biomechanics","Injury Prevention"]
+    }
+  ],
+  "careers": [
+    {
+      "id": "career_pt",
+      "title": "Physical Therapist (PT)",
+      "summary": "Rehab, movement restoration, return-to-play planning, and patient education.",
+      "skills": ["Anatomy & kinesiology", "Assessment", "Program design", "Communication"],
+      "recommendedEducation": ["edu_biomech_01","edu_mobility_01","edu_injury_01"],
+      "recommendedMovements": ["mv_hinge","mv_squat"],
+      "recommendedQuizCategories": ["Biomechanics","Injury Prevention"]
+    },
+    {
+      "id": "career_scs",
+      "title": "Strength & Conditioning Coach",
+      "summary": "Performance programming, technique coaching, and athlete development.",
+      "skills": ["Programming", "Technique coaching", "Load management", "Testing"],
+      "recommendedEducation": ["edu_strength_01","edu_biomech_01"],
+      "recommendedMovements": ["mv_squat","mv_hinge"],
+      "recommendedQuizCategories": ["Strength","Biomechanics"]
+    }
+  ],
+  "recommendationRules": [
+    {
+      "id": "rec_rule_valgus",
+      "trigger": "knee_valgus",
+      "title": "Improve knee tracking control",
+      "actions": [
+        {"type": "education", "id": "edu_injury_01"},
+        {"type": "movement", "id": "mv_squat"}
+      ]
+    }
+  ]
+}

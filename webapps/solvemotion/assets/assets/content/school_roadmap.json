@@ -1,0 +1,204 @@
+{
+  "tracks": [
+    {
+      "id": "sports_science",
+      "title": "Sports Science & Human Performance",
+      "description": "Broad foundation for biomechanics, performance, and research careers.",
+      "careers": ["Sports Scientist", "Performance Analyst", "Research Assistant"],
+      "years": [
+        {
+          "year": "High School",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "focus": ["Biology foundations", "Strength basics"],
+              "credits": 3,
+              "requiredCourses": ["Biology", "Physical Education"],
+              "electives": ["Weight Training"],
+              "studyTopics": ["Muscle fibers", "Basic mechanics"],
+              "projects": ["Strength progression log"],
+              "assessments": ["Fitness benchmark"],
+              "certifications": [],
+              "prerequisites": ["Middle School Science"],
+              "recommendedMovements": ["Squat", "Push-up"],
+              "recommendedQuizzes": ["Muscle Basics"]
+            },
+            {
+              "semester": "Spring",
+              "focus": ["Data awareness", "Endurance"],
+              "credits": 3,
+              "requiredCourses": ["Health Science"],
+              "electives": ["Track & Field"],
+              "studyTopics": ["Heart rate zones"],
+              "projects": ["Endurance plan"],
+              "assessments": ["Cooper test"],
+              "certifications": [],
+              "prerequisites": ["Biology"],
+              "recommendedMovements": ["Running drills"],
+              "recommendedQuizzes": ["Cardio Systems"]
+            }
+          ]
+        },
+        {
+          "year": "College - Year 1",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "focus": ["Anatomy", "Biomechanics"],
+              "credits": 15,
+              "requiredCourses": ["Anatomy I", "College Math", "English"],
+              "electives": ["Intro Coaching"],
+              "studyTopics": ["Joint planes"],
+              "projects": ["Movement analysis"],
+              "assessments": ["Lab practical"],
+              "certifications": ["CPR/AED"],
+              "prerequisites": ["High School Biology"],
+              "recommendedMovements": ["Hip hinge"],
+              "recommendedQuizzes": ["Anatomy Intro"]
+            },
+            {
+              "semester": "Spring",
+              "focus": ["Physiology", "Motor control"],
+              "credits": 15,
+              "requiredCourses": ["Physiology I", "Psychology", "Statistics"],
+              "electives": ["Sport Skills Lab"],
+              "studyTopics": ["Energy systems"],
+              "projects": ["Training program"],
+              "assessments": ["Physiology final"],
+              "certifications": ["First Aid"],
+              "prerequisites": ["Anatomy I"],
+              "recommendedMovements": ["Agility drills"],
+              "recommendedQuizzes": ["Energy Systems"]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "physical_therapy",
+      "title": "Physical Therapy (DPT Track)",
+      "description": "Clinical rehabilitation and patient care pathway.",
+      "careers": ["Physical Therapist", "Rehab Specialist"],
+      "years": [
+        {
+          "year": "College - Year 1",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "focus": ["Anatomy mastery", "Kinesiology"],
+              "credits": 16,
+              "requiredCourses": ["Anatomy I", "Kinesiology", "Chemistry"],
+              "electives": ["Medical Terminology"],
+              "studyTopics": ["Muscle actions"],
+              "projects": ["Gait analysis"],
+              "assessments": ["Practical exam"],
+              "certifications": ["CPR/AED"],
+              "prerequisites": ["Biology"],
+              "recommendedMovements": ["Gait drills"],
+              "recommendedQuizzes": ["Joint Mechanics"]
+            },
+            {
+              "semester": "Spring",
+              "focus": ["Physiology", "Pathology intro"],
+              "credits": 16,
+              "requiredCourses": ["Physiology", "Statistics"],
+              "electives": ["Patient Care Basics"],
+              "studyTopics": ["Injury mechanisms"],
+              "projects": ["Case study"],
+              "assessments": ["Final practical"],
+              "certifications": ["First Aid"],
+              "prerequisites": ["Anatomy I"],
+              "recommendedMovements": ["Balance drills"],
+              "recommendedQuizzes": ["Rehab Basics"]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "athletic_training",
+      "title": "Athletic Training",
+      "description": "Injury prevention, emergency care, and sports medicine support.",
+      "careers": ["Athletic Trainer", "Sports Rehab Tech"],
+      "years": [
+        {
+          "year": "College - Year 1",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "focus": ["Emergency response", "Anatomy"],
+              "credits": 15,
+              "requiredCourses": ["Anatomy I", "First Aid", "Nutrition"],
+              "electives": ["Team Internship"],
+              "studyTopics": ["Injury classification"],
+              "projects": ["Sideline protocol plan"],
+              "assessments": ["Taping practical"],
+              "certifications": ["CPR", "First Aid"],
+              "prerequisites": ["Biology"],
+              "recommendedMovements": ["Ankle stability"],
+              "recommendedQuizzes": ["Injury Response"]
+            },
+            {
+              "semester": "Spring",
+              "focus": ["Rehabilitation", "Assessment"],
+              "credits": 15,
+              "requiredCourses": ["Rehab Techniques", "Physiology"],
+              "electives": ["Sports Psychology"],
+              "studyTopics": ["Return-to-play criteria"],
+              "projects": ["Rehab program"],
+              "assessments": ["Clinical skills exam"],
+              "certifications": [],
+              "prerequisites": ["Anatomy I"],
+              "recommendedMovements": ["Mobility drills"],
+              "recommendedQuizzes": ["Rehab Planning"]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "strength_conditioning",
+      "title": "Strength & Conditioning",
+      "description": "Performance coaching and athlete development pathway.",
+      "careers": ["Strength Coach", "Performance Coach"],
+      "years": [
+        {
+          "year": "College - Year 1",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "focus": ["Lifting technique", "Program design"],
+              "credits": 15,
+              "requiredCourses": ["Resistance Training", "Biomechanics"],
+              "electives": ["Coaching Practicum"],
+              "studyTopics": ["Periodization"],
+              "projects": ["Training cycle plan"],
+              "assessments": ["Technique practical"],
+              "certifications": ["CPR"],
+              "prerequisites": ["High School PE"],
+              "recommendedMovements": ["Deadlift", "Squat"],
+              "recommendedQuizzes": ["Program Design"]
+            },
+            {
+              "semester": "Spring",
+              "focus": ["Speed & agility", "Testing"],
+              "credits": 15,
+              "requiredCourses": ["Performance Testing", "Physiology"],
+              "electives": ["Youth Coaching"],
+              "studyTopics": ["Sprint mechanics"],
+              "projects": ["Athlete profile report"],
+              "assessments": ["Performance metrics lab"],
+              "certifications": ["CSCS Prep"],
+              "prerequisites": ["Resistance Training"],
+              "recommendedMovements": ["Sprint drills"],
+              "recommendedQuizzes": ["Speed Training"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+    "severity":  "low",
+    "id":  "who_activity_guidelines",
+    "ageGroups":  [
+                      "youth",
+                      "teen"
+                  ],
+    "authority":  "WHO",
+    "title":  "Youth Physical Activity Guidelines",
+    "riskMultiplier":  1.05,
+    "trainingPhases":  [
+                           "off-season",
+                           "in-season"
+                       ],
+    "sources":  [
+                    "CDC",
+                    "WHO"
+                ],
+    "domains":  [
+                    "general_fitness"
+                ],
+    "readinessPenalty":  0.03,
+    "summary":  "Children and adolescents should average 60 minutes of moderate-to-vigorous activity daily.",
+    "movements":  null,
+    "recommendations":  [
+                            "Include muscle-strengthening activities at least 3 days per week",
+                            "Avoid prolonged sedentary periods"
+                        ],
+    "lastReviewed":  "2026-01-15T18:00:00Z"
+}

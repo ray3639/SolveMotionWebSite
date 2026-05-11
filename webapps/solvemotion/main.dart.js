@@ -112099,12 +112099,11 @@ A.aGj.prototype={
 $1(a){A.he().$1("Live pose addFrame failed: "+J.V(a))},
 $S:43}
 A.aGm.prototype={
-$1(a){var s,r,q=this.a,p=q.c
-if(p==null)return
+$1(a){var s,r,q=this.a.c
+if(q==null)return
 s=$.cR()
 if(s.f!==B.eD)return
-if(q.w!=null)return
-r=A.bE(p,null,t.w).w.a
+r=A.bE(q,null,t.w).w.a
 s.a2a(null,r.a,r.b).iO(new A.aGl())},
 $S:74}
 A.aGl.prototype={
@@ -112387,7 +112386,10 @@ break}throw A.e(A.aj("No active camera session"))}n.x=n.y=!0
 n.u4(B.Jj)
 m.f=new A.aS(Date.now(),0,!1)
 m.go=m.r.length
-i=m.r
+if(m.r.length===0){i=t.N
+h=t.z
+m.r.push(A.i(["lm",A.x(i,h),"w",0,"h",0,"t",Date.now(),"thumbB64",null],i,h))
+m.go=m.r.length}i=m.r
 h=m.e
 g=m.f
 g.toString

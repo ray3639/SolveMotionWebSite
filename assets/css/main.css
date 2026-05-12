@@ -241,6 +241,66 @@ hr.sep{border:0;border-top:1px solid rgba(28,39,64,.7);margin:18px 0}
   box-shadow:0 12px 30px rgba(0,0,0,.35);
 }
 
+
+/* ============================================================
+   Application product logo tiles
+   Black professional card badges replacing white-panel exports
+   ============================================================ */
+
+.product-logo-tile {
+  width: 112px;
+  height: 112px;
+  margin: 0 0 18px 0;
+  background: #000;
+  border: 1px solid rgba(79,195,255,.22);
+  box-shadow: 0 12px 30px rgba(0,0,0,.45);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  overflow: hidden;
+}
+
+.product-logo-image-tile img {
+  width: 112px;
+  height: 112px;
+  object-fit: contain;
+  display: block;
+}
+
+.product-logo-mark {
+  color: #4fc3ff;
+  font-size: 30px;
+  line-height: 1;
+  font-weight: 900;
+  letter-spacing: .8px;
+}
+
+.product-logo-name {
+  color: #dce7ff;
+  font-size: 10px;
+  line-height: 1.1;
+  font-weight: 800;
+  letter-spacing: .4px;
+  text-align: center;
+}
+
+/* ============================================================
+   Application raw display logos
+   Uses generated PNG files directly without CSS wrapper background
+   ============================================================ */
+
+.product-logo-raw {
+  width: 112px;
+  height: 112px;
+  object-fit: contain;
+  display: block;
+  margin: 0 0 18px 0;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+}
 /* Prevent any image from bleeding outside cards */
 .card {
   overflow: hidden;

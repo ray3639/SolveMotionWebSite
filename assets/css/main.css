@@ -229,13 +229,16 @@ hr.sep{border:0;border-top:1px solid rgba(28,39,64,.7);margin:18px 0}
    ============================================================ */
 
 .card .product-image {
-  max-width: 96px;
-  max-height: 96px;
-  width: auto;
-  height: auto;
-  display: block;
-  margin: 0 0 12px 0;
-  object-fit: contain;
+  display:block;
+  width:96px;
+  height:96px;
+  object-fit:contain;
+  padding:14px;
+  margin:0 0 18px 0;
+  border-radius:0;
+  background:#000;
+  border:1px solid rgba(255,255,255,.12);
+  box-shadow:0 12px 30px rgba(0,0,0,.35);
 }
 
 /* Prevent any image from bleeding outside cards */

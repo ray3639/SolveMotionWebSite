@@ -125,3 +125,38 @@ Locked rules after Phase 11:
 
 Baseline:
 - C:\src\_BASELINES\SolveMotionWebSite-PHASE11-METRICS-TRACTION-LAYER-PRODUCTION-GREEN-20260513-095831
+PHASE 18E - WEB PRODUCTION GREEN BASELINE
+- Status: GREEN.
+- Production push completed through existing script:
+  C:\src\PushWebDownloads.ps1 -Publish
+- Production commit:
+  e8d6b80
+- Production URLs verified:
+  - https://ray3639.github.io/SolveMotionWebSite/applications.html
+  - https://ray3639.github.io/SolveMotionWebSite/webapps/solvemind/
+  - production psychology roadmap asset includes https://www.mckinsey.com/careers/home.
+- Web staging and production scope completed:
+  - Existing Build-SolveMind.ps1 used for SolveMind web build.
+  - Existing PushWebDownloads.ps1 used for website production push.
+  - Start-Website.ps1 corrected to serve staging from C:\src so production-style base href works locally.
+  - SolveMind web app portal refreshed under C:\src\SolveMotionWebSite\webapps\solvemind.
+  - Portal base href verified.
+  - Portal Core psychology roadmap JSON verified.
+  - Old exact McKinsey URL absent.
+  - Correct McKinsey careers URL present.
+- Final verified state:
+  - ProductionVerificationFailCount=0.
+  - LocalFileStateFailCount=0.
+  - SolveMindFlutterAnalyzeStatus=GREEN.
+- Boundaries preserved:
+  - No new build scripts.
+  - No duplicate copy logic.
+  - No manual duplicate portal copy.
+  - No route patch.
+  - No Core Dart patch.
+  - No BehaviorEngine patch.
+  - No PrimaryButton patch.
+- Next scope:
+  1. Start Android build phase using existing build process only.
+  2. Inspect Android build parameters before running build.
+  3. Build Android only after inspection passes.

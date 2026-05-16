@@ -66,7 +66,7 @@
                       "grades":  [
                                      {
                                          "id":  "g9",
-                                         "title":  "Grade 9 â€” Foundations",
+                                         "title":  "Grade 9 - Foundations",
                                          "goals":  [
                                                        "Build curiosity about human behavior and mental health",
                                                        "Learn core biology + communication fundamentals",
@@ -86,7 +86,7 @@
                                                                            "Ethics: respect, privacy, consent"
                                                                        ],
                                                        "projects":  [
-                                                                        "Behavior journal (2 weeks): triggers â†’ behaviors â†’ outcomes",
+                                                                        "Behavior journal (2 weeks): triggers -\u003e behaviors -\u003e outcomes",
                                                                         "Mini research: design a survey for study habits (10+ responses)",
                                                                         "Presentation: one psychology field + one real job"
                                                                     ]
@@ -99,18 +99,18 @@
                                                     ],
                                          "activities":  [
                                                             "Join or start a psychology club",
-                                                            "Volunteer 10â€“20 hours (community center, tutoring, elder care)",
+                                                            "Volunteer 10-20 hours (community center, tutoring, elder care)",
                                                             "Watch an intro series (CrashCourse Psychology) and take notes",
-                                                            "Interview a counselor/therapist: â€œWhat do you do weekly?â€"
+                                                            "Interview a counselor/therapist: \"What do you do weekly?\""
                                                         ],
                                          "milestones":  [
-                                                            "Write one 2â€“3 page psychology topic report",
-                                                            "Create a one-page career map: education â†’ job â†’ employers"
+                                                            "Write one 2-3 page psychology topic report",
+                                                            "Create a one-page career map: education -\u003e job -\u003e employers"
                                                         ]
                                      },
                                      {
                                          "id":  "g10",
-                                         "title":  "Grade 10 â€” Brain \u0026 Behavior Systems",
+                                         "title":  "Grade 10 - Brain \u0026 Behavior Systems",
                                          "goals":  [
                                                        "Understand brain systems that impact behavior",
                                                        "Begin structured research habits",
@@ -130,15 +130,15 @@
                                                                            "Cognitive biases (confirmation bias, availability)"
                                                                        ],
                                                        "projects":  [
-                                                                        "Sleep study: log 14 days â†’ chart outcomes",
+                                                                        "Sleep study: log 14 days -\u003e chart outcomes",
                                                                         "Bias experiment: perception/attention mini-lab",
-                                                                        "Write a structured â€œmethods + resultsâ€ report"
+                                                                        "Write a structured \"methods + results\" report"
                                                                     ]
                                                    },
                                          "skills":  [
                                                         "Data interpretation (charts)",
                                                         "Ethical research thinking",
-                                                        "Structured writing (claim â†’ evidence â†’ reasoning)"
+                                                        "Structured writing (claim -\u003e evidence -\u003e reasoning)"
                                                     ],
                                          "activities":  [
                                                             "Volunteer: youth mentoring or crisis-support training (age-appropriate)",
@@ -147,12 +147,12 @@
                                                         ],
                                          "milestones":  [
                                                             "Complete a small survey study (20+ responses)",
-                                                            "Build a personal â€œCareer Interest Scorecardâ€"
+                                                            "Build a personal \"Career Interest Scorecard\""
                                                         ]
                                      },
                                      {
                                          "id":  "g11",
-                                         "title":  "Grade 11 â€” Research \u0026 Applied Psychology",
+                                         "title":  "Grade 11 - Research \u0026 Applied Psychology",
                                          "goals":  [
                                                        "Learn research methods and ethics deeper",
                                                        "Explore abnormal psychology basics",
@@ -171,7 +171,7 @@
                                                                            "Social psychology: attitudes, persuasion"
                                                                        ],
                                                        "projects":  [
-                                                                        "Design an experiment (simple): hypothesis â†’ variables â†’ procedure",
+                                                                        "Design an experiment (simple): hypothesis -\u003e variables -\u003e procedure",
                                                                         "Literature review (5 credible sources) on one topic",
                                                                         "Create a poster-style project summary"
                                                                     ]
@@ -188,13 +188,13 @@
                                                             "Try R or Python basics (optional but powerful)"
                                                         ],
                                          "milestones":  [
-                                                            "Create a 1â€“2 page resume draft",
+                                                            "Create a 1-2 page resume draft",
                                                             "Identify 5 target colleges + psychology programs"
                                                         ]
                                      },
                                      {
                                          "id":  "g12",
-                                         "title":  "Grade 12 â€” College \u0026 Career Launch",
+                                         "title":  "Grade 12 - College \u0026 Career Launch",
                                          "goals":  [
                                                        "Finalize track (clinical, research, I-O, UX, etc.)",
                                                        "Build a portfolio and internship plan",
@@ -236,7 +236,7 @@
                       "postSecondary":  [
                                             {
                                                 "id":  "undergrad",
-                                                "title":  "Undergraduate (Years 1â€“4)",
+                                                "title":  "Undergraduate (Years 1-4)",
                                                 "coreCourses":  [
                                                                     "Intro Psychology",
                                                                     "Cognitive Psychology",
@@ -514,23 +514,123 @@
                            "tools":  [
                                          {
                                              "name":  "R",
-                                             "category":  "Analytics"
+                                             "category":  "Analytics",
+                                             "id":  "r_statistics",
+                                             "title":  "R Statistics",
+                                             "summary":  "Open-source statistical computing for research analysis, visualization, and reproducible psychology workflows.",
+                                             "why":  "R helps students and analysts move from raw data to credible evidence using transparent scripts and repeatable methods.",
+                                             "uses":  [
+                                                          "Run descriptive statistics and basic inferential tests.",
+                                                          "Create charts for behavior, survey, and research data.",
+                                                          "Document reproducible analysis steps for a portfolio."
+                                                      ],
+                                             "skills":  [
+                                                            "Statistics",
+                                                            "Data visualization",
+                                                            "Research design",
+                                                            "Reproducible analysis"
+                                                        ],
+                                             "examples":  [
+                                                              "Analyze a sleep log study with summary statistics.",
+                                                              "Create a graph comparing survey response groups.",
+                                                              "Build a simple research report from a CSV dataset."
+                                                          ]
                                          },
                                          {
                                              "name":  "Python",
-                                             "category":  "Analytics"
+                                             "category":  "Analytics",
+                                             "id":  "python_analysis",
+                                             "title":  "Python for Behavioral Data",
+                                             "summary":  "General-purpose programming for data cleanup, automation, notebooks, and applied behavioral science projects.",
+                                             "why":  "Python supports practical analysis, automation, and structured thinking across research, product, and workplace settings.",
+                                             "uses":  [
+                                                          "Clean and transform survey or activity data.",
+                                                          "Build notebooks that explain each analysis step.",
+                                                          "Prototype small decision-support or learning tools."
+                                                      ],
+                                             "skills":  [
+                                                            "Data cleaning",
+                                                            "Automation",
+                                                            "Notebook reporting",
+                                                            "Applied analysis"
+                                                        ],
+                                             "examples":  [
+                                                              "Clean a survey export and summarize response trends.",
+                                                              "Create a notebook for a bias recognition project.",
+                                                              "Automate a weekly learning progress report."
+                                                          ]
                                          },
                                          {
                                              "name":  "SPSS",
-                                             "category":  "Stats"
+                                             "category":  "Stats",
+                                             "id":  "spss_statistics",
+                                             "title":  "SPSS Statistics",
+                                             "summary":  "Point-and-click statistical software commonly used in psychology, education, healthcare, and social science programs.",
+                                             "why":  "SPSS helps learners understand statistical workflows without requiring heavy programming at the beginning.",
+                                             "uses":  [
+                                                          "Run descriptive statistics, t-tests, correlations, and regressions.",
+                                                          "Inspect survey datasets and variable coding.",
+                                                          "Export tables for class, research, or workplace reports."
+                                                      ],
+                                             "skills":  [
+                                                            "Statistical interpretation",
+                                                            "Survey analysis",
+                                                            "Variable coding",
+                                                            "Research reporting"
+                                                        ],
+                                             "examples":  [
+                                                              "Compare pre-test and post-test results.",
+                                                              "Summarize survey responses by group.",
+                                                              "Prepare tables for an applied psychology report."
+                                                          ]
                                          },
                                          {
                                              "name":  "Qualtrics",
-                                             "category":  "Survey"
+                                             "category":  "Survey",
+                                             "id":  "qualtrics_surveys",
+                                             "title":  "Qualtrics Surveys",
+                                             "summary":  "Survey design and data collection platform used for research, customer feedback, employee listening, and behavioral studies.",
+                                             "why":  "Qualtrics connects research questions to structured data collection and helps avoid weak or biased survey design.",
+                                             "uses":  [
+                                                          "Build surveys with clear question logic.",
+                                                          "Collect consent-aware response data.",
+                                                          "Export results for analysis in R, Python, SPSS, or Power BI."
+                                                      ],
+                                             "skills":  [
+                                                            "Survey design",
+                                                            "Question writing",
+                                                            "Research ethics",
+                                                            "Data collection"
+                                                        ],
+                                             "examples":  [
+                                                              "Create a stress and sleep questionnaire.",
+                                                              "Design a career interest survey.",
+                                                              "Export survey data for a statistics project."
+                                                          ]
                                          },
                                          {
                                              "name":  "Power BI",
-                                             "category":  "BI"
+                                             "category":  "BI",
+                                             "id":  "power_bi_dashboards",
+                                             "title":  "Power BI Dashboards",
+                                             "summary":  "Dashboard and reporting tool for turning data into visual insights, trends, and decision-ready summaries.",
+                                             "why":  "Power BI helps communicate findings clearly to teams, leaders, and stakeholders who need fast interpretation.",
+                                             "uses":  [
+                                                          "Create dashboards from survey, learning, or performance data.",
+                                                          "Track trends and compare categories over time.",
+                                                          "Present findings with charts, filters, and summary cards."
+                                                      ],
+                                             "skills":  [
+                                                            "Data storytelling",
+                                                            "Dashboard design",
+                                                            "Trend analysis",
+                                                            "Stakeholder communication"
+                                                        ],
+                                             "examples":  [
+                                                              "Build a dashboard for quiz performance by topic.",
+                                                              "Track learning progress over several weeks.",
+                                                              "Visualize survey results for a class or project."
+                                                          ]
                                          }
                                      ]
                        },
@@ -641,7 +741,7 @@
                                                         {
                                                             "name":  "McKinsey \u0026 Company",
                                                             "region":  "Global",
-                                                            "careers":  "https://www.mckinsey.com/careers"
+                                                            "careers":  "https://www.mckinsey.com/careers/home"
                                                         },
                                                         {
                                                             "name":  "Accenture",
@@ -805,7 +905,7 @@
                                                  "Survey study + analysis (writeup + chart)",
                                                  "Usability study (UX) with insights + recommendations",
                                                  "Behavior change plan (health) with outcome tracking",
-                                                 "Literature review (5â€“10 peer-reviewed sources)",
+                                                 "Literature review (5-10 peer-reviewed sources)",
                                                  "Mini experiment (attention, sleep, stress) with ethics notes"
                                              ]
                       },
@@ -1018,4 +1118,3 @@
                                     }
                     }
 }
-

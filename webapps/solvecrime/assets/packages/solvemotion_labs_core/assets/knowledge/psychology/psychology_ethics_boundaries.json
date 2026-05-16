@@ -1,0 +1,137 @@
+{
+    "schemaVersion":  "1.0",
+    "source":  "SolveMind assets/content/solvemind_content.json",
+    "ownership":  "Core 12.0 Knowledge Domain",
+    "generatedAt":  "2026-05-13T16:55:14",
+    "sections":  {
+                     "mentalHealthMyths":  [
+                                               {
+                                                   "whyTheMythExists":  [
+                                                                            "Mental health terms are used casually.",
+                                                                            "Online self-diagnosis is common."
+                                                                        ],
+                                                   "reality":  "Anxiety is a normal human response; disorders are defined by duration, intensity, and impact.",
+                                                   "whyItMatters":  [
+                                                                        "Prevents unnecessary labeling.",
+                                                                        "Encourages appropriate professional evaluation."
+                                                                    ],
+                                                   "myth":  "Feeling anxious means you have an anxiety disorder."
+                                               },
+                                               {
+                                                   "whyTheMythExists":  [
+                                                                            "Mind and body are often discussed separately.",
+                                                                            "Biological factors are less visible."
+                                                                        ],
+                                                   "reality":  "Mental health reflects interactions between brain, body, environment, and experience.",
+                                                   "whyItMatters":  [
+                                                                        "Promotes holistic understanding.",
+                                                                        "Reduces stigma."
+                                                                    ],
+                                                   "myth":  "Mental health conditions are purely psychological."
+                                               },
+                                               {
+                                                   "whyTheMythExists":  [
+                                                                            "Cultural expectations around toughness.",
+                                                                            "Misunderstanding of resilience."
+                                                                        ],
+                                                   "reality":  "Psychological stress affects all humans regardless of strength or resilience.",
+                                                   "whyItMatters":  [
+                                                                        "Encourages healthier help-seeking.",
+                                                                        "Reduces shame."
+                                                                    ],
+                                                   "myth":  "Strong people don\u00e2\u20ac\u2122t struggle mentally."
+                                               },
+                                               {
+                                                   "whyTheMythExists":  [
+                                                                            "Fear of stigma.",
+                                                                            "Discomfort discussing emotions."
+                                                                        ],
+                                                   "reality":  "Thoughtful discussion often improves insight and coping.",
+                                                   "whyItMatters":  [
+                                                                        "Supports early understanding.",
+                                                                        "Reduces isolation."
+                                                                    ],
+                                                   "myth":  "Talking about mental health makes problems worse."
+                                               },
+                                               {
+                                                   "whyTheMythExists":  [
+                                                                            "Desire for simple explanations.",
+                                                                            "Exposure to oversimplified content."
+                                                                        ],
+                                                   "reality":  "Clinicians look for patterns over time, not isolated signs.",
+                                                   "whyItMatters":  [
+                                                                        "Aligns expectations with professional reasoning.",
+                                                                        "Reduces misinterpretation."
+                                                                    ],
+                                                   "myth":  "A single symptom explains everything."
+                                               }
+                                           ],
+                     "ethicsAndBoundaries":  [
+                                                 {
+                                                     "summary":  "Learning about mental health is not the same as diagnosing conditions.",
+                                                     "title":  "Education vs Diagnosis",
+                                                     "keyPoints":  [
+                                                                       "Apps and articles provide general knowledge.",
+                                                                       "Diagnosis requires training, context, and professional standards.",
+                                                                       "Symptoms alone are not diagnoses."
+                                                                   ],
+                                                     "whyItMatters":  [
+                                                                          "Prevents self-labeling.",
+                                                                          "Encourages appropriate professional evaluation."
+                                                                      ]
+                                                 },
+                                                 {
+                                                     "summary":  "Self-reflection is useful but incomplete.",
+                                                     "title":  "Limits of Self-Assessment",
+                                                     "keyPoints":  [
+                                                                       "Personal insight is influenced by bias.",
+                                                                       "Stress can distort perception.",
+                                                                       "Outside perspective improves accuracy."
+                                                                   ],
+                                                     "whyItMatters":  [
+                                                                          "Reduces misinterpretation.",
+                                                                          "Explains why clinicians gather broad context."
+                                                                      ]
+                                                 },
+                                                 {
+                                                     "summary":  "Certain situations benefit from professional support.",
+                                                     "title":  "When to Seek Professional Help",
+                                                     "keyPoints":  [
+                                                                       "Persistent distress that interferes with daily life.",
+                                                                       "Significant changes in behavior or mood.",
+                                                                       "Concerns about safety or functioning."
+                                                                   ],
+                                                     "whyItMatters":  [
+                                                                          "Early support improves outcomes.",
+                                                                          "Professionals are trained to assess risk responsibly."
+                                                                      ]
+                                                 },
+                                                 {
+                                                     "summary":  "Mental health work follows strict ethical standards.",
+                                                     "title":  "Ethical Responsibilities in Mental Health",
+                                                     "keyPoints":  [
+                                                                       "Confidentiality and consent are essential.",
+                                                                       "Professionals must work within competence.",
+                                                                       "Boundaries protect both clients and clinicians."
+                                                                   ],
+                                                     "whyItMatters":  [
+                                                                          "Builds trust.",
+                                                                          "Prevents harm and misuse of information."
+                                                                      ]
+                                                 },
+                                                 {
+                                                     "summary":  "Apps support understanding, not treatment.",
+                                                     "title":  "Role of Educational Apps",
+                                                     "keyPoints":  [
+                                                                       "Provide mental models and vocabulary.",
+                                                                       "Help users ask better questions.",
+                                                                       "Do not replace professional care."
+                                                                   ],
+                                                     "whyItMatters":  [
+                                                                          "Sets correct expectations.",
+                                                                          "Keeps users safe."
+                                                                      ]
+                                                 }
+                                             ]
+                 }
+}

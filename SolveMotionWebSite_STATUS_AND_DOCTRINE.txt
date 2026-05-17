@@ -160,3 +160,139 @@ PHASE 18E - WEB PRODUCTION GREEN BASELINE
   1. Start Android build phase using existing build process only.
   2. Inspect Android build parameters before running build.
   3. Build Android only after inspection passes.
+
+===============================================================================
+PHASE 12 - WEBSITE DESIGN MODE UPGRADE ROADMAP LOCK
+===============================================================================
+Date: 2026-05-16
+Mode: DESIGN MODE
+Status: LOCKED ROADMAP / READY FOR PHASED EXECUTION
+
+Current production/design state:
+- Website production is working and current HEAD matches origin/main.
+- Phase 11 metrics / traction layer was completed and production verified previously.
+- Current application-card image investigation proves the app-display PNG files are not white-panel assets.
+- Production image hashes match local image hashes for all five app-display images.
+- Current visual white-background issue is not owned by replacing PNG image files.
+- The remaining image/card visual issue should be handled through cache/CSS/rendering inspection and controlled design polish.
+- Do not regenerate or replace app-display PNGs unless a later inspection proves the image files are the source.
+
+Current visual investigation evidence:
+- Production applications.html references five app-display images.
+- Local and production app-display image files match by SHA256.
+- ImageNormalFailureCount=0.
+- ImageBustedFailureCount=0.
+- CSS hash mismatch exists and must be inspected before design patching.
+- Product logo CSS currently uses product-logo-raw with transparent background, no border, and no shadow.
+
+Locked Phase 12 upgrade sequence:
+
+Phase 12A - Image / CSS / cache ownership investigation
+- Confirm whether white visual is browser cache, stale CSS, computed style, or page state.
+- Do not patch PNG assets unless pixel/hash evidence proves the image file is wrong.
+- Compare local and production CSS before card design changes.
+- Keep inspection reports untracked.
+
+Phase 12B - Applications page product card upgrade
+- Upgrade applications.html product cards into polished app launch panels.
+- Keep current app-display images unless later evidence proves replacement is required.
+- Add status badges:
+  - SolveMotion: Live Web App
+  - SolveMind: Live Web App
+  - SolveCrime: Live Web App
+  - SolvePharmacy: Live Web App
+  - SolveOura: In Progress
+- Improve card hierarchy:
+  - Logo
+  - App title
+  - System identity line
+  - Short description
+  - Capability bullets
+  - CTA row
+- Make button layout consistent:
+  - Explore product
+  - Launch Web App for completed apps only
+  - No SolveOura launch link while SolveOura remains in progress
+- Add Core 12.0 connection language on each card.
+- Preserve Phase 11 privacy, metrics, and truthfulness gates.
+
+Phase 12C - Website design system cleanup
+- Normalize shared card styles in assets/css/main.css.
+- Create clearer application-card specific selectors instead of relying only on generic card rules.
+- Clean duplicate or legacy product image/card CSS only after inspection.
+- Improve mobile spacing and responsive product-card alignment.
+- Preserve ASCII / NO_BOM rules.
+
+Phase 12D - Core 12 commercial page upgrade
+- Upgrade core12-service.html as a sellable Core 12.0 platform page.
+- Add or refine sections for:
+  - SolveMotion Labs Core 12.0 as a Service
+  - App adapter contracts
+  - DomainSignal input
+  - DTO output
+  - Render-only app consumers
+  - Licensing and white-label deployment
+  - Enterprise integration path
+  - Governance and release gates
+  - SDK/API direction
+- Keep formal name as SolveMotion Labs Core 12.0 for official references.
+
+Phase 12E - Investor / partnership page upgrade
+- Upgrade institutional.html and partnerships.html with stronger commercial readiness structure.
+- Keep all Phase 11 truthfulness boundaries:
+  - No invented visitor counts
+  - No invented download totals
+  - No invented revenue
+  - No invented customer counts
+  - No invented investor commitments
+  - No adoption claims without real verified data
+- Strengthen:
+  - Platform traction framework
+  - Product suite maturity
+  - Core 12.0 licensing path
+  - Partner onboarding
+  - Acquisition readiness
+
+Phase 12F - Homepage visual upgrade
+- Upgrade index.html with stronger institutional platform presentation.
+- Emphasize:
+  - Four completed Core-connected web apps
+  - SolveOura in progress
+  - Core 12.0 commercial platform
+  - Website-runnable app portal
+  - Metrics / traction layer
+  - Reports, partnerships, and contact paths
+- Improve hero hierarchy, visual flow, and Core 12.0 platform story.
+
+Phase 12G - Final design scan / production push / baseline
+- Run local scans before commit.
+- Verify HTML structure, sitemap, links, SolveOura exclusion, Phase 11 metrics/truthfulness gates, ASCII / NO_BOM.
+- Push only after inspection passes.
+- Verify production URLs after push.
+- Create central GREEN baseline under C:\src\_BASELINES.
+- Update doctrine after production verification.
+
+Current dirty worktree items requiring classification before Phase 12B patch:
+- Start-Website.ps1 is modified for local staging server workflow.
+- assets/images/SolveCrime/SolveCrime 6.0.png is untracked.
+- assets/images/SolveMind/SolveMind 6.0.png is untracked.
+- assets/images/Web Platfrom.png is untracked.
+- _inspection_reports is untracked and must remain uncommitted unless explicitly needed.
+
+Locked process rules for Phase 12:
+- PowerShell 5.1 only.
+- Inspect first.
+- No assumptions.
+- No duplicate logic.
+- No blind edits.
+- Use central PRE_PATCH backups under C:\src\_BASELINES\PRE_PATCH before changing files.
+- No project-local backup folders.
+- Do not commit _inspection_reports.
+- Do not add SolveOura live web app launch links until SolveOura upgrade is complete.
+- Do not weaken Phase 11 metrics, privacy, or truthfulness gates.
+- Keep apps and site aligned to 6.0 Design Mode and SolveMotion Labs Core 12.0 commercial platform direction.
+
+Next recommended active phase:
+- Phase 12A-R6: inspect production CSS rule differences.
+- Then classify dirty worktree ownership.
+- Then Phase 12B: patch applications.html and assets/css/main.css for product card design polish only.

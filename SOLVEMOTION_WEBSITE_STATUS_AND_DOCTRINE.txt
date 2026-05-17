@@ -386,3 +386,34 @@ PHASE 12E - INVESTOR / PARTNERSHIP CONTACT CLOSEOUT
 - Existing institutional.html remains the owner of investor and enterprise platform positioning to avoid duplicate page ownership.
 - Start-Website.ps1, _inspection_reports, and untracked image files remained isolated from Phase 12E staging and commit.
 - Next roadmap decision: Phase 12F should inspect the next website upgrade target before any patch.
+============================================================
+PHASE 12G - METHODOLOGY EXTERNAL PARTNER INTEGRATION DISCIPLINE
+============================================================
+Timestamp: 20260517-112244
+Status: GREEN
+Scope: methodology.html external partner integration discipline.
+Production commit: c5f83e8 Add methodology partner integration discipline.
+
+Summary:
+- Added a governed methodology section for external or company-owned application integration.
+- Reinforced that partner applications must connect through DomainSignal or approved domain DTO input.
+- Reinforced that applications render immutable Core DTO output only.
+- Reinforced no local scoring, no local recommendations, and no duplicate decision engines in application layers.
+- Added partner review categories: Application Fit, Adapter Contract, Output Boundary, and Commercial Readiness.
+- Classified commercial paths including licensing, white-label deployment, SDK/API planning, Core 12.0 as a Service, research collaboration, and no-fit review.
+
+Verification:
+- methodology.html local inspection is GREEN.
+- methodology.html raw GitHub verification is GREEN.
+- methodology.html production verification is GREEN.
+- External Partner Integration Discipline appears once.
+- company-owned applications, DomainSignal, immutable Core DTO output, Commercial Readiness, and SDK/API planning are present.
+- Start-Website.ps1 remains unstaged and isolated.
+- _inspection_reports remains untracked.
+- image files remain untracked.
+- No methodology.html patch remains dirty after production verification.
+
+Decision:
+- Phase 12G is closed.
+- Next step is Phase 12H roadmap target inspection.
+- No page patch should happen until the next roadmap inspection confirms ownership, current content, anchors, and duplicate-risk boundaries.

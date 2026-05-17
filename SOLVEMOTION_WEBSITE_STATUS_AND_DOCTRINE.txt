@@ -448,3 +448,36 @@ Decision:
 - Phase 12H is closed.
 - Next step is Phase 12I roadmap target inspection.
 - No page patch should happen until the next roadmap inspection confirms ownership, current content, anchors, and duplicate-risk boundaries.
+============================================================
+PHASE 12I - DOWNLOAD GOVERNANCE
+============================================================
+Timestamp: 20260517-181940
+Status: GREEN
+Scope: downloads.html download governance section.
+Production commit: e658e76 Add download governance section.
+
+Summary:
+- Added a Download Governance section to downloads.html.
+- Added release channel discipline for public web launches, Android artifacts, iOS artifacts, and review-only builds.
+- Added artifact readiness language for Android APK, Android AAB, and iOS IPA links.
+- Added mobile and web boundary language so mobile artifacts can exist before a web app is approved.
+- Reinforced Core 12.0 integration expectations including DomainSignal input, Core DTO output, and render-only application expectations.
+- Added SolveOura guardrail language: SolveOura remains in-progress review artifacts only with no web app launch until completion and verification.
+- No doctrine, contact, methodology, sitemap, or other page content was patched during the downloads page content change.
+
+Verification:
+- downloads.html local inspection is GREEN.
+- downloads.html raw GitHub verification is GREEN.
+- downloads.html production verification is GREEN.
+- Download Governance appears once.
+- Release channel, Artifact readiness, Mobile and web boundary, Core 12.0, DomainSignal, Core DTO output, render-only application expectations, and SolveOura guardrail are present.
+- downloads.html has no BOM and no non-ASCII bytes.
+- SolveOura web app launch risk is absent.
+- Start-Website.ps1 remains unstaged and isolated.
+- _inspection_reports remains untracked.
+- image files remain untracked.
+
+Decision:
+- Phase 12I is closed.
+- Next step is Phase 12J roadmap target inspection.
+- No page patch should happen until the next roadmap inspection confirms ownership, current content, anchors, and duplicate-risk boundaries.

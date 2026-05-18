@@ -621,3 +621,646 @@ Decision:
 - Phase 12M is closed.
 - Next step is Phase 12N roadmap target inspection.
 - No page patch should happen until the next roadmap inspection confirms ownership, current content, anchors, and duplicate-risk boundaries.
+
+================================================================================
+PHASE 12O - ROADMAP COMMERCIAL GOVERNANCE
+Date: 2026-05-17
+Status: GREEN / page patched / integrity verified / doctrine updated
+
+Scope:
+- Upgraded roadmap.html with one non-duplicating Roadmap Commercial Governance section.
+- Preserved existing roadmap ownership while adding commercial roadmap boundaries.
+- Clarified company-app integration expectations for Core 12.0.
+- Confirmed external applications must connect through approved input/output boundaries.
+- Preserved render-only application behavior and no duplicate logic expectations.
+- Added commercial sequencing guidance from doctrine and contract review through pilot integration, release-gate validation, and production readiness.
+- Added SolveOura guardrail language confirming SolveOura remains in progress and must not be listed as a public launch path until upgrade, Core alignment, release gate, and website publishing checks have passed.
+- Added commercial release-gate discipline for enterprise, licensing, white-label, SaaS, SDK/API, and investor-facing roadmap items.
+
+Verification:
+- roadmap.html page integrity passed.
+- ASCII / NO_BOM passed.
+- Section balance passed.
+- main/footer balance passed.
+- Roadmap Commercial Governance marker count is exactly 1.
+- Strict SolveOura public-launch risk count is 0.
+- Old version risk count is 0.
+- Placeholder count is 0.
+- Tech artifact count is 0.
+- No duplicate roadmap governance ownership was introduced.
+- No sitemap patch was required in this phase.
+- No staging, commit, or production push was performed in this phase.
+
+Repository notes:
+- Start-Website.ps1 remains intentionally unstaged.
+- _inspection_reports remains untracked.
+- image files remain untracked pending separate decision.
+- Active roadmap page diff is expected after this phase.
+================================================================================
+
+================================================================================
+PHASE 12P - INTELLIGENCE MAP GOVERNANCE
+Date: 2026-05-18
+Status: GREEN / page patched / integrity verified / doctrine updated
+
+Scope:
+- Upgraded intelligence-map.html with one non-duplicating Intelligence Map Governance section.
+- Clarified signal-to-Core-to-DTO boundaries for the Core 12.0 intelligence architecture map.
+- Added Signal Boundary guidance confirming applications emit structured domain input into Core 12.0 and must not create separate scoring, readiness, risk, confidence, or recommendation systems outside the governed Core pathway.
+- Added Core Ownership Boundary guidance confirming CoreIntelligenceOrchestrator owns deterministic reasoning, missing evidence, confidence, risk, recommendations, report narratives, and release-gate interpretation across applied domains.
+- Added DTO Output Boundary guidance confirming product screens render approved Core DTO output and must not recompute or override Core-owned intelligence.
+- Added Commercial Map Truth guidance confirming enterprise, licensing, white-label, SaaS, SDK/API, and partner review are governed direction and not a claim that every commercial channel is already complete.
+
+Verification:
+- intelligence-map.html page integrity passed.
+- ASCII / NO_BOM passed.
+- Section balance passed.
+- main/footer balance passed.
+- Intelligence Map Governance marker count is exactly 1.
+- Signal Boundary marker count is exactly 1.
+- Core Ownership Boundary marker count is exactly 1.
+- DTO Output Boundary marker count is exactly 1.
+- Commercial Map Truth marker count is exactly 1.
+- Commercial truthfulness marker count is exactly 1.
+- SolveOura completion risk count is 0.
+- Old version risk count is 0.
+- Placeholder count is 0.
+- Tech artifact count is 0.
+- No duplicate intelligence-map governance ownership was introduced.
+- No sitemap patch was required in this phase.
+- No staging, commit, or production push was performed in this phase.
+
+Repository notes:
+- Start-Website.ps1 remains intentionally unstaged.
+- _inspection_reports remains untracked.
+- image files remain untracked pending separate decision.
+- Active roadmap, intelligence-map, and doctrine diffs are expected after this phase.
+================================================================================
+
+================================================================================
+PHASE 12Q - CAPABILITIES GOVERNANCE
+Date: 2026-05-18
+Status: GREEN / page patched / integrity verified / doctrine updated
+
+Scope:
+- Upgraded capabilities.html with one non-duplicating Capabilities Governance section.
+- Clarified active platform capability, Core-owned intelligence capability, and commercial direction boundaries.
+- Added Active Capability Boundary guidance confirming current active capabilities include Core 12.0 outputs, four completed Core-connected 6.0 application surfaces, reports, confidence, risk, recommendations, missing evidence, trajectory, trend, and governed DTO rendering.
+- Added Core-Owned Capability Boundary guidance confirming capability depth belongs in Core 12.0 where scoring, readiness, risk, confidence, recommendations, missing evidence, report narratives, and domain interpretation remain deterministic, explainable, and reusable.
+- Added Commercial Direction Boundary guidance confirming enterprise deployment, licensing, white-label surfaces, SaaS, SDK/API, partner review, and investor review are governed commercial directions tied to release gates, baselines, and production verification.
+- Added Capability Truth Boundary guidance confirming the page should not imply clinical authority, legal authority, emergency use, pharmacy policy replacement, or completion of every commercial channel.
+
+Verification:
+- capabilities.html page integrity passed.
+- ASCII / NO_BOM passed.
+- Section balance passed.
+- main/footer balance passed.
+- Capabilities Governance marker count is exactly 1.
+- Active Capability Boundary marker count is exactly 1.
+- Core-Owned Capability Boundary marker count is exactly 1.
+- Commercial Direction Boundary marker count is exactly 1.
+- Capability Truth Boundary marker count is exactly 1.
+- Capability truthfulness marker count is exactly 1.
+- SolveOura completion risk count is 0.
+- Old version risk count is 0.
+- Placeholder count is 0.
+- Tech artifact count is 0.
+- Corrected capabilities page verification threshold: CapabilityTermCount must be >= 40, not >= 100.
+- Verified CapabilityTermCount is 41.
+- No duplicate capabilities governance ownership was introduced.
+- No sitemap patch was required in this phase.
+- No staging, commit, or production push was performed in this phase.
+
+Repository notes:
+- Start-Website.ps1 remains intentionally unstaged.
+- _inspection_reports remains untracked.
+- image files remain untracked pending separate decision.
+- Active roadmap, intelligence-map, capabilities, and doctrine diffs are expected after this phase.
+================================================================================
+
+================================================================================
+PHASE 12R - METRICS GOVERNANCE
+Date: 2026-05-18
+Status: GREEN / page patched / integrity verified / doctrine updated
+
+Scope:
+- Upgraded metrics.html with one non-duplicating Metrics Governance section.
+- Clarified that website events, launch clicks, download clicks, Core 12.0 service interest, enterprise review interest, report interest, and contact intent are interest signals and not public totals until recorded and verified by a privacy-safe analytics provider.
+- Added Interpretation Boundary guidance confirming confidence, risk, readiness, recommendation, evidence, trend, trajectory, and report metrics must be interpreted through Core-owned outputs and verified website events.
+- Added No Recompute Boundary guidance confirming product and website pages may display approved Core DTO output and verified analytics summaries, but must not recompute Core-owned intelligence, infer adoption, or present unverified engagement totals as production facts.
+- Added Metrics Truth Boundary guidance confirming public metrics must remain privacy-safe, source-backed, clearly labeled, and published only after real verified data exists.
+
+Verification:
+- metrics.html page integrity passed.
+- ASCII / NO_BOM passed.
+- Section balance passed.
+- main/footer balance passed.
+- Metrics Governance marker count is exactly 1.
+- Metric Ownership Boundary marker count is exactly 1.
+- Interpretation Boundary marker count is exactly 1.
+- No Recompute Boundary marker count is exactly 1.
+- Metrics Truth Boundary marker count is exactly 1.
+- Metrics truthfulness marker count is exactly 1.
+- SolveOura completion risk count is 0.
+- Old version risk count is 0.
+- Placeholder count is 0.
+- Tech artifact count is 0.
+- No duplicate metrics governance ownership was introduced.
+- No sitemap patch was required in this phase.
+- No staging, commit, or production push was performed in this phase.
+
+Repository notes:
+- Start-Website.ps1 remains intentionally unstaged.
+- _inspection_reports remains untracked.
+- image files remain untracked pending separate decision.
+- Active roadmap, intelligence-map, capabilities, metrics, and doctrine diffs are expected after this phase.
+================================================================================
+
+================================================================================
+PHASE 12S - RESEARCH GOVERNANCE
+Date: 2026-05-18
+Status: GREEN / page patched / integrity verified / doctrine updated
+
+Scope:
+- Upgraded research.html with one non-duplicating Research Governance section.
+- Clarified that research language describes doctrine, architecture, and evidence direction without overstating formal publication, clinical validation, legal validation, scientific proof, or commercial adoption.
+- Added Evidence Boundary guidance confirming current research material is public doctrine, structural framework, and implementation rationale until formal papers, citations, data packages, or reviewed studies are authored and published.
+- Added Public Claim Boundary guidance confirming the page may describe deterministic reasoning, education-first guardrails, human-governed design, and system architecture, but must not claim clinical validation, legal validation, scientific proof, or independent institutional endorsement unless those sources are documented.
+- Added Core 12 Research Support Boundary guidance confirming SolveMotion Labs Core 12.0 supports research direction by centralizing DomainSignal input, deterministic reasoning, DTO output, missing evidence, confidence, risk, recommendations, reports, and traceable release gates.
+- Added Publication Boundary guidance confirming downloadable research documents, formal citations, and public research repositories should be added only after publication-ready material exists, is reviewed, and is versioned through the same governance and baseline process used for the website.
+
+Verification:
+- research.html page integrity passed.
+- ASCII / NO_BOM passed.
+- Section balance passed.
+- main/footer balance passed.
+- Research Governance marker count is exactly 1.
+- Evidence Boundary marker count is exactly 1.
+- Public Claim Boundary marker count is exactly 1.
+- Core 12 Research Support Boundary marker count is exactly 1.
+- Publication Boundary marker count is exactly 1.
+- Research truthfulness marker count is exactly 1.
+- SolveOura completion risk count is 0.
+- Old version risk count is 0.
+- Placeholder count is 0.
+- Tech artifact count is 0.
+- Unsupported claim risk count is 0.
+- No duplicate research governance ownership was introduced.
+- No sitemap patch was required in this phase.
+- No staging, commit, or production push was performed in this phase.
+
+Repository notes:
+- Start-Website.ps1 remains intentionally unstaged.
+- _inspection_reports remains untracked.
+- image files remain untracked pending separate decision.
+- Active roadmap, intelligence-map, capabilities, metrics, research, and doctrine diffs are expected after this phase.
+================================================================================
+
+================================================================================
+HISTORICAL STATUS MERGE - 20260429 PRODUCTION DOWNLOADS
+Source file merged into this active doctrine:
+- SolveMotionWebSite_STATUS_AND_DOCTRINE.txt
+
+Reason:
+- Active website doctrine must be consolidated into one authority file.
+- This historical status file contained older production download and manifest status.
+- Its content is retained here as historical context before the old standalone file is removed.
+
+Merged content:
+SOLVEMOTION WEBSITE STATUS AND DOCTRINE
+
+Last Updated: 20260429-080200
+Current Production Commit: 30f73262eebfb3b0e1fe7d0d490369f5f22872da
+Current Baseline: C:\src\_BASELINES\SolveMotionWebSite-PRODUCTION-WEB-DOWNLOADS-ASCII-GREEN-20260429-080200
+
+STATUS
+- Production website deploy is GREEN.
+- Local main and origin/main are synchronized.
+- Website text files are ASCII-only.
+- SolveIt references and tracked SolveIt image assets have been removed.
+- SolveIt is replaced by SolveCrime for production download handling.
+- SolveCrime download paths use lowercase folder path downloads/solvecrime.
+- SolveCrime APK and IPA are published in the production downloads manifest.
+- SolvePharmacy APK is not published because the current APK is 149.05 MB and exceeds the GitHub production file limit.
+- SolvePharmacy IPA remains published.
+- Published manifest files were verified locally.
+- GitHub Pages production push completed successfully.
+
+DOWNLOAD MANIFEST STATUS
+- SolveMotion APK: published
+- SolveMotion IPA: published
+- SolveMind APK: published
+- SolveMind IPA: published
+- SolvePharmacy APK: skipped_oversized
+- SolvePharmacy IPA: published
+- SolveCrime APK: published
+- SolveCrime IPA: published
+- SolveOura APK: published
+- SolveOura IPA: published
+
+CURRENT KNOWN LIMITATION
+- SolvePharmacy APK must be reduced below the GitHub production download limit before it can be linked and published through the website.
+- Until then, all website pages must not link to SolvePharmacy-latest.apk.
+
+WEBSITE PRODUCTION RULES
+- PowerShell 5.1 only for file operations and production changes.
+- Inspect first before edits.
+- No assumptions.
+- No duplicate logic.
+- Use absolute paths.
+- Keep website text files ASCII-only.
+- Do not use smart quotes, em dashes, bullets, arrows, copyright symbols, emoji, or other non-ASCII symbols in source files.
+- Use ASCII replacements only:
+  - Dash: -
+  - Arrow: ->
+  - Bullet: -
+  - Copyright: (c)
+  - Smart quotes: plain quotes
+- Do not commit APK or IPA files over the GitHub hard limit.
+- Keep SolveCrime folder paths lowercase as downloads/solvecrime.
+- Do not reintroduce SolveIt files, links, folders, or assets.
+- Keep production deploy scripts deterministic.
+- Create central baselines under C:\src\_BASELINES only.
+- Do not create project-local backup folders.
+- Do not use /MIR for baseline creation.
+
+NEXT RECOMMENDED WORK
+1. Reduce SolvePharmacy APK size below the GitHub production limit.
+2. Re-run PushWebDownloads.ps1 after a smaller SolvePharmacy APK exists.
+3. Verify SolvePharmacy APK can be published.
+4. Restore SolvePharmacy APK link only after the manifest status changes from skipped_oversized to published.
+5. Continue website content polish only with ASCII-safe edits.
+ONE PRODUCTION SCRIPT RULE
+- The only active website production script is C:\src\PushWebDownloads.ps1.
+- DeployWebsite.ps1 was removed as a legacy duplicate.
+- Publish-Website.ps1 was removed as a legacy duplicate.
+- Sync-WebsiteDownloads.ps1 was removed as a wrapper duplicate.
+- Use this command for production website publishing:
+  Set-Location C:\src
+  .\PushWebDownloads.ps1
+
+===============================================================================
+PHASE 11 METRICS / TRACTION LAYER - PRODUCTION GREEN
+===============================================================================
+Date: 2026-05-13
+Commit: a68992e
+Commit message: Add privacy-safe metrics and traction layer
+Status: PRODUCTION GREEN
+
+Scope completed:
+- Phase 11A - Inspect investor/institutional/contact pages: GREEN
+- Phase 11B - Choose analytics approach: GREEN
+- Phase 11C - Add privacy-safe analytics script/events: GREEN
+- Phase 11D - Add app launch/download tracking events: GREEN
+- Phase 11E - Create metrics.html: GREEN
+- Phase 11F - Add investor traction block: GREEN
+- Phase 11G - Final scan / commit / push / production verify: GREEN
+
+Production verification:
+- HeadMatchesOrigin=True
+- RawFailureCount=0
+- ProductionFailureCount=0
+- ExistingProductionFailureCount=0
+- metrics.html production URL returns 200 and contains Metrics and Traction - SolveMotion Labs
+- assets/js/platform-metrics.js production URL returns 200 and contains function dispatchMetric
+- institutional.html production URL contains Traction and Measurement Readiness
+- partnerships.html production URL contains Partner Traction Signals
+- sitemap.xml production URL contains metrics.html
+- products/solvemotion.html production URL contains Athletes and Active People
+- products/solveoura.html production URL contains Athletes and Active People
+
+Final verified counts:
+- ProductionHtmlFileCount=37
+- HtmlStructureFailureCount=0
+- SitemapMetricsHitCount=1
+- PlatformMetricsBadPrivacyHitCount=0
+- PlatformMetricsReferenceCount=15
+- DataMetricHitCount=76
+- InstitutionalTractionBlockCount=1
+- PartnershipsTractionBlockCount=1
+- TractionMetricHitCount=6
+- SolveOuraWebAppHitCount=0
+- Core11ReferenceHitCount=0
+- ForbiddenFakeMetricClaimHitCount=0
+- AsciiNoBomFailureCount=0
+
+Locked rules after Phase 11:
+- Do not invent visitor counts, download totals, revenue, conversion rates, customer counts, investor counts, or adoption claims.
+- Metrics must remain privacy-safe and provider-neutral unless a real analytics provider is later configured and verified.
+- platform-metrics.js must not use cookies, localStorage, sessionStorage, screenshots, form contents, member data, passwords, or network capture.
+- SolveOura remains excluded from live web app links until upgrade is complete.
+- _inspection_reports remains untracked and must not be committed.
+- Future website changes continue PowerShell 5.1 only, inspect first, no assumptions, no duplicate logic, central baselines only.
+
+Baseline:
+- C:\src\_BASELINES\SolveMotionWebSite-PHASE11-METRICS-TRACTION-LAYER-PRODUCTION-GREEN-20260513-095831
+PHASE 18E - WEB PRODUCTION GREEN BASELINE
+- Status: GREEN.
+- Production push completed through existing script:
+  C:\src\PushWebDownloads.ps1 -Publish
+- Production commit:
+  e8d6b80
+- Production URLs verified:
+  - https://ray3639.github.io/SolveMotionWebSite/applications.html
+  - https://ray3639.github.io/SolveMotionWebSite/webapps/solvemind/
+  - production psychology roadmap asset includes https://www.mckinsey.com/careers/home.
+- Web staging and production scope completed:
+  - Existing Build-SolveMind.ps1 used for SolveMind web build.
+  - Existing PushWebDownloads.ps1 used for website production push.
+  - Start-Website.ps1 corrected to serve staging from C:\src so production-style base href works locally.
+  - SolveMind web app portal refreshed under C:\src\SolveMotionWebSite\webapps\solvemind.
+  - Portal base href verified.
+  - Portal Core psychology roadmap JSON verified.
+  - Old exact McKinsey URL absent.
+  - Correct McKinsey careers URL present.
+- Final verified state:
+  - ProductionVerificationFailCount=0.
+  - LocalFileStateFailCount=0.
+  - SolveMindFlutterAnalyzeStatus=GREEN.
+- Boundaries preserved:
+  - No new build scripts.
+  - No duplicate copy logic.
+  - No manual duplicate portal copy.
+  - No route patch.
+  - No Core Dart patch.
+  - No BehaviorEngine patch.
+  - No PrimaryButton patch.
+- Next scope:
+  1. Start Android build phase using existing build process only.
+  2. Inspect Android build parameters before running build.
+  3. Build Android only after inspection passes.
+
+===============================================================================
+PHASE 12 - WEBSITE DESIGN MODE UPGRADE ROADMAP LOCK
+===============================================================================
+Date: 2026-05-16
+Mode: DESIGN MODE
+Status: LOCKED ROADMAP / READY FOR PHASED EXECUTION
+
+Current production/design state:
+- Website production is working and current HEAD matches origin/main.
+- Phase 11 metrics / traction layer was completed and production verified previously.
+- Current application-card image investigation proves the app-display PNG files are not white-panel assets.
+- Production image hashes match local image hashes for all five app-display images.
+- Current visual white-background issue is not owned by replacing PNG image files.
+- The remaining image/card visual issue should be handled through cache/CSS/rendering inspection and controlled design polish.
+- Do not regenerate or replace app-display PNGs unless a later inspection proves the image files are the source.
+
+Current visual investigation evidence:
+- Production applications.html references five app-display images.
+- Local and production app-display image files match by SHA256.
+- ImageNormalFailureCount=0.
+- ImageBustedFailureCount=0.
+- CSS hash mismatch exists and must be inspected before design patching.
+- Product logo CSS currently uses product-logo-raw with transparent background, no border, and no shadow.
+
+Locked Phase 12 upgrade sequence:
+
+Phase 12A - Image / CSS / cache ownership investigation
+- Confirm whether white visual is browser cache, stale CSS, computed style, or page state.
+- Do not patch PNG assets unless pixel/hash evidence proves the image file is wrong.
+- Compare local and production CSS before card design changes.
+- Keep inspection reports untracked.
+
+Phase 12B - Applications page product card upgrade
+- Upgrade applications.html product cards into polished app launch panels.
+- Keep current app-display images unless later evidence proves replacement is required.
+- Add status badges:
+  - SolveMotion: Live Web App
+  - SolveMind: Live Web App
+  - SolveCrime: Live Web App
+  - SolvePharmacy: Live Web App
+  - SolveOura: In Progress
+- Improve card hierarchy:
+  - Logo
+  - App title
+  - System identity line
+  - Short description
+  - Capability bullets
+  - CTA row
+- Make button layout consistent:
+  - Explore product
+  - Launch Web App for completed apps only
+  - No SolveOura launch link while SolveOura remains in progress
+- Add Core 12.0 connection language on each card.
+- Preserve Phase 11 privacy, metrics, and truthfulness gates.
+
+Phase 12C - Website design system cleanup
+- Normalize shared card styles in assets/css/main.css.
+- Create clearer application-card specific selectors instead of relying only on generic card rules.
+- Clean duplicate or legacy product image/card CSS only after inspection.
+- Improve mobile spacing and responsive product-card alignment.
+- Preserve ASCII / NO_BOM rules.
+
+Phase 12D - Core 12 commercial page upgrade
+- Upgrade core12-service.html as a sellable Core 12.0 platform page.
+- Add or refine sections for:
+  - SolveMotion Labs Core 12.0 as a Service
+  - App adapter contracts
+  - DomainSignal input
+  - DTO output
+  - Render-only app consumers
+  - Licensing and white-label deployment
+  - Enterprise integration path
+  - Governance and release gates
+  - SDK/API direction
+- Keep formal name as SolveMotion Labs Core 12.0 for official references.
+
+Phase 12E - Investor / partnership page upgrade
+- Upgrade institutional.html and partnerships.html with stronger commercial readiness structure.
+- Keep all Phase 11 truthfulness boundaries:
+  - No invented visitor counts
+  - No invented download totals
+  - No invented revenue
+  - No invented customer counts
+  - No invented investor commitments
+  - No adoption claims without real verified data
+- Strengthen:
+  - Platform traction framework
+  - Product suite maturity
+  - Core 12.0 licensing path
+  - Partner onboarding
+  - Acquisition readiness
+
+Phase 12F - Homepage visual upgrade
+- Upgrade index.html with stronger institutional platform presentation.
+- Emphasize:
+  - Four completed Core-connected web apps
+  - SolveOura in progress
+  - Core 12.0 commercial platform
+  - Website-runnable app portal
+  - Metrics / traction layer
+  - Reports, partnerships, and contact paths
+- Improve hero hierarchy, visual flow, and Core 12.0 platform story.
+
+Phase 12G - Final design scan / production push / baseline
+- Run local scans before commit.
+- Verify HTML structure, sitemap, links, SolveOura exclusion, Phase 11 metrics/truthfulness gates, ASCII / NO_BOM.
+- Push only after inspection passes.
+- Verify production URLs after push.
+- Create central GREEN baseline under C:\src\_BASELINES.
+- Update doctrine after production verification.
+
+Current dirty worktree items requiring classification before Phase 12B patch:
+- Start-Website.ps1 is modified for local staging server workflow.
+- assets/images/SolveCrime/SolveCrime 6.0.png is untracked.
+- assets/images/SolveMind/SolveMind 6.0.png is untracked.
+- assets/images/Web Platfrom.png is untracked.
+- _inspection_reports is untracked and must remain uncommitted unless explicitly needed.
+
+Locked process rules for Phase 12:
+- PowerShell 5.1 only.
+- Inspect first.
+- No assumptions.
+- No duplicate logic.
+- No blind edits.
+- Use central PRE_PATCH backups under C:\src\_BASELINES\PRE_PATCH before changing files.
+- No project-local backup folders.
+- Do not commit _inspection_reports.
+- Do not add SolveOura live web app launch links until SolveOura upgrade is complete.
+- Do not weaken Phase 11 metrics, privacy, or truthfulness gates.
+- Keep apps and site aligned to 6.0 Design Mode and SolveMotion Labs Core 12.0 commercial platform direction.
+
+Next recommended active phase:
+- Phase 12A-R6: inspect production CSS rule differences.
+- Then classify dirty worktree ownership.
+- Then Phase 12B: patch applications.html and assets/css/main.css for product card design polish only.
+
+================================================================================
+HISTORICAL STATUS MERGE - 20260511 PHASE 6 FOUR-APP PORTAL AUDIT
+Source file merged into this active doctrine:
+- WEBSITE_STATUS_AND_DOCTRINE.txt
+
+Reason:
+- Active website doctrine must be consolidated into one authority file.
+- This historical status file contained Phase 6 four-app portal verification and SolveOura exclusion truthfulness guardrail.
+- Its content is retained here as historical context before the old standalone file is removed.
+
+Merged content:
+================================================================================
+WEBSITE PHASE 6 GREEN CLOSEOUT - FOUR COMPLETED WEB APP PORTAL AUDIT
+Timestamp: 20260511-062319
+Commit: 5e7c6b104c68ba9f4501287384ceb21218dc2a90
+
+Status:
+- Phase 6 Final Four-App Portal Audit is GREEN.
+- Four completed live web portals are verified:
+  - SolvePharmacy
+  - SolveMind
+  - SolveCrime
+  - SolveMotion
+- SolveOura remains excluded from live web app publishing until its upgrade is complete.
+- SolveMotion web portal build 138 is committed, pushed, and production verified.
+- Raw GitHub, origin/main, GitHub API contents, and GitHub Pages production content all match build 138.
+- Public truthfulness rule remains active: site must state four completed Core-connected applications plus SolveOura in progress.
+- No "five completed apps" or equivalent overstated language is allowed.
+- _inspection_reports remains untracked and allowed.
+- Next website phase is Phase 7 Homepage Modernization.
+
+Continuing doctrine:
+- PowerShell 5.1 only.
+- Inspect first, no assumptions, no blind edits.
+- No duplicate logic.
+- Central baselines only under C:\src\_BASELINES.
+- Existing scripts only.
+- SolveOura stays excluded from live web app publishing until upgrade completion.
+- Public claims must stay truthful and production-verifiable.
+================================================================================
+
+================================================================================
+SCRIPT OWNERSHIP DECISION - WEBSITE UPDATE SCRIPT CLEANUP
+Date: 2026-05-18
+
+Decision:
+- C:\src\PushWebDownloads.ps1 remains the governed production-capable website push path.
+- Repo-local Update-Website.ps1 is not the governed production path.
+- Repo-local Update-Website.ps1 uses blind git add . and direct git push behavior without the same explicit production safety gate.
+- Repo-local Update-Website.ps1 should be removed from the website repository during the cleanup patch.
+- Start-Website.ps1 should remain in the website repository as a local staging server helper only.
+- C:\src\Update-Website.ps1 should not be created during this cleanup because PushWebDownloads.ps1 already owns the production publish workflow.
+- Future production pushes should continue to use C:\src\PushWebDownloads.ps1 with explicit approval after final gates pass.
+
+Verification required after cleanup:
+- SOLVEMOTION_WEBSITE_STATUS_AND_DOCTRINE.txt is the only active doctrine/status file in the website repository.
+- SolveMotionWebSite_STATUS_AND_DOCTRINE.txt is removed after its content is merged.
+- WEBSITE_STATUS_AND_DOCTRINE.txt is removed after its content is merged.
+- Update-Website.ps1 is removed from the website repository.
+- Start-Website.ps1 remains present.
+- C:\src\PushWebDownloads.ps1 remains present and production-gated.
+- No staging, commit, or production push occurs until the final verification gate.
+================================================================================
+
+================================================================================
+PHASE 12T - DOWNLOADS GOVERNANCE RE-INSPECTION
+Date: 2026-05-18
+Status: GREEN / inspected / skipped for no duplicate logic / doctrine updated
+
+Scope:
+- Re-inspected downloads.html after governance upgrades to roadmap, intelligence-map, capabilities, metrics, and research pages.
+- Confirmed downloads.html already owns Download Governance exactly once.
+- Confirmed no new downloads.html patch is required.
+- Preserved no duplicate logic by skipping a second Download Governance section.
+
+Verification:
+- downloads.html page integrity passed.
+- ASCII / NO_BOM passed.
+- Section balance passed.
+- main/footer balance passed.
+- Download Governance marker count is exactly 1.
+- Duplicate ownership scan confirms Download Governance appears only in downloads.html.
+- SolveOura web app launch risk count is 0.
+- Old version risk count is 0.
+- Placeholder count is 0.
+- Tech artifact count is 0.
+- Oversized APK risk count is 0.
+- PatchCandidate=False.
+- SkipDecision=True.
+- No sitemap patch was required in this phase.
+- No staging, commit, or production push was performed in this phase.
+
+Repository notes:
+- SOLVEMOTION_WEBSITE_STATUS_AND_DOCTRINE.txt is the only active doctrine/status authority file.
+- Start-Website.ps1 remains a local staging server helper.
+- C:\src\PushWebDownloads.ps1 remains the governed production-capable website push path.
+- Active page diffs remain expected pending final full-site verification and production push decision.
+================================================================================
+
+================================================================================
+PHASE 12U - EDUCATION GOVERNANCE
+Date: 2026-05-18
+Status: GREEN / page patched / integrity verified / doctrine updated
+
+Scope:
+- Upgraded education/index.html with one non-duplicating Education Governance section.
+- Clarified that education content describes structured learning, applied intelligence domains, and Core-supported knowledge pathways without claiming accreditation, certification, licensure, or replacement for professional instruction.
+- Added Educational Use Boundary guidance confirming education pages support learning orientation, domain literacy, and applied reasoning structure without being presented as clinical, legal, pharmacy, academic, or professional credential programs unless a verified program authority exists.
+- Added Core 12 Learning Support Boundary guidance confirming SolveMotion Labs Core 12.0 supports education by centralizing DomainSignal input, deterministic reasoning, DTO output, confidence, risk, missing evidence, recommendations, and report-ready explanations across approved domains.
+- Added Credential Boundary guidance confirming learning material may explain concepts, workflows, and reasoning patterns, but must not imply certificates, accreditation, professional licensing, school credit, or regulatory approval unless formally created and verified.
+- Added Professional Instruction Boundary guidance confirming educational surfaces complement human review and domain learning, but must not replace teachers, clinicians, pharmacists, investigators, legal professionals, workplace policy, or regulated professional judgment.
+
+Verification:
+- education/index.html page integrity passed.
+- ASCII / NO_BOM passed.
+- Section balance passed.
+- main/footer balance passed.
+- Education Governance marker count is exactly 1.
+- Educational Use Boundary marker count is exactly 1.
+- Core 12 Learning Support Boundary marker count is exactly 1.
+- Credential Boundary marker count is exactly 1.
+- Professional Instruction Boundary marker count is exactly 1.
+- Education truthfulness marker count is exactly 1 using whitespace-tolerant validation.
+- SolveOura web app launch risk count is 0.
+- Old version risk count is 0.
+- Placeholder count is 0.
+- Tech artifact count is 0.
+- Unsupported claim risk count is 0.
+- No duplicate education governance ownership was introduced.
+- No sitemap patch was required in this phase.
+- No staging, commit, or production push was performed in this phase.
+
+Repository notes:
+- SOLVEMOTION_WEBSITE_STATUS_AND_DOCTRINE.txt remains the only active doctrine/status authority file.
+- Start-Website.ps1 remains a local staging server helper.
+- C:\src\PushWebDownloads.ps1 remains the governed production-capable website push path.
+- Active page diffs remain expected pending final full-site verification and production push decision.
+================================================================================

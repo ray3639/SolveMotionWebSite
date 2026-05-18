@@ -516,3 +516,38 @@ Decision:
 - Phase 12J is closed.
 - Next step is Phase 12K roadmap target inspection.
 - No page patch should happen until the next roadmap inspection confirms ownership, current content, anchors, and duplicate-risk boundaries.
+============================================================
+PHASE 12K - INSTITUTIONAL GOVERNANCE
+============================================================
+Timestamp: 20260517-191907
+Status: GREEN
+Scope: institutional.html institutional governance section.
+Production commit: 005f4f9 Add institutional governance section.
+
+Summary:
+- Added an Institutional Governance section to institutional.html.
+- Added platform authority language for one Core 12.0 operating spine across completed 6.0 applications and future in-progress domains.
+- Added doctrine ownership language tying public website claims to baseline notes, architecture doctrine, release gates, and verified production state.
+- Added release governance language for pushed commits, production verification, artifact status, and controlled page ownership.
+- Added commercial readiness language for investor, enterprise, licensing, white-label, and acquisition positioning.
+- Added external review boundary language for partner and investor review surfaces.
+- Reinforced Core 12.0 integration authority: DomainSignal input, Core DTO output, and render-only application behavior.
+- Reinforced that institutional pages must not introduce local scoring claims, duplicate decision-engine claims, unsupported customer adoption claims, or completed-product language for in-progress application work.
+- No doctrine, reports, downloads, contact, methodology, sitemap, or other page content was patched during the institutional page content change.
+
+Verification:
+- institutional.html local inspection is GREEN.
+- institutional.html raw GitHub verification is GREEN.
+- institutional.html production verification is GREEN.
+- Institutional Governance appears once.
+- Platform authority, Doctrine ownership, Release governance, Commercial readiness, External review boundary, Core 12.0 integration authority, DomainSignal, Core DTO output, render-only application behavior, local scoring claims, duplicate decision-engine claims, and unsupported customer adoption claims are present.
+- institutional.html has no BOM and no non-ASCII bytes.
+- SolveOura web app launch risk is absent.
+- Start-Website.ps1 remains unstaged and isolated.
+- _inspection_reports remains untracked.
+- image files remain untracked.
+
+Decision:
+- Phase 12K is closed.
+- Next step is Phase 12L roadmap target inspection.
+- No page patch should happen until the next roadmap inspection confirms ownership, current content, anchors, and duplicate-risk boundaries.

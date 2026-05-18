@@ -551,3 +551,39 @@ Decision:
 - Phase 12K is closed.
 - Next step is Phase 12L roadmap target inspection.
 - No page patch should happen until the next roadmap inspection confirms ownership, current content, anchors, and duplicate-risk boundaries.
+============================================================
+PHASE 12L - CORE 12 SERVICE GOVERNANCE
+============================================================
+Timestamp: 20260517-193710
+Status: GREEN
+Scope: core12-service.html Core 12.0 Service Governance section.
+Production commit: 3a06c65 Add Core 12 service governance section.
+
+Summary:
+- Added a Core 12.0 Service Governance section to core12-service.html.
+- Added SaaS boundary language stating Core 12.0 as a Service remains a governed commercial direction until public SaaS availability is explicitly implemented and verified.
+- Added external app integration language for qualified partner or company applications sending structured DomainSignal input instead of duplicating reasoning logic.
+- Added adapter contract language preserving input ownership, CoreIntelligenceOrchestrator execution, immutable DTO output, and traceable recommendations.
+- Added SDK/API boundary language describing future SDK or API work as a governed contract, not an open-ended automation claim.
+- Added commercial deployment readiness language tying pilots, licensing, white-label deployment, and enterprise review to release gates and production verification.
+- Added tenant/company onboarding language for domain fit, data boundaries, review authority, reporting needs, and support expectations.
+- Added render-only application behavior language for connected apps displaying Core DTO output without local scoring, duplicate decision engines, or hidden model logic.
+- Reinforced that service governance must not imply a live public SaaS launch, unrestricted API access, autonomous professional authority, unsupported customer adoption, or completed-product language for in-progress application work.
+- No doctrine, institutional, reports, downloads, contact, methodology, sitemap, or other page content was patched during the core12-service page content change.
+
+Verification:
+- core12-service.html local inspection is GREEN.
+- core12-service.html raw GitHub verification is GREEN.
+- core12-service.html production verification is GREEN.
+- Core 12.0 Service Governance appears once.
+- SaaS boundary, External app integration, Adapter contract, SDK/API boundary, Commercial deployment readiness, Tenant/company onboarding, Render-only application behavior, DomainSignal input, CoreIntelligenceOrchestrator, Core DTO output, local scoring, duplicate decision engines, and unsupported customer adoption are present.
+- core12-service.html has no BOM and no non-ASCII bytes.
+- SolveOura web app launch risk is absent.
+- Start-Website.ps1 remains unstaged and isolated.
+- _inspection_reports remains untracked.
+- image files remain untracked.
+
+Decision:
+- Phase 12L is closed.
+- Next step is Phase 12M roadmap target inspection.
+- No page patch should happen until the next roadmap inspection confirms ownership, current content, anchors, and duplicate-risk boundaries.

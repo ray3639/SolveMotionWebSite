@@ -1264,3 +1264,21 @@ Repository notes:
 - C:\src\PushWebDownloads.ps1 remains the governed production-capable website push path.
 - Active page diffs remain expected pending final full-site verification and production push decision.
 ================================================================================
+================================================================================
+Phase 11F - Core 12.0 website roadmap alignment
+================================================================================
+Date: 2026-05-18
+Status=GREEN_PATCHED
+
+Scope completed:
+- Updated core12-service.html with Core 12.0 commercial readiness final GREEN wording.
+- Updated roadmap.html with final GREEN commercial readiness roadmap status.
+- Confirmed wording is alignment-only and does not claim a live public SaaS product or open public API.
+- Preserved SolveMotion Labs Core 12.0 naming.
+- Preserved service boundary language.
+- Preserved partner checklist and external packaging positioning.
+- No sitemap patch was required.
+- No production push was performed in this phase.
+
+Decision:
+- READY_FOR_PHASE_11G_WEBSITE_ROADMAP_ALIGNMENT_VERIFY

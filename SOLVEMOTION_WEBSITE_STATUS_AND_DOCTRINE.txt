@@ -1282,3 +1282,29 @@ Scope completed:
 
 Decision:
 - READY_FOR_PHASE_11G_WEBSITE_ROADMAP_ALIGNMENT_VERIFY
+
+================================================================================
+WEBSITE PHASE 13D - CORE 12 COMMERCIAL RUNTIME ROADMAP POLISH
+================================================================================
+Timestamp=20260519-090623
+Status=GREEN_PATCHED
+Scope=Website roadmap polish after Core 12.0 Phase VIII IX X commercial runtime final GREEN baseline.
+
+Core Source:
+- Core baseline: C:\src\_BASELINES\Core-12.0-PHASE12L-VIII-IX-X-COMMERCIAL-RUNTIME-FINAL-GREEN-20260519-081557.
+- Core final status: COMMERCIAL_RUNTIME_SCOPE_COMPLETE_GREEN.
+- Completed Core scope: Phase VIII Partner Demo and Validation, Phase IX Commercial Pilot Readiness, and Phase X External Integration Runtime Hardening.
+
+Website Changes:
+- roadmap.html updated with Core 12.0 commercial runtime final GREEN roadmap status.
+- platform-evolution.html updated with commercial runtime hardening status.
+- sitemap.xml lastmod values updated for roadmap.html and platform-evolution.html.
+- SolveOura live web app launch links remain excluded until SolveOura upgrade is complete.
+
+Governance:
+- No webapps were modified.
+- No SolveOura launch route was added.
+- No Core runtime code was modified from the website scope.
+- Active source encoding and JSON gates must remain GREEN before production push.
+
+Decision=READY_FOR_PHASE_13E_VERIFY_WEBSITE_ROADMAP_PATCH

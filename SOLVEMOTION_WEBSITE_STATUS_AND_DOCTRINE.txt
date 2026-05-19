@@ -1329,3 +1329,24 @@ Next Core Scope:
 - Any future website roadmap update must be inspect-first and production-verified.
 
 Decision=READY_FOR_CORE_PHASE_14A_COMMERCIAL_SDK_ADAPTER_PACKAGING_INSPECT_ONLY
+
+================================================================================
+WEBSITE PHASE 13I - NEXT CORE PHASE 15 COMMERCIAL RELEASE CANDIDATE SCOPE LOCK
+================================================================================
+Timestamp=20260519-141810
+Status=NEXT_SCOPE_LOCKED
+Scope=Record next Core 12.0 Phase 15 Commercial Release Candidate inspection scope.
+
+Completed Before This Scope:
+- Core Phase 14D SDK / Adapter Packaging final GREEN baseline is complete.
+- Core Phase 15B-R2 full source audit closeout is complete.
+- Core Phase 15B-R3 confirmed Commercial Release Candidate scope-lock readiness.
+- No website page patch is approved at this scope-lock step.
+
+Next Core Scope:
+- Phase 15 Commercial Release Candidate inspection.
+- Website roadmap alignment must be inspected later before any website page patch.
+- Production verification is required if any later website files are changed.
+- SolveOura live launch links remain excluded until SolveOura upgrade is complete.
+
+Decision=READY_FOR_CORE_PHASE_15_COMMERCIAL_RELEASE_CANDIDATE_INSPECT_ONLY

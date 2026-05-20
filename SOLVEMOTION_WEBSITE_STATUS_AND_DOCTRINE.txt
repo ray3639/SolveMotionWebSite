@@ -159,7 +159,7 @@ NEXT WEBSITE SCOPE:
 - Phase 5E: Add capabilities.html.
 - Phase 5F: Add reports.html.
 - Phase 5G: Add core12-service.html.
-- Phase 5H: Add investors.html.
+- Phase 5H: Investor readiness content consolidated into institutional.html, partnerships.html, and metrics.html; no standalone investor page is required.
 - Phase 5I: Add enterprise.html.
 - Phase 5J: Upgrade research / doctrine / education pages.
 - Phase 5K: Update navigation / footer / sitemap.
@@ -219,7 +219,7 @@ NEXT WEBSITE SCOPE:
 - Phase 5E: Add capabilities.html.
 - Phase 5F: Add reports.html.
 - Phase 5G: Add core12-service.html.
-- Phase 5H: Add investors.html.
+- Phase 5H: Investor readiness content consolidated into institutional.html, partnerships.html, and metrics.html; no standalone investor page is required.
 - Phase 5I: Add enterprise.html.
 - Phase 5J: Upgrade research / doctrine / education pages.
 - Phase 5K: Update navigation / footer / sitemap.
@@ -274,7 +274,7 @@ PHASE 5E FINAL CHECK:
 NEXT WEBSITE SCOPE:
 - Phase 5F: Add reports.html.
 - Phase 5G: Add core12-service.html.
-- Phase 5H: Add investors.html.
+- Phase 5H: Investor readiness content consolidated into institutional.html, partnerships.html, and metrics.html; no standalone investor page is required.
 - Phase 5I: Add enterprise.html.
 - Phase 5J: Upgrade research / doctrine / education pages.
 - Phase 5K: Update navigation / footer / sitemap.
@@ -333,7 +333,7 @@ PHASE 5F FINAL CHECK:
 
 NEXT WEBSITE SCOPE:
 - Phase 5G: Add core12-service.html.
-- Phase 5H: Add investors.html.
+- Phase 5H: Investor readiness content consolidated into institutional.html, partnerships.html, and metrics.html; no standalone investor page is required.
 - Phase 5I: Add enterprise.html.
 - Phase 5J: Upgrade research / doctrine / education pages.
 - Phase 5K: Update navigation / footer / sitemap.
@@ -382,7 +382,7 @@ PHASE 12E - INVESTOR / PARTNERSHIP CONTACT CLOSEOUT
 - Scope: contact.html only.
 - Production result: GitHub Pages contact.html verified with investor, enterprise, licensing, white-label, SDK/API, and Core 12.0 partnership inquiry signal.
 - No sitemap change was made.
-- No investors.html or enterprise.html pages were created.
+- No standalone investor or enterprise pages were created; investor and enterprise readiness content is consolidated into institutional.html, partnerships.html, metrics.html, and platform-evolution.html.
 - Existing institutional.html remains the owner of investor and enterprise platform positioning to avoid duplicate page ownership.
 - Start-Website.ps1, _inspection_reports, and untracked image files remained isolated from Phase 12E staging and commit.
 - Next roadmap decision: Phase 12F should inspect the next website upgrade target before any patch.
@@ -1350,3 +1350,15 @@ Next Core Scope:
 - SolveOura live launch links remain excluded until SolveOura upgrade is complete.
 
 Decision=READY_FOR_CORE_PHASE_15_COMMERCIAL_RELEASE_CANDIDATE_INSPECT_ONLY
+================================================================================
+WEBSITE PHASE 17C - STAGING POLISH PATCH
+================================================================================
+Timestamp=20260519-182514
+Scope=Staging polish after Core 12 hosted adapter implementation baseline.
+PatchedFiles=metrics.html;about.html;SOLVEMOTION_WEBSITE_STATUS_AND_DOCTRINE.txt
+MetricsPolish=Added commercial readiness signal language tied to Core 12.0 governance, release gates, partner readiness, and investor-safe reporting.
+AboutPolish=Added Core 12.0 commercial platform positioning, applied intelligence infrastructure framing, and human-governed boundary language.
+InvestorPageDecision=No standalone investor page is required in this scope. Investor readiness content is consolidated into institutional.html, partnerships.html, metrics.html, and platform-evolution.html.
+SolveOuraLaunchPatchAllowed=False
+Status=WEBSITE_STAGING_POLISH_PATCH_GREEN
+Decision=READY_FOR_PHASE_17D_WEBSITE_POLISH_POST_PATCH_VERIFY

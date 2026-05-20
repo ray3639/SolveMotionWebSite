@@ -1103,9 +1103,6 @@ Phase 12G - Final design scan / production push / baseline
 
 Current dirty worktree items requiring classification before Phase 12B patch:
 - Start-Website.ps1 is modified for local staging server workflow.
-- assets/images/SolveCrime/SolveCrime 6.0.png is untracked.
-- assets/images/SolveMind/SolveMind 6.0.png is untracked.
-- assets/images/Web Platfrom.png is untracked.
 - _inspection_reports is untracked and must remain uncommitted unless explicitly needed.
 
 Locked process rules for Phase 12:

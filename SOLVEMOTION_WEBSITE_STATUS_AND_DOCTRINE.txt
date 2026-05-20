@@ -1359,3 +1359,29 @@ InvestorPageDecision=No standalone investor page is required in this scope. Inve
 SolveOuraLaunchPatchAllowed=False
 Status=WEBSITE_STAGING_POLISH_PATCH_GREEN
 Decision=READY_FOR_PHASE_17D_WEBSITE_POLISH_POST_PATCH_VERIFY
+================================================================================
+WEBSITE PHASE 20C - EDUCATION CORE 12.0 ROADMAP PATCH
+================================================================================
+Timestamp=20260519-204741
+Status=GREEN_PATCHED
+Scope=Updated education/roadmap.html with a 10-phase Core 12.0 education roadmap.
+
+Website Changes:
+- education/roadmap.html now shows a 10-phase Core 12.0 roadmap.
+- Phases 1 through 7 are marked Complete.
+- Phases 8 and 9 are marked Commercial Release Candidate Complete.
+- Phase 10 is marked Active Next Scope - Not Complete.
+- Phase 10 is Hosted Core API / SaaS Runtime Architecture.
+- The page explicitly states that hosted SaaS remains incomplete and not live.
+- Root roadmap.html was not patched in this phase.
+- sitemap.xml was not patched in this phase.
+- No webapps were modified.
+- No images were modified.
+- SolveOura launch links remain excluded until SolveOura upgrade is complete.
+
+Core 12.0 Status Boundary:
+- Core 12.0 Phases 1 through 9 are treated as complete or commercial release candidate complete for roadmap messaging.
+- Hosted Core API / SaaS Runtime Architecture remains the active next scope.
+- Hosted SaaS must not be described as complete until API runtime, tenant boundaries, validation, usage tracking, monitoring, production governance, and release gates are completed and verified.
+
+Decision=READY_FOR_PHASE_20D_VERIFY_EDUCATION_ROADMAP_PATCH

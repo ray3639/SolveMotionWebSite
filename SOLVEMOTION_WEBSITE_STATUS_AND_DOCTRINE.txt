@@ -1462,3 +1462,27 @@ CURRENT WEBSITE STATUS
 - Production verified commit: 72321e2.
 - Production verified baseline: C:\src\_BASELINES\SolveMotionWebSite-PHASE21G-CORE12-PHASE10S-LOCAL-ONLY-ROADMAP-PRODUCTION-GREEN-20260520-082110.
 
+PHASE 12E - CORE 12 PHASE 12C DOMAIN KNOWLEDGE WEBSITE STATUS PATCH
+Timestamp: 20260520-120217
+Status: WEBSITE_PHASE12E_CORE12_PHASE12C_DOMAIN_KNOWLEDGE_STATUS_PATCH_GREEN
+Core baseline: C:\src\_BASELINES\Core12-FULL-PHASE12-DOMAIN-KNOWLEDGE-GREEN-20260520-114053
+Published roadmap status: Core12-FULL-PHASE12-DOMAIN-KNOWLEDGE-GREEN-20260520-114053
+Completion marker: ACTIVE_CORE_DOMAIN_KNOWLEDGE_COMPLETE_AND_EDUCATION_ROADMAP_ALIGNED
+
+Phase 12C confirms active Core domain knowledge coverage is complete and aligned to the education roadmap:
+- Movement / kinesiology / biomechanics
+- Cognitive / psychology / behavior
+- Criminology / investigation / evidence
+- Pharmacy / pharmacology
+- Chemistry / chemical knowledge
+- Public health / risk and prevention context
+- Recovery / Oura future-domain readiness evidence
+
+Boundary remains locked:
+- Core/apps remain local-only.
+- Apps emit DomainSignal input and render Core DTO output only.
+- App UI remains render-only.
+- No local scoring.
+- No duplicate app-side intelligence logic.
+- No hosted SaaS/live production service completion claim.
+- SolveOura remains excluded from live web app launch until its upgrade is complete.

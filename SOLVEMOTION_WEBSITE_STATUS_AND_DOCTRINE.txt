@@ -1041,7 +1041,7 @@ Phase 12B - Applications page product card upgrade
 - Make button layout consistent:
   - Explore product
   - Launch Web App for completed apps only
-  - No SolveOura launch link while SolveOura remains in progress
+  - No SolveOura exclusion until upgrade completion link while SolveOura remains in progress
 - Add Core 12.0 connection language on each card.
 - Preserve Phase 11 privacy, metrics, and truthfulness gates.
 
@@ -1300,7 +1300,7 @@ Website Changes:
 
 Governance:
 - No webapps were modified.
-- No SolveOura launch route was added.
+- No SolveOura exclusion until upgrade completion route was added.
 - No Core runtime code was modified from the website scope.
 - Active source encoding and JSON gates must remain GREEN before production push.
 
@@ -1318,7 +1318,7 @@ Completed Before This Scope:
 - Core Phase 12L final GREEN baseline is locked at C:\src\_BASELINES\Core-12.0-PHASE12L-VIII-IX-X-COMMERCIAL-RUNTIME-FINAL-GREEN-20260519-081557.
 - Production commit f45a954 published the Core 12 commercial runtime roadmap polish.
 - Production verification passed for roadmap.html, platform-evolution.html, and sitemap.xml.
-- SolveOura launch links remain excluded until SolveOura upgrade is complete.
+- SolveOura exclusion until upgrade completion links remain excluded until SolveOura upgrade is complete.
 
 Next Core Scope:
 - Phase 14A Commercial SDK / Adapter Packaging inspection.
@@ -1377,7 +1377,7 @@ Website Changes:
 - sitemap.xml was not patched in this phase.
 - No webapps were modified.
 - No images were modified.
-- SolveOura launch links remain excluded until SolveOura upgrade is complete.
+- SolveOura exclusion until upgrade completion links remain excluded until SolveOura upgrade is complete.
 
 Core 12.0 Status Boundary:
 - Core 12.0 Phases 1 through 9 are treated as complete or commercial release candidate complete for roadmap messaging.
@@ -1416,3 +1416,49 @@ Governance Boundary:
 - Core GitHub remote add, remote push, origin/main, and GitHub repository creation are not part of the Core ownership model.
 
 Decision=READY_FOR_PHASE_21D_VERIFY_WEBSITE_CORE_PHASE10S_LOCAL_ONLY_STATUS
+
+================================================================================
+GLOBAL RULES AND CURRENT WEBSITE PRODUCTION SCOPE
+================================================================================
+
+GLOBAL OPERATING RULES
+- All SolveMotion Labs app work is in 6.0 Design Mode unless explicitly changed.
+- Core 12.0 is local-only commercial platform work.
+- Do not create or push Core/app GitHub remotes.
+- GitHub production publishing is only for SolveMotionWebSite.
+- Do not claim hosted SaaS/live production service is complete unless explicitly verified.
+- PowerShell 5.1 only.
+- Inspect first before edits.
+- No assumptions.
+- No blind edits.
+- No duplicate logic.
+- Central baselines only under C:\src\_BASELINES.
+- Targeted pre-patch backups only under C:\src\_BASELINES\PRE_PATCH.
+- No project-local backup/temp folders.
+- Use existing build scripts only.
+- Flutter analyze must be GREEN before proceeding past code changes.
+- Enforce ASCII/NO_BOM unless parse-valid JSON intentionally requires otherwise.
+- Apps remain render-only for Core-owned intelligence.
+- UI emits DomainSignal/domain DTO input and renders immutable Core DTO output only.
+- No local scoring.
+- No duplicate app-side engines.
+- No retired/local intelligence logic.
+- All routes/screens must remain wired back to the main dashboard.
+- No orphan screens.
+- No stubs.
+- No placeholders.
+- Website must be production verified before claiming live.
+- SolveOura remains excluded from live web app portal until upgrade completion.
+
+CURRENT CORE STATUS
+- Core 12.0 Phase 10S local-only repository ownership is complete.
+- Core/apps remain local-only.
+- Core/app GitHub remotes are not allowed.
+- Hosted SaaS live production service is not claimed complete.
+- Next Core roadmap scope must be defined locally before code changes.
+
+CURRENT WEBSITE STATUS
+- Website Phase 21G Core Phase 10S local-only roadmap/status update is complete.
+- Production verified commit: 72321e2.
+- Production verified baseline: C:\src\_BASELINES\SolveMotionWebSite-PHASE21G-CORE12-PHASE10S-LOCAL-ONLY-ROADMAP-PRODUCTION-GREEN-20260520-082110.
+

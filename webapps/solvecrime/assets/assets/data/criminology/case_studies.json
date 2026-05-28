@@ -1,72 +1,112 @@
 {
-  "title": "Practice Case Studies (Fictional)",
-  "notes": [
-    "All cases are fictional to support training. These are structured for timeline + evidence + reasoning exercises."
-  ],
-  "cases": [
-    {
-      "id": "CS_AR_001",
-      "title": "Intersection Collision — Conflicting Witness Accounts",
-      "category": "Accident Reconstruction",
-      "scenario_summary": "Two vehicles collide at a four-way intersection. Witnesses disagree about who entered on green.",
-      "provided_artifacts": [
-        { "type": "witness_statement", "id": "W1", "summary": "Saw Vehicle A enter quickly; unsure about light." },
-        { "type": "witness_statement", "id": "W2", "summary": "Heard impact; looked up after; believes Vehicle B ran red." },
-        { "type": "scene_note", "id": "S1", "summary": "Road dry, visibility moderate, minor skid marks observed." },
-        { "type": "device_log", "id": "D1", "summary": "Nearby camera time drift suspected; timestamp offset uncertain." }
-      ],
-      "training_objectives": [
-        "Separate observation vs inference",
-        "Build a timeline with uncertainty flags",
-        "List the top 5 additional facts that would reduce uncertainty"
-      ],
-      "analysis_prompts": [
-        "Which witness is describing direct observation?",
-        "How does time drift change interpretation?",
-        "What alternative hypotheses remain plausible?"
-      ]
-    },
-    {
-      "id": "CS_PROP_002",
-      "title": "Repeat Burglary Pattern — Opportunity Cluster",
-      "category": "Property Crime",
-      "scenario_summary": "Three burglaries occur in two weeks in a small neighborhood cluster.",
-      "provided_artifacts": [
-        { "type": "incident_reports", "id": "R1", "summary": "Incidents clustered around same time window." },
-        { "type": "scene_note", "id": "S2", "summary": "Entry points vary; one has forced entry indication, two do not." },
-        { "type": "community_tip", "id": "T1", "summary": "Suspicious vehicle seen; description inconsistent across tips." }
-      ],
-      "training_objectives": [
-        "Avoid over-linking incidents without corroboration",
-        "Identify opportunity structures and prevention actions",
-        "Create a neutral pattern summary"
-      ],
-      "analysis_prompts": [
-        "What evidence suggests linkage vs coincidence?",
-        "What environmental features increase opportunity?",
-        "What prevents confirmation bias here?"
-      ]
-    },
-    {
-      "id": "CS_FIN_003",
-      "title": "Internal Fraud — Control Breakdown",
-      "category": "White Collar",
-      "scenario_summary": "A small organization sees unexplained account discrepancies over 60 days.",
-      "provided_artifacts": [
-        { "type": "audit_log", "id": "A1", "summary": "Repeated access to financial system outside normal hours." },
-        { "type": "policy_doc", "id": "P1", "summary": "No segregation of duties for approvals." },
-        { "type": "email_thread", "id": "E1", "summary": "Approvals requested via informal channel with missing attachments." }
-      ],
-      "training_objectives": [
-        "Map controls to failure points",
-        "Document a neutral narrative",
-        "List remediations that reduce opportunity"
-      ],
-      "analysis_prompts": [
-        "What is the minimal fact set?",
-        "Where are the documentation gaps?",
-        "What independent verification sources exist?"
-      ]
-    }
-  ]
+    "title":  "Practice Case Studies (Fictional)",
+    "notes":  [
+                  "All cases are fictional to support training. These are structured for timeline + evidence + reasoning exercises."
+              ],
+    "cases":  [
+                  {
+                      "id":  "CS_AR_001",
+                      "title":  "Intersection Collision - Conflicting Witness Accounts",
+                      "category":  "Accident Reconstruction",
+                      "scenario_summary":  "Two vehicles collide at a four-way intersection. Witnesses disagree about who entered on green.",
+                      "provided_artifacts":  [
+                                                 {
+                                                     "type":  "witness_statement",
+                                                     "id":  "W1",
+                                                     "summary":  "Saw Vehicle A enter quickly; unsure about light."
+                                                 },
+                                                 {
+                                                     "type":  "witness_statement",
+                                                     "id":  "W2",
+                                                     "summary":  "Heard impact; looked up after; believes Vehicle B ran red."
+                                                 },
+                                                 {
+                                                     "type":  "scene_note",
+                                                     "id":  "S1",
+                                                     "summary":  "Road dry, visibility moderate, minor skid marks observed."
+                                                 },
+                                                 {
+                                                     "type":  "device_log",
+                                                     "id":  "D1",
+                                                     "summary":  "Nearby camera time drift suspected; timestamp offset uncertain."
+                                                 }
+                                             ],
+                      "training_objectives":  [
+                                                  "Separate observation vs inference",
+                                                  "Build a timeline with uncertainty flags",
+                                                  "List the top 5 additional facts that would reduce uncertainty"
+                                              ],
+                      "analysis_prompts":  [
+                                               "Which witness is describing direct observation?",
+                                               "How does time drift change interpretation?",
+                                               "What alternative hypotheses remain plausible?"
+                                           ]
+                  },
+                  {
+                      "id":  "CS_PROP_002",
+                      "title":  "Repeat Burglary Pattern - Opportunity Cluster",
+                      "category":  "Property Crime",
+                      "scenario_summary":  "Three burglaries occur in two weeks in a small neighborhood cluster.",
+                      "provided_artifacts":  [
+                                                 {
+                                                     "type":  "incident_reports",
+                                                     "id":  "R1",
+                                                     "summary":  "Incidents clustered around same time window."
+                                                 },
+                                                 {
+                                                     "type":  "scene_note",
+                                                     "id":  "S2",
+                                                     "summary":  "Entry points vary; one has forced entry indication, two do not."
+                                                 },
+                                                 {
+                                                     "type":  "community_tip",
+                                                     "id":  "T1",
+                                                     "summary":  "Suspicious vehicle seen; description inconsistent across tips."
+                                                 }
+                                             ],
+                      "training_objectives":  [
+                                                  "Avoid over-linking incidents without corroboration",
+                                                  "Identify opportunity structures and prevention actions",
+                                                  "Create a neutral pattern summary"
+                                              ],
+                      "analysis_prompts":  [
+                                               "What evidence suggests linkage vs coincidence?",
+                                               "What environmental features increase opportunity?",
+                                               "What prevents confirmation bias here?"
+                                           ]
+                  },
+                  {
+                      "id":  "CS_FIN_003",
+                      "title":  "Internal Fraud - Control Breakdown",
+                      "category":  "White Collar",
+                      "scenario_summary":  "A small organization sees unexplained account discrepancies over 60 days.",
+                      "provided_artifacts":  [
+                                                 {
+                                                     "type":  "audit_log",
+                                                     "id":  "A1",
+                                                     "summary":  "Repeated access to financial system outside normal hours."
+                                                 },
+                                                 {
+                                                     "type":  "policy_doc",
+                                                     "id":  "P1",
+                                                     "summary":  "No segregation of duties for approvals."
+                                                 },
+                                                 {
+                                                     "type":  "email_thread",
+                                                     "id":  "E1",
+                                                     "summary":  "Approvals requested via informal channel with missing attachments."
+                                                 }
+                                             ],
+                      "training_objectives":  [
+                                                  "Map controls to failure points",
+                                                  "Document a neutral narrative",
+                                                  "List remediations that reduce opportunity"
+                                              ],
+                      "analysis_prompts":  [
+                                               "What is the minimal fact set?",
+                                               "Where are the documentation gaps?",
+                                               "What independent verification sources exist?"
+                                           ]
+                  }
+              ]
 }

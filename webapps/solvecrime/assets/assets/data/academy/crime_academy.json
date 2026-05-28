@@ -509,7 +509,7 @@
                                                                "blocks":  [
                                                                               {
                                                                                   "type":  "text",
-                                                                                  "content":  "Peer review works best when structured: reviewers ask evidence/assumption questions, request alternative hypotheses, and verify time integrity. It is not a debate—it is a quality gate."
+                                                                                  "content":  "Peer review works best when structured: reviewers ask evidence/assumption questions, request alternative hypotheses, and verify time integrity. It is not a debate - it is a quality gate."
                                                                               },
                                                                               {
                                                                                   "type":  "bullets",
@@ -1478,7 +1478,7 @@
                                                            {
                                                                "id":  "adv_forensics_core_principles_exp4",
                                                                "type":  "content",
-                                                               "title":  "Forensic Integrity \u0026 Evidence Control – Extended Analysis 4",
+                                                               "title":  "Forensic Integrity \u0026 Evidence Control  -  Extended Analysis 4",
                                                                "objective":  "Advanced forensic modeling and interpretation discipline.",
                                                                "order":  4,
                                                                "blocks":  [
@@ -1507,7 +1507,7 @@
                                                            {
                                                                "id":  "adv_forensics_core_principles_exp5",
                                                                "type":  "content",
-                                                               "title":  "Forensic Integrity \u0026 Evidence Control – Extended Analysis 5",
+                                                               "title":  "Forensic Integrity \u0026 Evidence Control  -  Extended Analysis 5",
                                                                "objective":  "Advanced forensic modeling and interpretation discipline.",
                                                                "order":  5,
                                                                "blocks":  [
@@ -1536,7 +1536,7 @@
                                                            {
                                                                "id":  "adv_forensics_core_principles_exp6",
                                                                "type":  "content",
-                                                               "title":  "Forensic Integrity \u0026 Evidence Control – Extended Analysis 6",
+                                                               "title":  "Forensic Integrity \u0026 Evidence Control  -  Extended Analysis 6",
                                                                "objective":  "Advanced forensic modeling and interpretation discipline.",
                                                                "order":  6,
                                                                "blocks":  [
@@ -1565,7 +1565,7 @@
                                                            {
                                                                "id":  "adv_forensics_core_principles_l37",
                                                                "type":  "content",
-                                                               "title":  "Forensic Integrity \u0026 Evidence Control – Advanced Forensic Layer 37",
+                                                               "title":  "Forensic Integrity \u0026 Evidence Control  -  Advanced Forensic Layer 37",
                                                                "objective":  "High-level forensic modeling and contamination control.",
                                                                "order":  7,
                                                                "blocks":  [
@@ -1594,7 +1594,7 @@
                                                            {
                                                                "id":  "adv_forensics_core_principles_l43",
                                                                "type":  "content",
-                                                               "title":  "Forensic Integrity \u0026 Evidence Control – Advanced Forensic Layer 43",
+                                                               "title":  "Forensic Integrity \u0026 Evidence Control  -  Advanced Forensic Layer 43",
                                                                "objective":  "High-level forensic modeling and contamination control.",
                                                                "order":  8,
                                                                "blocks":  [
@@ -1623,7 +1623,7 @@
                                                            {
                                                                "id":  "adv_forensics_core_principles_l49",
                                                                "type":  "content",
-                                                               "title":  "Forensic Integrity \u0026 Evidence Control – Advanced Forensic Layer 49",
+                                                               "title":  "Forensic Integrity \u0026 Evidence Control  -  Advanced Forensic Layer 49",
                                                                "objective":  "High-level forensic modeling and contamination control.",
                                                                "order":  9,
                                                                "blocks":  [
@@ -1694,7 +1694,7 @@
                                                            {
                                                                "id":  "advanced_evidence_applied_exp3",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Extended Analysis 3",
+                                                               "title":  "Applied Analysis  -  Extended Analysis 3",
                                                                "objective":  "Advanced forensic modeling and interpretation discipline.",
                                                                "order":  3,
                                                                "blocks":  [
@@ -1723,7 +1723,7 @@
                                                            {
                                                                "id":  "advanced_evidence_applied_exp4",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Extended Analysis 4",
+                                                               "title":  "Applied Analysis  -  Extended Analysis 4",
                                                                "objective":  "Advanced forensic modeling and interpretation discipline.",
                                                                "order":  4,
                                                                "blocks":  [
@@ -1752,7 +1752,7 @@
                                                            {
                                                                "id":  "advanced_evidence_applied_exp5",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Extended Analysis 5",
+                                                               "title":  "Applied Analysis  -  Extended Analysis 5",
                                                                "objective":  "Advanced forensic modeling and interpretation discipline.",
                                                                "order":  5,
                                                                "blocks":  [
@@ -1781,7 +1781,7 @@
                                                            {
                                                                "id":  "advanced_evidence_applied_exp6",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Extended Analysis 6",
+                                                               "title":  "Applied Analysis  -  Extended Analysis 6",
                                                                "objective":  "Advanced forensic modeling and interpretation discipline.",
                                                                "order":  6,
                                                                "blocks":  [
@@ -1810,7 +1810,7 @@
                                                            {
                                                                "id":  "advanced_evidence_applied_l38",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Advanced Forensic Layer 38",
+                                                               "title":  "Applied Analysis  -  Advanced Forensic Layer 38",
                                                                "objective":  "High-level forensic modeling and contamination control.",
                                                                "order":  7,
                                                                "blocks":  [
@@ -1839,7 +1839,7 @@
                                                            {
                                                                "id":  "advanced_evidence_applied_l44",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Advanced Forensic Layer 44",
+                                                               "title":  "Applied Analysis  -  Advanced Forensic Layer 44",
                                                                "objective":  "High-level forensic modeling and contamination control.",
                                                                "order":  8,
                                                                "blocks":  [
@@ -1868,7 +1868,7 @@
                                                            {
                                                                "id":  "advanced_evidence_applied_l50",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Advanced Forensic Layer 50",
+                                                               "title":  "Applied Analysis  -  Advanced Forensic Layer 50",
                                                                "objective":  "High-level forensic modeling and contamination control.",
                                                                "order":  9,
                                                                "blocks":  [
@@ -1939,7 +1939,7 @@
                                                            {
                                                                "id":  "advanced_evidence_advanced_lab_exp3",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Extended Analysis 3",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Extended Analysis 3",
                                                                "objective":  "Advanced forensic modeling and interpretation discipline.",
                                                                "order":  3,
                                                                "blocks":  [
@@ -1968,7 +1968,7 @@
                                                            {
                                                                "id":  "advanced_evidence_advanced_lab_exp4",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Extended Analysis 4",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Extended Analysis 4",
                                                                "objective":  "Advanced forensic modeling and interpretation discipline.",
                                                                "order":  4,
                                                                "blocks":  [
@@ -1997,7 +1997,7 @@
                                                            {
                                                                "id":  "advanced_evidence_advanced_lab_exp5",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Extended Analysis 5",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Extended Analysis 5",
                                                                "objective":  "Advanced forensic modeling and interpretation discipline.",
                                                                "order":  5,
                                                                "blocks":  [
@@ -2026,7 +2026,7 @@
                                                            {
                                                                "id":  "advanced_evidence_advanced_lab_exp6",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Extended Analysis 6",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Extended Analysis 6",
                                                                "objective":  "Advanced forensic modeling and interpretation discipline.",
                                                                "order":  6,
                                                                "blocks":  [
@@ -2055,7 +2055,7 @@
                                                            {
                                                                "id":  "advanced_evidence_advanced_lab_l39",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Advanced Forensic Layer 39",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Advanced Forensic Layer 39",
                                                                "objective":  "High-level forensic modeling and contamination control.",
                                                                "order":  7,
                                                                "blocks":  [
@@ -2084,7 +2084,7 @@
                                                            {
                                                                "id":  "advanced_evidence_advanced_lab_l45",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Advanced Forensic Layer 45",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Advanced Forensic Layer 45",
                                                                "objective":  "High-level forensic modeling and contamination control.",
                                                                "order":  8,
                                                                "blocks":  [
@@ -2121,7 +2121,7 @@
                                                            {
                                                                "id":  "forensicvalidationintegrity_l1",
                                                                "type":  "content",
-                                                               "title":  "Forensic Validation \u0026 Integrity – Lesson 1",
+                                                               "title":  "Forensic Validation \u0026 Integrity  -  Lesson 1",
                                                                "objective":  "Deep forensic validation and contamination control.",
                                                                "order":  1,
                                                                "blocks":  [
@@ -2150,7 +2150,7 @@
                                                            {
                                                                "id":  "forensicvalidationintegrity_l2",
                                                                "type":  "content",
-                                                               "title":  "Forensic Validation \u0026 Integrity – Lesson 2",
+                                                               "title":  "Forensic Validation \u0026 Integrity  -  Lesson 2",
                                                                "objective":  "Deep forensic validation and contamination control.",
                                                                "order":  2,
                                                                "blocks":  [
@@ -2179,7 +2179,7 @@
                                                            {
                                                                "id":  "forensicvalidationintegrity_l3",
                                                                "type":  "content",
-                                                               "title":  "Forensic Validation \u0026 Integrity – Lesson 3",
+                                                               "title":  "Forensic Validation \u0026 Integrity  -  Lesson 3",
                                                                "objective":  "Deep forensic validation and contamination control.",
                                                                "order":  3,
                                                                "blocks":  [
@@ -2208,7 +2208,7 @@
                                                            {
                                                                "id":  "forensicvalidationintegrity_l4",
                                                                "type":  "content",
-                                                               "title":  "Forensic Validation \u0026 Integrity – Lesson 4",
+                                                               "title":  "Forensic Validation \u0026 Integrity  -  Lesson 4",
                                                                "objective":  "Deep forensic validation and contamination control.",
                                                                "order":  4,
                                                                "blocks":  [
@@ -2237,7 +2237,7 @@
                                                            {
                                                                "id":  "forensicvalidationintegrity_l5",
                                                                "type":  "content",
-                                                               "title":  "Forensic Validation \u0026 Integrity – Lesson 5",
+                                                               "title":  "Forensic Validation \u0026 Integrity  -  Lesson 5",
                                                                "objective":  "Deep forensic validation and contamination control.",
                                                                "order":  5,
                                                                "blocks":  [
@@ -2266,7 +2266,7 @@
                                                            {
                                                                "id":  "forensicvalidationintegrity_l6",
                                                                "type":  "content",
-                                                               "title":  "Forensic Validation \u0026 Integrity – Lesson 6",
+                                                               "title":  "Forensic Validation \u0026 Integrity  -  Lesson 6",
                                                                "objective":  "Deep forensic validation and contamination control.",
                                                                "order":  6,
                                                                "blocks":  [
@@ -2295,7 +2295,7 @@
                                                            {
                                                                "id":  "forensicvalidationintegrity_l40",
                                                                "type":  "content",
-                                                               "title":  "Forensic Validation \u0026 Integrity – Advanced Forensic Layer 40",
+                                                               "title":  "Forensic Validation \u0026 Integrity  -  Advanced Forensic Layer 40",
                                                                "objective":  "High-level forensic modeling and contamination control.",
                                                                "order":  7,
                                                                "blocks":  [
@@ -2324,7 +2324,7 @@
                                                            {
                                                                "id":  "forensicvalidationintegrity_l46",
                                                                "type":  "content",
-                                                               "title":  "Forensic Validation \u0026 Integrity – Advanced Forensic Layer 46",
+                                                               "title":  "Forensic Validation \u0026 Integrity  -  Advanced Forensic Layer 46",
                                                                "objective":  "High-level forensic modeling and contamination control.",
                                                                "order":  8,
                                                                "blocks":  [
@@ -2361,7 +2361,7 @@
                                                            {
                                                                "id":  "contaminationriskmanagement_l1",
                                                                "type":  "content",
-                                                               "title":  "Contamination Risk Management – Lesson 1",
+                                                               "title":  "Contamination Risk Management  -  Lesson 1",
                                                                "objective":  "Deep forensic validation and contamination control.",
                                                                "order":  1,
                                                                "blocks":  [
@@ -2390,7 +2390,7 @@
                                                            {
                                                                "id":  "contaminationriskmanagement_l2",
                                                                "type":  "content",
-                                                               "title":  "Contamination Risk Management – Lesson 2",
+                                                               "title":  "Contamination Risk Management  -  Lesson 2",
                                                                "objective":  "Deep forensic validation and contamination control.",
                                                                "order":  2,
                                                                "blocks":  [
@@ -2419,7 +2419,7 @@
                                                            {
                                                                "id":  "contaminationriskmanagement_l3",
                                                                "type":  "content",
-                                                               "title":  "Contamination Risk Management – Lesson 3",
+                                                               "title":  "Contamination Risk Management  -  Lesson 3",
                                                                "objective":  "Deep forensic validation and contamination control.",
                                                                "order":  3,
                                                                "blocks":  [
@@ -2448,7 +2448,7 @@
                                                            {
                                                                "id":  "contaminationriskmanagement_l4",
                                                                "type":  "content",
-                                                               "title":  "Contamination Risk Management – Lesson 4",
+                                                               "title":  "Contamination Risk Management  -  Lesson 4",
                                                                "objective":  "Deep forensic validation and contamination control.",
                                                                "order":  4,
                                                                "blocks":  [
@@ -2477,7 +2477,7 @@
                                                            {
                                                                "id":  "contaminationriskmanagement_l5",
                                                                "type":  "content",
-                                                               "title":  "Contamination Risk Management – Lesson 5",
+                                                               "title":  "Contamination Risk Management  -  Lesson 5",
                                                                "objective":  "Deep forensic validation and contamination control.",
                                                                "order":  5,
                                                                "blocks":  [
@@ -2506,7 +2506,7 @@
                                                            {
                                                                "id":  "contaminationriskmanagement_l6",
                                                                "type":  "content",
-                                                               "title":  "Contamination Risk Management – Lesson 6",
+                                                               "title":  "Contamination Risk Management  -  Lesson 6",
                                                                "objective":  "Deep forensic validation and contamination control.",
                                                                "order":  6,
                                                                "blocks":  [
@@ -2535,7 +2535,7 @@
                                                            {
                                                                "id":  "contaminationriskmanagement_l41",
                                                                "type":  "content",
-                                                               "title":  "Contamination Risk Management – Advanced Forensic Layer 41",
+                                                               "title":  "Contamination Risk Management  -  Advanced Forensic Layer 41",
                                                                "objective":  "High-level forensic modeling and contamination control.",
                                                                "order":  7,
                                                                "blocks":  [
@@ -2564,7 +2564,7 @@
                                                            {
                                                                "id":  "contaminationriskmanagement_l47",
                                                                "type":  "content",
-                                                               "title":  "Contamination Risk Management – Advanced Forensic Layer 47",
+                                                               "title":  "Contamination Risk Management  -  Advanced Forensic Layer 47",
                                                                "objective":  "High-level forensic modeling and contamination control.",
                                                                "order":  8,
                                                                "blocks":  [
@@ -2601,7 +2601,7 @@
                                                            {
                                                                "id":  "forensicevidencesynthesis_l1",
                                                                "type":  "content",
-                                                               "title":  "Forensic Evidence Synthesis – Lesson 1",
+                                                               "title":  "Forensic Evidence Synthesis  -  Lesson 1",
                                                                "objective":  "Deep forensic validation and contamination control.",
                                                                "order":  1,
                                                                "blocks":  [
@@ -2630,7 +2630,7 @@
                                                            {
                                                                "id":  "forensicevidencesynthesis_l2",
                                                                "type":  "content",
-                                                               "title":  "Forensic Evidence Synthesis – Lesson 2",
+                                                               "title":  "Forensic Evidence Synthesis  -  Lesson 2",
                                                                "objective":  "Deep forensic validation and contamination control.",
                                                                "order":  2,
                                                                "blocks":  [
@@ -2659,7 +2659,7 @@
                                                            {
                                                                "id":  "forensicevidencesynthesis_l3",
                                                                "type":  "content",
-                                                               "title":  "Forensic Evidence Synthesis – Lesson 3",
+                                                               "title":  "Forensic Evidence Synthesis  -  Lesson 3",
                                                                "objective":  "Deep forensic validation and contamination control.",
                                                                "order":  3,
                                                                "blocks":  [
@@ -2688,7 +2688,7 @@
                                                            {
                                                                "id":  "forensicevidencesynthesis_l4",
                                                                "type":  "content",
-                                                               "title":  "Forensic Evidence Synthesis – Lesson 4",
+                                                               "title":  "Forensic Evidence Synthesis  -  Lesson 4",
                                                                "objective":  "Deep forensic validation and contamination control.",
                                                                "order":  4,
                                                                "blocks":  [
@@ -2717,7 +2717,7 @@
                                                            {
                                                                "id":  "forensicevidencesynthesis_l5",
                                                                "type":  "content",
-                                                               "title":  "Forensic Evidence Synthesis – Lesson 5",
+                                                               "title":  "Forensic Evidence Synthesis  -  Lesson 5",
                                                                "objective":  "Deep forensic validation and contamination control.",
                                                                "order":  5,
                                                                "blocks":  [
@@ -2746,7 +2746,7 @@
                                                            {
                                                                "id":  "forensicevidencesynthesis_l6",
                                                                "type":  "content",
-                                                               "title":  "Forensic Evidence Synthesis – Lesson 6",
+                                                               "title":  "Forensic Evidence Synthesis  -  Lesson 6",
                                                                "objective":  "Deep forensic validation and contamination control.",
                                                                "order":  6,
                                                                "blocks":  [
@@ -2775,7 +2775,7 @@
                                                            {
                                                                "id":  "forensicevidencesynthesis_l42",
                                                                "type":  "content",
-                                                               "title":  "Forensic Evidence Synthesis – Advanced Forensic Layer 42",
+                                                               "title":  "Forensic Evidence Synthesis  -  Advanced Forensic Layer 42",
                                                                "objective":  "High-level forensic modeling and contamination control.",
                                                                "order":  7,
                                                                "blocks":  [
@@ -2804,7 +2804,7 @@
                                                            {
                                                                "id":  "forensicevidencesynthesis_l48",
                                                                "type":  "content",
-                                                               "title":  "Forensic Evidence Synthesis – Advanced Forensic Layer 48",
+                                                               "title":  "Forensic Evidence Synthesis  -  Advanced Forensic Layer 48",
                                                                "objective":  "High-level forensic modeling and contamination control.",
                                                                "order":  8,
                                                                "blocks":  [
@@ -2974,7 +2974,7 @@
                                                            {
                                                                "id":  "behavioral_cognitive_models_exp5",
                                                                "type":  "content",
-                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias – Extended Analysis 5",
+                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias  -  Extended Analysis 5",
                                                                "objective":  "Advanced modeling and interpretation discipline.",
                                                                "order":  5,
                                                                "blocks":  [
@@ -3003,7 +3003,7 @@
                                                            {
                                                                "id":  "behavioral_cognitive_models_exp6",
                                                                "type":  "content",
-                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias – Extended Analysis 6",
+                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias  -  Extended Analysis 6",
                                                                "objective":  "Advanced modeling and interpretation discipline.",
                                                                "order":  6,
                                                                "blocks":  [
@@ -3032,7 +3032,7 @@
                                                            {
                                                                "id":  "behavioral_cognitive_models_l19",
                                                                "type":  "content",
-                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias – Cognitive Model Layer 19",
+                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias  -  Cognitive Model Layer 19",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  7,
                                                                "blocks":  [
@@ -3061,7 +3061,7 @@
                                                            {
                                                                "id":  "behavioral_cognitive_models_l22",
                                                                "type":  "content",
-                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias – Cognitive Model Layer 22",
+                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias  -  Cognitive Model Layer 22",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  8,
                                                                "blocks":  [
@@ -3090,7 +3090,7 @@
                                                            {
                                                                "id":  "behavioral_cognitive_models_l25",
                                                                "type":  "content",
-                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias – Cognitive Model Layer 25",
+                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias  -  Cognitive Model Layer 25",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  9,
                                                                "blocks":  [
@@ -3119,7 +3119,7 @@
                                                            {
                                                                "id":  "behavioral_cognitive_models_l28",
                                                                "type":  "content",
-                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias – Cognitive Model Layer 28",
+                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias  -  Cognitive Model Layer 28",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  10,
                                                                "blocks":  [
@@ -3148,7 +3148,7 @@
                                                            {
                                                                "id":  "behavioral_cognitive_models_l31",
                                                                "type":  "content",
-                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias – Cognitive Model Layer 31",
+                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias  -  Cognitive Model Layer 31",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  11,
                                                                "blocks":  [
@@ -3177,7 +3177,7 @@
                                                            {
                                                                "id":  "behavioral_cognitive_models_l34",
                                                                "type":  "content",
-                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias – Cognitive Model Layer 34",
+                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias  -  Cognitive Model Layer 34",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  12,
                                                                "blocks":  [
@@ -3206,7 +3206,7 @@
                                                            {
                                                                "id":  "behavioral_cognitive_models_l37",
                                                                "type":  "content",
-                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias – Cognitive Model Layer 37",
+                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias  -  Cognitive Model Layer 37",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  13,
                                                                "blocks":  [
@@ -3235,7 +3235,7 @@
                                                            {
                                                                "id":  "behavioral_cognitive_models_l40",
                                                                "type":  "content",
-                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias – Cognitive Model Layer 40",
+                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias  -  Cognitive Model Layer 40",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  14,
                                                                "blocks":  [
@@ -3264,7 +3264,7 @@
                                                            {
                                                                "id":  "behavioral_cognitive_models_l43",
                                                                "type":  "content",
-                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias – Cognitive Model Layer 43",
+                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias  -  Cognitive Model Layer 43",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  15,
                                                                "blocks":  [
@@ -3293,7 +3293,7 @@
                                                            {
                                                                "id":  "behavioral_cognitive_models_l46",
                                                                "type":  "content",
-                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias – Cognitive Model Layer 46",
+                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias  -  Cognitive Model Layer 46",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  16,
                                                                "blocks":  [
@@ -3322,7 +3322,7 @@
                                                            {
                                                                "id":  "behavioral_cognitive_models_l49",
                                                                "type":  "content",
-                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias – Cognitive Model Layer 49",
+                                                               "title":  "Behavioral Modeling \u0026 Cognitive Bias  -  Cognitive Model Layer 49",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  17,
                                                                "blocks":  [
@@ -3393,7 +3393,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_applied_exp3",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Extended Analysis 3",
+                                                               "title":  "Applied Analysis  -  Extended Analysis 3",
                                                                "objective":  "Advanced modeling and interpretation discipline.",
                                                                "order":  3,
                                                                "blocks":  [
@@ -3422,7 +3422,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_applied_exp4",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Extended Analysis 4",
+                                                               "title":  "Applied Analysis  -  Extended Analysis 4",
                                                                "objective":  "Advanced modeling and interpretation discipline.",
                                                                "order":  4,
                                                                "blocks":  [
@@ -3451,7 +3451,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_applied_exp5",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Extended Analysis 5",
+                                                               "title":  "Applied Analysis  -  Extended Analysis 5",
                                                                "objective":  "Advanced modeling and interpretation discipline.",
                                                                "order":  5,
                                                                "blocks":  [
@@ -3480,7 +3480,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_applied_exp6",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Extended Analysis 6",
+                                                               "title":  "Applied Analysis  -  Extended Analysis 6",
                                                                "objective":  "Advanced modeling and interpretation discipline.",
                                                                "order":  6,
                                                                "blocks":  [
@@ -3509,7 +3509,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_applied_l20",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Cognitive Model Layer 20",
+                                                               "title":  "Applied Analysis  -  Cognitive Model Layer 20",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  7,
                                                                "blocks":  [
@@ -3538,7 +3538,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_applied_l23",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Cognitive Model Layer 23",
+                                                               "title":  "Applied Analysis  -  Cognitive Model Layer 23",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  8,
                                                                "blocks":  [
@@ -3567,7 +3567,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_applied_l26",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Cognitive Model Layer 26",
+                                                               "title":  "Applied Analysis  -  Cognitive Model Layer 26",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  9,
                                                                "blocks":  [
@@ -3596,7 +3596,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_applied_l29",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Cognitive Model Layer 29",
+                                                               "title":  "Applied Analysis  -  Cognitive Model Layer 29",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  10,
                                                                "blocks":  [
@@ -3625,7 +3625,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_applied_l32",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Cognitive Model Layer 32",
+                                                               "title":  "Applied Analysis  -  Cognitive Model Layer 32",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  11,
                                                                "blocks":  [
@@ -3654,7 +3654,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_applied_l35",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Cognitive Model Layer 35",
+                                                               "title":  "Applied Analysis  -  Cognitive Model Layer 35",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  12,
                                                                "blocks":  [
@@ -3683,7 +3683,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_applied_l38",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Cognitive Model Layer 38",
+                                                               "title":  "Applied Analysis  -  Cognitive Model Layer 38",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  13,
                                                                "blocks":  [
@@ -3712,7 +3712,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_applied_l41",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Cognitive Model Layer 41",
+                                                               "title":  "Applied Analysis  -  Cognitive Model Layer 41",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  14,
                                                                "blocks":  [
@@ -3741,7 +3741,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_applied_l44",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Cognitive Model Layer 44",
+                                                               "title":  "Applied Analysis  -  Cognitive Model Layer 44",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  15,
                                                                "blocks":  [
@@ -3770,7 +3770,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_applied_l47",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Cognitive Model Layer 47",
+                                                               "title":  "Applied Analysis  -  Cognitive Model Layer 47",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  16,
                                                                "blocks":  [
@@ -3799,7 +3799,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_applied_l50",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Cognitive Model Layer 50",
+                                                               "title":  "Applied Analysis  -  Cognitive Model Layer 50",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  17,
                                                                "blocks":  [
@@ -3870,7 +3870,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_advanced_lab_exp3",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Extended Analysis 3",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Extended Analysis 3",
                                                                "objective":  "Advanced modeling and interpretation discipline.",
                                                                "order":  3,
                                                                "blocks":  [
@@ -3899,7 +3899,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_advanced_lab_exp4",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Extended Analysis 4",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Extended Analysis 4",
                                                                "objective":  "Advanced modeling and interpretation discipline.",
                                                                "order":  4,
                                                                "blocks":  [
@@ -3928,7 +3928,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_advanced_lab_exp5",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Extended Analysis 5",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Extended Analysis 5",
                                                                "objective":  "Advanced modeling and interpretation discipline.",
                                                                "order":  5,
                                                                "blocks":  [
@@ -3957,7 +3957,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_advanced_lab_exp6",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Extended Analysis 6",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Extended Analysis 6",
                                                                "objective":  "Advanced modeling and interpretation discipline.",
                                                                "order":  6,
                                                                "blocks":  [
@@ -3986,7 +3986,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_advanced_lab_l21",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Cognitive Model Layer 21",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Cognitive Model Layer 21",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  7,
                                                                "blocks":  [
@@ -4015,7 +4015,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_advanced_lab_l24",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Cognitive Model Layer 24",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Cognitive Model Layer 24",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  8,
                                                                "blocks":  [
@@ -4044,7 +4044,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_advanced_lab_l27",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Cognitive Model Layer 27",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Cognitive Model Layer 27",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  9,
                                                                "blocks":  [
@@ -4073,7 +4073,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_advanced_lab_l30",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Cognitive Model Layer 30",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Cognitive Model Layer 30",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  10,
                                                                "blocks":  [
@@ -4102,7 +4102,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_advanced_lab_l33",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Cognitive Model Layer 33",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Cognitive Model Layer 33",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  11,
                                                                "blocks":  [
@@ -4131,7 +4131,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_advanced_lab_l36",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Cognitive Model Layer 36",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Cognitive Model Layer 36",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  12,
                                                                "blocks":  [
@@ -4160,7 +4160,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_advanced_lab_l39",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Cognitive Model Layer 39",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Cognitive Model Layer 39",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  13,
                                                                "blocks":  [
@@ -4189,7 +4189,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_advanced_lab_l42",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Cognitive Model Layer 42",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Cognitive Model Layer 42",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  14,
                                                                "blocks":  [
@@ -4218,7 +4218,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_advanced_lab_l45",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Cognitive Model Layer 45",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Cognitive Model Layer 45",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  15,
                                                                "blocks":  [
@@ -4247,7 +4247,7 @@
                                                            {
                                                                "id":  "behavioral_analysis_advanced_lab_l48",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Cognitive Model Layer 48",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Cognitive Model Layer 48",
                                                                "objective":  "High-level cognitive modeling and behavioral interpretation.",
                                                                "order":  16,
                                                                "blocks":  [
@@ -4293,7 +4293,7 @@
                                                                "id":  "tac_ds_l01",
                                                                "type":  "content",
                                                                "title":  "OODA Loop in Field Context",
-                                                               "objective":  "Apply Observe–Orient–Decide–Act under dynamic operational constraints.",
+                                                               "objective":  "Apply Observe - Orient - Decide - Act under dynamic operational constraints.",
                                                                "order":  1,
                                                                "blocks":  [
                                                                               {
@@ -4361,7 +4361,7 @@
                                                                               },
                                                                               {
                                                                                   "items":  [
-                                                                                                "Capability ≠ intent",
+                                                                                                "Capability ??? intent",
                                                                                                 "Intent can shift under pressure",
                                                                                                 "Opportunity windows change rapidly"
                                                                                             ],
@@ -4501,7 +4501,7 @@
                                                            {
                                                                "id":  "tactical_decision_models_l39",
                                                                "type":  "content",
-                                                               "title":  "Structured Decision-Making Under Pressure – Advanced Tactical Layer 39",
+                                                               "title":  "Structured Decision-Making Under Pressure  -  Advanced Tactical Layer 39",
                                                                "objective":  "High-level structured tactical modeling.",
                                                                "order":  9,
                                                                "blocks":  [
@@ -4530,7 +4530,7 @@
                                                            {
                                                                "id":  "tactical_decision_models_l45",
                                                                "type":  "content",
-                                                               "title":  "Structured Decision-Making Under Pressure – Advanced Tactical Layer 45",
+                                                               "title":  "Structured Decision-Making Under Pressure  -  Advanced Tactical Layer 45",
                                                                "objective":  "High-level structured tactical modeling.",
                                                                "order":  10,
                                                                "blocks":  [
@@ -4701,7 +4701,7 @@
                                                            {
                                                                "id":  "tactical_decision_science_applied_l40",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Advanced Tactical Layer 40",
+                                                               "title":  "Applied Analysis  -  Advanced Tactical Layer 40",
                                                                "objective":  "High-level structured tactical modeling.",
                                                                "order":  7,
                                                                "blocks":  [
@@ -4730,7 +4730,7 @@
                                                            {
                                                                "id":  "tactical_decision_science_applied_l46",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Advanced Tactical Layer 46",
+                                                               "title":  "Applied Analysis  -  Advanced Tactical Layer 46",
                                                                "objective":  "High-level structured tactical modeling.",
                                                                "order":  8,
                                                                "blocks":  [
@@ -4901,7 +4901,7 @@
                                                            {
                                                                "id":  "tactical_decision_science_advanced_lab_l41",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Advanced Tactical Layer 41",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Advanced Tactical Layer 41",
                                                                "objective":  "High-level structured tactical modeling.",
                                                                "order":  7,
                                                                "blocks":  [
@@ -4930,7 +4930,7 @@
                                                            {
                                                                "id":  "tactical_decision_science_advanced_lab_l47",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Advanced Tactical Layer 47",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Advanced Tactical Layer 47",
                                                                "objective":  "High-level structured tactical modeling.",
                                                                "order":  8,
                                                                "blocks":  [
@@ -4967,7 +4967,7 @@
                                                            {
                                                                "id":  "threatmodelingarchitecture_l1",
                                                                "type":  "content",
-                                                               "title":  "Threat Modeling Architecture – Lesson 1",
+                                                               "title":  "Threat Modeling Architecture  -  Lesson 1",
                                                                "objective":  "Deep structured tactical analysis.",
                                                                "order":  1,
                                                                "blocks":  [
@@ -4996,7 +4996,7 @@
                                                            {
                                                                "id":  "threatmodelingarchitecture_l2",
                                                                "type":  "content",
-                                                               "title":  "Threat Modeling Architecture – Lesson 2",
+                                                               "title":  "Threat Modeling Architecture  -  Lesson 2",
                                                                "objective":  "Deep structured tactical analysis.",
                                                                "order":  2,
                                                                "blocks":  [
@@ -5025,7 +5025,7 @@
                                                            {
                                                                "id":  "threatmodelingarchitecture_l3",
                                                                "type":  "content",
-                                                               "title":  "Threat Modeling Architecture – Lesson 3",
+                                                               "title":  "Threat Modeling Architecture  -  Lesson 3",
                                                                "objective":  "Deep structured tactical analysis.",
                                                                "order":  3,
                                                                "blocks":  [
@@ -5054,7 +5054,7 @@
                                                            {
                                                                "id":  "threatmodelingarchitecture_l4",
                                                                "type":  "content",
-                                                               "title":  "Threat Modeling Architecture – Lesson 4",
+                                                               "title":  "Threat Modeling Architecture  -  Lesson 4",
                                                                "objective":  "Deep structured tactical analysis.",
                                                                "order":  4,
                                                                "blocks":  [
@@ -5083,7 +5083,7 @@
                                                            {
                                                                "id":  "threatmodelingarchitecture_l5",
                                                                "type":  "content",
-                                                               "title":  "Threat Modeling Architecture – Lesson 5",
+                                                               "title":  "Threat Modeling Architecture  -  Lesson 5",
                                                                "objective":  "Deep structured tactical analysis.",
                                                                "order":  5,
                                                                "blocks":  [
@@ -5112,7 +5112,7 @@
                                                            {
                                                                "id":  "threatmodelingarchitecture_l6",
                                                                "type":  "content",
-                                                               "title":  "Threat Modeling Architecture – Lesson 6",
+                                                               "title":  "Threat Modeling Architecture  -  Lesson 6",
                                                                "objective":  "Deep structured tactical analysis.",
                                                                "order":  6,
                                                                "blocks":  [
@@ -5141,7 +5141,7 @@
                                                            {
                                                                "id":  "threatmodelingarchitecture_l42",
                                                                "type":  "content",
-                                                               "title":  "Threat Modeling Architecture – Advanced Tactical Layer 42",
+                                                               "title":  "Threat Modeling Architecture  -  Advanced Tactical Layer 42",
                                                                "objective":  "High-level structured tactical modeling.",
                                                                "order":  7,
                                                                "blocks":  [
@@ -5170,7 +5170,7 @@
                                                            {
                                                                "id":  "threatmodelingarchitecture_l48",
                                                                "type":  "content",
-                                                               "title":  "Threat Modeling Architecture – Advanced Tactical Layer 48",
+                                                               "title":  "Threat Modeling Architecture  -  Advanced Tactical Layer 48",
                                                                "objective":  "High-level structured tactical modeling.",
                                                                "order":  8,
                                                                "blocks":  [
@@ -5207,7 +5207,7 @@
                                                            {
                                                                "id":  "teamcoordinationsignalflow_l1",
                                                                "type":  "content",
-                                                               "title":  "Team Coordination \u0026 Signal Flow – Lesson 1",
+                                                               "title":  "Team Coordination \u0026 Signal Flow  -  Lesson 1",
                                                                "objective":  "Deep structured tactical analysis.",
                                                                "order":  1,
                                                                "blocks":  [
@@ -5236,7 +5236,7 @@
                                                            {
                                                                "id":  "teamcoordinationsignalflow_l2",
                                                                "type":  "content",
-                                                               "title":  "Team Coordination \u0026 Signal Flow – Lesson 2",
+                                                               "title":  "Team Coordination \u0026 Signal Flow  -  Lesson 2",
                                                                "objective":  "Deep structured tactical analysis.",
                                                                "order":  2,
                                                                "blocks":  [
@@ -5265,7 +5265,7 @@
                                                            {
                                                                "id":  "teamcoordinationsignalflow_l3",
                                                                "type":  "content",
-                                                               "title":  "Team Coordination \u0026 Signal Flow – Lesson 3",
+                                                               "title":  "Team Coordination \u0026 Signal Flow  -  Lesson 3",
                                                                "objective":  "Deep structured tactical analysis.",
                                                                "order":  3,
                                                                "blocks":  [
@@ -5294,7 +5294,7 @@
                                                            {
                                                                "id":  "teamcoordinationsignalflow_l4",
                                                                "type":  "content",
-                                                               "title":  "Team Coordination \u0026 Signal Flow – Lesson 4",
+                                                               "title":  "Team Coordination \u0026 Signal Flow  -  Lesson 4",
                                                                "objective":  "Deep structured tactical analysis.",
                                                                "order":  4,
                                                                "blocks":  [
@@ -5323,7 +5323,7 @@
                                                            {
                                                                "id":  "teamcoordinationsignalflow_l5",
                                                                "type":  "content",
-                                                               "title":  "Team Coordination \u0026 Signal Flow – Lesson 5",
+                                                               "title":  "Team Coordination \u0026 Signal Flow  -  Lesson 5",
                                                                "objective":  "Deep structured tactical analysis.",
                                                                "order":  5,
                                                                "blocks":  [
@@ -5352,7 +5352,7 @@
                                                            {
                                                                "id":  "teamcoordinationsignalflow_l6",
                                                                "type":  "content",
-                                                               "title":  "Team Coordination \u0026 Signal Flow – Lesson 6",
+                                                               "title":  "Team Coordination \u0026 Signal Flow  -  Lesson 6",
                                                                "objective":  "Deep structured tactical analysis.",
                                                                "order":  6,
                                                                "blocks":  [
@@ -5381,7 +5381,7 @@
                                                            {
                                                                "id":  "teamcoordinationsignalflow_l43",
                                                                "type":  "content",
-                                                               "title":  "Team Coordination \u0026 Signal Flow – Advanced Tactical Layer 43",
+                                                               "title":  "Team Coordination \u0026 Signal Flow  -  Advanced Tactical Layer 43",
                                                                "objective":  "High-level structured tactical modeling.",
                                                                "order":  7,
                                                                "blocks":  [
@@ -5410,7 +5410,7 @@
                                                            {
                                                                "id":  "teamcoordinationsignalflow_l49",
                                                                "type":  "content",
-                                                               "title":  "Team Coordination \u0026 Signal Flow – Advanced Tactical Layer 49",
+                                                               "title":  "Team Coordination \u0026 Signal Flow  -  Advanced Tactical Layer 49",
                                                                "objective":  "High-level structured tactical modeling.",
                                                                "order":  8,
                                                                "blocks":  [
@@ -5447,7 +5447,7 @@
                                                            {
                                                                "id":  "tacticaldebriefperformanceaudit_l1",
                                                                "type":  "content",
-                                                               "title":  "Tactical Debrief \u0026 Performance Audit – Lesson 1",
+                                                               "title":  "Tactical Debrief \u0026 Performance Audit  -  Lesson 1",
                                                                "objective":  "Deep structured tactical analysis.",
                                                                "order":  1,
                                                                "blocks":  [
@@ -5476,7 +5476,7 @@
                                                            {
                                                                "id":  "tacticaldebriefperformanceaudit_l2",
                                                                "type":  "content",
-                                                               "title":  "Tactical Debrief \u0026 Performance Audit – Lesson 2",
+                                                               "title":  "Tactical Debrief \u0026 Performance Audit  -  Lesson 2",
                                                                "objective":  "Deep structured tactical analysis.",
                                                                "order":  2,
                                                                "blocks":  [
@@ -5505,7 +5505,7 @@
                                                            {
                                                                "id":  "tacticaldebriefperformanceaudit_l3",
                                                                "type":  "content",
-                                                               "title":  "Tactical Debrief \u0026 Performance Audit – Lesson 3",
+                                                               "title":  "Tactical Debrief \u0026 Performance Audit  -  Lesson 3",
                                                                "objective":  "Deep structured tactical analysis.",
                                                                "order":  3,
                                                                "blocks":  [
@@ -5534,7 +5534,7 @@
                                                            {
                                                                "id":  "tacticaldebriefperformanceaudit_l4",
                                                                "type":  "content",
-                                                               "title":  "Tactical Debrief \u0026 Performance Audit – Lesson 4",
+                                                               "title":  "Tactical Debrief \u0026 Performance Audit  -  Lesson 4",
                                                                "objective":  "Deep structured tactical analysis.",
                                                                "order":  4,
                                                                "blocks":  [
@@ -5563,7 +5563,7 @@
                                                            {
                                                                "id":  "tacticaldebriefperformanceaudit_l5",
                                                                "type":  "content",
-                                                               "title":  "Tactical Debrief \u0026 Performance Audit – Lesson 5",
+                                                               "title":  "Tactical Debrief \u0026 Performance Audit  -  Lesson 5",
                                                                "objective":  "Deep structured tactical analysis.",
                                                                "order":  5,
                                                                "blocks":  [
@@ -5592,7 +5592,7 @@
                                                            {
                                                                "id":  "tacticaldebriefperformanceaudit_l6",
                                                                "type":  "content",
-                                                               "title":  "Tactical Debrief \u0026 Performance Audit – Lesson 6",
+                                                               "title":  "Tactical Debrief \u0026 Performance Audit  -  Lesson 6",
                                                                "objective":  "Deep structured tactical analysis.",
                                                                "order":  6,
                                                                "blocks":  [
@@ -5621,7 +5621,7 @@
                                                            {
                                                                "id":  "tacticaldebriefperformanceaudit_l44",
                                                                "type":  "content",
-                                                               "title":  "Tactical Debrief \u0026 Performance Audit – Advanced Tactical Layer 44",
+                                                               "title":  "Tactical Debrief \u0026 Performance Audit  -  Advanced Tactical Layer 44",
                                                                "objective":  "High-level structured tactical modeling.",
                                                                "order":  7,
                                                                "blocks":  [
@@ -5650,7 +5650,7 @@
                                                            {
                                                                "id":  "tacticaldebriefperformanceaudit_l50",
                                                                "type":  "content",
-                                                               "title":  "Tactical Debrief \u0026 Performance Audit – Advanced Tactical Layer 50",
+                                                               "title":  "Tactical Debrief \u0026 Performance Audit  -  Advanced Tactical Layer 50",
                                                                "objective":  "High-level structured tactical modeling.",
                                                                "order":  8,
                                                                "blocks":  [
@@ -5796,7 +5796,7 @@
                                                            {
                                                                "id":  "digital_artifact_validation_norm5",
                                                                "type":  "content",
-                                                               "title":  "Digital Artifact Validation \u0026 Integrity – Digital Expansion 5",
+                                                               "title":  "Digital Artifact Validation \u0026 Integrity  -  Digital Expansion 5",
                                                                "objective":  "Structured digital forensic modeling.",
                                                                "order":  5,
                                                                "blocks":  [
@@ -5825,7 +5825,7 @@
                                                            {
                                                                "id":  "digital_artifact_validation_norm6",
                                                                "type":  "content",
-                                                               "title":  "Digital Artifact Validation \u0026 Integrity – Digital Expansion 6",
+                                                               "title":  "Digital Artifact Validation \u0026 Integrity  -  Digital Expansion 6",
                                                                "objective":  "Structured digital forensic modeling.",
                                                                "order":  6,
                                                                "blocks":  [
@@ -5854,7 +5854,7 @@
                                                            {
                                                                "id":  "digital_artifact_validation_l19",
                                                                "type":  "content",
-                                                               "title":  "Digital Artifact Validation \u0026 Integrity – Digital Forensic Layer 19",
+                                                               "title":  "Digital Artifact Validation \u0026 Integrity  -  Digital Forensic Layer 19",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  7,
                                                                "blocks":  [
@@ -5883,7 +5883,7 @@
                                                            {
                                                                "id":  "digital_artifact_validation_l22",
                                                                "type":  "content",
-                                                               "title":  "Digital Artifact Validation \u0026 Integrity – Digital Forensic Layer 22",
+                                                               "title":  "Digital Artifact Validation \u0026 Integrity  -  Digital Forensic Layer 22",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  8,
                                                                "blocks":  [
@@ -5912,7 +5912,7 @@
                                                            {
                                                                "id":  "digital_artifact_validation_l25",
                                                                "type":  "content",
-                                                               "title":  "Digital Artifact Validation \u0026 Integrity – Digital Forensic Layer 25",
+                                                               "title":  "Digital Artifact Validation \u0026 Integrity  -  Digital Forensic Layer 25",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  9,
                                                                "blocks":  [
@@ -5941,7 +5941,7 @@
                                                            {
                                                                "id":  "digital_artifact_validation_l28",
                                                                "type":  "content",
-                                                               "title":  "Digital Artifact Validation \u0026 Integrity – Digital Forensic Layer 28",
+                                                               "title":  "Digital Artifact Validation \u0026 Integrity  -  Digital Forensic Layer 28",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  10,
                                                                "blocks":  [
@@ -5970,7 +5970,7 @@
                                                            {
                                                                "id":  "digital_artifact_validation_l31",
                                                                "type":  "content",
-                                                               "title":  "Digital Artifact Validation \u0026 Integrity – Digital Forensic Layer 31",
+                                                               "title":  "Digital Artifact Validation \u0026 Integrity  -  Digital Forensic Layer 31",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  11,
                                                                "blocks":  [
@@ -5999,7 +5999,7 @@
                                                            {
                                                                "id":  "digital_artifact_validation_l34",
                                                                "type":  "content",
-                                                               "title":  "Digital Artifact Validation \u0026 Integrity – Digital Forensic Layer 34",
+                                                               "title":  "Digital Artifact Validation \u0026 Integrity  -  Digital Forensic Layer 34",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  12,
                                                                "blocks":  [
@@ -6028,7 +6028,7 @@
                                                            {
                                                                "id":  "digital_artifact_validation_l37",
                                                                "type":  "content",
-                                                               "title":  "Digital Artifact Validation \u0026 Integrity – Digital Forensic Layer 37",
+                                                               "title":  "Digital Artifact Validation \u0026 Integrity  -  Digital Forensic Layer 37",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  13,
                                                                "blocks":  [
@@ -6057,7 +6057,7 @@
                                                            {
                                                                "id":  "digital_artifact_validation_l40",
                                                                "type":  "content",
-                                                               "title":  "Digital Artifact Validation \u0026 Integrity – Digital Forensic Layer 40",
+                                                               "title":  "Digital Artifact Validation \u0026 Integrity  -  Digital Forensic Layer 40",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  14,
                                                                "blocks":  [
@@ -6086,7 +6086,7 @@
                                                            {
                                                                "id":  "digital_artifact_validation_l43",
                                                                "type":  "content",
-                                                               "title":  "Digital Artifact Validation \u0026 Integrity – Digital Forensic Layer 43",
+                                                               "title":  "Digital Artifact Validation \u0026 Integrity  -  Digital Forensic Layer 43",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  15,
                                                                "blocks":  [
@@ -6115,7 +6115,7 @@
                                                            {
                                                                "id":  "digital_artifact_validation_l46",
                                                                "type":  "content",
-                                                               "title":  "Digital Artifact Validation \u0026 Integrity – Digital Forensic Layer 46",
+                                                               "title":  "Digital Artifact Validation \u0026 Integrity  -  Digital Forensic Layer 46",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  16,
                                                                "blocks":  [
@@ -6144,7 +6144,7 @@
                                                            {
                                                                "id":  "digital_artifact_validation_l49",
                                                                "type":  "content",
-                                                               "title":  "Digital Artifact Validation \u0026 Integrity – Digital Forensic Layer 49",
+                                                               "title":  "Digital Artifact Validation \u0026 Integrity  -  Digital Forensic Layer 49",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  17,
                                                                "blocks":  [
@@ -6215,7 +6215,7 @@
                                                            {
                                                                "id":  "digital_investigations_applied_norm3",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Digital Expansion 3",
+                                                               "title":  "Applied Analysis  -  Digital Expansion 3",
                                                                "objective":  "Structured digital forensic modeling.",
                                                                "order":  3,
                                                                "blocks":  [
@@ -6244,7 +6244,7 @@
                                                            {
                                                                "id":  "digital_investigations_applied_norm4",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Digital Expansion 4",
+                                                               "title":  "Applied Analysis  -  Digital Expansion 4",
                                                                "objective":  "Structured digital forensic modeling.",
                                                                "order":  4,
                                                                "blocks":  [
@@ -6273,7 +6273,7 @@
                                                            {
                                                                "id":  "digital_investigations_applied_norm5",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Digital Expansion 5",
+                                                               "title":  "Applied Analysis  -  Digital Expansion 5",
                                                                "objective":  "Structured digital forensic modeling.",
                                                                "order":  5,
                                                                "blocks":  [
@@ -6302,7 +6302,7 @@
                                                            {
                                                                "id":  "digital_investigations_applied_norm6",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Digital Expansion 6",
+                                                               "title":  "Applied Analysis  -  Digital Expansion 6",
                                                                "objective":  "Structured digital forensic modeling.",
                                                                "order":  6,
                                                                "blocks":  [
@@ -6331,7 +6331,7 @@
                                                            {
                                                                "id":  "digital_investigations_applied_l20",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Digital Forensic Layer 20",
+                                                               "title":  "Applied Analysis  -  Digital Forensic Layer 20",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  7,
                                                                "blocks":  [
@@ -6360,7 +6360,7 @@
                                                            {
                                                                "id":  "digital_investigations_applied_l23",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Digital Forensic Layer 23",
+                                                               "title":  "Applied Analysis  -  Digital Forensic Layer 23",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  8,
                                                                "blocks":  [
@@ -6389,7 +6389,7 @@
                                                            {
                                                                "id":  "digital_investigations_applied_l26",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Digital Forensic Layer 26",
+                                                               "title":  "Applied Analysis  -  Digital Forensic Layer 26",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  9,
                                                                "blocks":  [
@@ -6418,7 +6418,7 @@
                                                            {
                                                                "id":  "digital_investigations_applied_l29",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Digital Forensic Layer 29",
+                                                               "title":  "Applied Analysis  -  Digital Forensic Layer 29",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  10,
                                                                "blocks":  [
@@ -6447,7 +6447,7 @@
                                                            {
                                                                "id":  "digital_investigations_applied_l32",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Digital Forensic Layer 32",
+                                                               "title":  "Applied Analysis  -  Digital Forensic Layer 32",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  11,
                                                                "blocks":  [
@@ -6476,7 +6476,7 @@
                                                            {
                                                                "id":  "digital_investigations_applied_l35",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Digital Forensic Layer 35",
+                                                               "title":  "Applied Analysis  -  Digital Forensic Layer 35",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  12,
                                                                "blocks":  [
@@ -6505,7 +6505,7 @@
                                                            {
                                                                "id":  "digital_investigations_applied_l38",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Digital Forensic Layer 38",
+                                                               "title":  "Applied Analysis  -  Digital Forensic Layer 38",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  13,
                                                                "blocks":  [
@@ -6534,7 +6534,7 @@
                                                            {
                                                                "id":  "digital_investigations_applied_l41",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Digital Forensic Layer 41",
+                                                               "title":  "Applied Analysis  -  Digital Forensic Layer 41",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  14,
                                                                "blocks":  [
@@ -6563,7 +6563,7 @@
                                                            {
                                                                "id":  "digital_investigations_applied_l44",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Digital Forensic Layer 44",
+                                                               "title":  "Applied Analysis  -  Digital Forensic Layer 44",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  15,
                                                                "blocks":  [
@@ -6592,7 +6592,7 @@
                                                            {
                                                                "id":  "digital_investigations_applied_l47",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Digital Forensic Layer 47",
+                                                               "title":  "Applied Analysis  -  Digital Forensic Layer 47",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  16,
                                                                "blocks":  [
@@ -6621,7 +6621,7 @@
                                                            {
                                                                "id":  "digital_investigations_applied_l50",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Digital Forensic Layer 50",
+                                                               "title":  "Applied Analysis  -  Digital Forensic Layer 50",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  17,
                                                                "blocks":  [
@@ -6692,7 +6692,7 @@
                                                            {
                                                                "id":  "digital_investigations_advanced_lab_norm3",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Digital Expansion 3",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Digital Expansion 3",
                                                                "objective":  "Structured digital forensic modeling.",
                                                                "order":  3,
                                                                "blocks":  [
@@ -6721,7 +6721,7 @@
                                                            {
                                                                "id":  "digital_investigations_advanced_lab_norm4",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Digital Expansion 4",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Digital Expansion 4",
                                                                "objective":  "Structured digital forensic modeling.",
                                                                "order":  4,
                                                                "blocks":  [
@@ -6750,7 +6750,7 @@
                                                            {
                                                                "id":  "digital_investigations_advanced_lab_norm5",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Digital Expansion 5",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Digital Expansion 5",
                                                                "objective":  "Structured digital forensic modeling.",
                                                                "order":  5,
                                                                "blocks":  [
@@ -6779,7 +6779,7 @@
                                                            {
                                                                "id":  "digital_investigations_advanced_lab_norm6",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Digital Expansion 6",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Digital Expansion 6",
                                                                "objective":  "Structured digital forensic modeling.",
                                                                "order":  6,
                                                                "blocks":  [
@@ -6808,7 +6808,7 @@
                                                            {
                                                                "id":  "digital_investigations_advanced_lab_l21",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Digital Forensic Layer 21",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Digital Forensic Layer 21",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  7,
                                                                "blocks":  [
@@ -6837,7 +6837,7 @@
                                                            {
                                                                "id":  "digital_investigations_advanced_lab_l24",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Digital Forensic Layer 24",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Digital Forensic Layer 24",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  8,
                                                                "blocks":  [
@@ -6866,7 +6866,7 @@
                                                            {
                                                                "id":  "digital_investigations_advanced_lab_l27",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Digital Forensic Layer 27",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Digital Forensic Layer 27",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  9,
                                                                "blocks":  [
@@ -6895,7 +6895,7 @@
                                                            {
                                                                "id":  "digital_investigations_advanced_lab_l30",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Digital Forensic Layer 30",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Digital Forensic Layer 30",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  10,
                                                                "blocks":  [
@@ -6924,7 +6924,7 @@
                                                            {
                                                                "id":  "digital_investigations_advanced_lab_l33",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Digital Forensic Layer 33",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Digital Forensic Layer 33",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  11,
                                                                "blocks":  [
@@ -6953,7 +6953,7 @@
                                                            {
                                                                "id":  "digital_investigations_advanced_lab_l36",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Digital Forensic Layer 36",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Digital Forensic Layer 36",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  12,
                                                                "blocks":  [
@@ -6982,7 +6982,7 @@
                                                            {
                                                                "id":  "digital_investigations_advanced_lab_l39",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Digital Forensic Layer 39",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Digital Forensic Layer 39",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  13,
                                                                "blocks":  [
@@ -7011,7 +7011,7 @@
                                                            {
                                                                "id":  "digital_investigations_advanced_lab_l42",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Digital Forensic Layer 42",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Digital Forensic Layer 42",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  14,
                                                                "blocks":  [
@@ -7040,7 +7040,7 @@
                                                            {
                                                                "id":  "digital_investigations_advanced_lab_l45",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Digital Forensic Layer 45",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Digital Forensic Layer 45",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  15,
                                                                "blocks":  [
@@ -7069,7 +7069,7 @@
                                                            {
                                                                "id":  "digital_investigations_advanced_lab_l48",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Digital Forensic Layer 48",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Digital Forensic Layer 48",
                                                                "objective":  "Advanced digital attribution and signal validation modeling.",
                                                                "order":  16,
                                                                "blocks":  [
@@ -7204,7 +7204,7 @@
                                                                                   "type":  "scenario"
                                                                               },
                                                                               {
-                                                                                  "content":  "Synthesis labs evaluate integration skill — not just recall.",
+                                                                                  "content":  "Synthesis labs evaluate integration skill  -  not just recall.",
                                                                                   "type":  "text"
                                                                               },
                                                                               {
@@ -7216,7 +7216,7 @@
                                                            {
                                                                "id":  "strategic_pattern_synthesis_norm5",
                                                                "type":  "content",
-                                                               "title":  "Pattern Detection \u0026 Executive Synthesis – Strategic Expansion 5",
+                                                               "title":  "Pattern Detection \u0026 Executive Synthesis  -  Strategic Expansion 5",
                                                                "objective":  "Strategic synthesis and uncertainty calibration.",
                                                                "order":  5,
                                                                "blocks":  [
@@ -7245,7 +7245,7 @@
                                                            {
                                                                "id":  "strategic_pattern_synthesis_norm6",
                                                                "type":  "content",
-                                                               "title":  "Pattern Detection \u0026 Executive Synthesis – Strategic Expansion 6",
+                                                               "title":  "Pattern Detection \u0026 Executive Synthesis  -  Strategic Expansion 6",
                                                                "objective":  "Strategic synthesis and uncertainty calibration.",
                                                                "order":  6,
                                                                "blocks":  [
@@ -7274,7 +7274,7 @@
                                                            {
                                                                "id":  "strategic_pattern_synthesis_l19",
                                                                "type":  "content",
-                                                               "title":  "Pattern Detection \u0026 Executive Synthesis – Strategic Decision Layer 19",
+                                                               "title":  "Pattern Detection \u0026 Executive Synthesis  -  Strategic Decision Layer 19",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  7,
                                                                "blocks":  [
@@ -7303,7 +7303,7 @@
                                                            {
                                                                "id":  "strategic_pattern_synthesis_l22",
                                                                "type":  "content",
-                                                               "title":  "Pattern Detection \u0026 Executive Synthesis – Strategic Decision Layer 22",
+                                                               "title":  "Pattern Detection \u0026 Executive Synthesis  -  Strategic Decision Layer 22",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  8,
                                                                "blocks":  [
@@ -7332,7 +7332,7 @@
                                                            {
                                                                "id":  "strategic_pattern_synthesis_l25",
                                                                "type":  "content",
-                                                               "title":  "Pattern Detection \u0026 Executive Synthesis – Strategic Decision Layer 25",
+                                                               "title":  "Pattern Detection \u0026 Executive Synthesis  -  Strategic Decision Layer 25",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  9,
                                                                "blocks":  [
@@ -7361,7 +7361,7 @@
                                                            {
                                                                "id":  "strategic_pattern_synthesis_l28",
                                                                "type":  "content",
-                                                               "title":  "Pattern Detection \u0026 Executive Synthesis – Strategic Decision Layer 28",
+                                                               "title":  "Pattern Detection \u0026 Executive Synthesis  -  Strategic Decision Layer 28",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  10,
                                                                "blocks":  [
@@ -7390,7 +7390,7 @@
                                                            {
                                                                "id":  "strategic_pattern_synthesis_l31",
                                                                "type":  "content",
-                                                               "title":  "Pattern Detection \u0026 Executive Synthesis – Strategic Decision Layer 31",
+                                                               "title":  "Pattern Detection \u0026 Executive Synthesis  -  Strategic Decision Layer 31",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  11,
                                                                "blocks":  [
@@ -7419,7 +7419,7 @@
                                                            {
                                                                "id":  "strategic_pattern_synthesis_l34",
                                                                "type":  "content",
-                                                               "title":  "Pattern Detection \u0026 Executive Synthesis – Strategic Decision Layer 34",
+                                                               "title":  "Pattern Detection \u0026 Executive Synthesis  -  Strategic Decision Layer 34",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  12,
                                                                "blocks":  [
@@ -7448,7 +7448,7 @@
                                                            {
                                                                "id":  "strategic_pattern_synthesis_l37",
                                                                "type":  "content",
-                                                               "title":  "Pattern Detection \u0026 Executive Synthesis – Strategic Decision Layer 37",
+                                                               "title":  "Pattern Detection \u0026 Executive Synthesis  -  Strategic Decision Layer 37",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  13,
                                                                "blocks":  [
@@ -7477,7 +7477,7 @@
                                                            {
                                                                "id":  "strategic_pattern_synthesis_l40",
                                                                "type":  "content",
-                                                               "title":  "Pattern Detection \u0026 Executive Synthesis – Strategic Decision Layer 40",
+                                                               "title":  "Pattern Detection \u0026 Executive Synthesis  -  Strategic Decision Layer 40",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  14,
                                                                "blocks":  [
@@ -7506,7 +7506,7 @@
                                                            {
                                                                "id":  "strategic_pattern_synthesis_l43",
                                                                "type":  "content",
-                                                               "title":  "Pattern Detection \u0026 Executive Synthesis – Strategic Decision Layer 43",
+                                                               "title":  "Pattern Detection \u0026 Executive Synthesis  -  Strategic Decision Layer 43",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  15,
                                                                "blocks":  [
@@ -7535,7 +7535,7 @@
                                                            {
                                                                "id":  "strategic_pattern_synthesis_l46",
                                                                "type":  "content",
-                                                               "title":  "Pattern Detection \u0026 Executive Synthesis – Strategic Decision Layer 46",
+                                                               "title":  "Pattern Detection \u0026 Executive Synthesis  -  Strategic Decision Layer 46",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  16,
                                                                "blocks":  [
@@ -7564,7 +7564,7 @@
                                                            {
                                                                "id":  "strategic_pattern_synthesis_l49",
                                                                "type":  "content",
-                                                               "title":  "Pattern Detection \u0026 Executive Synthesis – Strategic Decision Layer 49",
+                                                               "title":  "Pattern Detection \u0026 Executive Synthesis  -  Strategic Decision Layer 49",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  17,
                                                                "blocks":  [
@@ -7635,7 +7635,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_applied_norm3",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Strategic Expansion 3",
+                                                               "title":  "Applied Analysis  -  Strategic Expansion 3",
                                                                "objective":  "Strategic synthesis and uncertainty calibration.",
                                                                "order":  3,
                                                                "blocks":  [
@@ -7664,7 +7664,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_applied_norm4",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Strategic Expansion 4",
+                                                               "title":  "Applied Analysis  -  Strategic Expansion 4",
                                                                "objective":  "Strategic synthesis and uncertainty calibration.",
                                                                "order":  4,
                                                                "blocks":  [
@@ -7693,7 +7693,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_applied_norm5",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Strategic Expansion 5",
+                                                               "title":  "Applied Analysis  -  Strategic Expansion 5",
                                                                "objective":  "Strategic synthesis and uncertainty calibration.",
                                                                "order":  5,
                                                                "blocks":  [
@@ -7722,7 +7722,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_applied_norm6",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Strategic Expansion 6",
+                                                               "title":  "Applied Analysis  -  Strategic Expansion 6",
                                                                "objective":  "Strategic synthesis and uncertainty calibration.",
                                                                "order":  6,
                                                                "blocks":  [
@@ -7751,7 +7751,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_applied_l20",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Strategic Decision Layer 20",
+                                                               "title":  "Applied Analysis  -  Strategic Decision Layer 20",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  7,
                                                                "blocks":  [
@@ -7780,7 +7780,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_applied_l23",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Strategic Decision Layer 23",
+                                                               "title":  "Applied Analysis  -  Strategic Decision Layer 23",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  8,
                                                                "blocks":  [
@@ -7809,7 +7809,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_applied_l26",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Strategic Decision Layer 26",
+                                                               "title":  "Applied Analysis  -  Strategic Decision Layer 26",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  9,
                                                                "blocks":  [
@@ -7838,7 +7838,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_applied_l29",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Strategic Decision Layer 29",
+                                                               "title":  "Applied Analysis  -  Strategic Decision Layer 29",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  10,
                                                                "blocks":  [
@@ -7867,7 +7867,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_applied_l32",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Strategic Decision Layer 32",
+                                                               "title":  "Applied Analysis  -  Strategic Decision Layer 32",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  11,
                                                                "blocks":  [
@@ -7896,7 +7896,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_applied_l35",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Strategic Decision Layer 35",
+                                                               "title":  "Applied Analysis  -  Strategic Decision Layer 35",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  12,
                                                                "blocks":  [
@@ -7925,7 +7925,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_applied_l38",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Strategic Decision Layer 38",
+                                                               "title":  "Applied Analysis  -  Strategic Decision Layer 38",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  13,
                                                                "blocks":  [
@@ -7954,7 +7954,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_applied_l41",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Strategic Decision Layer 41",
+                                                               "title":  "Applied Analysis  -  Strategic Decision Layer 41",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  14,
                                                                "blocks":  [
@@ -7983,7 +7983,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_applied_l44",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Strategic Decision Layer 44",
+                                                               "title":  "Applied Analysis  -  Strategic Decision Layer 44",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  15,
                                                                "blocks":  [
@@ -8012,7 +8012,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_applied_l47",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Strategic Decision Layer 47",
+                                                               "title":  "Applied Analysis  -  Strategic Decision Layer 47",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  16,
                                                                "blocks":  [
@@ -8041,7 +8041,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_applied_l50",
                                                                "type":  "content",
-                                                               "title":  "Applied Analysis – Strategic Decision Layer 50",
+                                                               "title":  "Applied Analysis  -  Strategic Decision Layer 50",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  17,
                                                                "blocks":  [
@@ -8112,7 +8112,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_advanced_lab_norm3",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Strategic Expansion 3",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Strategic Expansion 3",
                                                                "objective":  "Strategic synthesis and uncertainty calibration.",
                                                                "order":  3,
                                                                "blocks":  [
@@ -8141,7 +8141,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_advanced_lab_norm4",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Strategic Expansion 4",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Strategic Expansion 4",
                                                                "objective":  "Strategic synthesis and uncertainty calibration.",
                                                                "order":  4,
                                                                "blocks":  [
@@ -8170,7 +8170,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_advanced_lab_norm5",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Strategic Expansion 5",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Strategic Expansion 5",
                                                                "objective":  "Strategic synthesis and uncertainty calibration.",
                                                                "order":  5,
                                                                "blocks":  [
@@ -8199,7 +8199,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_advanced_lab_norm6",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Strategic Expansion 6",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Strategic Expansion 6",
                                                                "objective":  "Strategic synthesis and uncertainty calibration.",
                                                                "order":  6,
                                                                "blocks":  [
@@ -8228,7 +8228,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_advanced_lab_l21",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Strategic Decision Layer 21",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Strategic Decision Layer 21",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  7,
                                                                "blocks":  [
@@ -8257,7 +8257,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_advanced_lab_l24",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Strategic Decision Layer 24",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Strategic Decision Layer 24",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  8,
                                                                "blocks":  [
@@ -8286,7 +8286,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_advanced_lab_l27",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Strategic Decision Layer 27",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Strategic Decision Layer 27",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  9,
                                                                "blocks":  [
@@ -8315,7 +8315,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_advanced_lab_l30",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Strategic Decision Layer 30",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Strategic Decision Layer 30",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  10,
                                                                "blocks":  [
@@ -8344,7 +8344,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_advanced_lab_l33",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Strategic Decision Layer 33",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Strategic Decision Layer 33",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  11,
                                                                "blocks":  [
@@ -8373,7 +8373,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_advanced_lab_l36",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Strategic Decision Layer 36",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Strategic Decision Layer 36",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  12,
                                                                "blocks":  [
@@ -8402,7 +8402,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_advanced_lab_l39",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Strategic Decision Layer 39",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Strategic Decision Layer 39",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  13,
                                                                "blocks":  [
@@ -8431,7 +8431,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_advanced_lab_l42",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Strategic Decision Layer 42",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Strategic Decision Layer 42",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  14,
                                                                "blocks":  [
@@ -8460,7 +8460,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_advanced_lab_l45",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Strategic Decision Layer 45",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Strategic Decision Layer 45",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  15,
                                                                "blocks":  [
@@ -8489,7 +8489,7 @@
                                                            {
                                                                "id":  "strategic_intelligence_advanced_lab_l48",
                                                                "type":  "content",
-                                                               "title":  "Advanced Lab \u0026 Synthesis – Strategic Decision Layer 48",
+                                                               "title":  "Advanced Lab \u0026 Synthesis  -  Strategic Decision Layer 48",
                                                                "objective":  "Advanced strategic synthesis and forecasting modeling.",
                                                                "order":  16,
                                                                "blocks":  [
@@ -8521,3 +8521,4 @@
                    }
                ]
 }
+

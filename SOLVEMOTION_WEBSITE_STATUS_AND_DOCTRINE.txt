@@ -1560,3 +1560,86 @@ No Command Center runtime duplication
 RayAI is intelligence, monitoring, classification, and guidance unless a specific scope says otherwise
 
 This global process standard must be kept synchronized across the active SolveMotion Labs app doctrine files.
+
+================================================================================
+PHASE13E_R3_R3_R10_WEBSITE_SCOPE_LOCK
+================================================================================
+Status: ACTIVE
+Purpose: Lock the full SolveMotionWebSite public scope before additional website
+content buildout, baseline copy, GitHub publish, or production push.
+
+CUSTOMER PAIN FIRST
+- The homepage and public story must start with customer pain, not internal
+  version language.
+- The public problem statement must cover disconnected apps, scattered data,
+  unclear workflows, hard-to-trust AI outputs, and complex decisions.
+- Website copy must be concise, customer-facing, and avoid unnecessary version
+  jargon.
+
+PUBLIC ECOSYSTEM SCOPE
+- SolveMotionWebSite represents SolveMotion Labs as a governed deterministic
+  AI ecosystem for education, career paths, business intelligence, domain
+  intelligence, and workflow clarity.
+- Public ecosystem scope includes SolveMotion, SolveMind, SolveCrime,
+  SolvePharmacy, SolveOura, RayAI, Core 12.0, and the SolveMotion Labs website.
+- Public status must remain truthful and verified. Do not claim a product,
+  hosted runtime, web portal, public application, or production state is complete
+  unless inspection has returned GREEN.
+
+RAYAI WEBSITE RULES
+- RayAI is informational only until security and access gates are GREEN.
+- RayAI must be described as in progress or coming soon.
+- RayAI must not be placed in the hero or top preview position.
+- RayAI belongs as a lower ecosystem/application card after SolveOura.
+- index.html may show RayAI as a lower informational card after SolveOura.
+- applications.html must show RayAI as the sixth app-suite card after SolveOura.
+- applications.html RayAI card must use assets/images/RayAI/app_icon.png.
+- No Launch RayAI button is allowed.
+- No View RayAI button is allowed.
+- No RayAI Web App link is allowed.
+- No public webapps/rayai link is allowed.
+- No public rayai-staging link is allowed.
+- No public rayai-production link is allowed.
+- Disabled RayAI staging text may exist only as disabled/internal access text
+  and must not be exposed as a public app launch.
+
+RAYAI SECURITY BEFORE LAUNCH
+- RayAI public launch requires admin login/access verification.
+- RayAI public launch requires tenant/client login verification.
+- RayAI public launch requires tenant-scoped visibility verification.
+- Client/company users must only see their own usage, billing, reports, bugs,
+  and Core outputs.
+- No cross-tenant ecosystem visibility is allowed.
+- RayAI public exposure remains blocked until these gates are GREEN.
+
+CORE 12.0 WEBSITE RULES
+- Core 12.0 must be represented as the deterministic intelligence spine.
+- Core outputs are render-only on product surfaces.
+- No local scoring claim is allowed.
+- No hosted SaaS/API/runtime completion claim is allowed unless verified GREEN.
+- No partner/tenant hosted runtime completion claim is allowed unless verified
+  GREEN.
+
+WEBSITE CONTENT BUILDOUT RULES
+- Continue building website content only after inspection classifies scope.
+- Add RayAI only to true product/application/ecosystem contexts where inspection
+  confirms placement belongs.
+- Do not blindly add RayAI to every page.
+- Do not over-claim roadmap, commercial, hosted, tenant, API, SDK, or production
+  readiness.
+
+GOVERNANCE RULES
+- PowerShell 5.1 only.
+- Inspection first.
+- No assumptions.
+- No blind edits.
+- No duplicate logic.
+- No patch unless patch plan is GREEN.
+- No baseline copy unless baseline plan is GREEN.
+- Central baselines only under C:\src\_BASELINES.
+- No project-local backup folders.
+- No production push unless explicitly allowed by current phase.
+- No GitHub publish unless explicitly allowed by current phase.
+- No build unless explicitly allowed by current phase.
+================================================================================
+

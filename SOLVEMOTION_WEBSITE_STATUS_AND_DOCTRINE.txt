@@ -1486,3 +1486,77 @@ Boundary remains locked:
 - No duplicate app-side intelligence logic.
 - No hosted SaaS/live production service completion claim.
 - SolveOura remains excluded from live web app launch until its upgrade is complete.
+
+================================================================================
+GLOBAL_PROCESS_STANDARD_LETTER_PHASE_SYSTEM
+================================================================================
+Effective: 2026-06-07
+Applies To: RayAI, SolveMotion, SolveMind, SolveCrime, SolvePharmacy, Core 12, SolveMotionWebSite
+
+All SolveMotion Labs development work must use the clean Letter Phase System for user-facing process tracking.
+
+Use simple major phases:
+Phase A
+Phase B
+Phase C
+...
+Phase Z
+
+Use simple step numbers inside each phase:
+A1, A2, A3
+B1, B2, B3
+E1, E2, E3
+
+Do not use deep nested legacy phase names as the primary working display name.
+
+Legacy labels may remain only for traceability when they already exist in reports, history, baselines, or prior doctrine. The user-facing continuation point must use the clean Letter Phase label.
+
+Required user-facing format:
+Application Version - Phase LetterStep
+Plain English Step Name
+
+Example:
+RayAI 6.0 - Phase E2
+Build Blocker Risk Classification
+
+Report names should prefer the clean phase label when possible:
+RayAI-6.0-PhaseE2-Build-Blocker-Risk-Classification-YYYYMMDD-HHMMSS.txt
+
+Deep legacy report labels may be referenced as LegacyStatus or LegacyPhase only when needed for traceability.
+
+================================================================================
+RAYAI_PHASE_CONTROL_SCOPE_CONTROL_INTELLIGENCE
+================================================================================
+RayAI must include this process model as Phase Control / Scope Control Intelligence.
+
+Phase Control must track, at minimum:
+
+Application
+Current Phase
+Current Step
+Last GREEN Report
+Current Blocker
+Patch Allowed
+Build Allowed
+Analyze Required
+Baseline Required
+Next Recommended Action
+Report Path
+
+Phase Control must also preserve the core engineering rules:
+
+PowerShell 5.1 only
+Inspect first
+No assumptions
+No blind edits
+No duplicate logic
+No project-local backup folders
+Central baselines only under C:\src\_BASELINES
+PRE_PATCH is allowed only for targeted patch safety when explicitly required
+flutter analyze must be GREEN before and after code patches when code is touched
+Use existing build scripts only
+No local Core scoring duplication
+No Command Center runtime duplication
+RayAI is intelligence, monitoring, classification, and guidance unless a specific scope says otherwise
+
+This global process standard must be kept synchronized across the active SolveMotion Labs app doctrine files.

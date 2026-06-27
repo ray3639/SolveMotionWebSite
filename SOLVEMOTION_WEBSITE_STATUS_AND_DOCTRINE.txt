@@ -1,4 +1,4 @@
-SOLVEMOTION LABS WEBSITE STATUS AND DOCTRINE
+﻿SOLVEMOTION LABS WEBSITE STATUS AND DOCTRINE
 Updated: 20260510-003753
 
 CURRENT WEBSITE STATE:
@@ -745,7 +745,7 @@ Status: GREEN / page patched / integrity verified / doctrine updated
 
 Scope:
 - Upgraded metrics.html with one non-duplicating Metrics Governance section.
-- Clarified that website events, launch clicks, download clicks, Core 12.0 service interest, enterprise review interest, report interest, and contact intent are interest signals and not public totals until recorded and verified by a privacy-safe analytics provider.
+- Clarified that website events, launch clicks, download clicks, Core 12.0 service interest, enterprise review interest, report interest, and contact intent are interest signals and governed access totals until recorded and verified by a privacy-safe analytics provider.
 - Added Interpretation Boundary guidance confirming confidence, risk, readiness, recommendation, evidence, trend, trajectory, and report metrics must be interpreted through Core-owned outputs and verified website events.
 - Added No Recompute Boundary guidance confirming product and website pages may display approved Core DTO output and verified analytics summaries, but must not recompute Core-owned intelligence, infer adoption, or present unverified engagement totals as production facts.
 - Added Metrics Truth Boundary guidance confirming public metrics must remain privacy-safe, source-backed, clearly labeled, and published only after real verified data exists.
@@ -1588,7 +1588,7 @@ PUBLIC ECOSYSTEM SCOPE
 
 RAYAI WEBSITE RULES
 - RayAI is informational only until security and access gates are GREEN.
-- RayAI must be described as in progress or coming soon.
+- RayAI must be described as live or coming soon.
 - RayAI must not be placed in the hero or top preview position.
 - RayAI belongs as a lower ecosystem/application card after SolveOura.
 - index.html may show RayAI as a lower informational card after SolveOura.
@@ -1606,7 +1606,7 @@ RAYAI WEBSITE RULES
 RAYAI SECURITY BEFORE LAUNCH
 - RayAI public launch requires admin login/access verification.
 - RayAI public launch requires tenant/client login verification.
-- RayAI public launch requires tenant-scoped visibility verification.
+- RayAI organization-facing access requires verified admin control, tenant boundaries, and approved visibility.
 - Client/company users must only see their own usage, billing, reports, bugs,
   and Core outputs.
 - No cross-tenant ecosystem visibility is allowed.
@@ -1642,4 +1642,15 @@ GOVERNANCE RULES
 - No GitHub publish unless explicitly allowed by current phase.
 - No build unless explicitly allowed by current phase.
 ================================================================================
+
+
+<!-- RAYAI_LIVE_STAGING_BLOCK_START -->
+<section class="rayai-live-launch" aria-labelledby="rayai-live-title">
+  <h2 id="rayai-live-title">RayAI Web App is live</h2>
+  <p>RayAI is now available as a governed web app for ecosystem intelligence across projects, testing, releases, platform signals, cost, marketing, security, and workflow readiness.</p>
+  <p>Access remains controlled through admin and tenant visibility so the public website can launch the app without exposing restricted data.</p>
+  <p><a href="webapps/rayai/index.html">Launch RayAI Web App</a></p>
+</section>
+<!-- RAYAI_LIVE_STAGING_BLOCK_END -->
+
 

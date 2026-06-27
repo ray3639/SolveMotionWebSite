@@ -65588,7 +65588,7 @@ return r==null?s.co("/website"):r}}
 A.a3x.prototype={
 $2(a,b){var s=this.a.a0V(b.b),r=s==null?null:s.d
 if(r==null)r="Contract view"
-return A.c4(B.Ep,B.C9,A.d([new A.Z("Current Contract Status",A.d(["Route: ","Contract tile: ","Status: ","Source: RayAI ecosystem status contract"],t.s)),B.xG,B.dQ,B.dP],t.R),r,"Website production, download, roadmap, and publish-readiness intelligence.","Website Intelligence")},
+return A.c4(B.Ep,B.C9,A.d([new A.Z("Current Contract Status",A.d(["Route: ","Contract tile: ","Status: ","Source: RayAI ecosystem status contract"],t.s)),B.xG,B.dQ,B.dP],t.R),r,"Website production, review, roadmap, and publish-readiness intelligence.","Website Intelligence")},
 $S:4}
 A.nw.prototype={
 I(a){var s,r,q=this,p=null,o=A.ao(a),n=o.ax,m=q.c,l=A.abl(p,A.dz(m,p,p,p,p)),k=A.bZ(a,p,t.w).w,j=A.TS(q.f,n.b,p,42),i=o.ok,h=i.f
@@ -68760,7 +68760,7 @@ B.wQ=new A.Z("Website Readiness Evidence",B.E0)
 B.FC=s([B.wU,B.xt,B.wQ],t.R)
 B.FD=s(["RayAI does not edit SolveCrime from this screen.","RayAI does not run builds or phone pushes from this screen.","RayAI does not duplicate Core 12 case intelligence.",u.F],t.s)
 B.FI=s(["SolveMotion: motion, camera, recommendations, reports, exports, and field workflow evidence.","SolvePharmacy: pharmacy workflow, medication intelligence, compliance, and operational status.","SolveCrime: case lab, evidence workspace, scene diagram, reports, and investigation workflow status.","SolveMind: behavior intelligence, care workflow, reports, and app readiness status.","SolveOura: deferred app visibility, integration status, and future ecosystem readiness state."],t.s)
-B.FL=s(["RayAI renders marketing status and strategy visibility only.","RayAI does not make public growth, revenue, conversion, launch, SaaS, or valuation claims without verified approval.","RayAI does not market SolveOura as live.","RayAI does not duplicate website, Core 12, or app-owned marketing logic."],t.s)
+B.FL=s(["RayAI renders marketing status and strategy visibility only.","RayAI does not make public growth, revenue, conversion, launch, SaaS, or valuation claims without verified approval.","RayAI does not market SolveOura as security-gated.","RayAI does not duplicate website, Core 12, or app-owned marketing logic."],t.s)
 B.FP=s(["RayAI renders doctrine visibility and rule status only.","RayAI does not become a second doctrine engine.","RayAI does not modify app/Core/website doctrine from this screen."],t.s)
 B.d8=s([B.bA,B.bm,B.dR,B.dS,B.fJ],t.QP)
 B.kK=new A.aX(57412,"MaterialIcons",!1)

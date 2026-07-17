@@ -1,0 +1,37 @@
+{
+  "domain": "recovery",
+  "category": "sleep_readiness",
+  "version": "1.0.0",
+  "entries": [
+    {
+      "id": "sleep_readiness_001",
+      "name": "Sleep consistency",
+      "summary": "Consistent sleep supports readiness stability and reduces volatility in recovery interpretation.",
+      "evidenceSignals": [
+        "sleep_duration",
+        "sleep_quality",
+        "sleep_consistency"
+      ],
+      "missingEvidenceQuestions": [
+        "Is sleep duration available?",
+        "Is sleep quality available?",
+        "Is there a multi-day trend?"
+      ]
+    },
+    {
+      "id": "sleep_readiness_002",
+      "name": "Sleep disruption",
+      "summary": "Sleep disruption can reduce readiness confidence and may require a conservative next action.",
+      "evidenceSignals": [
+        "interruption_count",
+        "late_sleep_start",
+        "low_sleep_quality"
+      ],
+      "missingEvidenceQuestions": [
+        "Was sleep interrupted?",
+        "Was the sleep window shifted?",
+        "Is fatigue also elevated?"
+      ]
+    }
+  ]
+}

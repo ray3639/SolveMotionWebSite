@@ -1,5 +1,5 @@
-﻿SOLVEMOTION LABS WEBSITE STATUS AND DOCTRINE
-Updated: 20260510-003753
+SOLVEMOTION LABS WEBSITE STATUS AND DOCTRINE
+Updated: 20260716-201035
 
 CURRENT WEBSITE STATE:
 - Production-clean website authority layer.
@@ -73,7 +73,7 @@ NEXT WEBSITE SCOPE:
 - Phase 10: Website deployment / GitHub Pages verification.
 
 PHASE 4D PRODUCT VISUALIZATION SYSTEMS GREEN
-Updated: 20260510-004407
+Updated: 20260716-201035
 
 PHASE 4 STATUS:
 - Product visualization systems inspection completed.
@@ -109,7 +109,7 @@ NEXT WEBSITE SCOPE:
 - Phase 10: Website deployment / GitHub Pages verification.
 
 PHASE 5C HOMEPAGE + PRODUCT DEEP CONTENT GREEN
-Updated: 20260510-080955
+Updated: 20260716-201035
 
 PHASE 5C STATUS:
 - Homepage professional Core 12.0 / 6.0 upgrade completed.
@@ -168,7 +168,7 @@ NEXT WEBSITE SCOPE:
 - Phase 5N: Push live and verify production.
 
 PHASE 5D PLATFORM EVOLUTION GREEN
-Updated: 20260510-084828
+Updated: 20260716-201035
 
 PHASE 5D STATUS:
 - platform-evolution.html created.
@@ -228,7 +228,7 @@ NEXT WEBSITE SCOPE:
 - Phase 5N: Push live and verify production.
 
 PHASE 5E CAPABILITIES GREEN
-Updated: 20260510-091120
+Updated: 20260716-201035
 
 PHASE 5E STATUS:
 - capabilities.html created.
@@ -283,7 +283,7 @@ NEXT WEBSITE SCOPE:
 - Phase 5N: Push live and verify production.
 
 PHASE 5F REPORTS AND TRUTHFULNESS GREEN
-Updated: 20260510-104114
+Updated: 20260716-201035
 
 PHASE 5F STATUS:
 - reports.html created.
@@ -829,7 +829,7 @@ Reason:
 Merged content:
 SOLVEMOTION WEBSITE STATUS AND DOCTRINE
 
-Last Updated: 20260429-080200
+Last Updated: 20260716-201035
 Current Production Commit: 30f73262eebfb3b0e1fe7d0d490369f5f22872da
 Current Baseline: C:\src\_BASELINES\SolveMotionWebSite-PRODUCTION-WEB-DOWNLOADS-ASCII-GREEN-20260429-080200
 
@@ -1654,3 +1654,36 @@ GOVERNANCE RULES
 <!-- RAYAI_LIVE_STAGING_BLOCK_END -->
 
 
+
+PHASE I STEP 1 OF 1 - SOLVEMOTION APP DOWNLOADS AND WEB APP PRODUCTION GREEN
+Updated: 20260716-201035
+Status=GREEN
+GateGreen=True
+Scope: Publish fresh SolveMotion 6.0 Android artifacts to website downloads, run fresh SolveMotion web app in production-style website path, update doctrine, and baseline centrally.
+Build source of truth: C:\src\Build-SolveMotion.ps1 -Version 6.0 -Target All.
+Build status: Success at 2026-07-16T20:05:42 in C:\src\CommandCenter\BuildStatus-SolveMotion.json.
+App version: 6.0.0+159.
+Web app production path: webapps\solvemotion with version.json build_number 159.
+Downloads page: downloads.html includes SolveMotion APK and AAB Android links.
+Download index: downloads\index.html includes SolveMotion APK and AAB Android links.
+Product page: products\solvemotion.html includes SolveMotion APK and AAB Android links plus web app launch.
+Android APK: downloads\solvemotion\SolveMotion-latest.apk, 100124465 bytes, SHA256 DEE6534C1A02DD7813F2C0FAE47E61F3B8A6580F4E49ACA1C1B3F7C7873C7343.
+Android AAB: downloads\solvemotion\SolveMotion-latest.aab, 87053222 bytes, SHA256 795C2A006369887006D0E3E6B91F7143AD2ACD92CFB2211E06C0D38EC462DB70.
+Runtime verification: localhost:8080 served downloads.html, downloads/index.html, products/solvemotion.html, webapps/solvemotion/index.html, version.json, APK, and AAB with HTTP 200.
+Baseline: C:\src\_BASELINES\SolveMotion-6.0-PHASE-I-STEP-1-OF-1-WEBSITE-DOWNLOADS-WEBAPP-PRODUCTION-GREEN-20260716-201035
+PHASE J STEP 1 OF 1 - SOLVEPHARMACY DOWNLOADS AND WEB APP PRODUCTION GREEN
+Updated: 20260716-202100
+Status=GREEN
+GateGreen=True
+Scope: Publish current SolvePharmacy 6.0 Android artifacts to website downloads, run fresh SolvePharmacy web app in production-style website path, update release metadata, update doctrine, and baseline centrally.
+Build source of truth: C:\src\Build-SolvePharmacy.ps1 -Target All.
+Build status: Success on 2026-07-16.
+App version: 6.0.0+79.
+Web app production path: webapps\solvepharmacy with version.json build_number 79.
+Downloads page: downloads.html includes SolvePharmacy web app launch, Android APK, and Android AAB links.
+Download index: downloads\index.html includes SolvePharmacy Android APK and Android AAB links.
+Release metadata: downloads\latest-builds.json marks SolvePharmacy APK and AAB as published.
+Android APK: downloads\solvepharmacy\SolvePharmacy-latest.apk, 156446187 bytes, SHA256 B0BFA8F0C95E432F39995FAEF22D51E50485CFDF518FFA6228F669DB57279A54.
+Android AAB: downloads\solvepharmacy\SolvePharmacy-latest.aab, 47509632 bytes, SHA256 6B29CB6E76EA0B29088DD780DD36BE9DB42CF9C67793127D211E4041C39F0B5C.
+Runtime verification: localhost:8080 served downloads.html, downloads/index.html, webapps/solvepharmacy/index.html, APK, and AAB with HTTP 200.
+Baseline: C:\src\_BASELINES\SolvePharmacy-6.0-PHASE-C-STEP-1-OF-1-WEBSITE-DOWNLOADS-WEBAPP-PRODUCTION-GREEN-20260716-202100

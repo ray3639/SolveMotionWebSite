@@ -1,0 +1,158 @@
+{
+    "schemaVersion":  "1.0",
+    "source":  "SolveMind assets/content/solvemind_content.json",
+    "ownership":  "Core 12.0 Knowledge Domain",
+    "generatedAt":  "2026-05-13T16:55:14",
+    "dailyCoach":  [
+                       {
+                           "title":  "Daily Coach #1",
+                           "id":  "coach_1",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #2",
+                           "id":  "coach_2",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #3",
+                           "id":  "coach_3",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #4",
+                           "id":  "coach_4",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #5",
+                           "id":  "coach_5",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #6",
+                           "id":  "coach_6",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #7",
+                           "id":  "coach_7",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #8",
+                           "id":  "coach_8",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #9",
+                           "id":  "coach_9",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #10",
+                           "id":  "coach_10",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #11",
+                           "id":  "coach_11",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #12",
+                           "id":  "coach_12",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #13",
+                           "id":  "coach_13",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #14",
+                           "id":  "coach_14",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #15",
+                           "id":  "coach_15",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #16",
+                           "id":  "coach_16",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #17",
+                           "id":  "coach_17",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #18",
+                           "id":  "coach_18",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #19",
+                           "id":  "coach_19",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #20",
+                           "id":  "coach_20",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #21",
+                           "id":  "coach_21",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #22",
+                           "id":  "coach_22",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #23",
+                           "id":  "coach_23",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #24",
+                           "id":  "coach_24",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #25",
+                           "id":  "coach_25",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #26",
+                           "id":  "coach_26",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #27",
+                           "id":  "coach_27",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #28",
+                           "id":  "coach_28",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #29",
+                           "id":  "coach_29",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       },
+                       {
+                           "title":  "Daily Coach #30",
+                           "id":  "coach_30",
+                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
+                       }
+                   ]
+}

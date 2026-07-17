@@ -1687,3 +1687,14 @@ Android APK: downloads\solvepharmacy\SolvePharmacy-latest.apk, 156446187 bytes, 
 Android AAB: downloads\solvepharmacy\SolvePharmacy-latest.aab, 47509632 bytes, SHA256 6B29CB6E76EA0B29088DD780DD36BE9DB42CF9C67793127D211E4041C39F0B5C.
 Runtime verification: localhost:8080 served downloads.html, downloads/index.html, webapps/solvepharmacy/index.html, APK, and AAB with HTTP 200.
 Baseline: C:\src\_BASELINES\SolvePharmacy-6.0-PHASE-C-STEP-1-OF-1-WEBSITE-DOWNLOADS-WEBAPP-PRODUCTION-GREEN-20260716-202100
+PHASE J HOTFIX - SOLVEPHARMACY GITHUB PAGES BUILD 79 PUBLICATION GREEN
+Updated: 20260716-204300
+Status=GREEN
+GateGreen=True
+Scope: Publish SolvePharmacy Build 79 web app to GitHub Pages after production was observed still showing Build 71.
+Symptom: Live production page showed Version 6.0.0 Build 71.
+Fix commit: e4592c4 Publish SolvePharmacy 6.0 build 79.
+Live verification: webapps/solvepharmacy/version.json returned build_number 79.
+Live HTTP checks: webapps/solvepharmacy/index.html, downloads.html, and downloads/solvepharmacy/SolvePharmacy-latest.aab returned HTTP 200.
+Android note: AAB is public on GitHub Pages; APK is over GitHub normal file-size limits and was not pushed as a public Pages artifact.
+Baseline: C:\src\_BASELINES\SolvePharmacy-6.0-PHASE-C-HOTFIX-GITHUB-PAGES-BUILD-79-PUBLICATION-GREEN-20260716-204300

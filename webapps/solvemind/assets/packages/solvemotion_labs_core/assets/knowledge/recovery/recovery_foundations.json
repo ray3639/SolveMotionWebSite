@@ -1,0 +1,42 @@
+{
+  "domain": "recovery",
+  "version": "1.0.0",
+  "owner": "SolveMotion Labs Core 12.0",
+  "purpose": "Core-owned recovery knowledge for commercial readiness, app adapter support, and render-only consumer output.",
+  "principles": [
+    {
+      "id": "recovery_foundation_001",
+      "name": "Recovery readiness foundation",
+      "summary": "Recovery readiness combines rest, fatigue, strain, sleep, trend stability, and confidence evidence into a Core-owned readiness context.",
+      "coreRule": "Applications may render recovery readiness output only and must not compute readiness locally."
+    },
+    {
+      "id": "recovery_foundation_002",
+      "name": "Evidence-based recovery context",
+      "summary": "Recovery interpretation should identify what evidence is present, what evidence is missing, and how uncertainty affects recommendations.",
+      "coreRule": "Core owns missing evidence, confidence limitations, and next-action reasoning."
+    },
+    {
+      "id": "recovery_foundation_003",
+      "name": "Cross-domain recovery influence",
+      "summary": "Recovery can affect movement readiness, cognitive stability, medication safety context, and risk tolerance.",
+      "coreRule": "Cross-domain effects must remain Core-owned and app consumers must not duplicate scoring."
+    }
+  ],
+  "signals": [
+    "sleep",
+    "readiness",
+    "fatigue",
+    "strain",
+    "rest",
+    "hrv",
+    "recovery",
+    "wellness"
+  ],
+  "commercialReadiness": {
+    "domainReady": true,
+    "adapterReady": true,
+    "consumerReady": true,
+    "renderOnlyRequired": true
+  }
+}

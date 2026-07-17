@@ -1,0 +1,34 @@
+{
+  "domain": "recovery",
+  "category": "hrv_recovery",
+  "version": "1.0.0",
+  "entries": [
+    {
+      "id": "hrv_recovery_001",
+      "name": "HRV readiness support",
+      "summary": "Heart rate variability can support recovery readiness when evaluated with trend context and other recovery signals.",
+      "evidenceSignals": [
+        "hrv",
+        "readiness",
+        "sleep",
+        "resting_heart_rate"
+      ],
+      "missingEvidenceQuestions": [
+        "Is HRV available?",
+        "Is there enough trend history?",
+        "Does HRV agree with sleep and fatigue evidence?"
+      ]
+    },
+    {
+      "id": "hrv_recovery_002",
+      "name": "HRV uncertainty",
+      "summary": "HRV should not be treated as a standalone readiness decision without supporting evidence.",
+      "evidenceSignals": [
+        "hrv_variability",
+        "trend_disagreement",
+        "missing_sleep_context"
+      ],
+      "coreRule": "Core must explain HRV limitations when supporting evidence is missing."
+    }
+  ]
+}

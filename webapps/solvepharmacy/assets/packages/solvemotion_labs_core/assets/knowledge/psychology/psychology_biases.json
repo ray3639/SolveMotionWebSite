@@ -1,0 +1,91 @@
+{
+    "schemaVersion":  "1.0",
+    "source":  "SolveMind assets/content/solvemind_content.json",
+    "ownership":  "Core 12.0 Knowledge Domain",
+    "generatedAt":  "2026-05-13T16:55:14",
+    "cognitiveBiases":  [
+                            {
+                                "summary":  "The tendency to favor information that confirms existing beliefs.",
+                                "realWorldExamples":  [
+                                                          "Ignoring information that contradicts opinions.",
+                                                          "Interpreting ambiguous data as supportive.",
+                                                          "Seeking like-minded sources only."
+                                                      ],
+                                "name":  "Confirmation Bias",
+                                "whyItMatters":  [
+                                                     "Leads to selective evidence gathering.",
+                                                     "Reinforces incorrect conclusions.",
+                                                     "Impairs learning."
+                                                 ],
+                                "whyItHappens":  [
+                                                     "Reduces mental effort.",
+                                                     "Protects existing beliefs.",
+                                                     "Feels psychologically comfortable."
+                                                 ]
+                            },
+                            {
+                                "summary":  "Judging likelihood based on how easily examples come to mind.",
+                                "realWorldExamples":  [
+                                                          "Overestimating rare dangers after news coverage.",
+                                                          "Assuming uncommon outcomes are frequent."
+                                                      ],
+                                "name":  "Availability Heuristic",
+                                "whyItMatters":  [
+                                                     "Overestimates rare but memorable events.",
+                                                     "Underestimates common but less vivid ones."
+                                                 ],
+                                "whyItHappens":  [
+                                                     "Recent or vivid events feel more important.",
+                                                     "Media exposure skews perception."
+                                                 ]
+                            },
+                            {
+                                "summary":  "Relying too heavily on the first piece of information encountered.",
+                                "realWorldExamples":  [
+                                                          "Fixating on an early impression.",
+                                                          "Overvaluing first estimates."
+                                                      ],
+                                "name":  "Anchoring Bias",
+                                "whyItMatters":  [
+                                                     "Distorts judgment.",
+                                                     "Makes updates slower and less accurate."
+                                                 ],
+                                "whyItHappens":  [
+                                                     "Initial information frames thinking.",
+                                                     "Adjustments from the anchor are insufficient."
+                                                 ]
+                            },
+                            {
+                                "summary":  "Overestimating one\u00e2\u20ac\u2122s knowledge or accuracy.",
+                                "realWorldExamples":  [
+                                                          "Assuming certainty without evidence.",
+                                                          "Ignoring alternative explanations."
+                                                      ],
+                                "name":  "Overconfidence Bias",
+                                "whyItMatters":  [
+                                                     "Reduces willingness to reconsider.",
+                                                     "Increases error risk."
+                                                 ],
+                                "whyItHappens":  [
+                                                     "Success reinforces confidence.",
+                                                     "Lack of feedback hides errors."
+                                                 ]
+                            },
+                            {
+                                "summary":  "Attributing others\u00e2\u20ac\u2122 behavior to character rather than situation.",
+                                "realWorldExamples":  [
+                                                          "Blaming individuals without context.",
+                                                          "Ignoring environmental pressures."
+                                                      ],
+                                "name":  "Fundamental Attribution Error",
+                                "whyItMatters":  [
+                                                     "Leads to unfair judgments.",
+                                                     "Reduces empathy and understanding."
+                                                 ],
+                                "whyItHappens":  [
+                                                     "Situational factors are less visible.",
+                                                     "Character explanations feel simpler."
+                                                 ]
+                            }
+                        ]
+}

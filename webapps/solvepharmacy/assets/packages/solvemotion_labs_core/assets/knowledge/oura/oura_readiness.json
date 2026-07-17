@@ -1,0 +1,39 @@
+{
+  "domain": "oura",
+  "category": "oura_readiness",
+  "version": "1.0.0",
+  "owner": "SolveMotion Labs Core 12.0",
+  "purpose": "Core-owned Oura-style readiness knowledge for future SolveOura and external recovery app adapters.",
+  "entries": [
+    {
+      "id": "oura_readiness_001",
+      "name": "Oura readiness adapter facts",
+      "summary": "Oura-style adapter input may include readiness, sleep, HRV, strain, fatigue, rest, and recovery context.",
+      "adapterFacts": [
+        "ouraFacts",
+        "readiness",
+        "sleep",
+        "hrv",
+        "strain",
+        "fatigue",
+        "rest"
+      ],
+      "coreRule": "Adapters provide facts only. Core computes readiness, confidence, risk, recommendations, and missing evidence."
+    },
+    {
+      "id": "oura_readiness_002",
+      "name": "Future SolveOura app support",
+      "summary": "SolveOura can render Core recovery output when the adapter and consumer contract are satisfied.",
+      "supportedApps": [
+        "SolveOura",
+        "future external recovery apps"
+      ],
+      "renderOnlyRequired": true
+    }
+  ],
+  "commercialReadiness": {
+    "solveOuraReady": true,
+    "externalAdapterReady": true,
+    "renderOnlyRequired": true
+  }
+}

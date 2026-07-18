@@ -2163,3 +2163,21 @@ BaselineScope=Final Phase AA-AE published source snapshot excluding .git and _in
 ProductionSourceCommit=da61f3e Finish SolveMotionWebSite visual QA polish.
 OriginVerification=GREEN.
 ImmediatePagesPropagation=Pending during post-push cache checks.
+PHASE AF ABOUT BOOK RESTORE CLOSEOUT
+Date: 2026-07-18
+Status=GREEN
+GateGreen=True
+Scope=Restored the verified About page book section for Where the Water Comes From and prepared production publish.
+Steps Completed:
+- Step 1 of 5: Inspected GLOBAL_RULES.md, current about.html, Git history, existing book CSS, and book assets before edits.
+- Step 2 of 5: Recovered the removed book title, cover image path, PDF path, and description from prior about.html history.
+- Step 3 of 5: Restored the book section into the current premium About page without adding duplicate logic or fake content.
+- Step 4 of 5: Added mobile-safe shared CSS polish for the restored book section.
+- Step 5 of 5: Ran local gates and prepared production publish through PushWebDownloads.ps1 only.
+Gate Receipts:
+- BookAssetGate=PASS Files=2.
+- AboutBookLocalGate=PASS.
+- GitDiffCheck=PASS.
+Rules Preserved:
+- Website remains render-only.
+- No Core 12 logic, RayAI logic, app intelligence, placeholders, stubs, mocks, or fake/demo content introduced.

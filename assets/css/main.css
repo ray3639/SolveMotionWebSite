@@ -1056,3 +1056,13 @@ footer {
   .premium-home-hero,.premium-page-hero{min-height:auto}
 }
 /* === Phase AA-AE Mobile Hero Priority END === */
+/* === Phase AF About Book Restore Polish START === */
+.root-premium-page .book-section{margin-top:2rem;padding:32px;border:1px solid rgba(255,255,255,.11);border-radius:8px;background:rgba(12,18,32,.72)}
+.root-premium-page .book-section h2{margin-top:0;border-left:0;padding-left:0}
+.root-premium-page .book-description .btn{margin-top:10px}
+@media (max-width:768px){
+  .book-feature{grid-template-columns:1fr;gap:1.5rem}
+  .book-cover img{max-width:220px;margin:0 auto}
+  .root-premium-page .book-section{padding:22px 18px}
+}
+/* === Phase AF About Book Restore Polish END === */

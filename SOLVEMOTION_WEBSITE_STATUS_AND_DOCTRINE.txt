@@ -1587,19 +1587,19 @@ PUBLIC ECOSYSTEM SCOPE
   unless inspection has returned GREEN.
 
 RAYAI WEBSITE RULES
-- RayAI is informational only until security and access gates are GREEN.
-- RayAI must be described as live or coming soon.
-- RayAI must not be placed in the hero or top preview position.
-- RayAI belongs as a lower ecosystem/application card after SolveOura.
-- index.html may show RayAI as a lower informational card after SolveOura.
-- applications.html must show RayAI as the sixth app-suite card after SolveOura.
+- RayAI is live as a governed web app; access language must remain scoped to verified admin and tenant visibility.
+- RayAI must be described only according to verified production state.
+- RayAI may appear as a product card or CTA when placement is verified and does not duplicate product-page ownership.
+- RayAI belongs in product, application, ecosystem, or CTA contexts only when the page purpose supports it.
+- index.html may show RayAI in the product ecosystem section when the link points to products/rayai.html or verified production web app access.
+- applications.html may show RayAI as part of the app-suite card set when current production state is verified.
 - applications.html RayAI card must use assets/images/RayAI/app_icon.png.
-- No Launch RayAI button is allowed.
-- No View RayAI button is allowed.
-- No RayAI Web App link is allowed.
-- No public webapps/rayai link is allowed.
+- RayAI launch links are allowed only to the verified production web app path.
+- RayAI product links are allowed to products/rayai.html.
+- RayAI web app links must point to webapps/rayai/index.html or the equivalent verified production path.
+- Public webapps/rayai links are allowed only after production verification remains GREEN.
 - No public rayai-staging link is allowed.
-- No public rayai-production link is allowed.
+- No duplicate RayAI production alias path is allowed.
 - Disabled RayAI staging text may exist only as disabled/internal access text
   and must not be exposed as a public app launch.
 
@@ -1642,17 +1642,6 @@ GOVERNANCE RULES
 - No GitHub publish unless explicitly allowed by current phase.
 - No build unless explicitly allowed by current phase.
 ================================================================================
-
-
-<!-- RAYAI_LIVE_STAGING_BLOCK_START -->
-<section class="rayai-live-launch" aria-labelledby="rayai-live-title">
-  <h2 id="rayai-live-title">RayAI Web App is live</h2>
-  <p>RayAI is now available as a governed web app for ecosystem intelligence across projects, testing, releases, platform signals, cost, marketing, security, and workflow readiness.</p>
-  <p>Access remains controlled through admin and tenant visibility so the public website can launch the app without exposing restricted data.</p>
-  <p><a href="webapps/rayai/index.html">Launch RayAI Web App</a></p>
-</section>
-<!-- RAYAI_LIVE_STAGING_BLOCK_END -->
-
 
 
 PHASE I STEP 1 OF 1 - SOLVEMOTION APP DOWNLOADS AND WEB APP PRODUCTION GREEN
@@ -1698,3 +1687,418 @@ Live verification: webapps/solvepharmacy/version.json returned build_number 79.
 Live HTTP checks: webapps/solvepharmacy/index.html, downloads.html, and downloads/solvepharmacy/SolvePharmacy-latest.aab returned HTTP 200.
 Android note: AAB is public on GitHub Pages; APK is over GitHub normal file-size limits and was not pushed as a public Pages artifact.
 Baseline: C:\src\_BASELINES\SolvePharmacy-6.0-PHASE-C-HOTFIX-GITHUB-PAGES-BUILD-79-PUBLICATION-GREEN-20260716-204300
+================================================================================
+PHASE F - PREMIUM HOMEPAGE AND ECOSYSTEM UPGRADE
+================================================================================
+Timestamp=20260717
+Status=GREEN_PATCHED
+Scope=Homepage premium SaaS upgrade, ecosystem story, interactive visual sections, trust proof strip, conversion CTA flow, and website doctrine alignment.
+
+Completed steps:
+- Phase F1 inspected GLOBAL_RULES.md, index.html, assets/css/main.css, active website doctrine, image assets, and repository state.
+- Phase F2 rebuilt homepage message around customer pain, Core 12, focused apps, RayAI, and Command Center.
+- Phase F3 added CSS-only visual ecosystem preview, product cards, before/after workflow, trust strip, and mobile-safe hover behavior.
+- Phase F4 updated website doctrine to remove stale RayAI no-link language and align it with verified RayAI production state.
+- Phase F5 is reserved for gates and closeout evidence.
+
+Design doctrine:
+- Homepage must stay short, premium, and instantly understandable.
+- Hero must lead with customer value, not internal version language.
+- Product story must remain truthful: four live 6.0 app surfaces, RayAI live web app, SolveOura in progress.
+- Core 12 remains the intelligence spine; website UI does not duplicate Core logic.
+- Command Center may be presented as operational control and readiness context without duplicating RayAI or Core intelligence.
+- RayAI links must use verified production paths only.
+- Staging paths, duplicate RayAI product webapp folders, fake claims, placeholders, and repeated filler panels are not allowed.
+================================================================================
+================================================================================
+PHASE G - REMAINING WEBSITE UPGRADE SCOPE LOCK
+================================================================================
+Timestamp=20260718
+Status=SCOPE_LOCKED
+GateGreen=True
+Mode=Website development planning / doctrine update only
+Scope=Define all remaining SolveMotionWebSite upgrade work after Phase F Premium Homepage.
+
+Operating rules:
+- Follow C:\src\GLOBAL_RULES.md before implementation.
+- Inspect full target files before every patch.
+- No assumptions, no blind edits, no duplicate logic, no placeholders, no stubs, no fake claims.
+- Website must not duplicate Core 12 logic, RayAI intelligence, app intelligence, or Command Center runtime behavior.
+- Core 12 remains the intelligence spine; website remains public presentation and navigation only.
+- All public copy must be short, professional, premium, truthful, and mobile-first.
+- SolveOura remains in progress unless later verified complete.
+- RayAI links must use verified production paths only.
+- Staging, production push, and baseline require explicit named authorization.
+- Central baselines only under C:\src\_BASELINES.
+
+Remaining full website scope:
+
+Phase H - Applications Page Premium Rewrite
+Goal=Make applications.html match the Phase F homepage quality with less text, stronger product cards, and clear ecosystem positioning.
+Step H1 of 6=Inspect applications.html, current app cards, app launch links, images, and current RayAI placement.
+Step H2 of 6=Rewrite page hero and intro into short premium product-suite language.
+Step H3 of 6=Standardize product cards for RayAI, Core 12, Command Center, SolveMotion, SolveCrime, SolveMind, SolvePharmacy, and SolveOura.
+Step H4 of 6=Add simple comparison or selection guidance without duplicating product-page details.
+Step H5 of 6=Remove duplicate technical wording, stale status language, and excess paragraphs.
+Step H6 of 6=Run applications page gates and close Phase H GREEN before next phase.
+
+Phase I - Product Page System Polish
+Goal=Make all product pages feel like one premium product family with consistent structure, clear value, and truthful status.
+Step I1 of 8=Inspect products/index.html and all product pages: core12.html, rayai.html, solvemotion.html, solvecrime.html, solvemind.html, solvepharmacy.html, solveoura.html.
+Step I2 of 8=Define one shared product-page section model: hero, value, workflow, outputs, status, CTA, boundaries.
+Step I3 of 8=Upgrade RayAI and Core 12 pages without duplicating app or Core implementation logic.
+Step I4 of 8=Upgrade SolveMotion, SolveCrime, SolveMind, and SolvePharmacy pages with concise 6.0 production-ready language.
+Step I5 of 8=Upgrade SolveOura page as in-progress recovery intelligence without live-complete overclaiming.
+Step I6 of 8=Standardize product CTAs, product cards, image usage, and footer navigation.
+Step I7 of 8=Remove repeated Core 12/render-only wording where one shared explanation is enough.
+Step I8 of 8=Run product-page structure, content, asset, and link gates; close Phase I GREEN.
+
+Phase J - Command Center Website Story
+Goal=Add a clear public Command Center story without duplicating Command Center app logic or RayAI intelligence.
+Step J1 of 6=Inspect existing pages for Command Center mentions and determine page ownership.
+Step J2 of 6=Choose verified placement: homepage section, platform section, applications card, product page, or dedicated command-center.html if justified by inspection.
+Step J3 of 6=Write concise Command Center value: operational control for releases, readiness, doctrine, baselines, and next valid actions.
+Step J4 of 6=Define boundaries: read-only public story, no app runtime actions, no Core scoring, no RayAI duplicated intelligence.
+Step J5 of 6=Wire navigation and sitemap only if a dedicated page is created.
+Step J6 of 6=Run Command Center content/link gates and close Phase J GREEN.
+
+Phase K - Conversion and Contact Flow Upgrade
+Goal=Make visitors know exactly what to do next from every major page.
+Step K1 of 7=Inspect contact.html, partnerships.html, institutional.html, support.html, homepage CTAs, and product CTAs.
+Step K2 of 7=Define one primary CTA language set: Explore the Ecosystem, See the Platform, Request a Demo, View RayAI.
+Step K3 of 7=Upgrade contact.html into a short, professional inquiry flow with product interest categories.
+Step K4 of 7=Add product-specific CTA logic as public links only, not application behavior.
+Step K5 of 7=Reduce contact friction and remove duplicate partnership/contact wording.
+Step K6 of 7=Align footer and nav CTA routes with the chosen conversion path.
+Step K7 of 7=Run conversion link/content gates and close Phase K GREEN.
+
+Phase L - Trust, Proof, and Professional Credibility
+Goal=Make the site investor/client-ready with truthful proof and no overclaims.
+Step L1 of 8=Inspect metrics.html, reports.html, institutional.html, partnerships.html, roadmap.html, and platform-evolution.html.
+Step L2 of 8=Define short proof points: governed intelligence, local operational control, multi-app ecosystem, evidence-ready workflows, release discipline.
+Step L3 of 8=Upgrade metrics.html with truthful measurable status and no fake traction claims.
+Step L4 of 8=Upgrade reports.html with professional output previews and boundaries.
+Step L5 of 8=Upgrade institutional.html and partnerships.html for enterprise/investor clarity.
+Step L6 of 8=Update roadmap/platform-evolution only where current verified status requires alignment.
+Step L7 of 8=Remove duplicated credibility language across pages.
+Step L8 of 8=Run trust/proof truthfulness gates and close Phase L GREEN.
+
+Phase M - Education, Research, and Governance Polish
+Goal=Keep education/research content useful, cleaner, and aligned with the premium website story.
+Step M1 of 7=Inspect education pages, research.html, methodology.html, doctrine.html, learning-paths.html, and intelligence-map.html.
+Step M2 of 7=Reduce long doctrine-style paragraphs and improve section hierarchy.
+Step M3 of 7=Align education domain pages to clear public learning outcomes.
+Step M4 of 7=Align research/methodology pages with Core 12 authority without duplicating Core internals.
+Step M5 of 7=Update intelligence-map.html for clearer ecosystem flow if needed.
+Step M6 of 7=Check all education/research links, sitemap entries, and footer ownership.
+Step M7 of 7=Run education/research gates and close Phase M GREEN.
+
+Phase N - Sitewide Visual System and Mobile Polish
+Goal=Make the full static website visually consistent with Phase F and safe on mobile.
+Step N1 of 7=Inspect shared CSS, duplicated style blocks, old inline styles, card sizing, typography, and mobile breakpoints.
+Step N2 of 7=Consolidate reusable premium components in assets/css/main.css.
+Step N3 of 7=Remove duplicate or obsolete CSS while preserving existing product layouts.
+Step N4 of 7=Standardize cards, buttons, proof strips, hero spacing, app icons, and section rhythm.
+Step N5 of 7=Add reduced-motion-safe hover/animation only.
+Step N6 of 7=Run mobile-safe structure checks and visual class gates.
+Step N7 of 7=Close Phase N GREEN.
+
+Phase O - SEO, Sitemap, Metadata, and Public Hygiene
+Goal=Make public pages discoverable, clean, and accurate.
+Step O1 of 7=Inspect sitemap.xml, robots.txt, titles, descriptions, canonical URLs, Open Graph, Twitter metadata, and JSON-LD.
+Step O2 of 7=Update metadata to match the new premium page positioning.
+Step O3 of 7=Ensure sitemap includes all public authority pages and excludes staging/internal/duplicate paths.
+Step O4 of 7=Verify RayAI production path, exclude rayai-staging, and keep SolveOura live webapp excluded until complete.
+Step O5 of 7=Remove placeholder/generated public metadata from webapp entry pages if any returns.
+Step O6 of 7=Run metadata, sitemap XML, canonical, and blocked-phrase gates.
+Step O7 of 7=Close Phase O GREEN.
+
+Phase P - Full Site Cross-Page QA
+Goal=Verify all public source pages after content and visual upgrades.
+Step P1 of 8=Inventory root, products, education, downloads, and webapps production HTML pages.
+Step P2 of 8=Run stale phrase, placeholder, staging, duplicate-path, and overclaim scans.
+Step P3 of 8=Run HTML main/section balance and UTF-8 NO_BOM checks.
+Step P4 of 8=Run asset existence checks for all referenced local images/scripts/styles.
+Step P5 of 8=Run sitemap coverage and forbidden path checks.
+Step P6 of 8=Run public link checks for critical routes.
+Step P7 of 8=Inspect git diff scope and confirm no unrelated files are staged or modified by the phase.
+Step P8 of 8=Close full local QA GREEN.
+
+Phase Q - Staging Review
+Goal=Review the upgraded website locally/staging before production publish.
+Step Q1 of 6=Start only the existing authorized static website process if implementation phase authorizes it.
+Step Q2 of 6=Verify homepage, applications, product pages, contact flow, and trust/proof pages in staging/local route context.
+Step Q3 of 6=Verify production webapp entry links still resolve locally where applicable.
+Step Q4 of 6=Record any staging defects and patch only inspected, source-traced issues.
+Step Q5 of 6=Rerun Phase P gates after fixes.
+Step Q6 of 6=Close staging review GREEN.
+
+Phase R - Production Publish
+Goal=Publish the verified website through the governed website production path only.
+Step R1 of 7=Inspect PushWebDownloads.ps1 and git state before publish.
+Step R2 of 7=Verify branch state and remote state; no force push unless separately authorized and justified.
+Step R3 of 7=Run production publish only through the authorized PushWebDownloads.ps1 path.
+Step R4 of 7=Verify origin/main commit and GitHub Pages deployment status.
+Step R5 of 7=Verify live production URLs for homepage, applications, RayAI, sitemap, contact, and at least one product page.
+Step R6 of 7=Record production receipts.
+Step R7 of 7=Close production publish GREEN.
+
+Phase S - Final Website Baseline and Doctrine Closeout
+Goal=Create the final central baseline after production is verified.
+Step S1 of 6=Inspect C:\src\_BASELINES structure and choose a clean final website baseline name.
+Step S2 of 6=Copy only the verified website snapshot, root publish script, doctrine, and receipts into C:\src\_BASELINES.
+Step S3 of 6=Write BASELINE_SUMMARY.txt with gates, production commit, Pages verification, and known exclusions.
+Step S4 of 6=Update SOLVEMOTION_WEBSITE_STATUS_AND_DOCTRINE.txt with final GREEN production closeout.
+Step S5 of 6=Run final status, content, structure, sitemap, and production verification gates.
+Step S6 of 6=Close SolveMotionWebSite full upgrade GREEN.
+
+Current next valid implementation step:
+- SolveMotionWebSite 6.0 - Phase H1
+- Applications Page Premium Rewrite Inspection
+
+Current not-yet-authorized actions:
+- Do not patch Phase H files until Phase H is explicitly opened.
+- Do not build, publish, push, or baseline the remaining scope until the named phase authorizes it.
+================================================================================
+================================================================================
+PHASE A-Z - FULL WEBSITE UPGRADE MASTER SCOPE LOCK
+================================================================================
+Timestamp=20260718
+Status=SCOPE_LOCKED
+GateGreen=True
+Mode=Website development scope / doctrine update only
+Purpose=Map the next five website upgrades and all remaining closeout work into clean Phase A through Phase Z steps.
+
+This section supersedes the earlier remaining-scope naming for new work display. Older Phase F/G/H-S records remain as historical traceability only.
+
+Five upgrade goals included:
+1. Applications Page Premium Rewrite.
+2. Product Page System Polish.
+3. Command Center Page / Section.
+4. Contact / Demo Conversion Upgrade.
+5. Trust + Proof Page Polish.
+
+Global website upgrade rules:
+- Follow C:\src\GLOBAL_RULES.md before implementation.
+- Inspect full target files before every patch.
+- No assumptions, no blind edits, no duplicate logic, no placeholders, no stubs, no fake claims.
+- Website must not duplicate Core 12 logic, RayAI intelligence, app intelligence, or Command Center runtime behavior.
+- Website is public presentation, navigation, status, and conversion only.
+- Core 12 remains the intelligence spine.
+- RayAI remains live only through verified production paths and governed access language.
+- SolveOura remains in progress unless later verified complete.
+- Staging, production publish, Git, and baseline require explicit named authorization.
+- Central baselines only under C:\src\_BASELINES.
+
+Phase A - Scope Intake and Source Inspection
+Goal=Confirm current website state before implementing the next five upgrades.
+Step A1 of 6=Read GLOBAL_RULES.md and active website doctrine.
+Step A2 of 6=Inspect repository status and identify dirty files from prior work.
+Step A3 of 6=Inspect homepage Phase F files so later pages align with the new visual language.
+Step A4 of 6=Inspect applications, products, contact, trust/proof pages, shared CSS, sitemap, and webapp entry pages.
+Step A5 of 6=Classify page ownership and duplicate-risk boundaries.
+Step A6 of 6=Close scope inspection GREEN before page implementation.
+
+Phase B - Applications Page Premium Rewrite
+Goal=Make applications.html match the premium homepage style with shorter app cards, clearer ecosystem story, stronger product comparison, and less technical wording.
+Step B1 of 7=Inspect applications.html, current cards, app launch links, images, metadata, and RayAI placement.
+Step B2 of 7=Rewrite hero and intro into short product-suite language.
+Step B3 of 7=Create premium app cards for RayAI, Core 12, Command Center, SolveMotion, SolveCrime, SolveMind, SolvePharmacy, and SolveOura.
+Step B4 of 7=Add simple product comparison / selection guidance without duplicating product-page detail.
+Step B5 of 7=Remove duplicate technical wording, stale status language, and excess paragraphs.
+Step B6 of 7=Align applications.html CTAs with homepage CTA language.
+Step B7 of 7=Run applications page gates and close Phase B GREEN.
+
+Phase C - Product Page System Polish
+Goal=Standardize all product pages so they feel like one premium product family.
+Step C1 of 9=Inspect products/index.html and products/core12.html, products/rayai.html, products/solvemotion.html, products/solvecrime.html, products/solvemind.html, products/solvepharmacy.html, products/solveoura.html.
+Step C2 of 9=Define one product-page structure: hero, value, workflow, outputs, maturity/status, CTA, boundaries.
+Step C3 of 9=Upgrade products/index.html as the premium product directory.
+Step C4 of 9=Upgrade RayAI page with governed command visibility language and verified production links only.
+Step C5 of 9=Upgrade Core 12 page as the intelligence spine without exposing duplicated Core implementation logic.
+Step C6 of 9=Upgrade SolveMotion, SolveCrime, SolveMind, and SolvePharmacy pages with concise production 6.0 language.
+Step C7 of 9=Upgrade SolveOura page as in-progress recovery intelligence without live-complete overclaiming.
+Step C8 of 9=Standardize product CTAs, image treatment, page endings, and footer ownership.
+Step C9 of 9=Run product-page gates and close Phase C GREEN.
+
+Phase D - Command Center Page / Section
+Goal=Add a clear Command Center story so visitors understand the operations layer: release readiness, system health, baseline discipline, and next-action visibility.
+Step D1 of 7=Inspect existing Command Center mentions across homepage, applications, platform, roadmap, doctrine, and contact pages.
+Step D2 of 7=Decide verified ownership: section only or dedicated command-center.html page.
+Step D3 of 7=Write Command Center public value: operations brain, release readiness, doctrine, baselines, risk, status, and next valid actions.
+Step D4 of 7=Define strict boundaries: public story only, no app runtime actions, no Core scoring, no RayAI duplicated intelligence.
+Step D5 of 7=If a page is justified, wire navigation, sitemap, metadata, and footer links.
+Step D6 of 7=If a section is enough, place it only where the page purpose supports it.
+Step D7 of 7=Run Command Center content/link gates and close Phase D GREEN.
+
+Phase E - Contact / Demo Conversion Upgrade
+Goal=Make contact feel client-ready with one primary Request a Demo flow, cleaner inquiry categories, product interest paths, and less friction.
+Step E1 of 8=Inspect contact.html, partnerships.html, institutional.html, support.html, homepage CTAs, applications CTAs, and product CTAs.
+Step E2 of 8=Define one primary CTA system: Explore the Ecosystem, See the Platform, Request a Demo, View RayAI.
+Step E3 of 8=Rewrite contact.html into a short professional inquiry flow.
+Step E4 of 8=Add product-interest categories without adding backend behavior or fake forms.
+Step E5 of 8=Align partnerships and institutional CTAs without duplicating contact content.
+Step E6 of 8=Reduce support/contact friction and remove repeated paragraphs.
+Step E7 of 8=Verify all CTA links and data-metric attributes.
+Step E8 of 8=Run conversion gates and close Phase E GREEN.
+
+Phase F - Trust + Proof Page Polish
+Goal=Upgrade metrics.html, reports.html, and institutional.html into a tighter credibility layer with no overclaims, clean proof points, production status, release discipline, and enterprise readiness.
+Step F1 of 9=Inspect metrics.html, reports.html, institutional.html, partnerships.html, roadmap.html, and platform-evolution.html.
+Step F2 of 9=Define truthful proof points: governed intelligence, local operational control, multi-app ecosystem, evidence-ready workflows, release discipline.
+Step F3 of 9=Upgrade metrics.html with measured status only and no fake traction claims.
+Step F4 of 9=Upgrade reports.html with professional output-preview language and decision-support boundaries.
+Step F5 of 9=Upgrade institutional.html with client/investor-ready positioning and no hosted SaaS overclaiming.
+Step F6 of 9=Tune partnerships.html only where needed to avoid duplicate enterprise language.
+Step F7 of 9=Align roadmap/platform-evolution with verified production and app status.
+Step F8 of 9=Remove duplicated proof wording across trust pages.
+Step F9 of 9=Run trust/proof truthfulness gates and close Phase F GREEN.
+
+Phase G - Education, Research, and Governance Polish
+Goal=Make education, research, methodology, and governance pages cleaner and aligned with the premium website story.
+Step G1 of 7=Inspect education pages, research.html, methodology.html, doctrine.html, learning-paths.html, and intelligence-map.html.
+Step G2 of 7=Reduce long doctrine-style paragraphs and improve section hierarchy.
+Step G3 of 7=Align education domain pages to public learning outcomes.
+Step G4 of 7=Align research/methodology pages with Core 12 authority without duplicating Core internals.
+Step G5 of 7=Update intelligence-map.html for clearer ecosystem flow if inspection proves it is needed.
+Step G6 of 7=Verify all education/research links, sitemap entries, and footer ownership.
+Step G7 of 7=Run education/research gates and close Phase G GREEN.
+
+Phase H - Sitewide Visual System and Mobile Polish
+Goal=Make all pages visually consistent with the Phase F premium homepage and safe on mobile.
+Step H1 of 8=Inspect shared CSS, duplicated style blocks, old inline styles, typography, card sizing, and mobile breakpoints.
+Step H2 of 8=Consolidate reusable premium components in assets/css/main.css.
+Step H3 of 8=Remove obsolete CSS only after proving no active page depends on it.
+Step H4 of 8=Standardize cards, buttons, proof strips, hero spacing, app icons, and section rhythm.
+Step H5 of 8=Add reduced-motion-safe hover/animation only.
+Step H6 of 8=Check mobile text wrapping, button sizing, card grids, and nav wrapping.
+Step H7 of 8=Run style, structure, and responsive-source gates.
+Step H8 of 8=Close Phase H GREEN.
+
+Phase I - SEO, Sitemap, Metadata, and Public Hygiene
+Goal=Make public pages discoverable, clean, and accurate.
+Step I1 of 8=Inspect sitemap.xml, robots.txt, titles, descriptions, canonical URLs, Open Graph, Twitter metadata, and JSON-LD.
+Step I2 of 8=Update metadata to match premium positioning.
+Step I3 of 8=Ensure sitemap includes all public authority pages.
+Step I4 of 8=Exclude staging, internal, duplicate, and in-progress live-webapp paths from public sitemap.
+Step I5 of 8=Verify RayAI production path and exclude rayai-staging.
+Step I6 of 8=Keep SolveOura live webapp excluded until complete.
+Step I7 of 8=Remove generated placeholder metadata from webapp entries if it returns.
+Step I8 of 8=Run metadata, sitemap XML, canonical, and blocked-phrase gates; close Phase I GREEN.
+
+Phase J - Full Site Cross-Page QA
+Goal=Verify all public source pages after the five upgrades.
+Step J1 of 9=Inventory root, products, education, downloads, and production webapps HTML pages.
+Step J2 of 9=Run stale phrase, placeholder, staging, duplicate-path, and overclaim scans.
+Step J3 of 9=Run HTML main/section balance checks.
+Step J4 of 9=Run UTF-8 NO_BOM checks.
+Step J5 of 9=Run asset existence checks for local images, scripts, and styles.
+Step J6 of 9=Run sitemap coverage and forbidden path checks.
+Step J7 of 9=Run critical route link checks.
+Step J8 of 9=Inspect git diff scope and ensure unrelated files are not included.
+Step J9 of 9=Close full local QA GREEN.
+
+Phase K - Staging Review
+Goal=Review the upgraded website before production publish.
+Step K1 of 6=Start only the existing authorized static website process if implementation phase authorizes it.
+Step K2 of 6=Verify homepage, applications, products, Command Center story, contact flow, and trust/proof pages locally or in staging.
+Step K3 of 6=Verify production webapp entry links still resolve in route context.
+Step K4 of 6=Record defects and patch only inspected, source-traced issues.
+Step K5 of 6=Rerun Phase J gates after fixes.
+Step K6 of 6=Close staging review GREEN.
+
+Phase L - Production Publish
+Goal=Publish verified website changes through the governed website production path only.
+Step L1 of 8=Inspect PushWebDownloads.ps1 and git state before publish.
+Step L2 of 8=Verify branch state and remote state.
+Step L3 of 8=Rebase/merge only if required and only without force push unless separately authorized.
+Step L4 of 8=Run production publish only through authorized PushWebDownloads.ps1.
+Step L5 of 8=Verify origin/main commit.
+Step L6 of 8=Verify GitHub Pages deployment status.
+Step L7 of 8=Verify live production URLs for homepage, applications, product pages, RayAI, contact, trust/proof, and sitemap.
+Step L8 of 8=Record production receipts and close Phase L GREEN.
+
+Phase M - Final Website Baseline and Doctrine Closeout
+Goal=Create final central baseline after production is verified.
+Step M1 of 7=Inspect C:\src\_BASELINES structure and choose clean final website baseline name.
+Step M2 of 7=Copy only verified website snapshot, root publish script, doctrine, and receipts into C:\src\_BASELINES.
+Step M3 of 7=Write BASELINE_SUMMARY.txt with gates, production commit, Pages verification, and known exclusions.
+Step M4 of 7=Update SOLVEMOTION_WEBSITE_STATUS_AND_DOCTRINE.txt with final GREEN closeout.
+Step M5 of 7=Run final status, content, structure, sitemap, and production verification gates.
+Step M6 of 7=Confirm no unauthorized project-local backup/temp folders were created.
+Step M7 of 7=Close SolveMotionWebSite full upgrade GREEN.
+
+Phase N - Reserved Post-Launch Monitoring Scope
+Goal=Reserve a future phase for post-production observation if explicitly authorized.
+Step N1 of 4=Inspect production after deployment propagation.
+Step N2 of 4=Record live URL status and any visible defects.
+Step N3 of 4=Patch only source-traced defects if authorized.
+Step N4 of 4=Close post-launch monitoring GREEN or record no-action result.
+
+Phases O through Z - Reserved
+Goal=Reserved for future explicitly named website scopes only.
+Rule=Do not use reserved phases without a new doctrine update and user authorization.
+
+Current next valid implementation step:
+- SolveMotionWebSite 6.0 - Phase A1
+- Scope Intake and Source Inspection
+
+Current not-yet-authorized actions:
+- Do not patch additional website pages until Phase A or a named implementation phase is explicitly opened.
+- Do not build, publish, push, or baseline this new A-Z scope until the named phase authorizes it.
+================================================================================
+PHASE A-Z LOCAL IMPLEMENTATION PASS - PREMIUM WEBSITE SYSTEM UPGRADE
+Date: 2026-07-18
+Status: LOCAL CODING COMPLETE / LOCAL GATES GREEN
+Mode: Development implementation for SolveMotionWebSite only.
+Scope Authority: C:\src\GLOBAL_RULES.md and SolveMotionWebSite A-Z scope lock.
+
+Steps Completed:
+- Step 1 of 8: Inspected GLOBAL_RULES.md, doctrine scope, repository dirty state, target page structure, and existing page metadata before edits.
+- Step 2 of 8: Updated applications.html with a concise premium ecosystem story for RayAI, Core 12, Command Center, SolveMotion, SolveCrime, SolveMind, SolvePharmacy, and SolveOura.
+- Step 3 of 8: Removed the overlong applications body and mismatched RayAI/SolvePharmacy launch metric markup from the replaced applications content.
+- Step 4 of 8: Updated products/index.html into a premium product-family directory without duplicating product intelligence or Core implementation logic.
+- Step 5 of 8: Updated contact.html into a single Request a Demo / product review conversion path using the verified mailto contact path.
+- Step 6 of 8: Updated metrics.html, reports.html, and institutional.html into a cleaner trust, proof, report, and enterprise credibility layer without fake adoption, revenue, outcome, or live-SaaS claims.
+- Step 7 of 8: Added one shared Phase A-Z CSS component block in assets/css/main.css for reusable premium page, proof, conversion, and product directory styling.
+- Step 8 of 8: Preserved website-only presentation boundaries; no Core 12 logic, RayAI logic, app intelligence, Command Center runtime behavior, migrations, build, publish, deploy, Git commit, or baseline was performed in this coding pass.
+
+Doctrine Rules Preserved:
+- All SolveMotion Labs apps remain version 6.0 for website messaging.
+- Core 12 remains the governed intelligence spine and single source of truth.
+- Website remains public presentation and navigation only.
+- No duplicate logic, no placeholders, no stubs, no mocks, no fake/demo code, and no unverified claims were introduced.
+- Production publish and final baseline remain separate named steps requiring explicit authorization.
+
+Local Gate Receipts:
+- PhaseAZStructureEncodingAssetGate=PASS Files=6.
+- PhaseAZTruthfulnessBoundaryGate=PASS Files=6.
+- GitDiffCheck=PASS.
+- No build, publish, deploy, Git commit, or baseline was performed.
+
+PHASE A-Z FINAL LOCAL WEBSITE POLISH CLOSEOUT
+Date: 2026-07-18
+Status=GREEN
+GateGreen=True
+Scope=Completed remaining SolveMotionWebSite premium polish before production publish.
+Steps Completed:
+- Step 1 of 10: Re-inspected GLOBAL_RULES.md, doctrine, repo state, PushWebDownloads.ps1, page inventory, webapps, downloads, assets, and sitemap.
+- Step 2 of 10: Polished individual product pages for Core 12, RayAI, SolveMotion, SolveCrime, SolveMind, SolvePharmacy, and SolveOura.
+- Step 3 of 10: Preserved verified launch/download links; SolveOura remains in progress with no public webapp path.
+- Step 4 of 10: Polished all education pages as concise public learning surfaces.
+- Step 5 of 10: Polished root platform, governance, commercial, support, and learning pages.
+- Step 6 of 10: Left downloads.html intact as verified artifact-link authority.
+- Step 7 of 10: Added final shared CSS polish components.
+- Step 8 of 10: Rebuilt sitemap.xml from verified public paths only.
+- Step 9 of 10: Ran local GREEN gates.
+- Step 10 of 10: Prepared production publish through PushWebDownloads.ps1 only.
+Local Gate Receipts:
+- FullHtmlStructureQuoteGate=PASS Files=38.
+- FullLocalLinkAssetGate=PASS Files=39.
+- ForbiddenPhrasePathGate=PASS.
+- SitemapXmlGate=PASS Urls=43.
+- GitDiffCheck=PASS.
+Rules Preserved:
+- No Core 12 logic, RayAI logic, app intelligence, or Command Center runtime behavior duplicated.
+- No placeholders, stubs, mocks, fake/demo code, staging links, products/rayai folder, or webapps/solveoura path introduced.
+- Production publish must run through PushWebDownloads.ps1 with AUTHORIZED_GREEN gate.

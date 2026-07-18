@@ -2181,3 +2181,18 @@ Gate Receipts:
 Rules Preserved:
 - Website remains render-only.
 - No Core 12 logic, RayAI logic, app intelligence, placeholders, stubs, mocks, or fake/demo content introduced.
+
+PHASE F STEP 7 OF 7 - SOLVEMOTION 6.0 BUILD 160 WEBSITE PRODUCTION GREEN
+Updated: 20260718-090308
+Status=GREEN
+GateGreen=True
+Scope: Publish SolveMotion 6.0 build 160 web app and Android APK/AAB downloads to GitHub Pages production.
+Production source commit: 9ab7f42 Publish SolveMotion 6.0 build 160.
+GitHub Pages workflow: completed success for head_sha 9ab7f42b6730a0f4632bdfa287d2f4df433738c2.
+Web app production path: webapps/solvemotion with version.json build_number 160.
+Downloads page: downloads.html includes SolveMotion-latest.apk and SolveMotion-latest.aab links.
+Product page: products/solvemotion.html includes SolveMotion APK and AAB CTAs plus web app launch.
+Android APK: downloads/solvemotion/SolveMotion-latest.apk, 100157869 bytes, SHA256 26F8877014FAC2AF1FFEA2A0348ACE3D1BE136103C6BA5C648E17562A4E57802.
+Android AAB: downloads/solvemotion/SolveMotion-latest.aab, 87081280 bytes, SHA256 4B25B95834067B814DFB63C411B6C2E13A62DC83437F7D3FD937FC81653DD6BE.
+Live verification: GitHub Pages version.json returned build_number 160, downloads.html returned HTTP 200 with APK/AAB links, live APK and AAB returned HTTP 200 with expected content lengths.
+Baseline: C:\src\_BASELINES\SolveMotion-6.0-PHASE-F-STEP-7-OF-7-FULL-CAPABILITY-RELEASE-GATE-PRODUCTION-GREEN-20260718-090308

@@ -2195,4 +2195,16 @@ Product page: products/solvemotion.html includes SolveMotion APK and AAB CTAs pl
 Android APK: downloads/solvemotion/SolveMotion-latest.apk, 100157869 bytes, SHA256 26F8877014FAC2AF1FFEA2A0348ACE3D1BE136103C6BA5C648E17562A4E57802.
 Android AAB: downloads/solvemotion/SolveMotion-latest.aab, 87081280 bytes, SHA256 4B25B95834067B814DFB63C411B6C2E13A62DC83437F7D3FD937FC81653DD6BE.
 Live verification: GitHub Pages version.json returned build_number 160, downloads.html returned HTTP 200 with APK/AAB links, live APK and AAB returned HTTP 200 with expected content lengths.
-Baseline: C:\src\_BASELINES\SolveMotion-6.0-PHASE-F-STEP-7-OF-7-FULL-CAPABILITY-RELEASE-GATE-PRODUCTION-GREEN-20260718-090308
+Baseline: C:\src\_BASELINES\SolveMotion-6.0-PHASE-F-STEP-7-OF-7-FULL-CAPABILITY-RELEASE-GATE-PRODUCTION-GREEN-20260718-090308================================================================================
+SOLVEPHARMACY BUILD 80 WEBSITE PRODUCTION PACKAGE GREEN
+Updated: 20260723-002559
+Status=GREEN
+GateGreen=True
+Scope: Stage SolvePharmacy 6.0 build 80 web app and Android AAB on the SolveMotion website download surface after the authorized full app build.
+Build source: C:\src\Build-SolvePharmacy.ps1 -Target All.
+Website web app version: C:\src\SolveMotionWebSite\webapps\solvepharmacy\version.json build_number 80.
+Downloads page: C:\src\SolveMotionWebSite\downloads.html says SolvePharmacy Web build 80 and links web app, APK, AAB, and IPA paths.
+Android AAB: C:\src\SolveMotionWebSite\downloads\solvepharmacy\SolvePharmacy-latest.aab, 47538675 bytes, SHA256 1081CE93FC2AFE2F21C874BA1E22AB072176F5320731E16AB813F9258C3A71EE.
+Android APK local note: C:\src\SolveMotionWebSite\downloads\solvepharmacy\SolvePharmacy-latest.apk exists locally, 156447387 bytes, SHA256 44FCF7C7975E71993804D3B3865557DA8D24D3CFB5E91874F5AEE5D844A68DBC, but downloads/**/*.apk is ignored by website Git.
+Baseline: C:\src\_BASELINES\SolvePharmacy-6.0-PHASE-K-STEP-1-OF-1-BUILD80-WEBSITE-PRODUCTION-GREEN-20260723-002559
+================================================================================

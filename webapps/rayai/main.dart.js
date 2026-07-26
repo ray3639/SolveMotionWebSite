@@ -11062,7 +11062,7 @@ case 4:s=l.a
 s===$&&A.a()
 s=A.bm(s,200)
 r=A.bm(A.a1J(l,B.p5,B.Kv),24)
-q=A.bm(A.a1J(l,B.p5,B.Md),32)
+q=A.bm(A.a1J(l,B.p5,B.Mg),32)
 p=A.bm(l.a,10)
 o=A.bm(l.a,12)
 l.d===$&&A.a()
@@ -11072,8 +11072,8 @@ break
 case 5:s=l.a
 s===$&&A.a()
 s=A.bm(A.zm(s+240),40)
-r=A.bm(A.a1J(l,B.p7,B.NG),24)
-q=A.bm(A.a1J(l,B.p7,B.NH),32)
+r=A.bm(A.a1J(l,B.p7,B.NH),24)
+q=A.bm(A.a1J(l,B.p7,B.NI),32)
 p=A.bm(l.a+15,8)
 o=A.bm(l.a+15,12)
 l.d===$&&A.a()
@@ -19078,7 +19078,7 @@ r.toString
 A.ex(r)
 q=a.h(0,"swipeEdge")
 q.toString
-return new A.mW(s,r,B.LH[A.ew(q)])},
+return new A.mW(s,r,B.LK[A.ew(q)])},
 BC:function BC(a,b){this.a=a
 this.b=b},
 mW:function mW(a,b,c){this.a=a
@@ -21171,7 +21171,7 @@ if(a.as!==q)return q?-1:1
 return 0},
 aKF(a,b){var s=A.Q(b).i("W<1,dt>")
 s=A.T(new A.W(b,new A.a2B(),s),s.i("a5.E"))
-return A.aK_(!0,s,a,B.Mu,!0,B.G7,null)},
+return A.aK_(!0,s,a,B.Mx,!0,B.G7,null)},
 avg(a){var s
 try{a.dW()}catch(s){a.NM()}a.w=B.a3Y
 try{a.bb(A.aTT())}catch(s){}},
@@ -21638,7 +21638,7 @@ _.as=!0
 _.at=!1
 _.$ti=d},
 avB(a,b){var s
-if(a.j(0,b))return new A.Id(B.MP)
+if(a.j(0,b))return new A.Id(B.MS)
 s=A.b([],t.fJ)
 A.ce()
 a.n9(new A.a5j(b,A.aI(t.u),s))
@@ -25422,7 +25422,7 @@ s=A.Q(r).i("W<1,iC>")
 s=A.T(new A.W(r,A.aUB(),s),s.i("a5.E"))
 s.$flags=1
 q=s
-return new A.M9(b.c,A.aNg(a,b),q,A.aNn(b,r),A.aNh(b),A.aNi(b,r),A.aNm(q),B.LK)},
+return new A.M9(b.c,A.aNg(a,b),q,A.aNn(b,r),A.aNh(b),A.aNi(b,r),A.aNm(q),B.LN)},
 aNg(a,b){var s,r,q,p,o,n,m,l,k,j,i,h,g
 if(b.b===B.bW){s=b.x
 r=b.f
@@ -25633,7 +25633,7 @@ if(B.b.h9(b,new A.abz()))s.push("One or more evidence records did not expose a p
 s.push("RayAI cannot verify facts that are not present in the authorized context.")
 return s},
 aNw(a){var s=B.b.h9(a,new A.abt()),r=B.b.h9(a,new A.abu())
-if(s&&r)return B.L2
+if(s&&r)return B.L4
 return B.Ke},
 hn:function hn(a,b,c,d,e,f,g){var _=this
 _.b=a
@@ -25726,7 +25726,7 @@ for(s=0;s<9;++s){r=B.kT[s]
 A.aw5(r.r)
 q=r.w
 if(q.length!==0)B.b.aY(q,", ")
-p.push(new A.fM(r,!0,!0))}return new A.Ma("solvemotion_labs_admin","Admin",B.M_,p)},
+p.push(new A.fM(r,!0,!0))}return new A.Ma("solvemotion_labs_admin","Admin",B.M2,p)},
 aw5(a){var s,r,q,p=A.t(t.Xz,t.S)
 for(s=a.geq(),s=s.ga7(s);s.A();){r=s.gN()
 q=p.h(0,r)
@@ -26238,7 +26238,7 @@ p=q.r
 o=A.aCQ(p,B.cu)
 n=A.aCQ(p,B.a3)
 if(o.length!==0)m.push(q.b+" coverage gap: "+B.b.aY(o,", ")+".")
-if(n.length!==0)m.push(q.b+" blocked: "+B.b.aY(n,", ")+".")}if(m.length===0)return B.KX
+if(n.length!==0)m.push(q.b+" blocked: "+B.b.aY(n,", ")+".")}if(m.length===0)return B.KZ
 return m},
 aCQ(a,b){var s=a.gfd()
 return s.jV(s,new A.alH(b)).hG(0,new A.alI(),t.N).dd(0,!1)},
@@ -26299,13 +26299,13 @@ k=A.dd(A.b(["Status: "+b,"Health: "+o,"Last verified: "+n,"Source type: "+m,"Sou
 l=a.d
 j=A.dd(A.b(["Company: "+l.c,"Client: "+l.b+"; username "+l.d+"; tenant "+l.a,"Ecosystem: "+l.e+"; role "+l.f+"; status "+l.r,"Provisioned: "+l.w+"; last login "+l.x,"Entitlements: "+l.y+" apps; "+l.z+" reports; "+l.Q+" Core outputs","Notes: "+l.as,"Boundary: "+l.at],j),"Client Account Profile")
 p=a.e
-if(p.length===0)p=B.Ns
+if(p.length===0)p=B.Nt
 else{o=A.Q(p).i("W<1,j>")
 p=A.T(new A.W(p,new A.ac3(),o),o.i("a5.E"))
 p.$flags=1
 p=p}p=A.dd(p,"Client App Visibility")
 o=a.f
-if(o.length===0)o=B.Ls
+if(o.length===0)o=B.Lv
 else{n=A.Q(o).i("W<1,j>")
 o=A.T(new A.W(o,new A.ac4(),n),n.i("a5.E"))
 o.$flags=1
@@ -26317,14 +26317,14 @@ n=A.T(new A.W(n,new A.ac5(),m),m.i("a5.E"))
 n.$flags=1
 n=n}n=A.dd(n,"Core Output Visibility")
 m=a.w
-if(m.length===0)m=B.O_
+if(m.length===0)m=B.O0
 else{m=A.d9(m,0,A.eP(8,"count",t.S),A.Q(m).c)
 l=m.$ti.i("W<a5.E,j>")
 m=A.T(new A.W(m,new A.ac6(),l),l.i("a5.E"))
 m.$flags=1
 m=m}m=A.dd(m,"Evidence Visibility")
 l=a.x
-if(l.length===0)l=B.LS
+if(l.length===0)l=B.LV
 else{s=A.Q(l).i("W<1,j>")
 l=A.T(new A.W(l,new A.ac7(),s),s.i("a5.E"))
 l.$flags=1
@@ -26378,7 +26378,7 @@ aNa(a){var s=A.n_(a.h(0,"tenantId")),r=A.n_(a.h(0,"clientName")),q=A.n_(a.h(0,"c
 if(s.length===0||r.length===0||q.length===0||p.length===0||o.length===0||n==null)return null
 return new A.eK(s,A.aNc(A.n_(a.h(0,"tenantEcosystem"))),r,q,p,o,J.d(a.h(0,"isActive"),!0),A.aw2(a.h(0,"allowedAppIds")),A.aw2(a.h(0,"allowedReportIds")),A.aw2(a.h(0,"allowedCoreOutputIds")),A.n_(a.h(0,"notes")),n,A.IX(A.n_(a.h(0,"lastLogin"))))},
 aNc(a){var s,r
-for(s=0;s<3;++s){r=B.N4[s]
+for(s=0;s<3;++s){r=B.N6[s]
 if(r.b===a)return r}return B.lo},
 aw1(a){var s=A.k(a).i("ff<1,j>"),r=s.i("a3<o.E>")
 return A.cO(new A.a3(new A.ff(a,new A.ab3(),s),new A.ab4(),r),r.i("o.E"))},
@@ -26415,7 +26415,7 @@ for(r=1779033703,q=3144134277,p=1013904242,o=2773480762,n=1359893119,m=260082292
 for(h=0;h<16;++h){g=j+h*4
 i[h]=(b2[g]<<24|b2[g+1]<<16|b2[g+2]<<8|b2[g+3])>>>0}for(h=16;h<64;++h){f=i[h-15]
 e=i[h-2]
-i[h]=i[h-16]+(((f>>>7|f<<25)^(f>>>18|f<<14)^f>>>3)>>>0)+i[h-7]+(((e>>>17|e<<15)^(e>>>19|e<<13)^e>>>10)>>>0)>>>0}for(d=k,c=l,b=m,a=n,a0=o,a1=p,a2=q,a3=r,a4=0;a4<64;++a4,d=c,c=b,b=a,a=a6,a0=a1,a1=a2,a2=a3,a3=a7){a5=d+(((a>>>6|a<<26)^(a>>>11|a<<21)^(a>>>25|a<<7))>>>0)+((a&b^~a&c)>>>0)+B.KQ[a4]+i[a4]>>>0
+i[h]=i[h-16]+(((f>>>7|f<<25)^(f>>>18|f<<14)^f>>>3)>>>0)+i[h-7]+(((e>>>17|e<<15)^(e>>>19|e<<13)^e>>>10)>>>0)>>>0}for(d=k,c=l,b=m,a=n,a0=o,a1=p,a2=q,a3=r,a4=0;a4<64;++a4,d=c,c=b,b=a,a=a6,a0=a1,a1=a2,a2=a3,a3=a7){a5=d+(((a>>>6|a<<26)^(a>>>11|a<<21)^(a>>>25|a<<7))>>>0)+((a&b^~a&c)>>>0)+B.KR[a4]+i[a4]>>>0
 a6=a0+a5>>>0
 a7=a5+((((a3>>>2|a3<<30)^(a3>>>13|a3<<19)^(a3>>>22|a3<<10))>>>0)+((a3&a2^a3&a1^a2&a1)>>>0)>>>0)>>>0}r=r+a3>>>0
 q=q+a2>>>0
@@ -27202,7 +27202,7 @@ a4A(a){var s=a/100
 return(s<=0.0031308?s*12.92:1.055*Math.pow(s,0.4166666666666667)-0.055)*255},
 avv(a){var s=Math.pow(Math.abs(a),0.42)
 return A.px(a)*400*s/(s+27.13)},
-avw(a){var s=A.mI(a,B.ND),r=A.avv(s[0]),q=A.avv(s[1]),p=A.avv(s[2])
+avw(a){var s=A.mI(a,B.NE),r=A.avv(s[0]),q=A.avv(s[1]),p=A.avv(s[2])
 return Math.atan2((r+q-2*p)/9,(11*r+-12*q+p)/11)},
 aLg(a,b){var s,r,q,p,o,n=B.i.bG(b,4)<=1?0:100,m=(b&1)===0?0:100
 if(b<4){s=(a-n*0.7152-m*0.0722)/0.2126
@@ -28308,7 +28308,7 @@ vD(){var s=this.Q
 s===$&&A.a()
 return s},
 vE(a,b,c,d){var s,r,q,p
-if(a<0||b<0)return B.MJ
+if(a<0||b<0)return B.MM
 s=this.a
 s===$&&A.a()
 s=s.a
@@ -28327,7 +28327,7 @@ l.push(new A.dW(n[0],n[1],n[2],n[3],B.kP[m]))}return l},
 cU(a){var s,r,q=this.a
 q===$&&A.a()
 s=q.a.getGlyphPositionAtCoordinate(a.a,a.b)
-r=B.LJ[J.aH(s.affinity.value)]
+r=B.LM[J.aH(s.affinity.value)]
 return new A.aa(J.aH(s.pos),r)},
 Ke(a){var s=this.a
 s===$&&A.a()
@@ -28814,7 +28814,7 @@ A.oq.prototype={
 I(){return"CanvasKitVariant."+this.b}}
 A.a3r.prototype={
 gmp(){var s=this.b,r=s==null?null:s.canvasKitVariant
-return A.aKP(B.LX,r==null?"auto":r)},
+return A.aKP(B.M_,r==null?"auto":r)},
 gGu(){var s,r=this.b
 if(r==null)s=null
 else{r=r.canvasKitMaximumSurfaces
@@ -33173,7 +33173,7 @@ a7W(){var s=this,r=s.r
 if(r==null){r=s.r=new A.Hw(s.c)
 r.d=new A.a38(s)}return r},
 Jo(a){var s,r,q,p,o,n,m=this
-if(B.b.m(B.NY,a.type)){s=m.a7W()
+if(B.b.m(B.NZ,a.type)){s=m.a7W()
 s.toString
 r=m.c.$0()
 q=r.b
@@ -33186,7 +33186,7 @@ if(m.f!==B.oq){m.f=B.oq
 m.PJ()}}return m.d.a.a_2(a)},
 PJ(){var s,r
 for(s=this.w,r=0;r<s.length;++r)s[r].$1(this.f)},
-a_1(a){if(B.b.m(B.Mi,a))return this.f===B.hI
+a_1(a){if(B.b.m(B.Ml,a))return this.f===B.hI
 return!1}}
 A.a39.prototype={
 $0(){return new A.cF(Date.now(),0,!1)},
@@ -40061,7 +40061,7 @@ if(o>0)return s
 return null}}
 A.ajt.prototype={
 F(a,b){this.Nj(b,0,b.length,!1)},
-be(){this.Nj(B.Ms,0,0,!0)}}
+be(){this.Nj(B.Mv,0,0,!0)}}
 A.asv.prototype={
 Nj(a,b,c,d){var s=this.b.Ve(a,b,c,d)
 if(s!=null)this.a.hv(s,0,s.length,d)}}
@@ -43685,7 +43685,7 @@ r=A.hW(B.R2,B.e,r==null?1:r)
 r.toString
 q=p.al(q.gq())
 if(q==null)q=1
-return A.aCs(A.aBA(null,B.I,new A.tv(q,B.Lw,new A.cC(B.Cy,this.e)),s,1,B.WY),r)}}
+return A.aCs(A.aBA(null,B.I,new A.tv(q,B.Lz,new A.cC(B.Cy,this.e)),s,1,B.WY),r)}}
 A.Gv.prototype={
 l(){var s=this,r=s.c0$
 if(r!=null)r.K(s.gi6())
@@ -46942,7 +46942,7 @@ r=n.r
 n=n.cx
 q=p.gac3()
 p.a.toString
-return new A.Cz(o,o,o,new A.anR(),o,o,o,o,o,o,m,o,o,r,B.Mz,p.gaca(),n,o,B.a_d,s,o,q,o,o,B.p4,!1,!1,o,o,o,new A.p5(p,t.bT))},
+return new A.Cz(o,o,o,new A.anR(),o,o,o,o,o,o,m,o,o,r,B.MC,p.gaca(),n,o,B.a_d,s,o,q,o,o,B.p4,!1,!1,o,o,o,new A.p5(p,t.bT))},
 H(a){var s,r=this.a4R(a)
 this.a.toString
 s=this.d
@@ -47253,7 +47253,7 @@ A.vd.prototype={
 I(){return"_CornerId."+this.b}}
 A.lz.prototype={}
 A.ty.prototype={
-l7(){var s,r,q,p=this,o=A.aSu(B.M5,new A.a8A(p,p.b.gaW().X(0,p.a.gaW()))),n=p.a
+l7(){var s,r,q,p=this,o=A.aSu(B.M8,new A.a8A(p,p.b.gaW().X(0,p.a.gaW()))),n=p.a
 n.toString
 s=o.a
 r=p.pt(n,s)
@@ -48503,7 +48503,7 @@ A.apn.prototype={
 $2(a,b){return this.a.u$.c7(a,this.b)},
 $S:16}
 A.Q6.prototype={
-gC6(){return B.KK},
+gC6(){return B.KL},
 Gz(a){var s
 switch(a.a){case 0:s=this.d.b
 break
@@ -51557,7 +51557,7 @@ A.apC.prototype={
 $0(){return A.b([],t.q1)},
 $S:221}
 A.QU.prototype={
-gC6(){return B.L7},
+gC6(){return B.L9},
 Gz(a){var s,r=this
 switch(a.a){case 0:s=r.d.ax
 break
@@ -52219,7 +52219,7 @@ return s.b}}
 A.iY.prototype={
 I(){return"_ListTileSlot."+this.b}}
 A.Su.prototype={
-gC6(){return B.LT},
+gC6(){return B.LW},
 Gz(a){var s,r=this
 switch(a.a){case 0:s=r.d
 break
@@ -52534,7 +52534,7 @@ r.f=s.d},
 $S:0}
 A.KX.prototype={
 H(a){var s=this.c.R(0,new A.h(0,40.95))
-return A.aBA(A.a0q(null,B.Fl,!0),B.ae,new A.tv(1,B.Nd,new A.cC(B.Cx,B.u)),s,1.25,B.WZ)}}
+return A.aBA(A.a0q(null,B.Fl,!0),B.ae,new A.tv(1,B.Nf,new A.cC(B.Cx,B.u)),s,1.25,B.WZ)}}
 A.pw.prototype={
 I(){return"MaterialType."+this.b}}
 A.zi.prototype={
@@ -52969,7 +52969,7 @@ goL(){return B.eV},
 Gr(a,b,c,d,e,f){return A.aJE(a,b,c,d,e,f)}}
 A.Ly.prototype={
 a4i(a){var s=t.pi
-s=A.T(new A.W(B.M3,new A.a9W(a),s),s.i("a5.E"))
+s=A.T(new A.W(B.M6,new A.a9W(a),s),s.i("a5.E"))
 return s},
 j(a,b){if(b==null)return!1
 if(this===b)return!0
@@ -55001,7 +55001,7 @@ gcN(){return new A.aU(new A.arf(this),t.e)},
 gyf(){return 14},
 gA4(){return 14},
 gAR(){return 14},
-gBb(){return B.NQ},
+gBb(){return B.NR},
 gre(){return 31},
 grg(){return 51},
 gBh(){return B.WT},
@@ -55099,7 +55099,7 @@ gAR(){return 14},
 ga3v(){return 48},
 ga3w(){return 40},
 gLX(){return 52},
-gBb(){return B.Mx},
+gBb(){return B.MA},
 gre(){return 32},
 grg(){return 52},
 gBh(){return B.WU},
@@ -58171,7 +58171,7 @@ return new A.mm(r.a.cV(s.git()),r.b,r.c)},
 cU(a){var s=this.b
 return s.a.c.cU(a.X(0,s.git()))},
 qg(){var s,r,q=this.b,p=q.git()
-if(!isFinite(p.a)||!isFinite(p.b))return B.Mv
+if(!isFinite(p.a)||!isFinite(p.b))return B.My
 s=q.f
 if(s==null){s=q.a.c.qg()
 q.f=s}if(p.j(0,B.e))r=s
@@ -58362,7 +58362,7 @@ p=h.gnI()
 o=h.r
 o=o==null?g:o*a2+a1
 n=h.w
-n=n==null?g:B.O4[B.i.ew(n.gof(),0,8)]
+n=n==null?g:B.O5[B.i.ew(n.gof(),0,8)]
 m=h.y
 m=m==null?g:m*a6+a5
 l=h.z
@@ -67392,7 +67392,7 @@ $1(a){return a.hN()},
 $S:315}
 A.ZZ.prototype={
 yA(a,b){var s=this.gajB(),r=A.awr(a)
-$.bR().wr(r,new A.PF(new A.cU(s,new A.a__(),s.$ti.i("cU<1,i1>")),b.a,b.b,!1,b.d,b.e,b.f,b.r,b.w,!0,!0,b.z,b.Q,b.as,b.at,!0,B.m,B.MQ,!1))
+$.bR().wr(r,new A.PF(new A.cU(s,new A.a__(),s.$ti.i("cU<1,i1>")),b.a,b.b,!1,b.d,b.e,b.f,b.r,b.w,!0,!0,b.z,b.Q,b.as,b.at,!0,B.m,B.MT,!1))
 return r}}
 A.a__.prototype={
 $1(a){return a.ghk()},
@@ -67442,7 +67442,7 @@ break
 case 1:return A.L(q,r)}})
 return A.M($async$E9,r)},
 a7D(a,b){var s,r,q,p
-if(a===b)return B.MF
+if(a===b)return B.MI
 s=A.b([],t.QP)
 if(a==null)s.push(b)
 else{r=B.b.iq(B.f5,a)
@@ -69304,7 +69304,7 @@ A.l0.prototype={}
 A.LW.prototype={
 lA(a,b){var s,r,q,p,o,n=$.a2.ai$.d.c
 if(n==null||n.e==null)return!1
-for(s=t.A,r=0;r<2;++r){q=B.Ml[r]
+for(s=t.A,r=0;r<2;++r){q=B.Mo[r]
 p=n.e
 p.toString
 o=A.auK(p,q,s)
@@ -69414,7 +69414,7 @@ this.i7()}}
 A.nE.prototype={
 k(a){return"Entry#"+A.bq(this)+"("+this.d.k(0)+")"}}
 A.wC.prototype={
-ap(){return new A.CI(A.aI(t.me),B.My,null,null)},
+ap(){return new A.CI(A.aI(t.me),B.MB,null,null)},
 asK(a,b){return this.w.$2(a,b)},
 apt(a,b){return this.x.$2(a,b)}}
 A.CI.prototype={
@@ -71683,7 +71683,7 @@ h.FQ()
 r=h.ga8q()
 q=q.uH
 h.e!==$&&A.bb()
-h.e=new A.Nn(s,new A.cd(B.PG,l),new A.pq(),p,B.cA,0,k,h.gaan(),h.gaap(),r,B.cA,0,j,h.gaah(),h.gaaj(),r,i,B.Mt,f,g.CW,g.cx,g.cy,o,g,n,m,g.x,q,new A.IJ(),new A.IJ())
+h.e=new A.Nn(s,new A.cd(B.PG,l),new A.pq(),p,B.cA,0,k,h.gaan(),h.gaap(),r,B.cA,0,j,h.gaah(),h.gaaj(),r,i,B.Mw,f,g.CW,g.cx,g.cy,o,g,n,m,g.x,q,new A.IJ(),new A.IJ())
 return h},
 wZ(a,b){var s,r,q,p=this,o=p.a.c,n=o.a.a.length
 if(n<a.b||n<a.a)return
@@ -74835,7 +74835,7 @@ j(a,b){var s=this
 if(b==null)return!1
 if(J.R(b)!==A.r(s))return!1
 return b instanceof A.an&&b.a===s.a&&b.b==s.b&&b.d===s.d&&A.cm(null,null)},
-gB(a){return A.J(this.a,this.b,null,this.d,A.bv(B.MA),B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)},
+gB(a){return A.J(this.a,this.b,null,this.d,A.bv(B.MD),B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)},
 k(a){return"IconData(U+"+B.c.vd(B.i.n5(this.a,16).toUpperCase(),5,"0")+")"}}
 A.pa.prototype={
 cE(a){return!this.w.j(0,a.w)},
@@ -75610,7 +75610,7 @@ b=r?a1:a3.fr
 if(b==null)b=a2.b.c.z
 a3=r?a1:a3.fx
 a2=a3==null?a2.b.c.Q:a3
-a=new A.zo(a4,s,q,p,m,o,n,a5,g===!0,a6,a7,i,h,l,k,j,f,new A.t_(a1),B.MD,e===!0,d,c,b,a2)
+a=new A.zo(a4,s,q,p,m,o,n,a5,g===!0,a6,a7,i,h,l,k,j,f,new A.t_(a1),B.MG,e===!0,d,c,b,a2)
 if(!a.j(0,a0.e))a0.ab(new A.aob(a0,a))},
 UN(){if(this.d==null)this.q_()},
 H8(){this.q_()},
@@ -75969,7 +75969,7 @@ r.P(0,s.Yg(null,l))
 l.a.toString
 q=r.a
 p=0
-for(;!1;++p){o=B.MB[p]
+for(;!1;++p){o=B.ME[p]
 n=l.c
 n.toString
 m=new A.hE(o.GW(n),null,!0,B.mw,B.ck,new A.r3(new ($.YF())(B.ck)),B.ck)
@@ -76338,7 +76338,7 @@ H(a){var s,r,q=this,p=null,o=q.ga9W(),n=A.mj(a),m=q.bV$,l=q.d
 l===$&&A.a()
 s=q.a.ay
 if(l.gL()==null){r=q.gMh()
-r=J.mx(r.slice(0),A.Q(r).c)}else r=B.MC
+r=J.mx(r.slice(0),A.Q(r).c)}else r=B.MF
 return new A.p8(p,new A.dg(new A.a9r(q,a),A.zc(B.cr,new A.Hq(!1,A.avm(A.oW(!0,p,A.OL(m,new A.tJ(r,s,l)),p,p,p,q.y,!1,p,p,p,p,p,!0),n),p),o,q.gacz(),p,p,o),p,t.w3),p)}}
 A.a9q.prototype={
 $1(a){var s=this.a.c
@@ -81499,7 +81499,7 @@ r.y_()
 return s.b3()},
 l(){var s,r,q,p,o=this
 for(s=o.b,r=s.length,q=o.gEb(),p=0;p<s.length;s.length===r||(0,A.v)(s),++p)s[p].K(q)
-o.b=B.ME
+o.b=B.MH
 o.y=!1
 o.dn()},
 ea(a,b){return a.mz(b)},
@@ -86278,7 +86278,7 @@ s=3
 return A.H(p.Ag(),$async$yv)
 case 3:k=c
 j=J.bx(k)
-if(j.gaa(k)){q=new A.u2(l,"Sign in required",B.JZ,B.LZ,B.p9,"High","No active session","RayAI access control","Sign in with an authorized account.",B.MU,B.m)
+if(j.gaa(k)){q=new A.u2(l,"Sign in required",B.JZ,B.M1,B.p9,"High","No active session","RayAI access control","Sign in with an authorized account.",B.MW,B.m)
 s=1
 break}o=l.toLowerCase()
 n=A.aNz(o,k)
@@ -86383,7 +86383,7 @@ A.abA.prototype={
 Ai(){var s=0,r=A.N(t.cE),q,p=this,o,n,m,l
 var $async$Ai=A.O(function(a,b){if(a===1)return A.K(b,r)
 for(;;)switch(s){case 0:m=p.a.r
-if(m==null){q=B.Mw
+if(m==null){q=B.Mz
 s=1
 break}l=J
 s=3
@@ -86756,7 +86756,7 @@ $S:7}
 A.Hp.prototype={
 H(a){return A.e2(new A.YS(),$.aFo().dR(),t.v)}}
 A.YS.prototype={
-$2(a,b){return A.ez(B.Jo,B.Cf,B.oB,B.MV,b.b!=null?"Live status contract loaded":"Waiting for live status contract","Ecosystem intelligence overview for SolveMotion Labs applications, Core 12, website, release, testing, and business visibility.","About RayAI 6.0")},
+$2(a,b){return A.ez(B.Jo,B.Cf,B.oB,B.MX,b.b!=null?"Live status contract loaded":"Waiting for live status contract","Ecosystem intelligence overview for SolveMotion Labs applications, Core 12, website, release, testing, and business visibility.","About RayAI 6.0")},
 $S:13}
 A.wv.prototype={
 ap(){var s=$.lU(),r=$.am()
@@ -86802,7 +86802,7 @@ o=A.kF(B.HW,r.b,k,k)
 n=s.ok
 m=n.r
 l=t.p
-return new A.c0(A.n9(j,A.bB(A.b([A.bY(k,k,A.m7(A.bB(A.b([A.hp(A.b([o,B.A_,A.yd(A.bB(A.b([A.Z("Client Tenant Setup",k,k,k,m==null?k:m.qj(B.bR),k,k),B.ca,A.Z("Create client credentials and select the ecosystem folders that will appear on their dashboard.",k,k,k,n.z,k,k)],l),B.A,B.v,B.B))],l),B.A,B.v,B.B,0),B.P,A.eN(B.ap,B.KU,8,8)],l),B.A,B.v,B.B),B.I,new A.cT(i,k,p,q,k,k,B.ay),k,B.GO,B.aj,k),!0,k,k,!1,!1,k,k,!0,k,k,"RayAI Client Tenant Setup. Evidence-backed, role-aware, and tenant-scoped.",k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k),A.yd(new A.jx(new A.aiF(this),k,this.d,k))],l),B.d6,B.v,B.B)),B.bW,k,"Only RayAI admin access can manage clients and tenant permissions.",k)},
+return new A.c0(A.n9(j,A.bB(A.b([A.bY(k,k,A.m7(A.bB(A.b([A.hp(A.b([o,B.A_,A.yd(A.bB(A.b([A.Z("Client Tenant Setup",k,k,k,m==null?k:m.qj(B.bR),k,k),B.ca,A.Z("Create client credentials and select the ecosystem folders that will appear on their dashboard.",k,k,k,n.z,k,k)],l),B.A,B.v,B.B))],l),B.A,B.v,B.B,0),B.P,A.eN(B.ap,B.KW,8,8)],l),B.A,B.v,B.B),B.I,new A.cT(i,k,p,q,k,k,B.ay),k,B.GO,B.aj,k),!0,k,k,!1,!1,k,k,!0,k,k,"RayAI Client Tenant Setup. Evidence-backed, role-aware, and tenant-scoped.",k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k),A.yd(new A.jx(new A.aiF(this),k,this.d,k))],l),B.d6,B.v,B.B)),B.bW,k,"Only RayAI admin access can manage clients and tenant permissions.",k)},
 Fc(a,b){var s=null,r=A.b([A.Z(b,s,s,s,B.a0d,s,s),B.P],t.p)
 B.b.P(r,a)
 return A.cg(new A.aS(B.jX,A.bB(r,B.A,B.v,B.B),s),s,s,s,s,s)},
@@ -86844,7 +86844,7 @@ A.aiy.prototype={
 $0(){this.a.as="Client tenant saved. Their dashboard will show only the selected ecosystem folders."},
 $S:0}
 A.aiF.prototype={
-$2(a,b){var s=null,r=this.a,q=r.Fc(B.Mj,"RayAI security model"),p=t.p,o=r.Fc(A.b([r.xT(r.e,"Tenant ID","tenant_acme_motion"),r.xT(r.f,"Client name","Jane Client"),r.xT(r.r,"Company name","Acme Motion Lab"),r.xT(r.w,"Client email / username","client@example.com"),r.ah1(r.x,"Client password","Temporary client password",!0),B.ca,r.a7v(),r.ah0(r.y,"Notes","Client scope notes",3),new A.Oi(r.Q,new A.aiD(r),B.a1w,B.aP,s),B.P,A.avk(B.Io,B.a1R,r.gafp()),B.aS,A.Z(r.as,s,s,s,s,s,s)],p),"Client tenant setup"),n=A.tq(r.d.e,t.Il),m=A.Q(n).i("W<1,e>")
+$2(a,b){var s=null,r=this.a,q=r.Fc(B.Mm,"RayAI security model"),p=t.p,o=r.Fc(A.b([r.xT(r.e,"Tenant ID","tenant_acme_motion"),r.xT(r.f,"Client name","Jane Client"),r.xT(r.r,"Company name","Acme Motion Lab"),r.xT(r.w,"Client email / username","client@example.com"),r.ah1(r.x,"Client password","Temporary client password",!0),B.ca,r.a7v(),r.ah0(r.y,"Notes","Client scope notes",3),new A.Oi(r.Q,new A.aiD(r),B.a1w,B.aP,s),B.P,A.avk(B.Io,B.a1R,r.gafp()),B.aS,A.Z(r.as,s,s,s,s,s,s)],p),"Client tenant setup"),n=A.tq(r.d.e,t.Il),m=A.Q(n).i("W<1,e>")
 n=A.T(new A.W(n,new A.aiE(r),m),m.i("a5.E"))
 return A.tp(A.b([q,B.bA,o,B.bA,r.Fc(n,"Current clients")],p),B.hs)},
 $S:538}
@@ -86900,7 +86900,7 @@ return A.n9(j,A.tp(r,new A.ar(16,16,16,32+i.r.d)))},
 aey(a){var s=this,r=null,q=A.Z("Question",r,r,r,a.ok.w,r,r),p=A.BV(B.m,s.e,B.II,3,1,!1,new A.aja(s),r),o=s.x,n=o?r:s.ga4w(),m=o?B.A0:B.IA
 return A.cg(new A.aS(B.aj,A.bB(A.b([q,B.a_,p,B.P,A.avk(m,A.Z(o?"Checking Evidence":"Ask RayAI",r,r,r,r,r,r),n)],t.p),B.A,B.v,B.B),r),r,r,r,r,r)},
 agP(a){var s,r,q=null,p=A.Z("Suggested Questions",q,q,q,a.ok.w,q,q),o=t.p,n=A.b([],o)
-for(s=0;s<7;++s){r=B.Me[s]
+for(s=0;s<7;++s){r=B.Mh[s]
 n.push(new A.Hs(A.Z(r,q,q,q,q,q,q),new A.ajf(this,r),q))}return A.cg(new A.aS(B.aj,A.bB(A.b([p,B.aS,A.eN(B.ap,n,8,8)],o),B.A,B.v,B.B),q),q,q,q,q,q)},
 afu(a){var s,r=null,q=A.b([A.Z("Saved Workspaces",r,r,r,a.ok.w,r,r),B.a_],t.p)
 if(J.re(this.w))q.push(B.a1K)
@@ -87107,7 +87107,7 @@ p=A.m2(g?l:i.r,j)
 o=A.m2(g?l:i.w,j)
 n=A.m2(g?l:i.x,j)
 m=A.m2(g?l:i.y,"Review build gate readiness")
-return A.ez(B.KV,l,B.f0,A.b([A.dd(A.b(["Status: "+s,"Health: "+r,"Last verified: "+p,"Source type: "+o,"Source path: "+n,"Action: "+m,"Route: "+A.m2(g?l:i.c,"/build-gate-advisor")],t.s),"Contract Status"),B.C7,B.BA],t.R),s,q,f)},
+return A.ez(B.KX,l,B.f0,A.b([A.dd(A.b(["Status: "+s,"Health: "+r,"Last verified: "+p,"Source type: "+o,"Source path: "+n,"Action: "+m,"Route: "+A.m2(g?l:i.c,"/build-gate-advisor")],t.s),"Contract Status"),B.C7,B.BA],t.R),s,q,f)},
 $S:13}
 A.I9.prototype={
 H(a){return A.e2(new A.a_u(),$.aFs(),t.v)}}
@@ -87123,7 +87123,7 @@ p=A.m3(g?l:i.r,j)
 o=A.m3(g?l:i.w,j)
 n=A.m3(g?l:i.x,j)
 m=A.m3(g?l:i.y,"Open business process workflow intelligence")
-return A.ez(B.KS,l,B.kG,A.b([A.dd(A.b(["Status: "+r,"Health: "+q,"Last verified: "+p,"Source type: "+o,"Source path: "+n,"Action: "+m,"Route: "+A.m3(g?l:i.c,"/business-process-workflow-intelligence")],t.s),"Contract Status"),B.Cb,B.C6,B.Br,B.BG,B.BV,B.Bj],t.R),r,s,f)},
+return A.ez(B.KT,l,B.kG,A.b([A.dd(A.b(["Status: "+r,"Health: "+q,"Last verified: "+p,"Source type: "+o,"Source path: "+n,"Action: "+m,"Route: "+A.m3(g?l:i.c,"/business-process-workflow-intelligence")],t.s),"Contract Status"),B.Cb,B.C6,B.Br,B.BG,B.BV,B.Bj],t.R),r,s,f)},
 $S:13}
 A.IC.prototype={
 H(a){return B.Be}}
@@ -87140,7 +87140,7 @@ r=A.oE(h?m:j.r,k)
 p=A.oE(h?m:j.w,k)
 o=A.oE(h?m:j.x,k)
 n=A.oE(h?m:j.y,"Open valuation")
-return A.ez(B.Nr,m,B.ow,A.b([A.dd(A.b(["Status: "+s,"Summary: "+q,"Last verified: "+r,"Source type: "+p,"Source path: "+o,"Action: "+n,"Route: "+A.oE(h?m:j.c,"/cost-licensing-valuation")],t.s),"Contract Status"),B.Bs,B.Ca,B.Bt,B.BM,B.C0,B.C5],t.R),s,q,g)},
+return A.ez(B.Ns,m,B.ow,A.b([A.dd(A.b(["Status: "+s,"Summary: "+q,"Last verified: "+r,"Source type: "+p,"Source path: "+o,"Action: "+n,"Route: "+A.oE(h?m:j.c,"/cost-licensing-valuation")],t.s),"Contract Status"),B.Bs,B.Ca,B.Bt,B.BM,B.C0,B.C5],t.R),s,q,g)},
 $S:13}
 A.IK.prototype={
 H(a){return B.Bg}}
@@ -87158,16 +87158,16 @@ p=A.m9(g?l:i.r,j)
 o=A.m9(g?l:i.w,j)
 n=A.m9(g?l:i.x,j)
 m=A.m9(g?l:i.y,"Open decision log")
-return A.ez(B.MZ,l,B.oH,A.b([A.dd(A.b(["Status: "+r,"Health: "+q,"Last verified: "+p,"Source type: "+o,"Source path: "+n,"Action: "+m,"Route: "+A.m9(g?l:i.c,"/decision-log")],t.s),"Contract Status"),B.BT,B.BL,B.BF],t.R),r,s,f)},
+return A.ez(B.N0,l,B.oH,A.b([A.dd(A.b(["Status: "+r,"Health: "+q,"Last verified: "+p,"Source type: "+o,"Source path: "+n,"Action: "+m,"Route: "+A.m9(g?l:i.c,"/decision-log")],t.s),"Contract Status"),B.BT,B.BL,B.BF],t.R),r,s,f)},
 $S:13}
 A.Jj.prototype={
 H(a){return A.e2(new A.a1n(),new A.di().dR(),t.v)}}
 A.a1n.prototype={
-$2(a,b){var s,r="doctrine",q="/doctrine-reasoning",p=A.azH("Open doctrine reasoning",0,"","green","",r,"","Pending contract refresh",B.MN,"",0,q,"assets/ecosystem_status.json","fallback","Rules","Doctrine reasoning and project rule visibility.","Doctrine",B.MO),o=b.b,n=o==null,m=n?null:o.a.fX(r)
+$2(a,b){var s,r="doctrine",q="/doctrine-reasoning",p=A.azH("Open doctrine reasoning",0,"","green","",r,"","Pending contract refresh",B.MQ,"",0,q,"assets/ecosystem_status.json","fallback","Rules","Doctrine reasoning and project rule visibility.","Doctrine",B.MR),o=b.b,n=o==null,m=n?null:o.a.fX(r)
 if(m==null)m=n?null:o.a.d0(q)
 s=m==null?p:m
 o=b.a===B.b6?"Loading contract":s.d
-return A.ez(B.Nu,null,B.HE,A.b([A.dd(A.b([s.e,"Route: "+s.c,"Health: "+s.f,"Last verified: "+s.r],t.s),"Current State"),B.BX,B.Bz,B.BI],t.R),o,"Inspection-first doctrine visibility, project rule status, boundary review, and next safe action reasoning.",s.b)},
+return A.ez(B.Nv,null,B.HE,A.b([A.dd(A.b([s.e,"Route: "+s.c,"Health: "+s.f,"Last verified: "+s.r],t.s),"Current State"),B.BX,B.Bz,B.BI],t.R),o,"Inspection-first doctrine visibility, project rule status, boundary review, and next safe action reasoning.",s.b)},
 $S:13}
 A.Jr.prototype={
 H(a){return A.e2(new A.a1K(this),$.aFC().dR(),t.v)}}
@@ -87183,11 +87183,11 @@ p=r.ok
 o=A.Z("Whole Ecosystem Diagram",j,j,j,p.f,j,j)
 p=A.Z("RayAI is the command visibility layer for the SolveMotion Labs ecosystem. It reads inspected evidence, explains status, and keeps execution boundaries clear.",j,j,j,p.z,j,j)
 n=t.p
-m=A.cg(new A.aS(B.jW,A.bB(A.b([A.Z("Connected Architecture",j,j,j,A.I(a).ok.w,j,j),B.P,A.eN(B.ap,B.Ln,10,10)],n),B.A,B.v,B.B),j),j,j,j,B.b9,j)
+m=A.cg(new A.aS(B.jW,A.bB(A.b([A.Z("Connected Architecture",j,j,j,A.I(a).ok.w,j,j),B.P,A.eN(B.ap,B.Lq,10,10)],n),B.A,B.v,B.B),j),j,j,j,B.b9,j)
 l=A.I(a).ok
 k=A.Z("ASCII Ecosystem Architecture",j,j,j,l.w,j,j)
 l=l.Q
-return A.n9(q,A.tp(A.b([o,B.a_,p,B.bA,m,B.bA,A.cg(new A.aS(B.jW,A.bB(A.b([k,B.aS,A.awg(new A.B_("+======================================================================+\n|                         SOLVEMOTION LABS ECOSYSTEM                  |\n+======================================================================+\n\n  Evidence + Status Inputs                    RayAI Visibility Layer\n  ------------------------                    ----------------------\n  C:\\src\\RayAI  --------------------------->  Platform Map\n  C:\\src\\SolveMotion ---------------------->  Ecosystem Monitor\n  C:\\src\\SolveMind ------------------------>  Testing / Bug Intelligence\n  C:\\src\\SolveCrime ----------------------->  Release / Build Readiness\n  C:\\src\\SolvePharmacy -------------------->  Reports / Decision Log\n  C:\\src\\SolveOura ------------------------>  Marketing / Valuation\n  C:\\src\\solvemotion_labs_core ----------->  Core 12 Boundary Views\n  C:\\src\\SolveMotionWebSite -------------->  Website / Web Portal Status\n\n  Source of Truth                 Display Boundary              Execution Owner\n  ---------------                 ----------------              ---------------\n  Core 12 contracts ------------> RayAI renders outputs ------> Core owns logic\n  App source + reports ---------> RayAI renders status -------> Apps own app code\n  Website webapps --------------> RayAI renders publish state -> Website repo owns site\n  Command Center scripts -------> RayAI renders readiness ----> Command Center runs ops\n  Tenant setup data ------------> RayAI filters dashboards ---> Access controller gates\n\n  Admin view: full ecosystem visibility.\n  Client view: only licensed tenant ecosystem, reports, bugs, and Core outputs.\n\n  Guardrails: no duplicate app logic, no local Core scoring, no direct publish,\n  no phone push, no Git operation, and no PowerShell execution from RayAI web UI.\n+======================================================================+\n",l==null?j:l.alr("monospace",1.28),j),j,j,B.aL)],n),B.A,B.v,B.B),j),j,j,j,B.b9,j),B.bA,A.Js(a,A.b(["Current source: "+g+".","Refresh count from the inspected status contract: "+s+".","RayAI reads status evidence; it does not become the owner of app, Core, website, or Command Center execution."],t.s),"Live status source"),A.Js(a,B.Ny,"Local computer ecosystem"),A.Js(a,B.Lx,"Ecosystem Monitor button purpose"),A.Js(a,B.NA,"Platform Map button purpose"),A.Js(a,B.M7,"Field and thought coverage rule")],n),new A.ar(16,16,16,28+h.r.d)))},
+return A.n9(q,A.tp(A.b([o,B.a_,p,B.bA,m,B.bA,A.cg(new A.aS(B.jW,A.bB(A.b([k,B.aS,A.awg(new A.B_("+======================================================================+\n|                         SOLVEMOTION LABS ECOSYSTEM                  |\n+======================================================================+\n\n  Evidence + Status Inputs                    RayAI Visibility Layer\n  ------------------------                    ----------------------\n  C:\\src\\RayAI  --------------------------->  Platform Map\n  C:\\src\\SolveMotion ---------------------->  Ecosystem Monitor\n  C:\\src\\SolveMind ------------------------>  Testing / Bug Intelligence\n  C:\\src\\SolveCrime ----------------------->  Release / Build Readiness\n  C:\\src\\SolvePharmacy -------------------->  Reports / Decision Log\n  C:\\src\\SolveOura ------------------------>  Marketing / Valuation\n  C:\\src\\solvemotion_labs_core ----------->  Core 12 Boundary Views\n  C:\\src\\SolveMotionWebSite -------------->  Website / Web Portal Status\n\n  Source of Truth                 Display Boundary              Execution Owner\n  ---------------                 ----------------              ---------------\n  Core 12 contracts ------------> RayAI renders outputs ------> Core owns logic\n  App source + reports ---------> RayAI renders status -------> Apps own app code\n  Website webapps --------------> RayAI renders publish state -> Website repo owns site\n  Command Center scripts -------> RayAI renders readiness ----> Command Center runs ops\n  Tenant setup data ------------> RayAI filters dashboards ---> Access controller gates\n\n  Admin view: full ecosystem visibility.\n  Client view: only licensed tenant ecosystem, reports, bugs, and Core outputs.\n\n  Guardrails: no duplicate app logic, no local Core scoring, no direct publish,\n  no phone push, no Git operation, and no PowerShell execution from RayAI web UI.\n+======================================================================+\n",l==null?j:l.alr("monospace",1.28),j),j,j,B.aL)],n),B.A,B.v,B.B),j),j,j,j,B.b9,j),B.bA,A.Js(a,A.b(["Current source: "+g+".","Refresh count from the inspected status contract: "+s+".","RayAI reads status evidence; it does not become the owner of app, Core, website, or Command Center execution."],t.s),"Live status source"),A.Js(a,B.Nz,"Local computer ecosystem"),A.Js(a,B.LA,"Ecosystem Monitor button purpose"),A.Js(a,B.NB,"Platform Map button purpose"),A.Js(a,B.Ma,"Field and thought coverage rule")],n),new A.ar(16,16,16,28+h.r.d)))},
 $S:166}
 A.lu.prototype={
 H(a){var s,r,q=null,p=A.I(a),o=p.ax,n=o.to
@@ -87405,7 +87405,7 @@ p=A.ms(g?l:i.r,j)
 o=A.ms(g?l:i.w,j)
 n=A.ms(g?l:i.x,j)
 m=A.ms(g?l:i.y,"Review inspection reports")
-return A.ez(B.Lm,l,B.HY,A.b([A.dd(A.b(["Status: "+s,"Health: "+r,"Last verified: "+p,"Source type: "+o,"Source path: "+n,"Action: "+m,"Route: "+A.ms(g?l:i.c,"/inspection-report-interpreter")],t.s),"Contract Status"),B.BR,B.BN],t.R),s,q,f)},
+return A.ez(B.Lp,l,B.HY,A.b([A.dd(A.b(["Status: "+s,"Health: "+r,"Last verified: "+p,"Source type: "+o,"Source path: "+n,"Action: "+m,"Route: "+A.ms(g?l:i.c,"/inspection-report-interpreter")],t.s),"Contract Status"),B.BR,B.BN],t.R),s,q,f)},
 $S:13}
 A.pZ.prototype={
 ap(){var s=$.am()
@@ -87473,7 +87473,7 @@ return A.M($async$tC,r)},
 QL(a){var s=a==null?null:a.b===B.bW
 if(s===!0)return"/admin-company-access-control"
 return"/"},
-H(a){var s,r,q=this,p=null,o=A.lZ(p,B.Au),n=t.p,m=A.b([B.a1L,B.aS,B.a1Q,B.X4,A.BV(B.NR,q.d,B.IG,1,p,!1,p,B.m0),B.lU,A.BV(B.Nz,q.e,B.ID,1,p,!0,new A.ape(q),B.iG),B.X3],n)
+H(a){var s,r,q=this,p=null,o=A.lZ(p,B.Au),n=t.p,m=A.b([B.a1L,B.aS,B.a1Q,B.X4,A.BV(B.NS,q.d,B.IG,1,p,!1,p,B.m0),B.lU,A.BV(B.NA,q.e,B.ID,1,p,!0,new A.ape(q),B.iG),B.X3],n)
 if(q.y){s=A.BV(B.m,q.f,B.IF,1,p,!0,p,B.m0)
 r=A.BV(B.m,q.r,B.IE,1,p,!0,new A.apf(q),B.iG)
 B.b.P(m,A.b([B.bA,s,B.P,r,B.P,A.azQ(B.a1V,q.x?p:q.gafn())],n))}n=q.x
@@ -87534,7 +87534,7 @@ p=A.mH(g?l:i.r,j)
 o=A.mH(g?l:i.w,j)
 n=A.mH(g?l:i.x,j)
 m=A.mH(g?l:i.y,"Open marketing intelligence")
-return A.ez(B.Nn,l,B.oy,A.b([A.dd(A.b(["Status: "+s,"Health: "+r,"Last verified: "+p,"Source type: "+o,"Source path: "+n,"Action: "+m,"Route: "+A.mH(g?l:i.c,"/marketing-intelligence")],t.s),"Contract Status"),B.Bp,B.C9,B.BS,B.Bw],t.R),s,q,f)},
+return A.ez(B.No,l,B.oy,A.b([A.dd(A.b(["Status: "+s,"Health: "+r,"Last verified: "+p,"Source type: "+o,"Source path: "+n,"Action: "+m,"Route: "+A.mH(g?l:i.c,"/marketing-intelligence")],t.s),"Contract Status"),B.Bp,B.C9,B.BS,B.Bw],t.R),s,q,f)},
 $S:13}
 A.L8.prototype={
 H(a){return A.e2(new A.a8T(),$.aGg(),t.v)}}
@@ -87550,7 +87550,7 @@ p=A.mL(g?l:i.r,j)
 o=A.mL(g?l:i.w,j)
 n=A.mL(g?l:i.x,j)
 m=A.mL(g?l:i.y,"Open Mobile Build Release Intelligence")
-return A.ez(B.LD,l,B.oJ,A.b([A.dd(A.b(["Status: "+r,"Health: "+q,"Last verified: "+p,"Source type: "+o,"Source path: "+n,"Action: "+m,"Route: "+A.mL(g?l:i.c,"/mobile-build-release-intelligence")],t.s),"Contract Status"),B.C_,B.Bn,B.BU,B.BD,B.C8,B.Cd,B.C1],t.R),r,s,f)},
+return A.ez(B.LG,l,B.oJ,A.b([A.dd(A.b(["Status: "+r,"Health: "+q,"Last verified: "+p,"Source type: "+o,"Source path: "+n,"Action: "+m,"Route: "+A.mL(g?l:i.c,"/mobile-build-release-intelligence")],t.s),"Contract Status"),B.C_,B.Bn,B.BU,B.BD,B.C8,B.Cd,B.C1],t.R),r,s,f)},
 $S:13}
 A.Md.prototype={
 H(a){return A.e2(new A.ace(this),new A.di().dR(),t.v)},
@@ -87562,10 +87562,10 @@ return r==null?s.d0("/real-time-code-monitor"):r}}
 A.ace.prototype={
 $2(a,b){var s=this.a.af1(b.b),r=s==null?null:s.d
 if(r==null)r="Contract view"
-return A.ez(B.Lc,null,B.I6,A.b([A.dd(A.b(["Route: ","Contract tile: ","Status: ","Source: RayAI ecosystem status contract"],t.s),"Current Contract Status"),B.Bl,B.C3,B.BB],t.R),r,"Code-health visibility from verified RayAI contract data without direct execution.","Real-Time Code Monitor")},
+return A.ez(B.Lf,null,B.I6,A.b([A.dd(A.b(["Route: ","Contract tile: ","Status: ","Source: RayAI ecosystem status contract"],t.s),"Current Contract Status"),B.Bl,B.C3,B.BB],t.R),r,"Code-health visibility from verified RayAI contract data without direct execution.","Real-Time Code Monitor")},
 $S:13}
 A.LY.prototype={
-H(a){return A.ez(B.NE,null,B.os,A.b([B.BQ,A.dd(B.JF,"Run Control"),A.dd(A.aN0(),"Capability Readiness"),B.BE,A.dd(B.LU,"Blocked Actions")],t.R),"Blocked","Tenant-scoped automation readiness for the PSECU ecosystem. Run controls remain blocked until later security, credential, and execution gates are GREEN.","PSECU Digital Banking")}}
+H(a){return A.ez(B.NF,null,B.os,A.b([B.BQ,A.dd(B.JF,"Run Control"),A.dd(A.aN0(),"Capability Readiness"),B.BE,A.dd(B.LX,"Blocked Actions")],t.R),"Blocked","Tenant-scoped automation readiness for the PSECU ecosystem. Run controls remain blocked until later security, credential, and execution gates are GREEN.","PSECU Digital Banking")}}
 A.aaI.prototype={
 $1(a){return a.a+": "+A.aw6(a.b)+"."},
 $S:125}
@@ -87583,12 +87583,12 @@ p=A.n3(g?l:i.r,j)
 o=A.n3(g?l:i.w,j)
 n=A.n3(g?l:i.x,j)
 m=A.n3(g?l:i.y,"Review release readiness")
-return A.ez(B.NZ,l,B.f0,A.b([A.dd(A.b(["Status: "+s,"Health: "+r,"Last verified: "+p,"Source type: "+o,"Source path: "+n,"Action: "+m,"Route: "+A.n3(g?l:i.c,"/release-readiness")],t.s),"Contract Status"),B.C4,B.Ce],t.R),s,q,f)},
+return A.ez(B.O_,l,B.f0,A.b([A.dd(A.b(["Status: "+s,"Health: "+r,"Last verified: "+p,"Source type: "+o,"Source path: "+n,"Action: "+m,"Route: "+A.n3(g?l:i.c,"/release-readiness")],t.s),"Contract Status"),B.C4,B.Ce],t.R),s,q,f)},
 $S:13}
 A.MN.prototype={
 H(a){return A.e2(new A.adb(),$.aGu().dR(),t.v)}}
 A.adb.prototype={
-$2(a,b){return A.ez(B.MW,null,B.oM,B.LE,b.b!=null?"Live status contract loaded":"Waiting for live status contract","Reporting visibility for inspection summaries, GREEN evidence, blocker notes, and executive-ready status.","Report Generator")},
+$2(a,b){return A.ez(B.MY,null,B.oM,B.LH,b.b!=null?"Live status contract loaded":"Waiting for live status contract","Reporting visibility for inspection summaries, GREEN evidence, blocker notes, and executive-ready status.","Report Generator")},
 $S:13}
 A.Na.prototype={
 H(a){return A.e2(new A.adJ(),$.aGw(),t.v)}}
@@ -87611,7 +87611,7 @@ n=A.b([m,B.BW,B.BK,A.dd(A.b(["Phases F through N are represented as centralized 
 for(k=0;k<9;++k){j=B.kN[k]
 b=A.b([j.d,"Route owner: "+j.c+".","Boundary: "+j.f],l)
 for(r=j.e,i=0;i<6;++i){h=r[i]
-b.push("Step "+h.a+" of 6 - "+h.b+": GREEN. "+h.d)}n.push(new A.aV("Phase "+j.a+" - "+j.b,B.m,b))}return A.ez(B.O6,g,B.kG,n,s,q,a)},
+b.push("Step "+h.a+" of 6 - "+h.b+": GREEN. "+h.d)}n.push(new A.aV("Phase "+j.a+" - "+j.b,B.m,b))}return A.ez(B.O7,g,B.kG,n,s,q,a)},
 $S:13}
 A.NA.prototype={
 H(a){return A.e2(new A.afv(),$.aGA(),t.v)}}
@@ -87859,14 +87859,14 @@ A.Lh.prototype={
 H(a){return A.e2(new A.a9u(),$.aGh(),t.v)}}
 A.a9u.prototype={
 $2(a,b){var s=A.aMo(b.b),r=A.aMn(s,"Shows the next five verified RayAI 6.0 phases from the active roadmap without changing versions or bypassing gates.")
-return A.ez(B.N3,null,B.Hw,B.L6,A.aMm(s),r,"Next 5 Upgrades")},
+return A.ez(B.N5,null,B.Hw,B.L8,A.aMm(s),r,"Next 5 Upgrades")},
 $S:13}
 A.Mb.prototype={
 H(a){return A.e2(new A.ac8(),$.aGo(),t.v)}}
 A.ac8.prototype={
 $2(a,b){var s,r,q,p,o=null,n="RayAI staging launch visibility, tenant portal scope, admin portal scope, SaaS/API/SDK access visibility, and production path readiness boundaries.",m=b.b,l=A.aNK(m),k=b.c!=null,j=$.lU(),i=j.r
 m=m==null?o:m.a.d
-s=A.aNf(j,i,m==null?B.MM:m)
+s=A.aNf(j,i,m==null?B.MP:m)
 m=l==null
 r=A.n0(m?o:l.b,"RayAI Web Portal")
 if(k)q=n
@@ -87908,7 +87908,7 @@ p=A.nz(g?l:i.r,j)
 o=A.nz(g?l:i.w,j)
 n=A.nz(g?l:i.x,j)
 m=A.nz(g?l:i.y,"Review website intelligence")
-return A.ez(B.O2,l,B.oC,A.b([A.dd(A.b(["Status: "+s,"Health: "+r,"Last verified: "+p,"Source type: "+o,"Source path: "+n,"Action: "+m,"Route: "+A.nz(g?l:i.c,"/website")],t.s),"Contract Status"),B.Bk,B.Cc,B.Bq],t.R),s,q,f)},
+return A.ez(B.O3,l,B.oC,A.b([A.dd(A.b(["Status: "+s,"Health: "+r,"Last verified: "+p,"Source type: "+o,"Source path: "+n,"Action: "+m,"Route: "+A.nz(g?l:i.c,"/website")],t.s),"Contract Status"),B.Bk,B.Cc,B.Bq],t.R),s,q,f)},
 $S:13}
 A.M4.prototype={
 pC(){var s=0,r=A.N(t.H),q=this,p,o,n,m,l,k,j,i
@@ -91536,154 +91536,154 @@ B.Bb=new A.rm(null,B.ny,0,!1,B.X7,null)
 B.jg=new A.wN(0,"exit")
 B.mG=new A.wN(1,"cancel")
 B.dn={"Folders and sources":0,"Modules and capabilities":1,"Reports, baselines, and evidence":2,"Readiness and next scope":3}
-B.Lr=s(["Pharmacy application folders should be mapped into career, employer, and domain-intelligence sections.","Screens should distinguish user guidance, employer intelligence, and readiness content.","Reports and baselines should explain completion and remaining gaps."],t.s)
+B.Lu=s(["Pharmacy application folders should be mapped into career, employer, and domain-intelligence sections.","Screens should distinguish user guidance, employer intelligence, and readiness content.","Reports and baselines should explain completion and remaining gaps."],t.s)
 B.Kn=s(["Pharmacy career-path intelligence.","Employer and role-readiness summaries.","Domain-specific education and workflow guidance.","Future report and baseline visibility."],t.s)
-B.Nv=s(["RayAI should show known GREEN report chains when available.","If no verified production status exists, this view must stay honest and scoped.","Future phases should connect latest reports and baselines."],t.s)
-B.M9=s(["Needs deeper folder, screen, and module inventory.","Needs completion and blocked-action classification.","Future work can add application readiness and employer pathway summaries."],t.s)
-B.Q5=new A.bf(B.dn,[B.Lr,B.Kn,B.Nv,B.M9],t.VJ)
+B.Nw=s(["RayAI should show known GREEN report chains when available.","If no verified production status exists, this view must stay honest and scoped.","Future phases should connect latest reports and baselines."],t.s)
+B.Mc=s(["Needs deeper folder, screen, and module inventory.","Needs completion and blocked-action classification.","Future work can add application readiness and employer pathway summaries."],t.s)
+B.Q5=new A.bf(B.dn,[B.Lu,B.Kn,B.Nw,B.Mc],t.VJ)
 B.m=s([],t.s)
-B.KL=s(["Do not provide medical advice.","Do not overclaim production readiness.","Do not infer employer integrations without evidence."],t.s)
-B.Bc=new A.h6("SolvePharmacy Intelligence","SolvePharmacy intelligence tracks pharmacy career, employer, and domain readiness scope.","Application intelligence depth added",B.Q5,null,B.m,B.KL,null,null)
-B.NV=s(["Application source folders and screen families are tracked as RayAI explanation targets.","Website relationship is tracked because SolveMotion public messaging and app positioning live in SolveMotionWebSite.","Reports and central baselines are tracked as proof of readiness, not as runtime actions."],t.s)
-B.N8=s(["Motion and productivity workflows.","Application detail summaries.","Readiness and release-state explanation.","Future folder-aware module inventory."],t.s)
-B.L_=s(["RayAI can summarize SolveMotion inspection chains when report evidence is available.","Central baselines should be shown with what they prove and what they do not prove.","Website-facing claims must stay aligned to verified production reports."],t.s)
+B.KM=s(["Do not provide medical advice.","Do not overclaim production readiness.","Do not infer employer integrations without evidence."],t.s)
+B.Bc=new A.h6("SolvePharmacy Intelligence","SolvePharmacy intelligence tracks pharmacy career, employer, and domain readiness scope.","Application intelligence depth added",B.Q5,null,B.m,B.KM,null,null)
+B.NW=s(["Application source folders and screen families are tracked as RayAI explanation targets.","Website relationship is tracked because SolveMotion public messaging and app positioning live in SolveMotionWebSite.","Reports and central baselines are tracked as proof of readiness, not as runtime actions."],t.s)
+B.Na=s(["Motion and productivity workflows.","Application detail summaries.","Readiness and release-state explanation.","Future folder-aware module inventory."],t.s)
+B.L1=s(["RayAI can summarize SolveMotion inspection chains when report evidence is available.","Central baselines should be shown with what they prove and what they do not prove.","Website-facing claims must stay aligned to verified production reports."],t.s)
 B.Kf=s(["Needs deeper folder browser and latest report chain mapping.","Should expose screens, modules, baselines, and blocked actions in a single app view.","Must remain informational until a future phase adds live report ingestion."],t.s)
-B.Q6=new A.bf(B.dn,[B.NV,B.N8,B.L_,B.Kf],t.VJ)
-B.Mo=s(["Do not run SolveMotion operations from RayAI.","Do not publish website changes from RayAI.","Do not claim production readiness without GREEN evidence."],t.s)
-B.Bd=new A.h6("SolveMotion Intelligence","SolveMotion is tracked as the motion and productivity application family inside the SolveMotion ecosystem.","Application intelligence depth added",B.Q6,null,B.m,B.Mo,null,null)
-B.Lt=s(["Command Center source and scripts remain outside RayAI.","RayAI references reports, doctrine, build gates, and operational decisions as explanation inputs.","RayAI should point to what happened and what is next, not run the operation."],t.s)
-B.Le=s(["Operation status explanation.","Report chain summarization.","Blocked versus allowed action interpretation.","Next phase recommendation based on GREEN or REVIEW_REQUIRED evidence."],t.s)
-B.KC=s(["Command Center evidence should be summarized from inspection reports and known GREEN baselines.","RayAI should preserve no-assumption language and cite exact phase names and local paths in its internal content."],t.s)
-B.KW=s(["RayAI can become a readable command-state dashboard, but not a second operations engine.","Future scope may add richer report browsing and phase lineage visualization."],t.s)
-B.Qa=new A.bf(B.dn,[B.Lt,B.Le,B.KC,B.KW],t.VJ)
+B.Q6=new A.bf(B.dn,[B.NW,B.Na,B.L1,B.Kf],t.VJ)
+B.Mr=s(["Do not run SolveMotion operations from RayAI.","Do not publish website changes from RayAI.","Do not claim production readiness without GREEN evidence."],t.s)
+B.Bd=new A.h6("SolveMotion Intelligence","SolveMotion is tracked as the motion and productivity application family inside the SolveMotion ecosystem.","Application intelligence depth added",B.Q6,null,B.m,B.Mr,null,null)
+B.Lw=s(["Command Center source and scripts remain outside RayAI.","RayAI references reports, doctrine, build gates, and operational decisions as explanation inputs.","RayAI should point to what happened and what is next, not run the operation."],t.s)
+B.Lh=s(["Operation status explanation.","Report chain summarization.","Blocked versus allowed action interpretation.","Next phase recommendation based on GREEN or REVIEW_REQUIRED evidence."],t.s)
+B.KD=s(["Command Center evidence should be summarized from inspection reports and known GREEN baselines.","RayAI should preserve no-assumption language and cite exact phase names and local paths in its internal content."],t.s)
+B.KY=s(["RayAI can become a readable command-state dashboard, but not a second operations engine.","Future scope may add richer report browsing and phase lineage visualization."],t.s)
+B.Qa=new A.bf(B.dn,[B.Lw,B.Lh,B.KD,B.KY],t.VJ)
 B.Ky=s(["No Command Center operation duplication.","No script execution from RayAI detail screens.","No patch, build, publish, or production action from this screen."],t.s)
 B.Be=new A.h6("Command Center Insight","Command Center intelligence explains operational state while leaving operations in the Command Center.","Explanation only",B.Qa,null,B.m,B.Ky,null,null)
-B.O1=s(["Scene diagram folders and toolbar areas are tracked.","Evidence workspace, case repository, and report/PDF areas are tracked.","Baselines and remaining scope are tracked as proof and next-step anchors."],t.s)
-B.Mq=s(["Scene diagram verification.","Evidence workspace status.","CaseLab reasoning depth.","Reports and PDF readiness.","Hub, navigation, and UX polish tracking."],t.s)
+B.O2=s(["Scene diagram folders and toolbar areas are tracked.","Evidence workspace, case repository, and report/PDF areas are tracked.","Baselines and remaining scope are tracked as proof and next-step anchors."],t.s)
+B.Mt=s(["Scene diagram verification.","Evidence workspace status.","CaseLab reasoning depth.","Reports and PDF readiness.","Hub, navigation, and UX polish tracking."],t.s)
 B.JK=s(["Master scope doctrine and evidence workspace GREEN baselines are known proof anchors.","Toolbar, canvas, and scene report chains should be summarized by latest GREEN stop point.","Remaining scope should be shown without treating it as complete."],t.s)
-B.L9=s(["Needs deeper folder-aware status for scene, evidence, case, reports, and PDF.","Mac and iOS build remains deferred until coding scope is complete.","Analyze and build status must stay tied to explicit reports."],t.s)
-B.Qb=new A.bf(B.dn,[B.O1,B.Mq,B.JK,B.L9],t.VJ)
-B.NU=s(["Do not claim all SolveCrime scope complete while remaining scope exists.","Do not run builds from this screen.","Do not duplicate forensic reasoning engines."],t.s)
-B.Bf=new A.h6("SolveCrime Intelligence","SolveCrime intelligence explains case, evidence, scene, report, PDF, and baseline readiness.","Application intelligence depth added",B.Qb,null,B.m,B.NU,null,null)
-B.KD=s(["Core 12 source remains outside RayAI and is treated as a governed platform dependency.","RayAI reads and explains Core status, doctrine, adapters, outputs, and readiness evidence.","Core output visibility belongs in RayAI as interpretation, not recomputation."],t.s)
-B.Ll=s(["Render-only contract awareness for Core outputs.","Adapter and partner boundary explanation.","Hosted SaaS boundary tracking without claiming hosted runtime completion.","No local scoring or duplicate deterministic logic inside RayAI."],t.s)
-B.KR=s(["Core 12 Phase 11 GREEN baseline remains the known clean anchor.","RayAI can summarize Core readiness reports and explain what each GREEN gate proves.","Core output and hosted boundary claims must stay traceable to inspection evidence."],t.s)
+B.Lc=s(["Needs deeper folder-aware status for scene, evidence, case, reports, and PDF.","Mac and iOS build remains deferred until coding scope is complete.","Analyze and build status must stay tied to explicit reports."],t.s)
+B.Qb=new A.bf(B.dn,[B.O2,B.Mt,B.JK,B.Lc],t.VJ)
+B.NV=s(["Do not claim all SolveCrime scope complete while remaining scope exists.","Do not run builds from this screen.","Do not duplicate forensic reasoning engines."],t.s)
+B.Bf=new A.h6("SolveCrime Intelligence","SolveCrime intelligence explains case, evidence, scene, report, PDF, and baseline readiness.","Application intelligence depth added",B.Qb,null,B.m,B.NV,null,null)
+B.KE=s(["Core 12 source remains outside RayAI and is treated as a governed platform dependency.","RayAI reads and explains Core status, doctrine, adapters, outputs, and readiness evidence.","Core output visibility belongs in RayAI as interpretation, not recomputation."],t.s)
+B.Lo=s(["Render-only contract awareness for Core outputs.","Adapter and partner boundary explanation.","Hosted SaaS boundary tracking without claiming hosted runtime completion.","No local scoring or duplicate deterministic logic inside RayAI."],t.s)
+B.KS=s(["Core 12 Phase 11 GREEN baseline remains the known clean anchor.","RayAI can summarize Core readiness reports and explain what each GREEN gate proves.","Core output and hosted boundary claims must stay traceable to inspection evidence."],t.s)
 B.Jm=s(["Partner demo validation, release checklist automation, no-local-scoring audit, doctrine updates, and website status alignment remain tracked as future scope.","RayAI should surface Core status, blockers, and next steps without running Core actions."],t.s)
-B.Q9=new A.bf(B.dn,[B.KD,B.Ll,B.KR,B.Jm],t.VJ)
+B.Q9=new A.bf(B.dn,[B.KE,B.Lo,B.KS,B.Jm],t.VJ)
 B.K2=s(["No Core local scoring in RayAI.","No hosted SaaS live claim unless verified by a future GREEN phase.","RayAI explains Core outputs; Core owns computation."],t.s)
 B.Bg=new A.h6("Core 12 Intelligence","Core 12 is the deterministic intelligence engine boundary that RayAI explains without scoring locally.","Render-only contract tracked",B.Q9,null,B.m,B.K2,null,null)
-B.M6=s(["Recovery intelligence folders should be mapped separately from app runtime and wearable boundary areas.","Screens should identify what is concept, in-progress, or verified.","Reports and baselines should show readiness without health overclaiming."],t.s)
-B.L5=s(["Recovery and habit intelligence explanation.","Wearable boundary tracking.","Readiness and report summary.","Future folder-aware module inventory."],t.s)
+B.M9=s(["Recovery intelligence folders should be mapped separately from app runtime and wearable boundary areas.","Screens should identify what is concept, in-progress, or verified.","Reports and baselines should show readiness without health overclaiming."],t.s)
+B.L7=s(["Recovery and habit intelligence explanation.","Wearable boundary tracking.","Readiness and report summary.","Future folder-aware module inventory."],t.s)
 B.Jd=s(["RayAI should summarize known report and baseline anchors when available.","If wearable integration is not verified, this view must show it as pending.","Health-related wording must remain careful and non-diagnostic."],t.s)
-B.N2=s(["Needs deeper folder and screen inventory.","Needs integration boundary status.","Needs report-chain and baseline mapping."],t.s)
-B.Q8=new A.bf(B.dn,[B.M6,B.L5,B.Jd,B.N2],t.VJ)
-B.Mh=s(["No medical diagnosis.","No wearable integration claim unless verified.","No production claim without GREEN evidence."],t.s)
-B.Bh=new A.h6("SolveOura Intelligence","SolveOura intelligence tracks recovery, wearable, and readiness scope while staying in-progress honest.","Application intelligence depth added",B.Q8,null,B.m,B.Mh,null,null)
-B.M4=s(["Learning and cognitive source areas are tracked as future folder-aware content.","Screens and tools should be grouped by user-facing learning function.","Reports and baselines should describe completion, gaps, and readiness."],t.s)
-B.LG=s(["Learning-path explanation.","Cognitive workflow summaries.","Education feature readiness.","Future doctrine and report-lineage browser."],t.s)
-B.LQ=s(["RayAI should summarize SolveMind GREEN and REVIEW_REQUIRED report chains when available.","Baselines should be displayed as proof anchors, not as assumptions.","Known gaps should be surfaced in the readiness section."],t.s)
-B.Na=s(["Needs deeper screen inventory and folder mapping.","Needs latest known baseline and report lineage content.","Future work can add student, education, and career-path intelligence explanation."],t.s)
-B.Q7=new A.bf(B.dn,[B.M4,B.LG,B.LQ,B.Na],t.VJ)
-B.KZ=s(["Do not overclaim live education platform status.","Do not duplicate Core scoring.","Do not infer missing files or modules without inspection evidence."],t.s)
-B.Bi=new A.h6("SolveMind Intelligence","SolveMind intelligence explains learning, cognitive, and education application scope.","Application intelligence depth added",B.Q7,null,B.m,B.KZ,null,null)
+B.N4=s(["Needs deeper folder and screen inventory.","Needs integration boundary status.","Needs report-chain and baseline mapping."],t.s)
+B.Q8=new A.bf(B.dn,[B.M9,B.L7,B.Jd,B.N4],t.VJ)
+B.Mk=s(["No medical diagnosis.","No wearable integration claim unless verified.","No production claim without GREEN evidence."],t.s)
+B.Bh=new A.h6("SolveOura Intelligence","SolveOura intelligence tracks recovery, wearable, and readiness scope while staying in-progress honest.","Application intelligence depth added",B.Q8,null,B.m,B.Mk,null,null)
+B.M7=s(["Learning and cognitive source areas are tracked as future folder-aware content.","Screens and tools should be grouped by user-facing learning function.","Reports and baselines should describe completion, gaps, and readiness."],t.s)
+B.LJ=s(["Learning-path explanation.","Cognitive workflow summaries.","Education feature readiness.","Future doctrine and report-lineage browser."],t.s)
+B.LT=s(["RayAI should summarize SolveMind GREEN and REVIEW_REQUIRED report chains when available.","Baselines should be displayed as proof anchors, not as assumptions.","Known gaps should be surfaced in the readiness section."],t.s)
+B.Nc=s(["Needs deeper screen inventory and folder mapping.","Needs latest known baseline and report lineage content.","Future work can add student, education, and career-path intelligence explanation."],t.s)
+B.Q7=new A.bf(B.dn,[B.M7,B.LJ,B.LT,B.Nc],t.VJ)
+B.L0=s(["Do not overclaim live education platform status.","Do not duplicate Core scoring.","Do not infer missing files or modules without inspection evidence."],t.s)
+B.Bi=new A.h6("SolveMind Intelligence","SolveMind intelligence explains learning, cognitive, and education application scope.","Application intelligence depth added",B.Q7,null,B.m,B.L0,null,null)
 B.Kz=s(["Loan documents must populate correctly.","JSON export evidence and file-transfer delivery evidence must be verified.","Scheduled transfer evidence, core-system boarding evidence, staging visibility, Business Unit review, and Accounting review remain downstream validation points."],t.s)
 B.Bj=new A.aV("Evidence And Review Path",B.m,B.Kz)
-B.KY=s(["Website source lives under SolveMotionWebSite, not inside RayAI.","RayAI tracks public pages, webapps, applications content, downloads, and production readiness evidence.","RayAI website visibility stays claim-safe and inspection-gated before production promotion."],t.s)
-B.Bk=new A.aV("Website Sources",B.m,B.KY)
-B.MR=s(["Shows inspected code-monitor status from the RayAI ecosystem contract.","Keeps code-health visibility separate from direct filesystem or command execution.","Supports review-first engineering decisions."],t.s)
-B.Bl=new A.aV("Release 2 Intelligence Focus",B.m,B.MR)
-B.LC=s(["Shows no-assumption, inspect-first, no duplicate logic, and central-baseline-only expectations.","Keeps RayAI 6.0 boundaries visible across app, Core, website, release, and testing screens.","Separates settings visibility from actual environment mutation."],t.s)
-B.Bm=new A.aV("Operating Rules",B.m,B.LC)
+B.L_=s(["Website source lives under SolveMotionWebSite, not inside RayAI.","RayAI tracks public pages, webapps, applications content, downloads, and production readiness evidence.","RayAI website visibility stays claim-safe and inspection-gated before production promotion."],t.s)
+B.Bk=new A.aV("Website Sources",B.m,B.L_)
+B.MU=s(["Shows inspected code-monitor status from the RayAI ecosystem contract.","Keeps code-health visibility separate from direct filesystem or command execution.","Supports review-first engineering decisions."],t.s)
+B.Bl=new A.aV("Release 2 Intelligence Focus",B.m,B.MU)
+B.LF=s(["Shows no-assumption, inspect-first, no duplicate logic, and central-baseline-only expectations.","Keeps RayAI 6.0 boundaries visible across app, Core, website, release, and testing screens.","Separates settings visibility from actual environment mutation."],t.s)
+B.Bm=new A.aV("Operating Rules",B.m,B.LF)
 B.K6=s(["Shows Android device checks, smoke testing, and release confidence evidence.","Keeps phone validation separate from build creation, install commands, and deployment actions.","Surfaces what was validated, what remains untested, and what needs inspection."],t.s)
 B.Bn=new A.aV("Device Validation Evidence",B.K6,B.m)
-B.M2=s(["No system settings are changed by this screen.","No build, publish, Git, Core runtime, or local scoring action is started.","Future settings changes require explicit inspected implementation phases."],t.s)
-B.Bo=new A.aV("Safety Boundary",B.m,B.M2)
-B.LA=s(["Tracks marketing visibility as RayAI status intelligence.","Home dashboard route is wired from the RayAI marketing tile.","Contract data is rendered from ecosystem_status.json only."],t.s)
-B.Bp=new A.aV("Current Marketing State",B.m,B.LA)
+B.M5=s(["No system settings are changed by this screen.","No build, publish, Git, Core runtime, or local scoring action is started.","Future settings changes require explicit inspected implementation phases."],t.s)
+B.Bo=new A.aV("Safety Boundary",B.m,B.M5)
+B.LD=s(["Tracks marketing visibility as RayAI status intelligence.","Home dashboard route is wired from the RayAI marketing tile.","Contract data is rendered from ecosystem_status.json only."],t.s)
+B.Bp=new A.aV("Current Marketing State",B.m,B.LD)
 B.Kg=s(["RayAI public re-enable remains blocked until an explicit website phase allows it.","Website claims must avoid live, launch, hosted, or production language unless inspection evidence proves it.","RayAI explains website readiness and public exposure boundaries without publishing."],t.s)
 B.Bq=new A.aV("Release Boundary",B.m,B.Kg)
-B.KM=s(["Confirms each business workflow variation has a named scenario, expected data variation, and validation owner.","Separates no co-applicant, co-applicant, guarantor, and downstream review paths without duplicating the master workflow.","Tracks whether each scenario has evidence for applicant data, business data, financial data, approval, contract, export, and handoff expectations."],t.s)
-B.Br=new A.aV("Scenario Matrix Control Points",B.KM,B.m)
-B.KF=s(["Tracks commercial cost readiness as RayAI status intelligence, not as a price generator.","Keeps app, Core 12, website, API, SDK, and SaaS cost signals visible for planning review.","Separates cost visibility from billing math, tenant account changes, and public commercial claims."],t.s)
-B.Bs=new A.aV("Cost Visibility",B.m,B.KF)
-B.NF=s(["Tracks evidence-based value growth from completed RayAI, Core 12, app, mobile, testing, and web staging milestones.","Keeps valuation language internal, approval-gated, and based on verified delivery evidence.","Connects commercial value signals to marketing readiness without duplicating marketing logic."],t.s)
-B.Bt=new A.aV("Valuation Positioning",B.m,B.NF)
-B.KI=s(["Do not make unverified public claims.","Do not market SolveOura as live.","Do not create growth, revenue, conversion, launch, SaaS, or valuation claims without verified approval."],t.s)
-B.Bw=new A.aV("Risk Watch",B.m,B.KI)
-B.O3=s(["Confirm the active phase and approved patch target before changes.","Verify no project-local backups are created.","Verify doctrine and baseline markers after the current green gate."],t.s)
-B.Bz=new A.aV("Next Inspected Actions",B.m,B.O3)
-B.KO=s(["Explain analyze gate status without starting analyzer from this screen.","Explain build gate status without starting Android, web, iOS, phone, or Mac actions.","Keep final build and publish decisions behind explicit inspected approvals."],t.s)
-B.BA=new A.aV("Allowed Review Scope",B.m,B.KO)
+B.KN=s(["Confirms each business workflow variation has a named scenario, expected data variation, and validation owner.","Separates no co-applicant, co-applicant, guarantor, and downstream review paths without duplicating the master workflow.","Tracks whether each scenario has evidence for applicant data, business data, financial data, approval, contract, export, and handoff expectations."],t.s)
+B.Br=new A.aV("Scenario Matrix Control Points",B.KN,B.m)
+B.KG=s(["Tracks commercial cost readiness as RayAI status intelligence, not as a price generator.","Keeps app, Core 12, website, API, SDK, and SaaS cost signals visible for planning review.","Separates cost visibility from billing math, tenant account changes, and public commercial claims."],t.s)
+B.Bs=new A.aV("Cost Visibility",B.m,B.KG)
+B.NG=s(["Tracks evidence-based value growth from completed RayAI, Core 12, app, mobile, testing, and web staging milestones.","Keeps valuation language internal, approval-gated, and based on verified delivery evidence.","Connects commercial value signals to marketing readiness without duplicating marketing logic."],t.s)
+B.Bt=new A.aV("Valuation Positioning",B.m,B.NG)
+B.KJ=s(["Do not make unverified public claims.","Do not market SolveOura as live.","Do not create growth, revenue, conversion, launch, SaaS, or valuation claims without verified approval."],t.s)
+B.Bw=new A.aV("Risk Watch",B.m,B.KJ)
+B.O4=s(["Confirm the active phase and approved patch target before changes.","Verify no project-local backups are created.","Verify doctrine and baseline markers after the current green gate."],t.s)
+B.Bz=new A.aV("Next Inspected Actions",B.m,B.O4)
+B.KP=s(["Explain analyze gate status without starting analyzer from this screen.","Explain build gate status without starting Android, web, iOS, phone, or Mac actions.","Keep final build and publish decisions behind explicit inspected approvals."],t.s)
+B.BA=new A.aV("Allowed Review Scope",B.m,B.KP)
 B.K5=s(["Do not add fake live backend claims.","Do not add direct command execution.","Do not add duplicate intelligence logic."],t.s)
 B.BB=new A.aV("Risk Watch",B.m,B.K5)
 B.Kj=s(["Tracks Android and iOS build readiness as an intelligence surface.","Connects Build-RayAI, PushPhone, and PushtoMac readiness signals without running those scripts.","Keeps phone install, Mac handoff, App Store visibility, and TestFlight visibility behind approved release gates."],t.s)
 B.BD=new A.aV("Mobile Release Purpose",B.m,B.Kj)
-B.Ng=s(["Canonical result JSON is not configured.","CSV export is not configured.","HTML export is not configured.","Summary report generation is not configured.","No defects are claimed without authorized evidence."],t.s)
-B.BE=new A.aV("Report Readiness",B.m,B.Ng)
-B.LY=s(["Makes recovery paths visible after compile, analyzer, or scope issues.","Keeps no-assumption workflow visible across the RayAI phases.","Supports next-scope selection from the latest verified GREEN."],t.s)
-B.BF=new A.aV("Audit Value",B.m,B.LY)
-B.KN=s(["Identifies where Business Unit review, Accounting review, validation review, and downstream operational review must be confirmed before release readiness.","Keeps ownership checkpoints visible when a workflow is technically complete but still waiting for evidence, data readiness, or downstream confirmation.","Highlights gaps where a scenario is missing a validation owner, missing review evidence, or missing a clear handoff expectation."],t.s)
-B.BG=new A.aV("Ownership And Readiness Gates",B.KN,B.m)
-B.NN=s(["Do not make blind edits.","Do not bypass inspection-first gates.","Do not turn RayAI into a second doctrine engine."],t.s)
-B.BI=new A.aV("Risk Watch",B.m,B.NN)
-B.Nk=s(["Identify missing depth and missing status visibility from inspected evidence.","Explain phase sequencing and blocker reasons without bypassing approval gates.","Keep next-step guidance inside RayAI 6.0 and build-number discipline."],t.s)
-B.BK=new A.aV("Allowed Guidance",B.m,B.Nk)
-B.L8=s(["Tracks central baseline decisions under C:\\src\\_BASELINES.","Distinguishes baseline planning from actual baseline execution.","Keeps project-local backups and baseline folders out of the RayAI root."],t.s)
-B.BL=new A.aV("Baseline Awareness",B.m,B.L8)
-B.NO=s(["Tenant commercial visibility must remain scoped to each client company boundary.","SaaS, API, and SDK commercial signals are visibility-only and do not execute account, billing, or access changes.","Allowed Core 12 output visibility stays render-only and must not become embedded commercial decision logic."],t.s)
-B.BM=new A.aV("Tenant SaaS API SDK Commercial Boundary",B.m,B.NO)
+B.Ni=s(["Canonical result JSON is not configured.","CSV export is not configured.","HTML export is not configured.","Summary report generation is not configured.","No defects are claimed without authorized evidence."],t.s)
+B.BE=new A.aV("Report Readiness",B.m,B.Ni)
+B.M0=s(["Makes recovery paths visible after compile, analyzer, or scope issues.","Keeps no-assumption workflow visible across the RayAI phases.","Supports next-scope selection from the latest verified GREEN."],t.s)
+B.BF=new A.aV("Audit Value",B.m,B.M0)
+B.KO=s(["Identifies where Business Unit review, Accounting review, validation review, and downstream operational review must be confirmed before release readiness.","Keeps ownership checkpoints visible when a workflow is technically complete but still waiting for evidence, data readiness, or downstream confirmation.","Highlights gaps where a scenario is missing a validation owner, missing review evidence, or missing a clear handoff expectation."],t.s)
+B.BG=new A.aV("Ownership And Readiness Gates",B.KO,B.m)
+B.NO=s(["Do not make blind edits.","Do not bypass inspection-first gates.","Do not turn RayAI into a second doctrine engine."],t.s)
+B.BI=new A.aV("Risk Watch",B.m,B.NO)
+B.Nl=s(["Identify missing depth and missing status visibility from inspected evidence.","Explain phase sequencing and blocker reasons without bypassing approval gates.","Keep next-step guidance inside RayAI 6.0 and build-number discipline."],t.s)
+B.BK=new A.aV("Allowed Guidance",B.m,B.Nl)
+B.La=s(["Tracks central baseline decisions under C:\\src\\_BASELINES.","Distinguishes baseline planning from actual baseline execution.","Keeps project-local backups and baseline folders out of the RayAI root."],t.s)
+B.BL=new A.aV("Baseline Awareness",B.m,B.La)
+B.NP=s(["Tenant commercial visibility must remain scoped to each client company boundary.","SaaS, API, and SDK commercial signals are visibility-only and do not execute account, billing, or access changes.","Allowed Core 12 output visibility stays render-only and must not become embedded commercial decision logic."],t.s)
+B.BM=new A.aV("Tenant SaaS API SDK Commercial Boundary",B.m,B.NP)
 B.Jf=s(["Explain whether patch, analyze, test, build, baseline, publish, or production actions are blocked or allowed.","Do not infer from stale reports when newer doctrine or gate evidence exists.","Do not claim a patch or baseline is allowed unless the current GREEN phase allows it."],t.s)
 B.BN=new A.aV("Gate Boundaries",B.m,B.Jf)
-B.KP=s(["Supports admin visibility and tenant-scoped SaaS/API/SDK visibility concepts.","Does not claim implemented security beyond inspected scope.","Keeps company users limited to their own usage, billing, reports, bugs, and allowed Core outputs."],t.s)
-B.BP=new A.aV("Access Boundaries",B.m,B.KP)
+B.KQ=s(["Supports admin visibility and tenant-scoped SaaS/API/SDK visibility concepts.","Does not claim implemented security beyond inspected scope.","Keeps company users limited to their own usage, billing, reports, bugs, and allowed Core outputs."],t.s)
+B.BP=new A.aV("Access Boundaries",B.m,B.KQ)
 B.Jb=s(["Application id: psecu_digital_banking.","Tenant ecosystem: psecu.","This surface renders readiness and blockers only."],t.s)
 B.BQ=new A.aV("Tenant Scope",B.m,B.Jb)
 B.K3=s(["Interpret reports by phase, status, decision, gate result, source path, and recommended next mode.","Separate GREEN evidence from REVIEW_REQUIRED blockers and stale-report conflicts.","Keep report paths exact and traceable to central baseline decisions."],t.s)
 B.BR=new A.aV("Report Interpretation",B.m,B.K3)
-B.Nc=s(["Inspect marketing source material before any public copy or claim change.","Keep growth, conversion, revenue, SaaS, and valuation language approval-gated.","Continue using build numbers inside 6.0 rather than version bumps."],t.s)
-B.BS=new A.aV("Next Inspected Actions",B.m,B.Nc)
-B.Nx=s(["Shows why a phase is GREEN, REVIEW_REQUIRED, or ready for the next target.","Keeps phase decisions tied to inspection evidence and report paths.","Protects against moving forward without a clean decision chain."],t.s)
-B.BT=new A.aV("Decision Trace",B.m,B.Nx)
-B.Nh=s(["Confirms this screen does not analyze, build, push, baseline, publish, or deploy.","Keeps release decisions gated by inspection reports and current GREEN evidence.","Prevents claiming release completion before build, validation, and approval gates are GREEN."],t.s)
-B.BU=new A.aV("Release Boundary Controls",B.Nh,B.m)
-B.NX=s(["Shows the boundary between RayAI visibility and external actions such as file transfer, scheduled transfer jobs, staging updates, core-system boarding, and booking.","Confirms this screen remains display-only and does not perform transfer jobs, staging updates, core-system boarding, Accounting posting, or Business Unit approvals.","Supports release decisions by making downstream touchpoints visible without claiming that hosted, live, or production processing is complete."],t.s)
-B.BV=new A.aV("Downstream Handoff Boundaries",B.NX,B.m)
+B.Ne=s(["Inspect marketing source material before any public copy or claim change.","Keep growth, conversion, revenue, SaaS, and valuation language approval-gated.","Continue using build numbers inside 6.0 rather than version bumps."],t.s)
+B.BS=new A.aV("Next Inspected Actions",B.m,B.Ne)
+B.Ny=s(["Shows why a phase is GREEN, REVIEW_REQUIRED, or ready for the next target.","Keeps phase decisions tied to inspection evidence and report paths.","Protects against moving forward without a clean decision chain."],t.s)
+B.BT=new A.aV("Decision Trace",B.m,B.Ny)
+B.Nj=s(["Confirms this screen does not analyze, build, push, baseline, publish, or deploy.","Keeps release decisions gated by inspection reports and current GREEN evidence.","Prevents claiming release completion before build, validation, and approval gates are GREEN."],t.s)
+B.BU=new A.aV("Release Boundary Controls",B.Nj,B.m)
+B.NY=s(["Shows the boundary between RayAI visibility and external actions such as file transfer, scheduled transfer jobs, staging updates, core-system boarding, and booking.","Confirms this screen remains display-only and does not perform transfer jobs, staging updates, core-system boarding, Accounting posting, or Business Unit approvals.","Supports release decisions by making downstream touchpoints visible without claiming that hosted, live, or production processing is complete."],t.s)
+B.BV=new A.aV("Downstream Handoff Boundaries",B.NY,B.m)
 B.K7=s(["Scope evidence comes from doctrine, inspection reports, baselines, route maps, screen inventories, and current gate results.","RayAI scope is organized by project, app button, report chain, readiness category, and tenant visibility boundary.","Scope advice must name the next inspected target before any patch is proposed."],t.s)
 B.BW=new A.aV("Scope Evidence",B.m,B.K7)
-B.Ma=s(["Keep global rules visible before any patch or build action.","Separate inspection, patch, verification, doctrine, and baseline gates.","Preserve render-only RayAI behavior without creating duplicate project logic."],t.s)
-B.BX=new A.aV("Doctrine Focus",B.m,B.Ma)
+B.Md=s(["Keep global rules visible before any patch or build action.","Separate inspection, patch, verification, doctrine, and baseline gates.","Preserve render-only RayAI behavior without creating duplicate project logic."],t.s)
+B.BX=new A.aV("Doctrine Focus",B.m,B.Md)
 B.Kl=s(["Production webapps/rayai remains reserved until a later production access gate is inspected and approved.","Client dashboard views are render-only summaries derived from the active RayAI session and inspected status contract.","Website publishing and production promotion are separate controlled phases, not actions performed by this RayAI screen."],t.s)
 B.BY=new A.aV("Production Promotion Boundary",B.m,B.Kl)
-B.O5=s(["Tracks Flutter analyze, version readiness, release notes, and approved build evidence before mobile release.","Separates release readiness from build execution so this screen remains display-only.","Highlights blocked release conditions before phone validation or distribution."],t.s)
-B.C_=new A.aV("Build Readiness Gates",B.O5,B.m)
-B.Ne=s(["Pricing, billing, usage, subscription, and revenue wording must remain evidence-based and approval-gated.","This screen does not create invoices, subscriptions, account charges, customer quotes, or public pricing claims.","Commercial status must remain aligned with tenant access boundaries and RayAI web portal readiness."],t.s)
-B.C0=new A.aV("Pricing Billing Usage Guardrails",B.m,B.Ne)
-B.Lb=s(["RayAI remains render-only for mobile release intelligence.","This screen records readiness signals only and does not perform release actions.","Build Gate Advisor and Release Readiness remain the source views for gate evidence."],t.s)
-B.C1=new A.aV("Release Boundaries",B.m,B.Lb)
-B.KE=s(["Verify this screen remains render-only.","Keep all actions inspection-first and report-backed.","Promote from contract-view only after verified data/report source inspection."],t.s)
-B.C3=new A.aV("Next Inspected Actions",B.m,B.KE)
-B.M0=s(["Release evidence comes from analyzer gates, test gates, baselines, doctrine closeouts, build readiness, and unresolved blocker status.","RayAI release status must show exact blockers and exact allowed next actions.","Public release claims remain blocked until website exposure and production gates are explicitly verified."],t.s)
-B.C4=new A.aV("Release Evidence",B.m,B.M0)
-B.Lp=s(["Production webapps/rayai remains reserved until a later production promotion gate is inspected and approved.","Cost, licensing, and valuation intelligence does not publish the website or promote RayAI from staging.","Commercial readiness can inform later launch planning, but it does not perform launch actions."],t.s)
-B.C5=new A.aV("Production Promotion Boundary",B.m,B.Lp)
+B.O6=s(["Tracks Flutter analyze, version readiness, release notes, and approved build evidence before mobile release.","Separates release readiness from build execution so this screen remains display-only.","Highlights blocked release conditions before phone validation or distribution."],t.s)
+B.C_=new A.aV("Build Readiness Gates",B.O6,B.m)
+B.Ng=s(["Pricing, billing, usage, subscription, and revenue wording must remain evidence-based and approval-gated.","This screen does not create invoices, subscriptions, account charges, customer quotes, or public pricing claims.","Commercial status must remain aligned with tenant access boundaries and RayAI web portal readiness."],t.s)
+B.C0=new A.aV("Pricing Billing Usage Guardrails",B.m,B.Ng)
+B.Le=s(["RayAI remains render-only for mobile release intelligence.","This screen records readiness signals only and does not perform release actions.","Build Gate Advisor and Release Readiness remain the source views for gate evidence."],t.s)
+B.C1=new A.aV("Release Boundaries",B.m,B.Le)
+B.KF=s(["Verify this screen remains render-only.","Keep all actions inspection-first and report-backed.","Promote from contract-view only after verified data/report source inspection."],t.s)
+B.C3=new A.aV("Next Inspected Actions",B.m,B.KF)
+B.M3=s(["Release evidence comes from analyzer gates, test gates, baselines, doctrine closeouts, build readiness, and unresolved blocker status.","RayAI release status must show exact blockers and exact allowed next actions.","Public release claims remain blocked until website exposure and production gates are explicitly verified."],t.s)
+B.C4=new A.aV("Release Evidence",B.m,B.M3)
+B.Ls=s(["Production webapps/rayai remains reserved until a later production promotion gate is inspected and approved.","Cost, licensing, and valuation intelligence does not publish the website or promote RayAI from staging.","Commercial readiness can inform later launch planning, but it does not perform launch actions."],t.s)
+B.C5=new A.aV("Production Promotion Boundary",B.m,B.Ls)
 B.Jj=s(["Includes General Partnership business lending scenarios with no co-applicants.","Covers Unsecured LOC, Secured LOC, Equipment, Commercial Vehicle Used, Commercial Vehicle New, and Business Visa combinations.","Tracks applicant details, business details, financial details, approval, contract, JSON export evidence, file-transfer handoff evidence, scheduled job evidence, core-system boarding evidence, staging visibility, BU review, and Accounting review expectations."],t.s)
 B.C6=new A.aV("General Partnership Lending Coverage",B.m,B.Jj)
-B.LB=s(["Build scripts and logs remain outside this screen.","RayAI displays build permission state, platform gates, and known blocked actions as readiness evidence.","Flutter, Android, web, phone, Mac, baseline, and production gates are treated separately."],t.s)
-B.C7=new A.aV("Readiness Evidence",B.m,B.LB)
-B.Lv=s(["Shows Android readiness evidence without starting any build command.","Shows phone install readiness evidence without pushing to a device.","Keeps APK, AAB, and device-install readiness separate from runtime execution."],t.s)
-B.C8=new A.aV("Android And Phone Install Coverage",B.m,B.Lv)
-B.NK=s(["Truthful SolveMotion Labs positioning and product storytelling.","Website copy ideas and proof-point framing without public claim creation.","Launch messaging visibility without marking deferred apps as live.","Marketing readiness boundaries for website, Core 12, and app-owned evidence."],t.s)
-B.C9=new A.aV("Deep Intelligence Coverage",B.m,B.NK)
-B.L4=s(["Tracks licensing model readiness for SaaS, API, SDK, and client company access boundaries.","Keeps licensing status tied to inspected evidence before any customer-facing commitment.","Supports tenant-scoped access planning without creating contracts or legal claims."],t.s)
-B.Ca=new A.aV("Licensing Readiness",B.m,B.L4)
-B.Nf=s(["Business workflows are represented as one reusable master flow with scenario-specific data variations.","Repeated steps are not duplicated across separate workflow scenarios.","RayAI tracks coverage, evidence expectations, validation checkpoints, and downstream review status."],t.s)
-B.Cb=new A.aV("Reusable Workflow Model",B.m,B.Nf)
-B.LW=s(["Public messaging review and concise customer-pain story tracking.","Applications page safety and RayAI visibility boundary tracking.","Webapp staging versus production claim separation."],t.s)
-B.Cc=new A.aV("Readiness Signals",B.m,B.LW)
-B.LL=s(["Shows iOS and Mac handoff readiness evidence without starting Xcode, CocoaPods, or App Store tooling.","Shows App Store and TestFlight visibility as readiness information only.","Keeps release decisions behind inspection reports and existing approved scripts."],t.s)
-B.Cd=new A.aV("iOS And Mac Handoff Coverage",B.m,B.LL)
-B.KG=s(["Inspect before patching.","Analyze and test after code changes.","Baseline only after green verification and doctrine closeout."],t.s)
-B.Ce=new A.aV("Gate Sequence",B.m,B.KG)
+B.LE=s(["Build scripts and logs remain outside this screen.","RayAI displays build permission state, platform gates, and known blocked actions as readiness evidence.","Flutter, Android, web, phone, Mac, baseline, and production gates are treated separately."],t.s)
+B.C7=new A.aV("Readiness Evidence",B.m,B.LE)
+B.Ly=s(["Shows Android readiness evidence without starting any build command.","Shows phone install readiness evidence without pushing to a device.","Keeps APK, AAB, and device-install readiness separate from runtime execution."],t.s)
+B.C8=new A.aV("Android And Phone Install Coverage",B.m,B.Ly)
+B.NL=s(["Truthful SolveMotion Labs positioning and product storytelling.","Website copy ideas and proof-point framing without public claim creation.","Launch messaging visibility without marking deferred apps as live.","Marketing readiness boundaries for website, Core 12, and app-owned evidence."],t.s)
+B.C9=new A.aV("Deep Intelligence Coverage",B.m,B.NL)
+B.L6=s(["Tracks licensing model readiness for SaaS, API, SDK, and client company access boundaries.","Keeps licensing status tied to inspected evidence before any customer-facing commitment.","Supports tenant-scoped access planning without creating contracts or legal claims."],t.s)
+B.Ca=new A.aV("Licensing Readiness",B.m,B.L6)
+B.Nh=s(["Business workflows are represented as one reusable master flow with scenario-specific data variations.","Repeated steps are not duplicated across separate workflow scenarios.","RayAI tracks coverage, evidence expectations, validation checkpoints, and downstream review status."],t.s)
+B.Cb=new A.aV("Reusable Workflow Model",B.m,B.Nh)
+B.LZ=s(["Public messaging review and concise customer-pain story tracking.","Applications page safety and RayAI visibility boundary tracking.","Webapp staging versus production claim separation."],t.s)
+B.Cc=new A.aV("Readiness Signals",B.m,B.LZ)
+B.LO=s(["Shows iOS and Mac handoff readiness evidence without starting Xcode, CocoaPods, or App Store tooling.","Shows App Store and TestFlight visibility as readiness information only.","Keeps release decisions behind inspection reports and existing approved scripts."],t.s)
+B.Cd=new A.aV("iOS And Mac Handoff Coverage",B.m,B.LO)
+B.KH=s(["Inspect before patching.","Analyze and test after code changes.","Baseline only after green verification and doctrine closeout."],t.s)
+B.Ce=new A.aV("Gate Sequence",B.m,B.KH)
 B.cZ=new A.ic(0,"detached")
 B.cf=new A.ic(1,"resumed")
 B.fO=new A.ic(2,"inactive")
@@ -91977,79 +91977,79 @@ B.jn=new A.kT()
 B.DC=new A.aa5()
 B.a5g=new A.aaz()
 B.DE=new A.aaE()
-B.T3=new A.b7(1,"Inspect all evidence reference models","Existing report/evidence contracts inspected and composed")
-B.Tf=new A.b7(2,"Add shared evidence viewer contract","Phase F evidence rows are centralized in this contract")
-B.Tb=new A.b7(3,"Show source path, confidence, freshness, linked doctrine, related reports","Visible phase summaries include source/evidence/freshness responsibilities")
-B.Ta=new A.b7(4,"Add evidence drill-down from reports, testing, release, decisions, portfolio","Cross-screen owners are named without adding a duplicate store")
-B.T1=new A.b7(5,"Add Decision Log handoff from evidence","Decision handoff remains route-owned and evidence-gated")
-B.Tw=new A.b7(6,"Validate cross-screen evidence consistency","No duplicate evidence owner and no credential exposure in visible text")
-B.O8=s([B.T3,B.Tf,B.Tb,B.Ta,B.T1,B.Tw],t.uX)
-B.SS=new A.eY("F","Evidence Viewer","/inspection-report-interpreter","Central evidence visibility for source path, confidence, freshness, doctrine links, related reports, and decision handoff.",B.O8,"Evidence viewer is render-only and does not read private files, mutate evidence, or create duplicate evidence stores.")
-B.T0=new A.b7(1,"Inspect build scripts, artifact folders, version/build number handling","Build 15 script behavior inspected and production endpoint verified")
-B.Tv=new A.b7(2,"Add render-only build status contract","Build status rendered as guidance only")
-B.T5=new A.b7(3,"Show Android, Web, staging, production, baseline, artifact status","Production web build 15 and final baseline are recorded")
-B.Tq=new A.b7(4,"Add next allowed action guidance","Guidance remains approval-gated")
-B.TA=new A.b7(5,"Add build-number and latest-artifact visibility","RayAI version 6.0.0+15 and production build_number 15 verified")
+B.T2=new A.b7(1,"Inspect all evidence reference models","Existing report/evidence contracts inspected and composed")
+B.Te=new A.b7(2,"Add shared evidence viewer contract","Phase F evidence rows are centralized in this contract")
+B.Ta=new A.b7(3,"Show source path, confidence, freshness, linked doctrine, related reports","Visible phase summaries include source/evidence/freshness responsibilities")
+B.T9=new A.b7(4,"Add evidence drill-down from reports, testing, release, decisions, portfolio","Cross-screen owners are named without adding a duplicate store")
+B.T0=new A.b7(5,"Add Decision Log handoff from evidence","Decision handoff remains route-owned and evidence-gated")
+B.Tu=new A.b7(6,"Validate cross-screen evidence consistency","No duplicate evidence owner and no credential exposure in visible text")
+B.O9=s([B.T2,B.Te,B.Ta,B.T9,B.T0,B.Tu],t.uX)
+B.ST=new A.eY("F","Evidence Viewer","/inspection-report-interpreter","Central evidence visibility for source path, confidence, freshness, doctrine links, related reports, and decision handoff.",B.O9,"Evidence viewer is render-only and does not read private files, mutate evidence, or create duplicate evidence stores.")
+B.T4=new A.b7(1,"Inspect build scripts, artifact folders, version/build number handling","Build script behavior inspected and latest production endpoint verified")
+B.Tt=new A.b7(2,"Add render-only build status contract","Build status rendered as guidance only")
+B.Tg=new A.b7(3,"Show Android, Web, staging, production, baseline, artifact status","Production web build and final baseline are recorded")
+B.To=new A.b7(4,"Add next allowed action guidance","Guidance remains approval-gated")
+B.Ty=new A.b7(5,"Add build-number and latest-artifact visibility","RayAI version 6.0.0+15 and production build_number 15 verified")
 B.TK=new A.b7(6,"Validate no build/publish execution unless separately authorized","UI remains render-only; publish used external authorized workflow")
-B.O9=s([B.T0,B.Tv,B.T5,B.Tq,B.TA,B.TK],t.uX)
-B.ST=new A.eY("G","Build / Release Command View","/build-gate-advisor","Render-only build status for Android, Web, staging, production, baselines, artifacts, next allowed action, and build number.",B.O9,"Build view does not run analyzer, tests, builds, Git, publish, phone push, or baseline actions from the UI.")
-B.Tl=new A.b7(1,"Inspect current Platform Map and ecosystem screen","Current connected architecture and ASCII map inspected")
+B.KA=s([B.T4,B.Tt,B.Tg,B.To,B.Ty,B.TK],t.uX)
+B.T_=new A.eY("G","Build / Release Command View","/build-gate-advisor","Render-only build status for Android, Web, staging, production, baselines, artifacts, next allowed action, and build number.",B.KA,"Build view does not run analyzer, tests, builds, Git, publish, phone push, or baseline actions from the UI.")
+B.Tk=new A.b7(1,"Inspect current Platform Map and ecosystem screen","Current connected architecture and ASCII map inspected")
 B.TO=new A.b7(2,"Add structured ecosystem graph contract","Core relationship owners are centralized and referenced")
-B.TI=new A.b7(3,"Replace rough ASCII with polished architecture map","Polished connected architecture cards and wide ASCII diagram present")
-B.Td=new A.b7(4,"Show Core 12, RayAI, Command Center, Website, apps, reports, testing, tenants","All named ecosystem nodes are present in routes or registry")
+B.TH=new A.b7(3,"Replace rough ASCII with polished architecture map","Polished connected architecture cards and wide ASCII diagram present")
+B.Tc=new A.b7(4,"Show Core 12, RayAI, Command Center, Website, apps, reports, testing, tenants","All named ecosystem nodes are present in routes or registry")
 B.TN=new A.b7(5,"Add relationship details and evidence links","Relationship details remain evidence-owned")
-B.TC=new A.b7(6,"Validate mobile/web rendering and no overlap","Dashboard uses stable three-column tiles and safe area bottom padding")
-B.Nw=s([B.Tl,B.TO,B.TI,B.Td,B.TN,B.TC],t.uX)
-B.SX=new A.eY("H","Ecosystem Map 2.0","/ecosystem","Structured ecosystem map showing Core 12, RayAI, Command Center, Website, apps, reports, testing, tenants, and relationships.",B.Nw,"Map displays relationships and evidence links only; it does not execute ecosystem operations.")
-B.T9=new A.b7(1,"Inspect existing searchable data owners","Existing owners identified")
-B.T6=new A.b7(2,"Add global search contract","Search scope is centralized as route/evidence visibility")
-B.To=new A.b7(3,"Add activity timeline contract","Timeline remains report/decision owned")
+B.TA=new A.b7(6,"Validate mobile/web rendering and no overlap","Dashboard uses stable three-column tiles and safe area bottom padding")
+B.Nx=s([B.Tk,B.TO,B.TH,B.Tc,B.TN,B.TA],t.uX)
+B.SY=new A.eY("H","Ecosystem Map 2.0","/ecosystem","Structured ecosystem map showing Core 12, RayAI, Command Center, Website, apps, reports, testing, tenants, and relationships.",B.Nx,"Map displays relationships and evidence links only; it does not execute ecosystem operations.")
+B.T8=new A.b7(1,"Inspect existing searchable data owners","Existing owners identified")
+B.T5=new A.b7(2,"Add global search contract","Search scope is centralized as route/evidence visibility")
+B.Tm=new A.b7(3,"Add activity timeline contract","Timeline remains report/decision owned")
 B.TQ=new A.b7(4,"Add alerts/notifications center","Alert visibility remains existing release-alert owned")
-B.Tj=new A.b7(5,"Connect search, timeline, and alerts to evidence","Evidence links are referenced, not duplicated")
-B.Tg=new A.b7(6,"Validate tenant isolation and no duplicate data store","Access tests remain GREEN and no new repository is added")
-B.Mb=s([B.T9,B.T6,B.To,B.TQ,B.Tj,B.Tg],t.uX)
-B.SY=new A.eY("I","Search / Timeline / Notifications","/real-time-code-monitor","Global searchable visibility, activity timeline, alerts, notifications, and evidence-linked status without duplicate data storage.",B.Mb,"Search and alerts remain render-only summaries from existing owners and do not create a second datastore.")
-B.TB=new A.b7(1,"Inspect tenant access and commercial screens","Tenant/commercial owners inspected")
-B.TJ=new A.b7(2,"Add subscription/licensing visibility contract","Visibility terms centralized")
-B.Tt=new A.b7(3,"Add role-based dashboard modes: Admin, Client, QA, Executive, Developer, Viewer","Role view boundaries named without adding auth duplicate")
-B.T8=new A.b7(4,"Add licensed-app, seat, usage, and renewal visibility","Licensed app and account status visibility remains tenant-scoped")
-B.Tn=new A.b7(5,"Add guarded upgrade/pricing display boundaries","No public pricing claim or billing action added")
+B.Ti=new A.b7(5,"Connect search, timeline, and alerts to evidence","Evidence links are referenced, not duplicated")
+B.Tf=new A.b7(6,"Validate tenant isolation and no duplicate data store","Access tests remain GREEN and no new repository is added")
+B.Me=s([B.T8,B.T5,B.Tm,B.TQ,B.Ti,B.Tf],t.uX)
+B.SZ=new A.eY("I","Search / Timeline / Notifications","/real-time-code-monitor","Global searchable visibility, activity timeline, alerts, notifications, and evidence-linked status without duplicate data storage.",B.Me,"Search and alerts remain render-only summaries from existing owners and do not create a second datastore.")
+B.Tz=new A.b7(1,"Inspect tenant access and commercial screens","Tenant/commercial owners inspected")
+B.TI=new A.b7(2,"Add subscription/licensing visibility contract","Visibility terms centralized")
+B.Tr=new A.b7(3,"Add role-based dashboard modes: Admin, Client, QA, Executive, Developer, Viewer","Role view boundaries named without adding auth duplicate")
+B.T7=new A.b7(4,"Add licensed-app, seat, usage, and renewal visibility","Licensed app and account status visibility remains tenant-scoped")
+B.Tl=new A.b7(5,"Add guarded upgrade/pricing display boundaries","No public pricing claim or billing action added")
 B.TM=new A.b7(6,"Validate access and no unverified pricing claims","Access tests GREEN; visible text is claim-guarded")
-B.Mp=s([B.TB,B.TJ,B.Tt,B.T8,B.Tn,B.TM],t.uX)
-B.SV=new A.eY("J","Subscription / Licensing / Role Views","/cost-licensing-valuation","Subscription, licensing, tenant role modes, seats, licensed apps, usage, renewals, guarded upgrade display, and pricing boundaries.",B.Mp,"Commercial visibility is evidence-gated and does not make pricing claims, billing changes, or entitlement mutations.")
+B.Ms=s([B.Tz,B.TI,B.Tr,B.T7,B.Tl,B.TM],t.uX)
+B.SV=new A.eY("J","Subscription / Licensing / Role Views","/cost-licensing-valuation","Subscription, licensing, tenant role modes, seats, licensed apps, usage, renewals, guarded upgrade display, and pricing boundaries.",B.Ms,"Commercial visibility is evidence-gated and does not make pricing claims, billing changes, or entitlement mutations.")
 B.TL=new A.b7(1,"Inspect all app detail screens","App screens and registry inspected")
-B.Te=new A.b7(2,"Add shared app dashboard contract","Shared pattern is route/status/registry based")
-B.Ts=new A.b7(3,"Add health, version, tests, release status, defects, evidence, reports","Health/version/test/report status visible from owners")
-B.TG=new A.b7(4,"Add related apps and dependency visibility","Related app visibility remains graph-owned")
-B.Tr=new A.b7(5,"Add next action and report links","Workflow link buttons are route-based")
-B.TD=new A.b7(6,"Validate all app screens use shared pattern, no duplicate logic","No duplicate app logic introduced")
-B.La=s([B.TL,B.Te,B.Ts,B.TG,B.Tr,B.TD],t.uX)
-B.SU=new A.eY("K","App Detail Dashboards","/","Shared app dashboard pattern for health, version, tests, release status, defects, evidence, reports, related apps, dependencies, and next actions.",B.La,"App dashboards compose registry/status/report owners and do not duplicate app business logic.")
-B.TF=new A.b7(1,"Inspect baseline, doctrine, freshness sources","Doctrine and final baselines inspected")
-B.Tp=new A.b7(2,"Add Baseline Center visibility","Final baseline path recorded")
-B.T4=new A.b7(3,"Add Doctrine Health Center visibility","Doctrine closeout entries are present")
-B.Th=new A.b7(4,"Add Data Freshness Center","Build 15 production endpoint verified")
-B.Tx=new A.b7(5,"Add stale source and stale report warnings","Freshness remains evidence-required when stale")
-B.Tz=new A.b7(6,"Validate baseline discipline under C:\\src\\_BASELINES","Final baseline stored under C:\\src\\_BASELINES\\FINAL")
-B.Nj=s([B.TF,B.Tp,B.T4,B.Th,B.Tx,B.Tz],t.uX)
-B.T_=new A.eY("L","Baseline / Doctrine / Data Freshness","/doctrine-reasoning","Baseline center, doctrine health, data freshness, stale source warnings, stale report warnings, and central baseline discipline.",B.Nj,"Baseline visibility does not create baselines from the UI; central baselines remain under C:\\src\\_BASELINES only.")
-B.Tk=new A.b7(1,"Inspect recommendation sources","Recommendation source contracts inspected")
-B.Ti=new A.b7(2,"Add recommendation queue contract","Queue visibility centralized as advisory scope")
-B.T7=new A.b7(3,"Show confidence, evidence, impact, owner, status","Confidence/evidence/impact are named as required attributes")
-B.TH=new A.b7(4,"Add approve/defer/reject handoff","Handoff is display-only and approval-gated")
-B.T2=new A.b7(5,"Connect recommendations to Decision Log and reports","Connections are route/evidence based")
-B.Ty=new A.b7(6,"Validate recommendations remain advisory","No mutation or execution path added")
-B.KJ=s([B.Tk,B.Ti,B.T7,B.TH,B.T2,B.Ty],t.uX)
-B.SW=new A.eY("M","AI Recommendation Queue","/next-5-upgrades","Recommendation queue with confidence, evidence, impact, owner, status, approve/defer/reject handoff, Decision Log, and report links.",B.KJ,"Recommendations remain advisory and cannot approve, reject, mutate, or execute work from the UI.")
-B.Tu=new A.b7(1,"Inspect Android and Web UI issues","Safe areas, dashboard columns, report scrolls, and production build inspected")
-B.TE=new A.b7(2,"Polish spacing, safe area, buttons, tile sizing, reports, scroll behavior","SafeArea bottom padding and 3-column dashboard tiles present")
+B.Td=new A.b7(2,"Add shared app dashboard contract","Shared pattern is route/status/registry based")
+B.Tq=new A.b7(3,"Add health, version, tests, release status, defects, evidence, reports","Health/version/test/report status visible from owners")
+B.TF=new A.b7(4,"Add related apps and dependency visibility","Related app visibility remains graph-owned")
+B.Tp=new A.b7(5,"Add next action and report links","Workflow link buttons are route-based")
+B.TB=new A.b7(6,"Validate all app screens use shared pattern, no duplicate logic","No duplicate app logic introduced")
+B.Ld=s([B.TL,B.Td,B.Tq,B.TF,B.Tp,B.TB],t.uX)
+B.SU=new A.eY("K","App Detail Dashboards","/","Shared app dashboard pattern for health, version, tests, release status, defects, evidence, reports, related apps, dependencies, and next actions.",B.Ld,"App dashboards compose registry/status/report owners and do not duplicate app business logic.")
+B.TD=new A.b7(1,"Inspect baseline, doctrine, freshness sources","Doctrine and final baselines inspected")
+B.Tn=new A.b7(2,"Add Baseline Center visibility","Final baseline path recorded")
+B.T3=new A.b7(3,"Add Doctrine Health Center visibility","Doctrine closeout entries are present")
+B.TE=new A.b7(4,"Add Data Freshness Center","Latest production endpoint verified")
+B.Tv=new A.b7(5,"Add stale source and stale report warnings","Freshness remains evidence-required when stale")
+B.Tx=new A.b7(6,"Validate baseline discipline under C:\\src\\_BASELINES","Final baseline stored under C:\\src\\_BASELINES\\FINAL")
+B.Lb=s([B.TD,B.Tn,B.T3,B.TE,B.Tv,B.Tx],t.uX)
+B.SX=new A.eY("L","Baseline / Doctrine / Data Freshness","/doctrine-reasoning","Baseline center, doctrine health, data freshness, stale source warnings, stale report warnings, and central baseline discipline.",B.Lb,"Baseline visibility does not create baselines from the UI; central baselines remain under C:\\src\\_BASELINES only.")
+B.Tj=new A.b7(1,"Inspect recommendation sources","Recommendation source contracts inspected")
+B.Th=new A.b7(2,"Add recommendation queue contract","Queue visibility centralized as advisory scope")
+B.T6=new A.b7(3,"Show confidence, evidence, impact, owner, status","Confidence/evidence/impact are named as required attributes")
+B.TG=new A.b7(4,"Add approve/defer/reject handoff","Handoff is display-only and approval-gated")
+B.T1=new A.b7(5,"Connect recommendations to Decision Log and reports","Connections are route/evidence based")
+B.Tw=new A.b7(6,"Validate recommendations remain advisory","No mutation or execution path added")
+B.KK=s([B.Tj,B.Th,B.T6,B.TG,B.T1,B.Tw],t.uX)
+B.SW=new A.eY("M","AI Recommendation Queue","/next-5-upgrades","Recommendation queue with confidence, evidence, impact, owner, status, approve/defer/reject handoff, Decision Log, and report links.",B.KK,"Recommendations remain advisory and cannot approve, reject, mutate, or execute work from the UI.")
+B.Ts=new A.b7(1,"Inspect Android and Web UI issues","Safe areas, dashboard columns, report scrolls, and production build inspected")
+B.TC=new A.b7(2,"Polish spacing, safe area, buttons, tile sizing, reports, scroll behavior","SafeArea bottom padding and 3-column dashboard tiles present")
 B.TR=new A.b7(3,"Run analyzer and tests","Analyzer GREEN; full tests GREEN with 109 tests")
-B.Tc=new A.b7(4,"Build Android if authorized","Android build is not re-run in this closeout unless explicitly requested after final scope correction")
-B.Tm=new A.b7(5,"Build/publish Web if authorized","Web build 15 published to production commit ff11aa8")
+B.Tb=new A.b7(4,"Build Android if authorized","Android build is not re-run in this closeout unless explicitly requested after final scope correction")
+B.TJ=new A.b7(5,"Build/publish Web if authorized","Web production release published through the website Git workflow")
 B.TP=new A.b7(6,"Final doctrine closeout and central baseline if authorized","Final all-phase closeout is produced after F-N validation")
-B.MS=s([B.Tu,B.TE,B.TR,B.Tc,B.Tm,B.TP],t.uX)
-B.SZ=new A.eY("N","Mobile / Web Polish and Final Closeout","/mobile-build-release-intelligence","Mobile/web polish, safe area, buttons, tile sizing, reports, scroll behavior, analyzer, tests, builds, web publish, doctrine, and central baseline.",B.MS,"Final release actions occur only through authorized external scripts and Git workflow, not from RayAI UI.")
-B.kN=s([B.SS,B.ST,B.SX,B.SY,B.SV,B.SU,B.T_,B.SW,B.SZ],A.aj("x<eY>"))
+B.KV=s([B.Ts,B.TC,B.TR,B.Tb,B.TJ,B.TP],t.uX)
+B.SS=new A.eY("N","Mobile / Web Polish and Final Closeout","/mobile-build-release-intelligence","Mobile/web polish, safe area, buttons, tile sizing, reports, scroll behavior, analyzer, tests, builds, web publish, doctrine, and central baseline.",B.KV,"Final release actions occur only through authorized external scripts and Git workflow, not from RayAI UI.")
+B.kN=s([B.ST,B.T_,B.SY,B.SZ,B.SV,B.SU,B.SX,B.SW,B.SS],A.aj("x<eY>"))
 B.DG=new A.abn()
 B.n4=new A.n2()
 B.DH=new A.adK()
@@ -92077,7 +92077,7 @@ B.DV=new A.ahV()
 B.a1=new A.OQ()
 B.cj=new A.ahY()
 B.ep=new A.OT(0,0,0,0)
-B.MD=s([],A.aj("x<aVF>"))
+B.MG=s([],A.aj("x<aVF>"))
 B.a5h=new A.ai2()
 B.fU=new A.Pd()
 B.dJ=new A.Pe()
@@ -92764,10 +92764,10 @@ B.J7=new A.po(1,"titleHeight")
 B.p_=new A.po(2,"top")
 B.p0=new A.po(3,"center")
 B.J8=new A.po(4,"bottom")
-B.Mc=s([1373.2198709594231,-1100.4251190754821,-7.278681089101213],t.n)
-B.Lu=s([-271.815969077903,559.6580465940733,-32.46047482791194],t.n)
+B.Mf=s([1373.2198709594231,-1100.4251190754821,-7.278681089101213],t.n)
+B.Lx=s([-271.815969077903,559.6580465940733,-32.46047482791194],t.n)
 B.Oc=s([1.9622899599665666,-57.173814538844006,308.7233197812385],t.n)
-B.Jc=s([B.Mc,B.Lu,B.Oc],t.zg)
+B.Jc=s([B.Mf,B.Lx,B.Oc],t.zg)
 B.p1=s(["text","multiline","number","phone","datetime","emailAddress","url","visiblePassword","name","address","none","webSearch","twitter"],t.s)
 B.Je=s([239,191,189],t.t)
 B.Jg=s(["RayAI prepares the tenant-scoped automation request and shows exactly what would run.","RayAI web does not directly start PowerShell, build scripts, browser automation, phone pushes, Git, or production publishing.","The local orchestrator must own execution, evidence folders, result.json, stdout, stderr, CSV, HTML, and bug report artifacts.","A test cannot display Passed without canonical execution evidence from the orchestrator result data."],t.s)
@@ -92777,10 +92777,10 @@ B.JL=s([4,9,14,19],t.t)
 B.my=new A.F0(0,"named")
 B.B_=new A.F0(1,"anonymous")
 B.JW=s([B.my,B.B_],A.aj("x<F0>"))
-B.Lz=s([0.41233895,0.35762064,0.18051042],t.n)
+B.LC=s([0.41233895,0.35762064,0.18051042],t.n)
 B.Kx=s([0.2126,0.7152,0.0722],t.n)
-B.NS=s([0.01932141,0.11916382,0.95034478],t.n)
-B.de=s([B.Lz,B.Kx,B.NS],t.zg)
+B.NT=s([0.01932141,0.11916382,0.95034478],t.n)
+B.de=s([B.LC,B.Kx,B.NT],t.zg)
 B.p2=s([0,4,12,1,5,13,3,7,15],t.t)
 B.JZ=s(["RayAI has no authenticated tenant context for this question."],t.s)
 B.K0=s([65533],t.t)
@@ -92812,26 +92812,26 @@ B.En=new A.fd(null,B.a2_,null,null)
 B.a1M=new A.bj("Evidence gated",null,null,null,null,null,null,null,null)
 B.Eo=new A.fd(null,B.a1M,null,null)
 B.Km=s([B.El,B.En,B.Eo],t.p)
-B.L1=s([2,1.13276676],t.n)
+B.L3=s([2,1.13276676],t.n)
 B.Jn=s([2.18349805,1.20311921],t.n)
-B.N5=s([2.33888662,1.28698796],t.n)
-B.Nb=s([2.48660575,1.36351941],t.n)
+B.N7=s([2.33888662,1.28698796],t.n)
+B.Nd=s([2.48660575,1.36351941],t.n)
 B.Kt=s([2.62226596,1.44717976],t.n)
-B.KH=s([2.7514899,1.53385819],t.n)
-B.LV=s([3.36298265,1.98288283],t.n)
-B.Ld=s([4.08649929,2.23811846],t.n)
-B.LI=s([4.85481134,2.47563463],t.n)
+B.KI=s([2.7514899,1.53385819],t.n)
+B.LY=s([3.36298265,1.98288283],t.n)
+B.Lg=s([4.08649929,2.23811846],t.n)
+B.LL=s([4.85481134,2.47563463],t.n)
 B.Kw=s([5.62945551,2.72948597],t.n)
-B.L3=s([6.43023796,2.98020421],t.n)
-B.p3=s([B.L1,B.Jn,B.N5,B.Nb,B.Kt,B.KH,B.LV,B.Ld,B.LI,B.Kw,B.L3],t.zg)
+B.L5=s([6.43023796,2.98020421],t.n)
+B.p3=s([B.L3,B.Jn,B.N7,B.Nd,B.Kt,B.KI,B.LY,B.Lg,B.LL,B.Kw,B.L5],t.zg)
 B.Ks=s([B.ji,B.jj],A.aj("x<wR>"))
 B.Kv=s([18,15,10,12,15,18,15,12,12],t.n)
 B.bu=new A.jZ(0,"label")
 B.b1=new A.jZ(1,"avatar")
 B.cd=new A.jZ(2,"deleteIcon")
-B.KK=s([B.bu,B.b1,B.cd],A.aj("x<jZ>"))
-B.KQ=s([1116352408,1899447441,3049323471,3921009573,961987163,1508970993,2453635748,2870763221,3624381080,310598401,607225278,1426881987,1925078388,2162078206,2614888103,3248222580,3835390401,4022224774,264347078,604807628,770255983,1249150122,1555081692,1996064986,2554220882,2821834349,2952996808,3210313671,3336571891,3584528711,113926993,338241895,666307205,773529912,1294757372,1396182291,1695183700,1986661051,2177026350,2456956037,2730485921,2820302411,3259730800,3345764771,3516065817,3600352804,4094571909,275423344,430227734,506948616,659060556,883997877,958139571,1322822218,1537002063,1747873779,1955562222,2024104815,2227730452,2361852424,2428436474,2756734187,3204031479,3329325298],t.t)
-B.KS=s(["No financial aggregator credential entry is performed by this screen.","This screen provides display-only workflow evidence; file transfer, scheduled transfer jobs, and downstream booking actions remain outside this screen.","No core-system boarding action or staging update action is performed by this screen.","No duplicate business logic, Core 12 scoring, or external system automation is implemented in this screen."],t.s)
+B.KL=s([B.bu,B.b1,B.cd],A.aj("x<jZ>"))
+B.KR=s([1116352408,1899447441,3049323471,3921009573,961987163,1508970993,2453635748,2870763221,3624381080,310598401,607225278,1426881987,1925078388,2162078206,2614888103,3248222580,3835390401,4022224774,264347078,604807628,770255983,1249150122,1555081692,1996064986,2554220882,2821834349,2952996808,3210313671,3336571891,3584528711,113926993,338241895,666307205,773529912,1294757372,1396182291,1695183700,1986661051,2177026350,2456956037,2730485921,2820302411,3259730800,3345764771,3516065817,3600352804,4094571909,275423344,430227734,506948616,659060556,883997877,958139571,1322822218,1537002063,1747873779,1955562222,2024104815,2227730452,2361852424,2428436474,2756734187,3204031479,3329325298],t.t)
+B.KT=s(["No financial aggregator credential entry is performed by this screen.","This screen provides display-only workflow evidence; file transfer, scheduled transfer jobs, and downstream booking actions remain outside this screen.","No core-system boarding action or staging update action is performed by this screen.","No duplicate business logic, Core 12 scoring, or external system automation is implemented in this screen."],t.s)
 B.Im=new A.ca(B.f0,18,null,null,null)
 B.a1N=new A.bj("Admin controlled",null,null,null,null,null,null,null,null)
 B.Ef=new A.fd(B.Im,B.a1N,null,null)
@@ -92841,19 +92841,19 @@ B.a1T=new A.bj("Folder scoped",null,null,null,null,null,null,null,null)
 B.Ei=new A.fd(B.Ih,B.a1T,null,null)
 B.a1X=new A.bj("Tenant isolated",null,null,null,null,null,null,null,null)
 B.Eg=new A.fd(B.oQ,B.a1X,null,null)
-B.KU=s([B.Ef,B.Ei,B.Eg],t.p)
-B.KV=s(["No analyze command is started by this screen.",u.y,"No phone push or Mac handoff is started by this screen.","No production or publish action is started by this screen."],t.s)
-B.KX=s(["No registry coverage gaps or blocked actions."],t.s)
-B.L2=s(["Some records are high confidence while others still need evidence or review."],t.s)
-B.KA=s(["Phases H through N are GREEN for home dashboard wiring, analyzer review, doctrine update, and central baseline.","The active roadmap is the relocked A through Z sequence in RAYAI_6_STATUS_AND_DOCTRINE.txt.","This screen renders roadmap visibility only; it does not choose, execute, or mark future work complete."],t.s)
-B.Bx=new A.aV("Current Verified Position",B.m,B.KA)
-B.MX=s(["Phase O - inspect Next 5 Upgrades against the active roadmap and record the exact gap before patching.","Phase P - patch and verify this screen only if Phase O proves a render-only content gap.","Phase Q - inspect Ecosystem Testing / Bug Intelligence before any bug-intelligence upgrade.","Phase R - patch and verify Ecosystem Testing / Bug Intelligence only after Phase Q evidence is green.","Phase S - inspect Cost / Licensing / Valuation before any commercial intelligence upgrade."],t.s)
-B.Bv=new A.aV("Next Five Phases",B.m,B.MX)
-B.NL=s(["Inspect the target screen, route, asset id, access gate, and shared widget contract before each patch.","Keep each approved patch scoped to the verified target and reuse the existing RayAI provider/detail-screen patterns.","Run analyzer and tests after code changes, then record doctrine and central baseline evidence when the phase requires it."],t.s)
-B.BH=new A.aV("Execution Rules",B.m,B.NL)
+B.KW=s([B.Ef,B.Ei,B.Eg],t.p)
+B.KX=s(["No analyze command is started by this screen.",u.y,"No phone push or Mac handoff is started by this screen.","No production or publish action is started by this screen."],t.s)
+B.KZ=s(["No registry coverage gaps or blocked actions."],t.s)
+B.L4=s(["Some records are high confidence while others still need evidence or review."],t.s)
+B.KB=s(["Phases H through N are GREEN for home dashboard wiring, analyzer review, doctrine update, and central baseline.","The active roadmap is the relocked A through Z sequence in RAYAI_6_STATUS_AND_DOCTRINE.txt.","This screen renders roadmap visibility only; it does not choose, execute, or mark future work complete."],t.s)
+B.Bx=new A.aV("Current Verified Position",B.m,B.KB)
+B.MZ=s(["Phase O - inspect Next 5 Upgrades against the active roadmap and record the exact gap before patching.","Phase P - patch and verify this screen only if Phase O proves a render-only content gap.","Phase Q - inspect Ecosystem Testing / Bug Intelligence before any bug-intelligence upgrade.","Phase R - patch and verify Ecosystem Testing / Bug Intelligence only after Phase Q evidence is green.","Phase S - inspect Cost / Licensing / Valuation before any commercial intelligence upgrade."],t.s)
+B.Bv=new A.aV("Next Five Phases",B.m,B.MZ)
+B.NM=s(["Inspect the target screen, route, asset id, access gate, and shared widget contract before each patch.","Keep each approved patch scoped to the verified target and reuse the existing RayAI provider/detail-screen patterns.","Run analyzer and tests after code changes, then record doctrine and central baseline evidence when the phase requires it."],t.s)
+B.BH=new A.aV("Execution Rules",B.m,B.NM)
 B.Kq=s(["Do not bump the 6.0 version from this screen.","Do not create a duplicate roadmap engine, scheduler, build runner, website publisher, or Core 12 scoring path inside RayAI.","Do not mark Phase Q, R, or S complete until their own inspection and verification evidence exists."],t.s)
 B.By=new A.aV("Risk Watch",B.m,B.Kq)
-B.L6=s([B.Bx,B.Bv,B.BH,B.By],t.R)
+B.L8=s([B.Bx,B.Bv,B.BH,B.By],t.R)
 B.aK=new A.eu(0,"icon")
 B.b2=new A.eu(1,"input")
 B.ah=new A.eu(2,"label")
@@ -92865,7 +92865,7 @@ B.aV=new A.eu(7,"suffixIcon")
 B.bZ=new A.eu(8,"helperError")
 B.c_=new A.eu(9,"counter")
 B.cV=new A.eu(10,"container")
-B.L7=s([B.aK,B.b2,B.ah,B.bk,B.bl,B.bm,B.ab,B.aV,B.bZ,B.c_,B.cV],A.aj("x<eu>"))
+B.L9=s([B.aK,B.b2,B.ah,B.bk,B.bl,B.bm,B.ab,B.aV,B.bZ,B.c_,B.cV],A.aj("x<eu>"))
 B.Oe=new A.kL("en",null,"US")
 B.p4=s([B.Oe],t.ss)
 B.p5=s([0,41,61,101,131,181,251,301,360],t.n)
@@ -92876,9 +92876,9 @@ B.a42=new A.lA(6,0.11)
 B.a40=new A.lA(8,0.12)
 B.a4_=new A.lA(12,0.14)
 B.p6=s([B.a3Z,B.a43,B.a41,B.a42,B.a40,B.a4_],A.aj("x<lA>"))
-B.Lc=s(["RayAI does not scan source files directly from this screen.","RayAI does not run PowerShell, Flutter, or build commands from this screen.","RayAI does not replace inspection reports or Command Center tooling."],t.s)
+B.Lf=s(["RayAI does not scan source files directly from this screen.","RayAI does not run PowerShell, Flutter, or build commands from this screen.","RayAI does not replace inspection reports or Command Center tooling."],t.s)
 B.p7=s([0,21,51,121,151,191,271,321,360],t.n)
-B.Lm=s(["Inspection report interpretation only.","No patch, build, baseline, publish, Git, or production action is executed from this screen."],t.s)
+B.Lp=s(["Inspection report interpretation only.","No patch, build, baseline, publish, Git, or production action is executed from this screen."],t.s)
 B.I5=new A.an(984381,"MaterialIcons",!1)
 B.a3J=new A.lu(B.I5,"RayAI","Status, bugs, reports, scope, release readiness",null)
 B.I3=new A.an(984326,"MaterialIcons",!1)
@@ -92889,25 +92889,25 @@ B.a3I=new A.lu(B.ou,"Ecosystem apps","SolveMotion, Mind, Crime, Pharmacy, Oura",
 B.HD=new A.an(58608,"MaterialIcons",!1)
 B.a3H=new A.lu(B.HD,"Website portal","RayAI web, client visibility, production status",null)
 B.a3M=new A.lu(B.oO,"Command Center","Owns scripts, builds, pushes, operations",null)
-B.Ln=s([B.a3J,B.a3K,B.a3L,B.a3I,B.a3H,B.a3M],t.p)
-B.Ls=s(["No reports are visible for this client session."],t.s)
+B.Lq=s([B.a3J,B.a3K,B.a3L,B.a3I,B.a3H,B.a3M],t.p)
+B.Lv=s(["No reports are visible for this client session."],t.s)
 B.Cw=new A.HY(2,"outer")
 B.nm=new A.C(0.09803921568627451,0,0,0,B.h)
 B.e=new A.h(0,0)
 B.CO=new A.cD(0.2,B.Cw,B.nm,B.e,11)
-B.Lw=s([B.CO],t.sq)
-B.Lx=s(["Shows the live status contract, app health, readiness, coverage gaps, and evidence freshness.","Explains what is working, blocked, waiting, or missing across the whole ecosystem.","Keeps all monitoring tied to inspected source evidence instead of duplicate runtime engines."],t.s)
-B.LD=s([u.y,"No phone push is started by this screen.","No Mac handoff is started by this screen.","No App Store or TestFlight action is started by this screen.","No Core runtime call or local scoring is performed by this screen.","No app workflow logic is duplicated here."],t.s)
-B.KB=s(["Summarizes inspected RayAI scope into readable status sections.","Supports phase closeout, baseline planning, and next-scope selection.","Keeps evidence visible without fabricating GREEN status."],t.s)
-B.Bu=new A.aV("Report Purpose",B.m,B.KB)
+B.Lz=s([B.CO],t.sq)
+B.LA=s(["Shows the live status contract, app health, readiness, coverage gaps, and evidence freshness.","Explains what is working, blocked, waiting, or missing across the whole ecosystem.","Keeps all monitoring tied to inspected source evidence instead of duplicate runtime engines."],t.s)
+B.LG=s([u.y,"No phone push is started by this screen.","No Mac handoff is started by this screen.","No App Store or TestFlight action is started by this screen.","No Core runtime call or local scoring is performed by this screen.","No app workflow logic is duplicated here."],t.s)
+B.KC=s(["Summarizes inspected RayAI scope into readable status sections.","Supports phase closeout, baseline planning, and next-scope selection.","Keeps evidence visible without fabricating GREEN status."],t.s)
+B.Bu=new A.aV("Report Purpose",B.m,B.KC)
 B.Jk=s(["Uses inspection report paths, route coverage, asset tile counts, and safety gate results.","Highlights gaps such as thin screens, analyzer pollution, route mismatch, and unsafe runtime markers.","Keeps prior GREEN baselines visible for traceability."],t.s)
 B.C2=new A.aV("Report Inputs",B.m,B.Jk)
-B.NI=s(["Does not write PDFs or publish external reports.","Does not execute builds, tests, website publish, or Git.","Generated status must stay grounded in inspected evidence."],t.s)
-B.BC=new A.aV("Output Boundary",B.m,B.NI)
-B.LE=s([B.Bu,B.C2,B.BC],t.R)
+B.NJ=s(["Does not write PDFs or publish external reports.","Does not execute builds, tests, website publish, or Git.","Generated status must stay grounded in inspected evidence."],t.s)
+B.BC=new A.aV("Output Boundary",B.m,B.NJ)
+B.LH=s([B.Bu,B.C2,B.BC],t.R)
 B.Aa=new A.BC(0,"left")
 B.Ab=new A.BC(1,"right")
-B.LH=s([B.Aa,B.Ab],A.aj("x<BC>"))
+B.LK=s([B.Aa,B.Ab],A.aj("x<BC>"))
 B.U2=new A.fl("solvemotion","SolveMotion","Movement app intelligence and reports.")
 B.TY=new A.fl("solvepharmacy","SolvePharmacy","Pharmacy app intelligence and education status.")
 B.U0=new A.fl("solvecrime","SolveCrime","Case, scene, evidence, and report intelligence.")
@@ -92919,23 +92919,23 @@ B.TZ=new A.fl("website","Website / RayAI Web Portal","Website and portal visibil
 B.TV=new A.fl("business_process","Business Process / Workflow","Tenant workflow coverage and evidence visibility.")
 B.kO=s([B.U2,B.TY,B.U0,B.U_,B.TW,B.TX,B.U1,B.TZ,B.TV],A.aj("x<fl>"))
 B.aa=new A.BP(0,"upstream")
-B.LJ=s([B.aa,B.j],A.aj("x<BP>"))
+B.LM=s([B.aa,B.j],A.aj("x<BP>"))
 B.av=new A.BT(0,"rtl")
 B.a0=new A.BT(1,"ltr")
 B.kP=s([B.av,B.a0],A.aj("x<BT>"))
-B.LK=s(["Client dashboard data is derived from the active RayAI access session.","Licensed app visibility is filtered by RayAiAccessController and RayAiAccessScope.","Core 12 outputs remain render-only visibility and do not run local scoring.","Reports and evidence are visibility summaries only; this contract does not build, publish, execute, or mutate files."],t.s)
-B.LS=s(["No client next actions are available until licensed apps are visible."],t.s)
+B.LN=s(["Client dashboard data is derived from the active RayAI access session.","Licensed app visibility is filtered by RayAiAccessController and RayAiAccessScope.","Core 12 outputs remain render-only visibility and do not run local scoring.","Reports and evidence are visibility summaries only; this contract does not build, publish, execute, or mutate files."],t.s)
+B.LV=s(["No client next actions are available until licensed apps are visible."],t.s)
 B.cW=new A.iY(0,"leading")
 B.bL=new A.iY(1,"title")
 B.cX=new A.iY(2,"subtitle")
 B.ex=new A.iY(3,"trailing")
-B.LT=s([B.cW,B.bL,B.cX,B.ex],A.aj("x<iY>"))
-B.LU=s(["psecuWebsiteAccessWithoutExecutionGate","credentialStorageWithoutSecretStoreGate","browserAutomationWithoutAdapterGate","loginAutomationWithoutCredentialGate","financialTransactionAutomation","memberDataModification","unscopedEvidenceCapture","crossTenantBrowserStateReuse"],t.s)
+B.LW=s([B.cW,B.bL,B.cX,B.ex],A.aj("x<iY>"))
+B.LX=s(["psecuWebsiteAccessWithoutExecutionGate","credentialStorageWithoutSecretStoreGate","browserAutomationWithoutAdapterGate","loginAutomationWithoutCredentialGate","financialTransactionAutomation","memberDataModification","unscopedEvidenceCapture","crossTenantBrowserStateReuse"],t.s)
 B.E6=new A.oq(0,"auto")
 B.E7=new A.oq(1,"full")
 B.E8=new A.oq(2,"chromium")
-B.LX=s([B.E6,B.E7,B.E8,B.cI],A.aj("x<oq>"))
-B.LZ=s(["All Ask RayAI answers must start from the active access session."],t.s)
+B.M_=s([B.E6,B.E7,B.E8,B.cI],A.aj("x<oq>"))
+B.M1=s(["All Ask RayAI answers must start from the active access session."],t.s)
 B.Ua=new A.d6("unit","Unit Testing","Checks individual code units, package rules, validators, and isolated app contracts before broader workflows run.","validates isolated package behavior and app-owned checks before full workflows","unitTest",!1,!0,120,u.v)
 B.Uf=new A.d6("integration","Integration Testing","Checks app screens, shared contracts, route wiring, asset contracts, and Core 12 render-only handoffs together.","validates connected screens, contracts, assets, routes, and Core 12 display boundaries","integrationTest",!1,!0,300,u.v)
 B.Uh=new A.d6("functional","Functional testing","Checks expected user workflows, dashboard navigation, tenant visibility, reports, and release surfaces.","validates selected user workflows and tenant-visible app behavior","functionalTest",!1,!0,600,u.v)
@@ -92951,9 +92951,9 @@ B.U6=new A.d6("webApplicationPenetration","Web Application Penetration Testing",
 B.U9=new A.d6("mobileApplicationPenetration","Mobile Application Penetration Testing","Tracks mobile app storage, API traffic, permissions, and device-level protection review.","documents authorized mobile application penetration findings","mobileApplicationPenetrationTest",!0,!1,1800,u.I)
 B.U4=new A.d6("cloudSecurity","Cloud Security Testing","Reviews cloud identities, storage permissions, network rules, and configuration posture.","documents cloud identity, storage, network rule, and configuration findings","cloudSecurityTest",!0,!1,1800,u.I)
 B.U8=new A.d6("socialEngineering","Social Engineering Testing","Tracks authorized phishing, phone, or employee-manipulation resilience tests as a separate approval lane.","documents authorized employee-resilience findings without launching activity from RayAI web","socialEngineeringTest",!0,!1,1800,u.I)
-B.M_=s([B.Ua,B.Uf,B.Uh,B.Ug,B.Ud,B.Uc,B.Ue,B.Ub,B.Ui,B.U5,B.U7,B.U6,B.U9,B.U4,B.U8],A.aj("x<d6>"))
+B.M2=s([B.Ua,B.Uf,B.Uh,B.Ug,B.Ud,B.Uc,B.Ue,B.Ub,B.Ui,B.U5,B.U7,B.U6,B.U9,B.U4,B.U8],A.aj("x<d6>"))
 B.be=new A.f_(1,"fuchsia")
-B.M3=s([B.a4,B.be,B.K,B.bf,B.aD,B.bg],A.aj("x<f_>"))
+B.M6=s([B.a4,B.be,B.K,B.bf,B.aD,B.bg],A.aj("x<f_>"))
 B.AI=new A.vd(0,"topLeft")
 B.AL=new A.vd(3,"bottomRight")
 B.a3U=new A.lz(B.AI,B.AL)
@@ -92962,8 +92962,8 @@ B.AJ=new A.vd(1,"topRight")
 B.AK=new A.vd(2,"bottomLeft")
 B.a3V=new A.lz(B.AJ,B.AK)
 B.a3W=new A.lz(B.AK,B.AJ)
-B.M5=s([B.a3U,B.a3X,B.a3V,B.a3W],A.aj("x<lz>"))
-B.M7=s(["Every field in every app must have visible working-state evidence in RayAI.","Every app workflow must show whether it is working, blocked, pending, or needs inspection.","Every approved Core 12 thought must be displayed on the correct RayAI screen.","Missing field coverage or missing Core thought coverage is a RayAI 6.0 scope gap until proven GREEN."],t.s)
+B.M8=s([B.a3U,B.a3X,B.a3V,B.a3W],A.aj("x<lz>"))
+B.Ma=s(["Every field in every app must have visible working-state evidence in RayAI.","Every app workflow must show whether it is working, blocked, pending, or needs inspection.","Every approved Core 12 thought must be displayed on the correct RayAI screen.","Missing field coverage or missing Core thought coverage is a RayAI 6.0 scope gap until proven GREEN."],t.s)
 B.UI=new A.af(0.01339448,0.05994973)
 B.UH=new A.af(0.13664115,0.13592082)
 B.Uu=new A.af(0.24545546,0.14099516)
@@ -92979,77 +92979,77 @@ B.Ur=new A.af(0.66416338,0.0734653)
 B.Uo=new A.af(0.68675338,0.06974996)
 B.UE=new A.af(0.70678034,0.06529512)
 B.p8=s([B.UI,B.UH,B.Uu,B.Ux,B.UG,B.Un,B.Us,B.Uv,B.Uq,B.UD,B.UK,B.Ur,B.Uo,B.UE],A.aj("x<+(S,S)>"))
-B.Md=s([35,30,20,25,30,35,30,25,25],t.n)
-B.Me=s(["What is blocking this release?","Which applications failed their latest test?","What changed since the previous GREEN run?","Which high-risk defects remain open?","Why is this project marked at risk?","What should testing review next?","Show the evidence behind this recommendation."],t.s)
-B.Mi=s(["click","scroll"],t.s)
+B.Mg=s([35,30,20,25,30,35,30,25,25],t.n)
+B.Mh=s(["What is blocking this release?","Which applications failed their latest test?","What changed since the previous GREEN run?","Which high-risk defects remain open?","Why is this project marked at risk?","What should testing review next?","Show the evidence behind this recommendation."],t.s)
+B.Ml=s(["click","scroll"],t.s)
 B.a1Y=new A.bj("Admin login opens client tenant setup.",null,null,null,null,null,null,null,null)
 B.bd=new A.d8(null,6,null,null)
 B.a1l=new A.bj("Each client receives a username, password, tenant id, and selected ecosystem folders.",null,null,null,null,null,null,null,null)
 B.a1q=new A.bj("Client login opens a dashboard filtered to that client ecosystem only.",null,null,null,null,null,null,null,null)
 B.a1v=new A.bj("Core 12 output visibility remains render-only. RayAI does not run local scoring.",null,null,null,null,null,null,null,null)
-B.Mj=s([B.a1Y,B.bd,B.a1l,B.bd,B.a1q,B.bd,B.a1v],t.p)
+B.Mm=s([B.a1Y,B.bd,B.a1l,B.bd,B.a1q,B.bd,B.a1v],t.p)
 B.CZ=new A.ri()
 B.fq=new A.Ne(1,"page")
 B.ik=new A.e8(B.b4,B.fq)
-B.Ml=s([B.CZ,B.ik],A.aj("x<aR>"))
-B.MF=s([],t.QP)
-B.Mx=s([],t.sq)
+B.Mo=s([B.CZ,B.ik],A.aj("x<aR>"))
+B.MI=s([],t.QP)
+B.MA=s([],t.sq)
 B.pa=s([],A.aj("x<aVl>"))
-B.Mu=s([],t.D)
-B.MN=s([],A.aj("x<kt>"))
-B.MM=s([],A.aj("x<e1>"))
-B.MO=s([],A.aj("x<ku>"))
-B.MP=s([],t.fJ)
-B.Mv=s([],t.ER)
-B.MQ=s([],t.ss)
-B.Mz=s([],t.tc)
+B.Mx=s([],t.D)
+B.MQ=s([],A.aj("x<kt>"))
+B.MP=s([],A.aj("x<e1>"))
+B.MR=s([],A.aj("x<ku>"))
+B.MS=s([],t.fJ)
+B.My=s([],t.ER)
+B.MT=s([],t.ss)
+B.MC=s([],t.tc)
 B.hQ=s([],t.jl)
-B.MC=s([],t.wi)
-B.MB=s([],A.aj("x<aB4<@>>"))
+B.MF=s([],t.wi)
+B.ME=s([],A.aj("x<aB4<@>>"))
 B.p9=s([],t.Zl)
-B.Mw=s([],t.O2)
+B.Mz=s([],t.O2)
 B.kQ=s([],t.AO)
-B.ME=s([],t.D1)
+B.MH=s([],t.D1)
 B.kR=s([],t.QF)
-B.MJ=s([],t.Lx)
-B.Mt=s([],t.AS)
-B.My=s([],t.p)
-B.Ms=s([],t.t)
+B.MM=s([],t.Lx)
+B.Mw=s([],t.AS)
+B.MB=s([],t.p)
+B.Mv=s([],t.t)
 B.f4=s([],t.ee)
-B.MA=s([],t.XS)
-B.MU=s(["Tenant, role, and entitlements are unknown."],t.s)
-B.O7=s(["Shows the current inspected state of the SolveMotion Labs ecosystem.","Keeps app, Core 12, website, testing, release, and business workflow visibility in one place.","Uses inspected status and contract data instead of duplicate runtime engines."],t.s)
-B.BO=new A.aV("RayAI Purpose",B.m,B.O7)
-B.N9=s(["Shows the active RayAI app version and build number from runtime package metadata.","Covers SolveMotion, SolvePharmacy, SolveCrime, SolveMind, SolveOura, Core 12, website, SaaS visibility, and admin/tenant visibility.","Keeps RayAI as the ecosystem monitor, not a replacement for each product app.","Uses build-number iteration while keeping the RayAI 6.0 product line stable."],t.s)
-B.BJ=new A.aV("6.0 Scope",B.m,B.N9)
-B.MT=s(["No Core runtime execution.","No local scoring.","No duplicate app logic or Command Center execution."],t.s)
-B.BZ=new A.aV("Safety Boundaries",B.m,B.MT)
-B.MV=s([B.BO,B.BJ,B.BZ],t.R)
-B.MW=s(["Report visibility only in this phase.","Document/PDF generation requires a separate explicit phase."],t.s)
-B.MZ=s(["Decision visibility only.","No patch, build, baseline, publish, or Git action is executed from this screen."],t.s)
-B.N3=s(["RayAI renders next-upgrade planning visibility only.","RayAI does not change app versions, build numbers, or release claims from this screen.","RayAI does not duplicate app-owned, website-owned, Core 12, or Command Center roadmap logic."],t.s)
+B.MD=s([],t.XS)
+B.MW=s(["Tenant, role, and entitlements are unknown."],t.s)
+B.O8=s(["Shows the current inspected state of the SolveMotion Labs ecosystem.","Keeps app, Core 12, website, testing, release, and business workflow visibility in one place.","Uses inspected status and contract data instead of duplicate runtime engines."],t.s)
+B.BO=new A.aV("RayAI Purpose",B.m,B.O8)
+B.Nb=s(["Shows the active RayAI app version and build number from runtime package metadata.","Covers SolveMotion, SolvePharmacy, SolveCrime, SolveMind, SolveOura, Core 12, website, SaaS visibility, and admin/tenant visibility.","Keeps RayAI as the ecosystem monitor, not a replacement for each product app.","Uses build-number iteration while keeping the RayAI 6.0 product line stable."],t.s)
+B.BJ=new A.aV("6.0 Scope",B.m,B.Nb)
+B.MV=s(["No Core runtime execution.","No local scoring.","No duplicate app logic or Command Center execution."],t.s)
+B.BZ=new A.aV("Safety Boundaries",B.m,B.MV)
+B.MX=s([B.BO,B.BJ,B.BZ],t.R)
+B.MY=s(["Report visibility only in this phase.","Document/PDF generation requires a separate explicit phase."],t.s)
+B.N0=s(["Decision visibility only.","No patch, build, baseline, publish, or Git action is executed from this screen."],t.s)
+B.N5=s(["RayAI renders next-upgrade planning visibility only.","RayAI does not change app versions, build numbers, or release claims from this screen.","RayAI does not duplicate app-owned, website-owned, Core 12, or Command Center roadmap logic."],t.s)
 B.z2=new A.u3(0,"admin")
 B.lo=new A.u3(1,"solveMotionLabs")
 B.U3=new A.u3(2,"psecu")
-B.N4=s([B.z2,B.lo,B.U3],A.aj("x<u3>"))
+B.N6=s([B.z2,B.lo,B.U3],A.aj("x<u3>"))
 B.R0=new A.h(0,2)
 B.CN=new A.cD(0.75,B.bB,B.nm,B.R0,1.5)
-B.Nd=s([B.CN],t.sq)
-B.Nn=s(["RayAI renders marketing status and strategy visibility only.","RayAI does not make public growth, revenue, conversion, launch, SaaS, or valuation claims without verified approval.","RayAI does not market SolveOura as live.","RayAI does not duplicate website, Core 12, or app-owned marketing logic."],t.s)
-B.Nr=s(["RayAI renders cost, licensing, and valuation status only.","RayAI does not create invoices, subscriptions, account charges, customer quotes, or public pricing claims.","RayAI does not execute API calls, SDK calls, tenant account changes, or billing actions.","RayAI does not run Core 12 scoring, hosted Core runtime calls, or app business workflow logic.","RayAI does not publish the website or promote production webapps/rayai in this screen."],t.s)
-B.Ns=s(["No licensed client apps are visible for the current session."],t.s)
-B.Nu=s(["RayAI renders doctrine visibility and rule status only.","RayAI does not become a second doctrine engine.","RayAI does not modify app/Core/website doctrine from this screen."],t.s)
+B.Nf=s([B.CN],t.sq)
+B.No=s(["RayAI renders marketing status and strategy visibility only.","RayAI does not make public growth, revenue, conversion, launch, SaaS, or valuation claims without verified approval.","RayAI does not market SolveOura as live.","RayAI does not duplicate website, Core 12, or app-owned marketing logic."],t.s)
+B.Ns=s(["RayAI renders cost, licensing, and valuation status only.","RayAI does not create invoices, subscriptions, account charges, customer quotes, or public pricing claims.","RayAI does not execute API calls, SDK calls, tenant account changes, or billing actions.","RayAI does not run Core 12 scoring, hosted Core runtime calls, or app business workflow logic.","RayAI does not publish the website or promote production webapps/rayai in this screen."],t.s)
+B.Nt=s(["No licensed client apps are visible for the current session."],t.s)
+B.Nv=s(["RayAI renders doctrine visibility and rule status only.","RayAI does not become a second doctrine engine.","RayAI does not modify app/Core/website doctrine from this screen."],t.s)
 B.f5=s([B.cZ,B.cf,B.fO,B.fP,B.jh],t.QP)
-B.Ny=s(["RayAI reads ecosystem status from the local computer under C:\\src.","RayAI displays app status, workflow status, build status, and field verification evidence.","RayAI does not create duplicate app logic and does not replace Core 12.","RayAI stays render-only for Core 12 outputs, app outputs, inspection reports, and build evidence."],t.s)
-B.Nz=s(["password"],t.s)
-B.NA=s(["Shows how RayAI connects Core 12, apps, website, client portal, admin visibility, and local computer evidence.","Separates status visibility from execution ownership so every boundary is visible before automation runs.","Keeps no duplicate logic, no local scoring, no website publish, and no Git execution unless a later phase explicitly allows it."],t.s)
+B.Nz=s(["RayAI reads ecosystem status from the local computer under C:\\src.","RayAI displays app status, workflow status, build status, and field verification evidence.","RayAI does not create duplicate app logic and does not replace Core 12.","RayAI stays render-only for Core 12 outputs, app outputs, inspection reports, and build evidence."],t.s)
+B.NA=s(["password"],t.s)
+B.NB=s(["Shows how RayAI connects Core 12, apps, website, client portal, admin visibility, and local computer evidence.","Separates status visibility from execution ownership so every boundary is visible before automation runs.","Keeps no duplicate logic, no local scoring, no website publish, and no Git execution unless a later phase explicitly allows it."],t.s)
 B.K9=s([0.001200833568784504,0.002389694492170889,0.0002795742885861124],t.n)
-B.Mn=s([0.0005891086651375999,0.0029785502573438758,0.0003270666104008398],t.n)
+B.Mq=s([0.0005891086651375999,0.0029785502573438758,0.0003270666104008398],t.n)
 B.Ku=s([0.00010146692491640572,0.0005364214359186694,0.0032979401770712076],t.n)
-B.ND=s([B.K9,B.Mn,B.Ku],t.zg)
-B.NE=s(["No external site is opened.","No browser automation is started.","No credential flow is performed.","No login validation is performed.","No financial workflow is performed.","No member data workflow is performed.","No tenant evidence path is exposed."],t.s)
-B.NG=s([45,95,45,20,45,90,45,45,45],t.n)
-B.NH=s([120,120,20,45,20,15,20,120,120],t.n)
+B.NE=s([B.K9,B.Mq,B.Ku],t.zg)
+B.NF=s(["No external site is opened.","No browser automation is started.","No credential flow is performed.","No login validation is performed.","No financial workflow is performed.","No member data workflow is performed.","No tenant evidence path is exposed."],t.s)
+B.NH=s([45,95,45,20,45,90,45,45,45],t.n)
+B.NI=s([120,120,20,45,20,15,20,120,120],t.n)
 B.e0=new A.hj(0,"controlModifier")
 B.e1=new A.hj(1,"shiftModifier")
 B.e2=new A.hj(2,"altModifier")
@@ -93066,71 +93066,71 @@ B.vi=new A.h(0,3)
 B.CP=new A.cD(0,B.bB,B.EF,B.vi,8)
 B.Fs=new A.C(0.058823529411764705,0,0,0,B.h)
 B.CQ=new A.cD(0,B.bB,B.Fs,B.vi,1)
-B.NQ=s([B.CP,B.CQ],t.sq)
-B.NR=s(["username"],t.s)
-B.O0=s(["C:\\src\\Build-RayAI.ps1"],t.s)
+B.NR=s([B.CP,B.CQ],t.sq)
+B.NS=s(["username"],t.s)
+B.O1=s(["C:\\src\\Build-RayAI.ps1"],t.s)
 B.JX=s(["pubspec.yaml exists","analysis_options.yaml exists","test directory contains 3 files","build script validates Version 6.0"],t.s)
 B.i3={rootPreflight:0,analyze:1,test:2,build:3,integrationTest:4}
 B.aB=new A.eZ(0,"waiting")
 B.cu=new A.eZ(10,"coverageGap")
 B.v5=new A.bf(B.i3,[B.aB,B.aB,B.aB,B.aB,B.cu],t.EZ)
 B.K4=s(["directProcessExecutionFromRayAI","baselineCreation","phonePush","macHandoff","productionPublish"],t.s)
-B.SI=new A.d5("rayai","RayAI","C:\\src\\RayAI","6.0.0+16",B.O0,B.JX,B.v5,B.K4)
-B.MY=s(["C:\\src\\Build-SolveMotion.ps1"],t.s)
-B.M1=s(["pubspec.yaml exists","analysis_options.yaml exists","test directory exists with 0 files","build script validates Version 6.0"],t.s)
+B.SI=new A.d5("rayai","RayAI","C:\\src\\RayAI","6.0.0+17",B.O1,B.JX,B.v5,B.K4)
+B.N_=s(["C:\\src\\Build-SolveMotion.ps1"],t.s)
+B.M4=s(["pubspec.yaml exists","analysis_options.yaml exists","test directory exists with 0 files","build script validates Version 6.0"],t.s)
 B.PU=new A.bf(B.i3,[B.aB,B.aB,B.cu,B.aB,B.cu],t.EZ)
-B.Ni=s(["directProcessExecutionFromRayAI",u.c,"baselineCreation","phonePush","macHandoff","productionPublish"],t.s)
-B.SL=new A.d5("solvemotion","SolveMotion","C:\\src\\SolveMotion","6.0.0+157",B.MY,B.M1,B.PU,B.Ni)
-B.L0=s(["C:\\src\\Build-SolvePharmacy.ps1"],t.s)
-B.LF=s(["pubspec.yaml exists","analysis_options.yaml exists","test directory contains 1 file","build script target choices are Android, Web, All"],t.s)
-B.NM=s(["directProcessExecutionFromRayAI","fixScriptExecution",u.c,"baselineCreation","phonePush","macHandoff","productionPublish"],t.s)
-B.SM=new A.d5("solvepharmacy","SolvePharmacy","C:\\src\\SolvePharmacy","6.0.0+75",B.L0,B.LF,B.v5,B.NM)
-B.N_=s(["C:\\src\\Build-SolveCrime.ps1"],t.s)
+B.Nk=s(["directProcessExecutionFromRayAI",u.c,"baselineCreation","phonePush","macHandoff","productionPublish"],t.s)
+B.SL=new A.d5("solvemotion","SolveMotion","C:\\src\\SolveMotion","6.0.0+157",B.N_,B.M4,B.PU,B.Nk)
+B.L2=s(["C:\\src\\Build-SolvePharmacy.ps1"],t.s)
+B.LI=s(["pubspec.yaml exists","analysis_options.yaml exists","test directory contains 1 file","build script target choices are Android, Web, All"],t.s)
+B.NN=s(["directProcessExecutionFromRayAI","fixScriptExecution",u.c,"baselineCreation","phonePush","macHandoff","productionPublish"],t.s)
+B.SM=new A.d5("solvepharmacy","SolvePharmacy","C:\\src\\SolvePharmacy","6.0.0+75",B.L2,B.LI,B.v5,B.NN)
+B.N1=s(["C:\\src\\Build-SolveCrime.ps1"],t.s)
 B.K8=s(["pubspec.yaml exists","analysis_options.yaml exists","test directory contains 1 file","build script version parameter is 1.0, 2.0, 3.0 while doctrine scope is 6.0","build script exposes AnalyzeOnly switch"],t.s)
 B.a3=new A.eZ(8,"blocked")
 B.v6=new A.bf(B.i3,[B.aB,B.aB,B.aB,B.a3,B.cu],t.EZ)
 B.Ji=s(["directProcessExecutionFromRayAI","versionMismatchBuildExecution","iosBuildWithoutMacGate",u.c,"baselineCreation","phonePush","macHandoff","productionPublish"],t.s)
-B.SK=new A.d5("solvecrime","SolveCrime","C:\\src\\SolveCrime","6.0.0+123",B.N_,B.K8,B.v6,B.Ji)
+B.SK=new A.d5("solvecrime","SolveCrime","C:\\src\\SolveCrime","6.0.0+123",B.N1,B.K8,B.v6,B.Ji)
 B.Ko=s(["C:\\src\\Build-SolveMind.ps1"],t.s)
 B.Kr=s(["pubspec.yaml exists","analysis_options.yaml exists","test directory contains 1 file","build script version parameter is 2.0 while doctrine scope is 6.0"],t.s)
 B.JM=s(["directProcessExecutionFromRayAI","versionMismatchBuildExecution",u.c,"baselineCreation","phonePush","macHandoff","productionPublish"],t.s)
 B.SP=new A.d5("solvemind","SolveMind","C:\\src\\SolveMind","6.0.0+86",B.Ko,B.Kr,B.v6,B.JM)
-B.NT=s(["C:\\src\\Build-SolveOura.ps1"],t.s)
-B.Nq=s(["nested app pubspec.yaml exists","analysis_options.yaml exists","test directory is missing","pubspec version is 3.0.0+13 while doctrine scope is 6.0"],t.s)
+B.NU=s(["C:\\src\\Build-SolveOura.ps1"],t.s)
+B.Nr=s(["nested app pubspec.yaml exists","analysis_options.yaml exists","test directory is missing","pubspec version is 3.0.0+13 while doctrine scope is 6.0"],t.s)
 B.PV=new A.bf(B.i3,[B.aB,B.aB,B.cu,B.a3,B.cu],t.EZ)
-B.M8=s(["directProcessExecutionFromRayAI","versionMismatchBuildExecution","missingTestDirectory","baselineCreation","phonePush","macHandoff","productionPublish"],t.s)
-B.SJ=new A.d5("solveoura","SolveOura","C:\\src\\SolveOura\\app","3.0.0+13",B.NT,B.Nq,B.PV,B.M8)
-B.N6=s(["C:\\src\\solvemotion_labs_core\\tools\\Run-Core12Regression.ps1","C:\\src\\solvemotion_labs_core\\tools\\core_guardrail_scan.ps1"],t.s)
-B.Nt=s(["pubspec.yaml version is 12.0.0","Run-Core12Regression.ps1 exists","core_guardrail_scan.ps1 exists","Core11 and baseline scripts observed and blocked"],t.s)
+B.Mb=s(["directProcessExecutionFromRayAI","versionMismatchBuildExecution","missingTestDirectory","baselineCreation","phonePush","macHandoff","productionPublish"],t.s)
+B.SJ=new A.d5("solveoura","SolveOura","C:\\src\\SolveOura\\app","3.0.0+13",B.NU,B.Nr,B.PV,B.Mb)
+B.N8=s(["C:\\src\\solvemotion_labs_core\\tools\\Run-Core12Regression.ps1","C:\\src\\solvemotion_labs_core\\tools\\core_guardrail_scan.ps1"],t.s)
+B.Nu=s(["pubspec.yaml version is 12.0.0","Run-Core12Regression.ps1 exists","core_guardrail_scan.ps1 exists","Core11 and baseline scripts observed and blocked"],t.s)
 B.QS={rootPreflight:0,core12Regression:1,guardrailScan:2,baselineCreation:3}
 B.PW=new A.bf(B.QS,[B.aB,B.aB,B.aB,B.a3],t.EZ)
-B.Lq=s(["core11ScriptExecution","core12BaselineCreation","core11BaselineCreation","directCoreScoringInsideRayAI","directProcessExecutionFromRayAI"],t.s)
-B.SN=new A.d5("core12","Core 12","C:\\src\\solvemotion_labs_core","12.0.0",B.N6,B.Nt,B.PW,B.Lq)
-B.Lo=s(["index.html exists","sitemap.xml exists","robots.txt exists","22 root HTML files observed","applications.html RayAI launch metadata mismatch observed"],t.s)
+B.Lt=s(["core11ScriptExecution","core12BaselineCreation","core11BaselineCreation","directCoreScoringInsideRayAI","directProcessExecutionFromRayAI"],t.s)
+B.SN=new A.d5("core12","Core 12","C:\\src\\solvemotion_labs_core","12.0.0",B.N8,B.Nu,B.PW,B.Lt)
+B.Lr=s(["index.html exists","sitemap.xml exists","robots.txt exists","22 root HTML files observed","applications.html RayAI launch metadata mismatch observed"],t.s)
 B.QM={rootPreflight:0,staticLinkInventory:1,localServer:2,packageTest:3}
 B.z3=new A.eZ(9,"notConfigured")
 B.PX=new A.bf(B.QM,[B.aB,B.aB,B.a3,B.z3],t.EZ)
 B.Jl=s(["startWebsiteLongRunningServer","websitePublish","pushWebDownloads","browserAutomation","psecuWebsiteAccess"],t.s)
-B.SO=new A.d5("solvemotion_website","SolveMotionWebSite","C:\\src\\SolveMotionWebSite","static-site",B.m,B.Lo,B.PX,B.Jl)
-B.Mm=s(["C:\\src\\CommandCenter\\Ecosystem-Audit.ps1","C:\\src\\CommandCenter\\Architecture-Map.ps1"],t.s)
-B.Mk=s(["CommandCenter-6.0.ps1 exists","DeepScan-Engine.ps1 exists","Ecosystem-Audit.ps1 exists","Architecture-Map.ps1 exists","direct UI and child process execution remain blocked"],t.s)
+B.SO=new A.d5("solvemotion_website","SolveMotionWebSite","C:\\src\\SolveMotionWebSite","static-site",B.m,B.Lr,B.PX,B.Jl)
+B.Mp=s(["C:\\src\\CommandCenter\\Ecosystem-Audit.ps1","C:\\src\\CommandCenter\\Architecture-Map.ps1"],t.s)
+B.Mn=s(["CommandCenter-6.0.ps1 exists","DeepScan-Engine.ps1 exists","Ecosystem-Audit.ps1 exists","Architecture-Map.ps1 exists","direct UI and child process execution remain blocked"],t.s)
 B.QE={rootPreflight:0,readOnlyInventory:1,directGuiExecution:2,deepScanChildProcesses:3}
 B.PY=new A.bf(B.QE,[B.aB,B.aB,B.a3,B.a3],t.EZ)
 B.Ob=s(["commandCenterGuiExecution","deepScanChildProcessExecution","explorerStartProcess","notepadStartProcess","browserLaunch","macScriptLaunch","directProcessExecutionFromRayAI"],t.s)
-B.SH=new A.d5("command_center","Command Center","C:\\src\\CommandCenter","6.0",B.Mm,B.Mk,B.PY,B.Ob)
+B.SH=new A.d5("command_center","Command Center","C:\\src\\CommandCenter","6.0",B.Mp,B.Mn,B.PY,B.Ob)
 B.kT=s([B.SI,B.SL,B.SM,B.SK,B.SP,B.SJ,B.SN,B.SO,B.SH],A.aj("x<d5>"))
-B.NY=s(["pointerdown","pointermove","pointerleave","pointerup","pointercancel","touchstart","touchend","touchmove","touchcancel","mousedown","mousemove","mouseleave","mouseup","wheel"],t.s)
-B.NZ=s(["No release claim until all relevant gates are GREEN.","No public RayAI claim until website exposure is explicitly verified.","No build, publish, phone push, Mac handoff, or production action is executed from this screen."],t.s)
-B.O_=s(["No evidence references are visible for this client session."],t.s)
-B.O2=s(["No website publish from RayAI.","No RayAI public launch claim until staging and production exposure are explicitly verified.","No GitHub Pages action or production push from this screen."],t.s)
+B.NZ=s(["pointerdown","pointermove","pointerleave","pointerup","pointercancel","touchstart","touchend","touchmove","touchcancel","mousedown","mousemove","mouseleave","mouseup","wheel"],t.s)
+B.O_=s(["No release claim until all relevant gates are GREEN.","No public RayAI claim until website exposure is explicitly verified.","No build, publish, phone push, Mac handoff, or production action is executed from this screen."],t.s)
+B.O0=s(["No evidence references are visible for this client session."],t.s)
+B.O3=s(["No website publish from RayAI.","No RayAI public launch claim until staging and production exposure are explicitly verified.","No GitHub Pages action or production push from this screen."],t.s)
 B.kD=new A.fI(100)
 B.H8=new A.fI(200)
 B.H9=new A.fI(300)
 B.t=new A.fI(400)
 B.a9=new A.fI(500)
 B.Ha=new A.fI(600)
-B.O4=s([B.kD,B.H8,B.H9,B.t,B.a9,B.Ha,B.bR,B.dc,B.kE],A.aj("x<fI>"))
-B.O6=s(["No assumptions.","No duplicate logic.","No patch, build, publish, baseline, or production action is executed from this screen.","Full scope phases F through N are displayed from a shared contract, not duplicate screen logic."],t.s)
+B.O5=s([B.kD,B.H8,B.H9,B.t,B.a9,B.Ha,B.bR,B.dc,B.kE],A.aj("x<fI>"))
+B.O7=s(["No assumptions.","No duplicate logic.","No patch, build, publish, baseline, or production action is executed from this screen.","Full scope phases F through N are displayed from a shared contract, not duplicate screen logic."],t.s)
 B.Oa=s([0.015176349177441876,0.045529047532325624,0.07588174588720938,0.10623444424209313,0.13658714259697685,0.16693984095186062,0.19729253930674434,0.2276452376616281,0.2579979360165119,0.28835063437139563,0.3188300904430532,0.350925934958123,0.3848314933096426,0.42057480301049466,0.458183274052838,0.4976837250274023,0.5391024159806381,0.5824650784040898,0.6277969426914107,0.6751227633498623,0.7244668422128921,0.775853049866786,0.829304845476233,0.8848452951698498,0.942497089126609,1.0022825574869039,1.0642236851973577,1.1283421258858297,1.1946592148522128,1.2631959812511864,1.3339731595349034,1.407011200216447,1.4823302800086415,1.5599503113873272,1.6398909516233677,1.7221716113234105,1.8068114625156377,1.8938294463134073,1.9832442801866852,2.075074464868551,2.1693382909216234,2.2660538449872063,2.36523901573795,2.4669114995532007,2.5710888059345764,2.6777882626779785,2.7870270208169257,2.898822059350997,3.0131901897720907,3.1301480604002863,3.2497121605402226,3.3718988244681087,3.4967242352587946,3.624204428461639,3.754355295633311,3.887192587735158,4.022731918402185,4.160988767090289,4.301978482107941,4.445716283538092,4.592217266055746,4.741496401646282,4.893568542229298,5.048448422192488,5.20615066083972,5.3666897647573375,5.5300801301023865,5.696336044816294,5.865471690767354,6.037501145825082,6.212438385869475,6.390297286737924,6.571091626112461,6.7548350853498045,6.941541251256611,7.131223617812143,7.323895587840543,7.5195704746346665,7.7182615035334345,7.919981813454504,8.124744458384042,8.332562408825165,8.543448553206703,8.757415699253682,8.974476575321063,9.194643831691977,9.417930041841839,9.644347703669503,9.873909240696694,10.106627003236781,10.342513269534024,10.58158024687427,10.8238400726681,11.069304815507364,11.317986476196008,11.569896988756009,11.825048221409341,12.083451977536606,12.345119996613247,12.610063955123938,12.878295467455942,13.149826086772048,13.42466730586372,13.702830557985108,13.984327217668513,14.269168601521828,14.55736596900856,14.848930523210871,15.143873411576273,15.44220572664832,15.743938506781891,16.04908273684337,16.35764934889634,16.66964922287304,16.985093187232053,17.30399201960269,17.62635644741625,17.95219714852476,18.281524751807332,18.614349837764564,18.95068293910138,19.290534541298456,19.633915083172692,19.98083495742689,20.331304511189067,20.685334046541502,21.042933821039977,21.404114048223256,21.76888489811322,22.137256497705877,22.50923893145328,22.884842241736916,23.264076429332462,23.6469514538663,24.033477234264016,24.42366364919083,24.817520537484558,25.21505769858089,25.61628489293138,26.021211842414342,26.429848230738664,26.842203703840827,27.258287870275353,27.678110301598522,28.10168053274597,28.529008062403893,28.96010235337422,29.39497283293396,29.83362889318845,30.276079891419332,30.722335150426627,31.172403958865512,31.62629557157785,32.08401920991837,32.54558406207592,33.010999283389665,33.4802739966603,33.953417292456834,34.430438229418264,34.911345834551085,35.39614910352207,35.88485700094671,36.37747846067349,36.87402238606382,37.37449765026789,37.87891309649659,38.38727753828926,38.89959975977785,39.41588851594697,39.93615253289054,40.460400508064545,40.98864111053629,41.520882981230194,42.05713473317016,42.597404951718396,43.141702194811224,43.6900349931913,44.24241185063697,44.798841244188324,45.35933162437017,45.92389141541209,46.49252901546552,47.065252796817916,47.64207110610409,48.22299226451468,48.808024568002054,49.3971762874833,49.9904556690408,50.587870934119984,51.189430279724725,51.79514187861014,52.40501387947288,53.0190544071392,53.637271562750364,54.259673423945976,54.88626804504493,55.517063457223934,56.15206766869424,56.79128866487574,57.43473440856916,58.08241284012621,58.734331877617365,59.39049941699807,60.05092333227251,60.715611475655585,61.38457167773311,62.057811747619894,62.7353394731159,63.417162620860914,64.10328893648692,64.79372614476921,65.48848194977529,66.18756403501224,66.89098006357258,67.59873767827808,68.31084450182222,69.02730813691093,69.74813616640164,70.47333615344107,71.20291564160104,71.93688215501312,72.67524319850172,73.41800625771542,74.16517879925733,74.9167682708136,75.67278210128072,76.43322770089146,77.1981124613393,77.96744375590167,78.74122893956174,79.51947534912904,80.30219030335869,81.08938110306934,81.88105503125999,82.67721935322541,83.4778813166706,84.28304815182372,85.09272707154808,85.90692527145302,86.72564993000343,87.54890820862819,88.3767072518277,89.2090541872801,90.04595612594655,90.88742016217518,91.73345337380438,92.58406282226491,93.43925555268066,94.29903859396902,95.16341895893969,96.03240364439274,96.9059996312159,97.78421388448044,98.6670533535366,99.55452497210776],t.n)
 B.Od=s(["No Core 12 outputs are visible for this client session."],t.s)
 B.n=new A.zf(0,"ignored")
@@ -93687,57 +93687,57 @@ B.JR=s([54,null,null,8589935158],t.Z)
 B.JS=s([55,null,null,8589935159],t.Z)
 B.JT=s([56,null,null,8589935160],t.Z)
 B.JV=s([57,null,null,8589935161],t.Z)
-B.LM=s([8589934852,8589934852,8589934853,null],t.Z)
+B.LP=s([8589934852,8589934852,8589934853,null],t.Z)
 B.Jr=s([4294967555,null,4294967555,null],t.Z)
 B.Js=s([4294968065,null,null,8589935154],t.Z)
 B.Jt=s([4294968066,null,null,8589935156],t.Z)
 B.Ju=s([4294968067,null,null,8589935158],t.Z)
 B.Jv=s([4294968068,null,null,8589935160],t.Z)
 B.JA=s([4294968321,null,null,8589935157],t.Z)
-B.LN=s([8589934848,8589934848,8589934849,null],t.Z)
+B.LQ=s([8589934848,8589934848,8589934849,null],t.Z)
 B.Jq=s([4294967423,null,null,8589935150],t.Z)
 B.Jw=s([4294968069,null,null,8589935153],t.Z)
 B.Jp=s([4294967309,null,null,8589935117],t.Z)
 B.Jx=s([4294968070,null,null,8589935159],t.Z)
 B.JB=s([4294968327,null,null,8589935152],t.Z)
-B.LO=s([8589934854,8589934854,8589934855,null],t.Z)
+B.LR=s([8589934854,8589934854,8589934855,null],t.Z)
 B.Jy=s([4294968071,null,null,8589935155],t.Z)
 B.Jz=s([4294968072,null,null,8589935161],t.Z)
-B.LP=s([8589934850,8589934850,8589934851,null],t.Z)
-B.va=new A.du(["*",B.JC,"+",B.JD,"-",B.JE,".",B.JG,"/",B.JH,"0",B.JI,"1",B.JJ,"2",B.JN,"3",B.JO,"4",B.JP,"5",B.JQ,"6",B.JR,"7",B.JS,"8",B.JT,"9",B.JV,"Alt",B.LM,"AltGraph",B.Jr,"ArrowDown",B.Js,"ArrowLeft",B.Jt,"ArrowRight",B.Ju,"ArrowUp",B.Jv,"Clear",B.JA,"Control",B.LN,"Delete",B.Jq,"End",B.Jw,"Enter",B.Jp,"Home",B.Jx,"Insert",B.JB,"Meta",B.LO,"PageDown",B.Jy,"PageUp",B.Jz,"Shift",B.LP],A.aj("du<j,X<u?>>"))
+B.LS=s([8589934850,8589934850,8589934851,null],t.Z)
+B.va=new A.du(["*",B.JC,"+",B.JD,"-",B.JE,".",B.JG,"/",B.JH,"0",B.JI,"1",B.JJ,"2",B.JN,"3",B.JO,"4",B.JP,"5",B.JQ,"6",B.JR,"7",B.JS,"8",B.JT,"9",B.JV,"Alt",B.LP,"AltGraph",B.Jr,"ArrowDown",B.Js,"ArrowLeft",B.Jt,"ArrowRight",B.Ju,"ArrowUp",B.Jv,"Clear",B.JA,"Control",B.LQ,"Delete",B.Jq,"End",B.Jw,"Enter",B.Jp,"Home",B.Jx,"Insert",B.JB,"Meta",B.LR,"PageDown",B.Jy,"PageUp",B.Jz,"Shift",B.LS],A.aj("du<j,X<u?>>"))
 B.JU=s([B.pi,null,null,B.uZ],t.L)
-B.N0=s([B.uL,null,null,B.v_],t.L)
-B.KT=s([B.uM,null,null,B.v0],t.L)
-B.LR=s([B.uN,null,null,B.di],t.L)
+B.N2=s([B.uL,null,null,B.v_],t.L)
+B.KU=s([B.uM,null,null,B.v0],t.L)
+B.LU=s([B.uN,null,null,B.di],t.L)
 B.J9=s([B.uO,null,null,B.v1],t.L)
-B.NB=s([B.uP,null,null,B.l2],t.L)
-B.Np=s([B.uQ,null,null,B.ff],t.L)
+B.NC=s([B.uP,null,null,B.l2],t.L)
+B.Nq=s([B.uQ,null,null,B.ff],t.L)
 B.K1=s([B.uR,null,null,B.dj],t.L)
-B.NP=s([B.uS,null,null,B.fg],t.L)
-B.No=s([B.uT,null,null,B.dk],t.L)
+B.NQ=s([B.uS,null,null,B.fg],t.L)
+B.Np=s([B.uT,null,null,B.dk],t.L)
 B.K_=s([B.uU,null,null,B.l3],t.L)
 B.Jh=s([B.uV,null,null,B.dl],t.L)
 B.Kp=s([B.uW,null,null,B.fh],t.L)
-B.N1=s([B.uX,null,null,B.dm],t.L)
-B.N7=s([B.uY,null,null,B.fi],t.L)
+B.N3=s([B.uX,null,null,B.dm],t.L)
+B.N9=s([B.uY,null,null,B.fi],t.L)
 B.Ka=s([B.fd,B.fd,B.hX,null],t.L)
-B.NC=s([B.hT,null,B.hT,null],t.L)
-B.Lf=s([B.c4,null,null,B.dj],t.L)
-B.Lg=s([B.bS,null,null,B.dk],t.L)
-B.Lh=s([B.bT,null,null,B.dl],t.L)
-B.NJ=s([B.c5,null,null,B.dm],t.L)
-B.Nl=s([B.kX,null,null,B.l3],t.L)
+B.ND=s([B.hT,null,B.hT,null],t.L)
+B.Li=s([B.c4,null,null,B.dj],t.L)
+B.Lj=s([B.bS,null,null,B.dk],t.L)
+B.Lk=s([B.bT,null,null,B.dl],t.L)
+B.NK=s([B.c5,null,null,B.dm],t.L)
+B.Nm=s([B.kX,null,null,B.l3],t.L)
 B.Kb=s([B.fc,B.fc,B.hW,null],t.L)
-B.Mf=s([B.aZ,null,null,B.di],t.L)
-B.Li=s([B.df,null,null,B.ff],t.L)
+B.Mi=s([B.aZ,null,null,B.di],t.L)
+B.Ll=s([B.df,null,null,B.ff],t.L)
 B.JY=s([B.hS,null,null,B.l1],t.L)
-B.Lj=s([B.dg,null,null,B.fh],t.L)
-B.Nm=s([B.fb,null,null,B.l2],t.L)
+B.Lm=s([B.dg,null,null,B.fh],t.L)
+B.Nn=s([B.fb,null,null,B.l2],t.L)
 B.Kc=s([B.fe,B.fe,B.hY,null],t.L)
-B.Lk=s([B.f9,null,null,B.fg],t.L)
-B.Mr=s([B.fa,null,null,B.fi],t.L)
+B.Ln=s([B.f9,null,null,B.fg],t.L)
+B.Mu=s([B.fa,null,null,B.fi],t.L)
 B.Kd=s([B.cM,B.cM,B.dh,null],t.L)
-B.Q2=new A.du(["*",B.JU,"+",B.N0,"-",B.KT,".",B.LR,"/",B.J9,"0",B.NB,"1",B.Np,"2",B.K1,"3",B.NP,"4",B.No,"5",B.K_,"6",B.Jh,"7",B.Kp,"8",B.N1,"9",B.N7,"Alt",B.Ka,"AltGraph",B.NC,"ArrowDown",B.Lf,"ArrowLeft",B.Lg,"ArrowRight",B.Lh,"ArrowUp",B.NJ,"Clear",B.Nl,"Control",B.Kb,"Delete",B.Mf,"End",B.Li,"Enter",B.JY,"Home",B.Lj,"Insert",B.Nm,"Meta",B.Kc,"PageDown",B.Lk,"PageUp",B.Mr,"Shift",B.Kd],A.aj("du<j,X<f?>>"))
+B.Q2=new A.du(["*",B.JU,"+",B.N2,"-",B.KU,".",B.LU,"/",B.J9,"0",B.NC,"1",B.Nq,"2",B.K1,"3",B.NQ,"4",B.Np,"5",B.K_,"6",B.Jh,"7",B.Kp,"8",B.N3,"9",B.N9,"Alt",B.Ka,"AltGraph",B.ND,"ArrowDown",B.Li,"ArrowLeft",B.Lj,"ArrowRight",B.Lk,"ArrowUp",B.NK,"Clear",B.Nm,"Control",B.Kb,"Delete",B.Mi,"End",B.Ll,"Enter",B.JY,"Home",B.Lm,"Insert",B.Nn,"Meta",B.Kc,"PageDown",B.Ln,"PageUp",B.Mu,"Shift",B.Kd],A.aj("du<j,X<f?>>"))
 B.QO={KeyA:0,KeyB:1,KeyC:2,KeyD:3,KeyE:4,KeyF:5,KeyG:6,KeyH:7,KeyI:8,KeyJ:9,KeyK:10,KeyL:11,KeyM:12,KeyN:13,KeyO:14,KeyP:15,KeyQ:16,KeyR:17,KeyS:18,KeyT:19,KeyU:20,KeyV:21,KeyW:22,KeyX:23,KeyY:24,KeyZ:25,Digit1:26,Digit2:27,Digit3:28,Digit4:29,Digit5:30,Digit6:31,Digit7:32,Digit8:33,Digit9:34,Digit0:35,Minus:36,Equal:37,BracketLeft:38,BracketRight:39,Backslash:40,Semicolon:41,Quote:42,Backquote:43,Comma:44,Period:45,Slash:46}
 B.vb=new A.bf(B.QO,["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z","1","2","3","4","5","6","7","8","9","0","-","=","[","]","\\",";","'","`",",",".","/"],t.li)
 B.QJ={Abort:0,Again:1,AltLeft:2,AltRight:3,ArrowDown:4,ArrowLeft:5,ArrowRight:6,ArrowUp:7,AudioVolumeDown:8,AudioVolumeMute:9,AudioVolumeUp:10,Backquote:11,Backslash:12,Backspace:13,BracketLeft:14,BracketRight:15,BrightnessDown:16,BrightnessUp:17,BrowserBack:18,BrowserFavorites:19,BrowserForward:20,BrowserHome:21,BrowserRefresh:22,BrowserSearch:23,BrowserStop:24,CapsLock:25,Comma:26,ContextMenu:27,ControlLeft:28,ControlRight:29,Convert:30,Copy:31,Cut:32,Delete:33,Digit0:34,Digit1:35,Digit2:36,Digit3:37,Digit4:38,Digit5:39,Digit6:40,Digit7:41,Digit8:42,Digit9:43,DisplayToggleIntExt:44,Eject:45,End:46,Enter:47,Equal:48,Escape:49,Esc:50,F1:51,F10:52,F11:53,F12:54,F13:55,F14:56,F15:57,F16:58,F17:59,F18:60,F19:61,F2:62,F20:63,F21:64,F22:65,F23:66,F24:67,F3:68,F4:69,F5:70,F6:71,F7:72,F8:73,F9:74,Find:75,Fn:76,FnLock:77,GameButton1:78,GameButton10:79,GameButton11:80,GameButton12:81,GameButton13:82,GameButton14:83,GameButton15:84,GameButton16:85,GameButton2:86,GameButton3:87,GameButton4:88,GameButton5:89,GameButton6:90,GameButton7:91,GameButton8:92,GameButton9:93,GameButtonA:94,GameButtonB:95,GameButtonC:96,GameButtonLeft1:97,GameButtonLeft2:98,GameButtonMode:99,GameButtonRight1:100,GameButtonRight2:101,GameButtonSelect:102,GameButtonStart:103,GameButtonThumbLeft:104,GameButtonThumbRight:105,GameButtonX:106,GameButtonY:107,GameButtonZ:108,Help:109,Home:110,Hyper:111,Insert:112,IntlBackslash:113,IntlRo:114,IntlYen:115,KanaMode:116,KeyA:117,KeyB:118,KeyC:119,KeyD:120,KeyE:121,KeyF:122,KeyG:123,KeyH:124,KeyI:125,KeyJ:126,KeyK:127,KeyL:128,KeyM:129,KeyN:130,KeyO:131,KeyP:132,KeyQ:133,KeyR:134,KeyS:135,KeyT:136,KeyU:137,KeyV:138,KeyW:139,KeyX:140,KeyY:141,KeyZ:142,KeyboardLayoutSelect:143,Lang1:144,Lang2:145,Lang3:146,Lang4:147,Lang5:148,LaunchApp1:149,LaunchApp2:150,LaunchAssistant:151,LaunchControlPanel:152,LaunchMail:153,LaunchScreenSaver:154,MailForward:155,MailReply:156,MailSend:157,MediaFastForward:158,MediaPause:159,MediaPlay:160,MediaPlayPause:161,MediaRecord:162,MediaRewind:163,MediaSelect:164,MediaStop:165,MediaTrackNext:166,MediaTrackPrevious:167,MetaLeft:168,MetaRight:169,MicrophoneMuteToggle:170,Minus:171,NonConvert:172,NumLock:173,Numpad0:174,Numpad1:175,Numpad2:176,Numpad3:177,Numpad4:178,Numpad5:179,Numpad6:180,Numpad7:181,Numpad8:182,Numpad9:183,NumpadAdd:184,NumpadBackspace:185,NumpadClear:186,NumpadClearEntry:187,NumpadComma:188,NumpadDecimal:189,NumpadDivide:190,NumpadEnter:191,NumpadEqual:192,NumpadMemoryAdd:193,NumpadMemoryClear:194,NumpadMemoryRecall:195,NumpadMemoryStore:196,NumpadMemorySubtract:197,NumpadMultiply:198,NumpadParenLeft:199,NumpadParenRight:200,NumpadSubtract:201,Open:202,PageDown:203,PageUp:204,Paste:205,Pause:206,Period:207,Power:208,PrintScreen:209,PrivacyScreenToggle:210,Props:211,Quote:212,Resume:213,ScrollLock:214,Select:215,SelectTask:216,Semicolon:217,ShiftLeft:218,ShiftRight:219,ShowAllWindows:220,Slash:221,Sleep:222,Space:223,Super:224,Suspend:225,Tab:226,Turbo:227,Undo:228,WakeUp:229,ZoomToggle:230}
@@ -94167,13 +94167,13 @@ B.bW=new A.M6(0,"admin")
 B.SF=new A.M6(1,"tenant")
 B.SG=new A.M8(null)
 B.SQ=new A.u1("","Sign in required","Not available","Not available","Not available","Unauthenticated","Sign in required","Not available","Not available",0,0,0,"Client account profile is available after sign-in.","No client profile data is exposed without an authenticated RayAI session.")
-B.MG=s([],A.aj("x<iC>"))
-B.MH=s([],A.aj("x<l6>"))
-B.MI=s([],A.aj("x<l3>"))
-B.MK=s([],A.aj("x<l4>"))
-B.ML=s([],A.aj("x<l5>"))
-B.NW=s(["Client dashboard visibility requires an authenticated RayAI session."],t.s)
-B.SR=new A.M9("",B.SQ,B.MG,B.MH,B.MI,B.MK,B.ML,B.NW)
+B.MJ=s([],A.aj("x<iC>"))
+B.MK=s([],A.aj("x<l6>"))
+B.ML=s([],A.aj("x<l3>"))
+B.MN=s([],A.aj("x<l4>"))
+B.MO=s([],A.aj("x<l5>"))
+B.NX=s(["Client dashboard visibility requires an authenticated RayAI session."],t.s)
+B.SR=new A.M9("",B.SQ,B.MJ,B.MK,B.ML,B.MN,B.MO,B.NX)
 B.TS=new A.l7(!1,"Enter a username and password to continue.",null,!1)
 B.TT=new A.l7(!1,"This client account is disabled.",null,!1)
 B.TU=new A.l7(!1,"Access denied. Check the client username and password.",null,!1)
@@ -94358,9 +94358,9 @@ B.VV=new A.NA(null)
 B.Fc=new A.C(0.23529411764705882,0,0,0,B.h)
 B.R3=new A.h(0,4)
 B.CR=new A.cD(0.5,B.bB,B.Fc,B.R3,10)
-B.Mg=s([B.CR],t.sq)
+B.Mj=s([B.CR],t.sq)
 B.UV=new A.jK(B.jk,B.u)
-B.VW=new A.fP(null,null,null,B.Mg,B.UV)
+B.VW=new A.fP(null,null,null,B.Mj,B.UV)
 B.VX=new A.a7(B.fb,!1,!0,!1,!1,B.n)
 B.zy=new A.a7(B.kV,!1,!1,!1,!0,B.n)
 B.VY=new A.a7(B.pd,!0,!1,!1,!1,B.n)
@@ -95058,8 +95058,8 @@ B.a52=new A.r_("Core 12 render-only",null)
 B.a50=new A.r_("No duplicate logic",null)
 B.a5_=new A.r_("Inspection first",null)
 B.a51=new A.r_("6.0 Design Mode",null)
-B.Ly=s([B.a52,B.a50,B.a5_,B.a51],t.p)
-B.a3G=new A.CB(B.ap,8,8,B.Ly,null)
+B.LB=s([B.a52,B.a50,B.a5_,B.a51],t.p)
+B.a3G=new A.CB(B.ap,8,8,B.LB,null)
 B.aJ=new A.v5(0,"forward")
 B.iP=new A.v5(1,"reverse")
 B.a5v=new A.akb(0,"elevated")

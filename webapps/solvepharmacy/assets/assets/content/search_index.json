@@ -886,5 +886,168 @@
     ],
     "priority": 5,
     "route": "employer"
+  },
+  {
+    "id": "career-launch-master-guide",
+    "title": "Career Launch Hub Master Guide",
+    "summary": "Connect career paths, companies, internships, startup planning, business models, certifications, portfolio projects, school roadmap, skills builder, and application prep.",
+    "tags": [
+      "Career Launch",
+      "Career Paths",
+      "Companies",
+      "Internships"
+    ],
+    "keywords": [
+      "career launch",
+      "career paths",
+      "companies",
+      "internships",
+      "start a company",
+      "business models",
+      "certifications",
+      "portfolio projects",
+      "school roadmap",
+      "skills builder",
+      "application prep"
+    ],
+    "priority": 4,
+    "route": "knowledge"
+  },
+  {
+    "id": "company-internship-strategy-guide",
+    "title": "Companies And Internship Strategy Guide",
+    "summary": "Research companies, find official internship paths, prepare evidence packets, and avoid fake job guarantees.",
+    "tags": [
+      "Companies",
+      "Internships",
+      "Application Prep"
+    ],
+    "keywords": [
+      "companies",
+      "company research",
+      "internships",
+      "internship strategy",
+      "official openings",
+      "employer research",
+      "application prep",
+      "career prep"
+    ],
+    "priority": 5,
+    "route": "knowledge"
+  },
+  {
+    "id": "start-a-company-beauty-fragrance-pathway",
+    "title": "Start A Company Beauty Fragrance Pathway",
+    "summary": "Education-only startup pathway for perfume, skincare, natural ingredient, cosmetic product, and beauty education concepts.",
+    "tags": [
+      "Start A Company",
+      "Startup",
+      "Beauty Business"
+    ],
+    "keywords": [
+      "start a company",
+      "startup",
+      "beauty business",
+      "perfume business",
+      "skincare business",
+      "natural ingredients",
+      "claims boundary",
+      "launch readiness"
+    ],
+    "priority": 5,
+    "route": "knowledge"
+  },
+  {
+    "id": "beauty-business-models-framework",
+    "title": "Beauty Business Models Framework",
+    "summary": "Business model study guide for product, service, content, education, and portfolio-first beauty/fragrance paths.",
+    "tags": [
+      "Business Models",
+      "Startup",
+      "Entrepreneurship"
+    ],
+    "keywords": [
+      "business models",
+      "perfume line",
+      "skincare line",
+      "retail education service",
+      "content brand",
+      "consulting prep",
+      "portfolio business",
+      "entrepreneurship"
+    ],
+    "priority": 5,
+    "route": "knowledge"
+  },
+  {
+    "id": "certifications-skills-builder-roadmap",
+    "title": "Certifications And Skills Builder Roadmap",
+    "summary": "Build skills and research certifications for cosmetic chemistry, fragrance safety, regulatory-quality basics, retail education, portfolio writing, and application communication.",
+    "tags": [
+      "Certifications",
+      "Skills Builder",
+      "Career Prep"
+    ],
+    "keywords": [
+      "certifications",
+      "skills builder",
+      "skill building",
+      "cosmetic chemistry",
+      "fragrance safety",
+      "regulatory quality",
+      "retail education",
+      "portfolio writing",
+      "application communication"
+    ],
+    "priority": 5,
+    "route": "knowledge"
+  },
+  {
+    "id": "school-roadmap-application-prep-guide",
+    "title": "School Roadmap And Application Prep Guide",
+    "summary": "Connect pharmacy school programs, chemistry foundations, beauty/fragrance interests, portfolio projects, and application preparation.",
+    "tags": [
+      "School Roadmap",
+      "Application Prep",
+      "Programs"
+    ],
+    "keywords": [
+      "school roadmap",
+      "school prep",
+      "pharmacy school",
+      "programs",
+      "application prep",
+      "admissions",
+      "essays",
+      "interviews",
+      "portfolio",
+      "chemistry foundations"
+    ],
+    "priority": 5,
+    "route": "knowledge"
+  },
+  {
+    "id": "career-launch-capstone-checklist",
+    "title": "Career Launch Capstone Checklist",
+    "summary": "Final checklist for career path, companies, internships, startup path, business model, certification research, portfolio projects, school roadmap, skills builder, and application prep.",
+    "tags": [
+      "Capstone",
+      "Career Launch",
+      "Checklist"
+    ],
+    "keywords": [
+      "career launch checklist",
+      "capstone",
+      "portfolio projects",
+      "business model",
+      "certifications",
+      "school roadmap",
+      "skills builder",
+      "application prep",
+      "internships",
+      "companies"
+    ],
+    "priority": 6,
+    "route": "knowledge"
   }
 ]

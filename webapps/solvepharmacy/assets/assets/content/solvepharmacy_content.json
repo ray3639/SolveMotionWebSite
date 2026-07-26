@@ -7788,6 +7788,306 @@
         },
         "sourceBoundary": "Education-only Diptyque pathway using official/legal pages and public ingredient examples; no proprietary formula or job guarantee."
       }
+    },
+    {
+      "id": "career-launch-master-guide",
+      "title": "Career Launch Hub Master Guide",
+      "summary": "Education-only launch map connecting career paths, companies, internships, startup planning, business models, certifications, portfolio projects, school roadmap, skills builder, and application prep.",
+      "sections": [
+        {
+          "title": "How to use the hub",
+          "content": "Start with the career path, then connect it to companies, internships, skills, certifications, school requirements, portfolio evidence, and application prep. Use official schools and employer pages as the source of truth."
+        },
+        {
+          "title": "Career paths",
+          "content": "Compare pharmacy, cosmetic chemistry, product development, skincare, fragrance, regulatory, quality, retail education, field support, and entrepreneurship pathways. Choose one primary path and one backup path before building evidence."
+        },
+        {
+          "title": "Companies",
+          "content": "Use employer records to study company type, role families, internship preparation, official career pages, and the evidence each company would expect. Do not invent openings or claim affiliation."
+        },
+        {
+          "title": "Internships",
+          "content": "Internship preparation should produce evidence packets: company research, role fit, resume bullets, portfolio artifacts, interview stories, and questions for official recruiters or program contacts."
+        },
+        {
+          "title": "Start a company",
+          "content": "For perfume, skincare, or beauty education concepts, treat the first stage as learning and documentation: concept, audience, ingredient questions, sourcing questions, claims boundaries, safety review, labeling review, and business model selection."
+        },
+        {
+          "title": "Closeout rule",
+          "content": "This hub does not provide legal advice, product approval, safety clearance, investment advice, job guarantees, internship guarantees, or school admission guarantees."
+        }
+      ],
+      "tags": [
+        "career-launch",
+        "career-paths",
+        "companies",
+        "internships",
+        "startup",
+        "business-models",
+        "certifications",
+        "portfolio",
+        "school-roadmap",
+        "skills-builder",
+        "application-prep",
+        "education-only"
+      ],
+      "relatedEmployers": [
+        "employer_loreal",
+        "employer_estee_lauder",
+        "employer_ulta_beauty",
+        "employer_sephora",
+        "employer_cosmetic_product_labs",
+        "employer_rhode_elf_beauty",
+        "employer_diptyque_sas"
+      ],
+      "meta": {
+        "domain": "knowledge",
+        "category": "Career Launch Hub",
+        "sourceBoundary": "Education-only hub. Official schools, certification providers, regulatory bodies, and employer career pages remain source of truth."
+      }
+    },
+    {
+      "id": "company-internship-strategy-guide",
+      "title": "Companies And Internship Strategy Guide",
+      "summary": "A practical guide for researching companies, finding official internship paths, preparing evidence packets, and avoiding fake job guarantees.",
+      "sections": [
+        {
+          "title": "Company research",
+          "content": "Document what the company sells, who it serves, role families, internship or early-career pages, brand education style, regulatory-quality context, and portfolio evidence that would fit."
+        },
+        {
+          "title": "Internship evidence packet",
+          "content": "Build a resume bullet bank, one-page company brief, product or service case study, ingredient or claims boundary map, role-fit statement, and interview story bank."
+        },
+        {
+          "title": "Official source rule",
+          "content": "Only official employer career pages, school portals, or verified recruiters should be treated as live-opening sources. The app helps prepare; it does not certify that a role is open."
+        },
+        {
+          "title": "Company examples",
+          "content": "Use L Oreal, Estee Lauder, Ulta, Sephora, rhode/e.l.f., cosmetic product labs, dermatology clinics, and Diptyque as study anchors already present in the repository."
+        }
+      ],
+      "tags": [
+        "companies",
+        "internships",
+        "career-prep",
+        "application-prep",
+        "portfolio",
+        "official-source",
+        "education-only"
+      ],
+      "relatedEmployers": [
+        "employer_loreal",
+        "employer_estee_lauder",
+        "employer_ulta_beauty",
+        "employer_sephora",
+        "employer_dermatology_clinics",
+        "employer_cosmetic_product_labs",
+        "employer_rhode_elf_beauty",
+        "employer_diptyque_sas"
+      ],
+      "meta": {
+        "domain": "knowledge",
+        "category": "Career Launch Hub",
+        "sourceBoundary": "Preparation-only. Official employer pages are source of truth for openings."
+      }
+    },
+    {
+      "id": "start-a-company-beauty-fragrance-pathway",
+      "title": "Start A Company Beauty Fragrance Pathway",
+      "summary": "Education-only startup pathway for perfume, skincare, natural ingredient, cosmetic product, and beauty education concepts.",
+      "sections": [
+        {
+          "title": "Concept first",
+          "content": "Write the product or service concept, target user, use case, sensory goal, education goal, and what problem the concept helps explain or solve."
+        },
+        {
+          "title": "Safety and claims boundary",
+          "content": "Separate learning language from product claims. Do not claim treatment, cure, safety, hypoallergenic status, regulatory approval, or launch readiness without professional review and documentation."
+        },
+        {
+          "title": "Business setup questions",
+          "content": "Prepare questions for entity formation, accounting, insurance, suppliers, manufacturing, labeling, packaging, batch records, returns, customer education, and distribution. This app does not replace professional legal, tax, safety, or regulatory advice."
+        },
+        {
+          "title": "Perfume and natural ingredient path",
+          "content": "For concepts such as Lanzones Langsat perfume accord, document note structure, allergen questions, IFRA questions, supplier documents, stability questions, packaging questions, and small-batch learning notes before any commercial claim."
+        }
+      ],
+      "tags": [
+        "start-a-company",
+        "startup",
+        "beauty-business",
+        "fragrance-business",
+        "perfume",
+        "skincare",
+        "natural-ingredients",
+        "claims-boundary",
+        "education-only"
+      ],
+      "meta": {
+        "domain": "knowledge",
+        "category": "Career Launch Hub",
+        "sourceBoundary": "Education-only startup planning. No legal, tax, regulatory, safety, investment, or launch approval."
+      }
+    },
+    {
+      "id": "beauty-business-models-framework",
+      "title": "Beauty Business Models Framework",
+      "summary": "Business model study guide for perfume line, skincare line, retail education service, formulation support prep, content education brand, and portfolio-based consulting readiness.",
+      "sections": [
+        {
+          "title": "Product model",
+          "content": "A perfume or skincare product model requires concept, sourcing, safety review, label review, claims discipline, manufacturing plan, packaging, quality records, inventory, customer education, and distribution."
+        },
+        {
+          "title": "Service model",
+          "content": "A retail education, ingredient literacy, or portfolio coaching service emphasizes teaching, scripts, worksheets, customer-safe language, client boundaries, and evidence of expertise without claiming professional licensure beyond what is verified."
+        },
+        {
+          "title": "Content model",
+          "content": "An education brand can publish ingredient explainers, fragrance stories, school prep guides, internship prep, and portfolio lessons while keeping disclaimers clear and avoiding copied brand assets."
+        },
+        {
+          "title": "Portfolio model",
+          "content": "A portfolio-first model uses case studies to earn interviews, internships, school opportunities, or mentorship. It should not present itself as a launched regulated product without review."
+        }
+      ],
+      "tags": [
+        "business-models",
+        "start-a-company",
+        "perfume-business",
+        "skincare-business",
+        "education-business",
+        "portfolio",
+        "entrepreneurship",
+        "education-only"
+      ],
+      "meta": {
+        "domain": "knowledge",
+        "category": "Career Launch Hub",
+        "sourceBoundary": "Business model education only. No investment, legal, tax, safety, or regulatory advice."
+      }
+    },
+    {
+      "id": "certifications-skills-builder-roadmap",
+      "title": "Certifications And Skills Builder Roadmap",
+      "summary": "Roadmap for building skills and studying certifications across cosmetic chemistry literacy, fragrance safety literacy, regulatory-quality basics, retail education, portfolio writing, and application communication.",
+      "sections": [
+        {
+          "title": "Skills builder lanes",
+          "content": "Build skills in ingredient-function mapping, fragrance vocabulary, safety questions, claims boundaries, documentation, product storytelling, retail education, interview communication, and school/application planning."
+        },
+        {
+          "title": "Certification research",
+          "content": "Use official certification providers and schools as source of truth. Track eligibility, cost, time, prerequisites, renewal, reputation, and whether the certification fits the target role."
+        },
+        {
+          "title": "Evidence before credential",
+          "content": "Pair any certification study with artifacts: ingredient map, case study, claims table, interview script, regulatory-quality question set, and portfolio reflection."
+        },
+        {
+          "title": "Boundary",
+          "content": "The app can help plan certification research and skill practice, but it does not grant credentials, verify eligibility, approve training programs, or replace school/advisor guidance."
+        }
+      ],
+      "tags": [
+        "certifications",
+        "skills-builder",
+        "career-prep",
+        "beauty-chemistry",
+        "fragrance",
+        "regulatory",
+        "quality",
+        "retail-education",
+        "portfolio",
+        "education-only"
+      ],
+      "meta": {
+        "domain": "knowledge",
+        "category": "Career Launch Hub",
+        "sourceBoundary": "Certification planning only. Official credential providers are source of truth."
+      }
+    },
+    {
+      "id": "school-roadmap-application-prep-guide",
+      "title": "School Roadmap And Application Prep Guide",
+      "summary": "Guide for connecting pharmacy school programs, chemistry foundations, beauty/fragrance interests, career goals, portfolio projects, and application preparation.",
+      "sections": [
+        {
+          "title": "School roadmap",
+          "content": "Start with program research, prerequisites, timeline, costs, accreditation status, application requirements, essays, recommendations, interviews, and fit with career goals."
+        },
+        {
+          "title": "Academic preparation",
+          "content": "Strengthen chemistry, biology, math, communication, documentation, public health, pharmacy foundations, and product/ingredient literacy where relevant to the target path."
+        },
+        {
+          "title": "Application prep",
+          "content": "Prepare resume bullets, essays, interview stories, school-specific notes, internship evidence, portfolio artifacts, and a list of questions for admissions or advisors."
+        },
+        {
+          "title": "Official source rule",
+          "content": "Use official school, accreditation, and admissions pages as source of truth. The app does not guarantee admission, eligibility, credit transfer, certification, or financial aid."
+        }
+      ],
+      "tags": [
+        "school-roadmap",
+        "application-prep",
+        "pharmacy-school",
+        "programs",
+        "chemistry",
+        "portfolio",
+        "career-launch",
+        "education-only"
+      ],
+      "meta": {
+        "domain": "knowledge",
+        "category": "Career Launch Hub",
+        "sourceBoundary": "School and application planning only. Official schools and admissions offices are source of truth."
+      }
+    },
+    {
+      "id": "career-launch-capstone-checklist",
+      "title": "Career Launch Capstone Checklist",
+      "summary": "Final checklist that combines career path, companies, internships, startup path, business model, certification research, portfolio projects, school roadmap, skills builder, and application prep.",
+      "sections": [
+        {
+          "title": "Required packet",
+          "content": "Career target, company list, internship target, school/program notes, skill plan, certification research, portfolio artifact, business model choice, application checklist, and unanswered professional-review questions."
+        },
+        {
+          "title": "Portfolio proof",
+          "content": "Include at least one case study, one ingredient-function map, one claims boundary table, one interview story, one company research page, and one school or certification research note."
+        },
+        {
+          "title": "Business proof",
+          "content": "If starting a company is part of the path, include concept, audience, business model, sourcing questions, safety/regulatory questions, launch blockers, and professional support needed before any commercial step."
+        },
+        {
+          "title": "Final guardrail",
+          "content": "Capstone completion means learning readiness, not job selection, admission, funding, certification, safety approval, regulatory clearance, or company launch approval."
+        }
+      ],
+      "tags": [
+        "capstone",
+        "career-launch",
+        "portfolio",
+        "business-models",
+        "certifications",
+        "school-roadmap",
+        "application-prep",
+        "skills-builder",
+        "education-only"
+      ],
+      "meta": {
+        "domain": "knowledge",
+        "category": "Career Launch Hub",
+        "sourceBoundary": "Capstone checklist only. Does not certify readiness or guarantee external outcomes."
+      }
     }
   ],
   "resources": [

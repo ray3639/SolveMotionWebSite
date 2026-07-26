@@ -5382,6 +5382,133 @@
           "searchUrl": "https://jobs.lever.co/elfbeauty?department=Sales"
         }
       ]
+    },
+    {
+      "id": "employer_diptyque_sas",
+      "type": "employer",
+      "title": "Diptyque SAS",
+      "summary": "Paris fragrance house pathway for perfume, scented body care, home fragrance, retail education, product storytelling, fragrance ingredient literacy, regulatory awareness, quality documentation, and internship preparation. Current openings must be confirmed on official Diptyque career pages.",
+      "tags": [
+        "Beauty",
+        "Fragrance",
+        "Perfume",
+        "Luxury Retail",
+        "Product Development",
+        "Retail Education",
+        "Regulatory",
+        "Quality",
+        "Internship Preparation"
+      ],
+      "meta": {
+        "employerType": "Fragrance House / Beauty Brand",
+        "sourceBoundary": "Education-only career and ingredient-literacy pathway. Official Diptyque career pages and current product packaging are source of truth.",
+        "legalIdentity": "Diptyque SAS; Paris company number/SIREN 612 043 331; registered office 34 boulevard Saint-Germain, 75005 Paris, France; official public listings show VAT as FR30 612 043 331 / FR30612043331."
+      },
+      "sections": [
+        {
+          "title": "Verified company identity",
+          "content": "Diptyque SAS is identified in official/legal sources as a Paris-registered company with company number 612 043 331 and registered office at 34 boulevard Saint-Germain, 75005 Paris, France. Public French company registry sources list the activity as perfume and toiletries manufacturing / retail perfumery context."
+        },
+        {
+          "title": "Career fit",
+          "content": "Relevant for learners interested in fragrance evaluation, perfume storytelling, luxury retail education, product development, fragrance ingredient documentation, product safety, regulatory awareness, quality records, visual merchandising, client education, and beauty entrepreneurship."
+        },
+        {
+          "title": "How to prepare for internships",
+          "content": "Use official Diptyque career pages for current openings. Build evidence before applying: fragrance case study, ingredient label analysis, scent-family vocabulary, retail education script, product storytelling sample, claims boundary notes, and documentation questions for safety, labeling, IFRA, packaging, and quality review."
+        },
+        {
+          "title": "Ingredient literacy boundary",
+          "content": "Diptyque public product pages can list product ingredients and olfactory notes, but complete proprietary perfume formulas are not public. Learners should study public labels and categories such as fragrance/parfum, solvents, humectants, emollients, preservatives, allergens, essential oils, citrus/rose/wood notes, and packaging directions without claiming formula ownership."
+        },
+        {
+          "title": "Public example: Eau Rose body lotion",
+          "content": "A public Diptyque Eau Rose perfumed body lotion page lists examples including water, glycerin, triethyl citrate, parfum/fragrance, octyldodecyl myristate, caprylic/capric triglyceride, shea butter, propanediol, sodium benzoate, potassium sorbate, linalyl acetate, geraniol, limonene, linalool, citrus aurantium amara peel oil, pelargonium graveolens flower oil, pinene, geranyl acetate, rose ketones, and juniperus virginiana oil. The page also says ingredient lists are updated and packaging should be checked for the most current information."
+        },
+        {
+          "title": "Public example: Eau Rose olfactory study",
+          "content": "A public Eau Rose eau de parfum page describes Damascena and Centifolia roses with chamomile, litchi, and artichoke. Use this as a note-architecture study: floral identity, unexpected green/fruit facets, consumer storytelling, and how note language differs from a full ingredient formula."
+        },
+        {
+          "title": "Internship / Early Career",
+          "content": "Fragrance Product Storytelling Preparation Track: build product briefs, scent-family comparisons, ingredient-label maps, and fragrance case studies. Retail Brand Education Preparation Track: practice boutique client education, olfactory vocabulary, product comparison, service language, and merchandising context. Regulatory and Quality Documentation Preparation Track: practice label review questions, allergen awareness, IFRA-category questions, packaging and stability questions, and batch/document control thinking."
+        }
+      ],
+      "url": "https://www.diptyqueparis.com/fr_us/c/join-diptyque.html",
+      "internships": [
+        {
+          "id": "internship_diptyque_fragrance_product_prep",
+          "type": "internship",
+          "title": "Fragrance Product Storytelling Preparation Track",
+          "summary": "Preparation track for fragrance product development, product storytelling, scent-family comparison, ingredient-label literacy, and luxury beauty portfolio work.",
+          "careerIds": [
+            "career_cosmetic_product_developer",
+            "career_cosmetic_chemist"
+          ],
+          "skills": [
+            "fragrance vocabulary",
+            "product briefs",
+            "ingredient label analysis",
+            "scent storytelling",
+            "claims boundary awareness"
+          ],
+          "preparation": [
+            "build a Diptyque-style fragrance case study without copying brand assets",
+            "study public ingredient labels",
+            "practice top-heart-base note language",
+            "prepare a product storytelling sample"
+          ],
+          "searchUrl": "https://www.diptyqueparis.com/fr_us/c/join-diptyque.html"
+        },
+        {
+          "id": "internship_diptyque_retail_brand_education_prep",
+          "type": "internship",
+          "title": "Retail Brand Education Preparation Track",
+          "summary": "Preparation track for boutique, retail education, customer storytelling, product comparison, merchandising, and fragrance client experience roles.",
+          "careerIds": [
+            "career_skincare_specialist",
+            "career_cosmetic_product_developer"
+          ],
+          "skills": [
+            "client education",
+            "luxury service language",
+            "olfactory comparison",
+            "brand storytelling",
+            "retail professionalism"
+          ],
+          "preparation": [
+            "write a two-minute fragrance education script",
+            "practice scent comparison language",
+            "study official Diptyque product pages",
+            "prepare customer-safe claim boundaries"
+          ],
+          "searchUrl": "https://www.diptyqueparis.com/fr_us/c/join-diptyque.html"
+        },
+        {
+          "id": "internship_diptyque_regulatory_quality_prep",
+          "type": "internship",
+          "title": "Regulatory and Quality Documentation Preparation Track",
+          "summary": "Preparation track for fragrance labeling, allergen awareness, product safety documentation, packaging questions, stability thinking, and quality records.",
+          "careerIds": [
+            "career_cosmetic_chemist",
+            "career_cosmetic_product_developer"
+          ],
+          "skills": [
+            "label review",
+            "allergen awareness",
+            "IFRA questions",
+            "quality documentation",
+            "packaging review"
+          ],
+          "preparation": [
+            "build an ingredient-label evidence packet",
+            "study public product ingredient updates",
+            "practice packaging and stability questions",
+            "prepare a regulatory-quality mini-file"
+          ],
+          "searchUrl": "https://www.diptyqueparis.com/fr_us/c/join-diptyque.html"
+        }
+      ]
     }
   ],
   "knowledge": [
@@ -7581,6 +7708,85 @@
           "chemicalEnrichment": true
         },
         "sourceBoundary": "Education-only application preparation sprint; official postings and employer instructions are source of truth."
+      }
+    },
+    {
+      "id": "diptyque-fragrance-ingredient-internship-pathway",
+      "title": "Diptyque Fragrance Ingredient Internship Pathway",
+      "summary": "Education-only pathway for studying Diptyque public fragrance ingredients, olfactory notes, internship preparation, luxury retail education, and regulatory-quality documentation boundaries.",
+      "sections": [
+        {
+          "title": "Purpose of the pathway",
+          "content": "This pathway helps learners turn Diptyque public product information into internship-ready evidence. It does not claim access to proprietary formulas, guarantee an internship, represent Diptyque, or replace official career postings."
+        },
+        {
+          "title": "Company verification",
+          "content": "Diptyque SAS is verified through official/legal sources as a Paris-registered company with company number 612 043 331 and registered office at 34 boulevard Saint-Germain, 75005 Paris, France. Public French listings show VAT as FR30 612 043 331 / FR30612043331."
+        },
+        {
+          "title": "Official career path",
+          "content": "Use the official Join Diptyque page and linked job opportunities as the source of truth. Prepare before roles open by building fragrance case studies, ingredient label maps, retail scripts, product storytelling samples, and regulatory-quality documentation questions."
+        },
+        {
+          "title": "Public ingredient literacy",
+          "content": "Study public product labels as examples, not as complete brand formula knowledge. A Diptyque Eau Rose body lotion page lists ingredient examples such as water, glycerin, parfum/fragrance, emollients, shea butter, propanediol, preservatives, fragrance allergens, citrus peel oil, geranium flower oil, rose ketones, and cedarwood oil. Product packaging remains the current ingredient source."
+        },
+        {
+          "title": "Olfactory note literacy",
+          "content": "A public Eau Rose eau de parfum page describes Damascena and Centifolia roses with chamomile, litchi, and artichoke. Use this to learn how a fragrance story can combine floral identity, fruit facets, green notes, and unexpected materials without revealing a full formula."
+        },
+        {
+          "title": "Internship evidence packet",
+          "content": "Build a packet with: company research, fragrance note map, ingredient-label map, allergen and IFRA questions, claims boundary table, retail education script, product case study, packaging questions, sustainability/refill notes where public, and a reflection on what remains proprietary or unverified."
+        },
+        {
+          "title": "Role targets",
+          "content": "Relevant role families include fragrance product development, retail brand education, boutique client experience, merchandising, product storytelling, regulatory documentation, quality review, product safety coordination, and fragrance entrepreneurship preparation."
+        },
+        {
+          "title": "Interview angle",
+          "content": "Explain that you studied public labels and product storytelling responsibly: what was public, what was proprietary, what safety and regulatory questions remained, and how you turned uncertainty into documented professional questions."
+        },
+        {
+          "title": "Portfolio artifact",
+          "content": "Create a Diptyque-inspired public case study without copying assets: one-page fragrance story, public ingredient label map, olfactory notes map, claims boundary table, boutique education script, and professional-review checklist."
+        },
+        {
+          "title": "Education boundary",
+          "content": "This pathway does not provide a proprietary ingredient list, a complete formula, legal advice, regulatory clearance, safety substantiation, job guarantee, or brand affiliation."
+        }
+      ],
+      "tags": [
+        "beauty-chemistry",
+        "fragrance",
+        "perfume",
+        "diptyque",
+        "internship",
+        "early-career",
+        "ingredient-literacy",
+        "retail-education",
+        "product-development",
+        "regulatory",
+        "quality",
+        "portfolio",
+        "education",
+        "non-clinical"
+      ],
+      "relatedEmployers": [
+        "employer_diptyque_sas"
+      ],
+      "relatedInternships": [
+        "internship_diptyque_fragrance_product_prep",
+        "internship_diptyque_retail_brand_education_prep",
+        "internship_diptyque_regulatory_quality_prep"
+      ],
+      "meta": {
+        "domain": "knowledge",
+        "category": "Beauty Career Pathway",
+        "eligibility": {
+          "chemicalEnrichment": true
+        },
+        "sourceBoundary": "Education-only Diptyque pathway using official/legal pages and public ingredient examples; no proprietary formula or job guarantee."
       }
     }
   ],
@@ -12562,7 +12768,8 @@
         "employer_loreal",
         "employer_estee_lauder",
         "employer_cosmetic_product_labs",
-        "employer_rhode_elf_beauty"
+        "employer_rhode_elf_beauty",
+        "employer_diptyque_sas"
       ],
       "relatedInternships": [
         "internship_loreal_cosmetic_science",
@@ -12572,7 +12779,10 @@
         "internship_cosmetic_lab_formulation",
         "internship_cosmetic_lab_quality",
         "internship_rhode_elf_product_development_prep",
-        "internship_rhode_elf_cosmetic_rd_prep"
+        "internship_rhode_elf_cosmetic_rd_prep",
+        "internship_diptyque_fragrance_product_prep",
+        "internship_diptyque_retail_brand_education_prep",
+        "internship_diptyque_regulatory_quality_prep"
       ]
     },
     {
@@ -12718,7 +12928,8 @@
         "employer_ulta_beauty",
         "employer_sephora",
         "employer_dermatology_clinics",
-        "employer_rhode_elf_beauty"
+        "employer_rhode_elf_beauty",
+        "employer_diptyque_sas"
       ],
       "relatedInternships": [
         "internship_ulta_beauty_advisor",
@@ -12727,7 +12938,10 @@
         "internship_sephora_brand_education",
         "internship_dermatology_clinic_assistant",
         "internship_dermatology_skincare",
-        "internship_rhode_elf_retail_education_prep"
+        "internship_rhode_elf_retail_education_prep",
+        "internship_diptyque_fragrance_product_prep",
+        "internship_diptyque_retail_brand_education_prep",
+        "internship_diptyque_regulatory_quality_prep"
       ]
     },
     {
@@ -12820,7 +13034,8 @@
         "employer_loreal",
         "employer_estee_lauder",
         "employer_cosmetic_product_labs",
-        "employer_rhode_elf_beauty"
+        "employer_rhode_elf_beauty",
+        "employer_diptyque_sas"
       ],
       "relatedInternships": [
         "internship_loreal_cosmetic_science",
@@ -12830,7 +13045,10 @@
         "internship_cosmetic_lab_formulation",
         "internship_cosmetic_lab_quality",
         "internship_rhode_elf_product_development_prep",
-        "internship_rhode_elf_cosmetic_rd_prep"
+        "internship_rhode_elf_cosmetic_rd_prep",
+        "internship_diptyque_fragrance_product_prep",
+        "internship_diptyque_retail_brand_education_prep",
+        "internship_diptyque_regulatory_quality_prep"
       ]
     }
   ],

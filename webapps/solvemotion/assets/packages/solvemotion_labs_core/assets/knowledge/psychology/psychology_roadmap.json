@@ -1116,5 +1116,179 @@
                                         "behavioral_scientist":  "market_research_analyst",
                                         "behavioral_therapist":  "mental_health_counselor"
                                     }
-                    }
+                    },
+    "careerReadiness":  {
+                            "cards":  [
+                                          {
+                                              "id":  "career_paths",
+                                              "title":  "Career Paths",
+                                              "summary":  "Compare psychology, cognitive science, research, UX, organizational, healthcare, government, and AI-aligned career directions.",
+                                              "category":  "Career Planning",
+                                              "whyThisMatters":  "A clear path helps the learner choose school, tools, projects, internships, and application evidence without guessing.",
+                                              "useThisInPractice":  [
+                                                                        "Pick one primary path and two backup paths.",
+                                                                        "Compare required education, experience, and portfolio signals.",
+                                                                        "Use Core career cards to decide what evidence to build next."
+                                                                    ],
+                                              "relatedCoreSections":  [
+                                                                          "careerPaths",
+                                                                          "roles.catalog",
+                                                                          "laborMarket"
+                                                                      ]
+                                          },
+                                          {
+                                              "id":  "companies",
+                                              "title":  "Companies",
+                                              "summary":  "Review employer sectors and example organizations connected to psychology, behavioral science, UX research, healthcare, consulting, government, media, and AI.",
+                                              "category":  "Employer Research",
+                                              "whyThisMatters":  "Company research turns a general interest into real opportunity targets, role language, and application timing.",
+                                              "useThisInPractice":  [
+                                                                        "Save companies by sector.",
+                                                                        "Match each company to one career path and one portfolio project.",
+                                                                        "Use official career pages before outreach or applications."
+                                                                    ],
+                                              "relatedCoreSections":  [
+                                                                          "employers.sectors",
+                                                                          "employers.catalogs",
+                                                                          "links.roleToEmployers"
+                                                                      ]
+                                          },
+                                          {
+                                              "id":  "internships",
+                                              "title":  "Internships",
+                                              "summary":  "Plan internships, labs, observation hours, assistant roles, and supervised experience that build credible career evidence.",
+                                              "category":  "Experience",
+                                              "whyThisMatters":  "Internships and supervised roles convert learning into verified practice, references, and portfolio proof.",
+                                              "useThisInPractice":  [
+                                                                        "Identify internship categories by path: lab, clinic, school, HR, UX, public health, product, or research.",
+                                                                        "Track deadlines, prerequisites, supervision rules, and school-credit requirements.",
+                                                                        "Write a reflection after each shadowing, lab, or internship experience."
+                                                                    ],
+                                              "relatedCoreSections":  [
+                                                                          "howToGetHired.pipeline",
+                                                                          "education.grades",
+                                                                          "education.postSecondary"
+                                                                      ]
+                                          },
+                                          {
+                                              "id":  "start_a_company",
+                                              "title":  "Start a Company",
+                                              "summary":  "Explore how cognitive science and psychology can become a focused service, education product, assessment workflow, research support offer, or software tool.",
+                                              "category":  "Founder Path",
+                                              "whyThisMatters":  "Founder work needs a narrow audience, ethical boundary, repeatable workflow, and measurable outcome before growth.",
+                                              "useThisInPractice":  [
+                                                                        "Choose one audience: students, schools, clinics, teams, workplaces, creators, researchers, or product teams.",
+                                                                        "Define what the company will do and what it will refuse to do outside scope.",
+                                                                        "Build one small portfolio proof before offering the service."
+                                                                    ],
+                                              "relatedCoreSections":  [
+                                                                          "careerReadiness.business_models",
+                                                                          "skillsAndTools.tools",
+                                                                          "employers.sectors"
+                                                                      ]
+                                          },
+                                          {
+                                              "id":  "business_models",
+                                              "title":  "Business Models",
+                                              "summary":  "Compare service, coaching, school program, research support, analytics, dashboard, content, and software models for applied cognitive work.",
+                                              "category":  "Business Planning",
+                                              "whyThisMatters":  "A business model makes the user clarify who is served, what is delivered, how quality is protected, and how outcomes are reviewed.",
+                                              "useThisInPractice":  [
+                                                                        "Choose one delivery model before designing features or services.",
+                                                                        "Define pricing, support, quality review, privacy boundaries, and referral rules.",
+                                                                        "Tie the model to a career path, tool workflow, and portfolio project."
+                                                                    ],
+                                              "relatedCoreSections":  [
+                                                                          "skillsAndTools.tools",
+                                                                          "ethicsBoundaries",
+                                                                          "howToGetHired.pipeline"
+                                                                      ]
+                                          },
+                                          {
+                                              "id":  "certifications",
+                                              "title":  "Certifications",
+                                              "summary":  "Track credentials, certificates, coursework, supervised requirements, and scope boundaries that support psychology-adjacent readiness.",
+                                              "category":  "Credentials",
+                                              "whyThisMatters":  "Credentials can strengthen readiness, but they must not be confused with licensure, diagnosis authority, or clinical scope.",
+                                              "useThisInPractice":  [
+                                                                        "Record each certification with issuer, date, renewal, and role relevance.",
+                                                                        "Separate certificates from licenses and supervised clinical authority.",
+                                                                        "Connect every credential to a portfolio project or internship requirement."
+                                                                    ],
+                                              "relatedCoreSections":  [
+                                                                          "education.postSecondary",
+                                                                          "careerPaths",
+                                                                          "ethicsBoundaries"
+                                                                      ]
+                                          },
+                                          {
+                                              "id":  "portfolio_projects",
+                                              "title":  "Portfolio Projects",
+                                              "summary":  "Build evidence through survey studies, usability studies, behavior-change plans, literature reviews, dashboards, and ethics-aware case analyses.",
+                                              "category":  "Portfolio",
+                                              "whyThisMatters":  "Projects make skills inspectable and help schools, employers, and collaborators understand what the learner can actually do.",
+                                              "useThisInPractice":  [
+                                                                        "Keep each project tied to a career path and a Core concept.",
+                                                                        "Include question, method, ethics note, result, limitation, and next action.",
+                                                                        "Use report export to turn saved work into a professional summary."
+                                                                    ],
+                                              "relatedCoreSections":  [
+                                                                          "howToGetHired.portfolioIdeas",
+                                                                          "skillsAndTools.tools",
+                                                                          "careerPaths"
+                                                                      ]
+                                          },
+                                          {
+                                              "id":  "school_roadmap",
+                                              "title":  "School Roadmap",
+                                              "summary":  "Connect grade-level and post-secondary learning to psychology topics, projects, milestones, internships, and career paths.",
+                                              "category":  "Education Planning",
+                                              "whyThisMatters":  "A school roadmap helps the learner choose classes, projects, activities, and application evidence in the right order.",
+                                              "useThisInPractice":  [
+                                                                        "Review the current grade or school stage.",
+                                                                        "Pick one project and one activity for the current term.",
+                                                                        "Map courses and milestones to a career path before applying."
+                                                                    ],
+                                              "relatedCoreSections":  [
+                                                                          "education.grades",
+                                                                          "education.gradeSemesters",
+                                                                          "education.postSecondary"
+                                                                      ]
+                                          },
+                                          {
+                                              "id":  "skills_builder",
+                                              "title":  "Skills Builder",
+                                              "summary":  "Develop research design, statistics, ethics, communication, empathy, data tools, survey design, dashboards, and applied analysis skills.",
+                                              "category":  "Skill Development",
+                                              "whyThisMatters":  "Skills become useful when they are practiced through projects and connected to real career or school evidence.",
+                                              "useThisInPractice":  [
+                                                                        "Choose one core skill and one tool skill.",
+                                                                        "Practice the skill through a small project.",
+                                                                        "Save the evidence to a portfolio or report."
+                                                                    ],
+                                              "relatedCoreSections":  [
+                                                                          "skillsAndTools.coreSkills",
+                                                                          "skillsAndTools.tools",
+                                                                          "howToGetHired.portfolioIdeas"
+                                                                      ]
+                                          },
+                                          {
+                                              "id":  "application_prep",
+                                              "title":  "Application Prep",
+                                              "summary":  "Prepare resumes, personal statements, cover notes, portfolios, interview answers, school applications, internships, and job applications.",
+                                              "category":  "Application Readiness",
+                                              "whyThisMatters":  "Application prep turns learning into a clear story with evidence, fit, boundaries, and next steps.",
+                                              "useThisInPractice":  [
+                                                                        "Create one resume or application version per role or program.",
+                                                                        "Use the opportunity description to select proof points.",
+                                                                        "Track submissions, follow-ups, interviews, and outcomes."
+                                                                    ],
+                                              "relatedCoreSections":  [
+                                                                          "howToGetHired.pipeline",
+                                                                          "howToGetHired.portfolioIdeas",
+                                                                          "employers.sectors"
+                                                                      ]
+                                          }
+                                      ]
+                        }
 }

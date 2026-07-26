@@ -4,18 +4,18 @@
     "type": "apk",
     "status": "published",
     "file": "downloads/solvemotion/SolveMotion-latest.apk",
-    "sizeMb": 95.98,
+    "sizeMb": 96.43,
     "source": "C:\\src\\dist\\solvemotion.apk",
-    "updatedUtc": "2026-07-26T14:01:39Z"
+    "updatedUtc": "2026-07-26T14:38:20Z"
   },
   {
     "app": "SolveMotion",
     "type": "aab",
     "status": "published",
     "file": "downloads/solvemotion/SolveMotion-latest.aab",
-    "sizeMb": 83.19,
+    "sizeMb": 83.4,
     "source": "C:\\src\\dist\\solvemotion.aab",
-    "updatedUtc": "2026-07-26T14:00:51Z"
+    "updatedUtc": "2026-07-26T14:37:23Z"
   },
   {
     "app": "SolveMotion",

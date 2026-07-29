@@ -1,56 +1,7 @@
 {
-  "source": "RayAI Interaction, Portal, Reporting, and Operations Upgrade Cycle Phase A Step 5 workflow-linked tile data contract",
+  "source": "RayAI 6.0 ecosystem status contract with Platform Map consolidated into the single Ecosystem button",
   "generatedAt": "20260722",
   "tiles": [
-    {
-      "id": "platform_map",
-      "title": "Platform Map",
-      "routeName": "ecosystem",
-      "status": "Map",
-      "summary": "Shows the RayAI ecosystem architecture map across apps, Core 12, Command Center, website, doctrine, baselines, routes, and release gates without running operations.",
-      "health": "green",
-      "lastVerified": "2026-06-07",
-      "sourceType": "phase_verified_contract",
-      "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
-      "action": "Review platform architecture, shared route coverage, and ecosystem boundary visibility.",
-      "category": "Ecosystem",
-      "priority": 11,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract.",
-      "lastGreen": "2026-06-07",
-      "blockerCount": 0,
-      "nextActionLabel": "Review platform architecture, shared route coverage, and ecosystem boundary visibility.",
-      "metrics": [
-        {
-          "label": "Health",
-          "value": "green"
-        },
-        {
-          "label": "Status",
-          "value": "Map"
-        },
-        {
-          "label": "Verified",
-          "value": "2026-06-07"
-        }
-      ],
-      "workflowLinks": [
-        {
-          "label": "Open",
-          "routeName": "ecosystem",
-          "description": "Open Platform Map workflow view."
-        },
-        {
-          "label": "Ask",
-          "routeName": "askRayAi",
-          "description": "Ask RayAI about this ecosystem area."
-        },
-        {
-          "label": "Reports",
-          "routeName": "reportGenerator",
-          "description": "Open related report visibility."
-        }
-      ]
-    },
     {
       "id": "ecosystem",
       "title": "Ecosystem",

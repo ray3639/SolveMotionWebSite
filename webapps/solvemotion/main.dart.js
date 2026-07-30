@@ -112953,31 +112953,28 @@ A.aMU.prototype={
 $2(a,b){return B.d.az(a.toLowerCase(),b.toLowerCase())},
 $S:92}
 A.aMV.prototype={
-$2(a,b){var s,r,q,p,o,n,m,l,k,j,i=null,h=A.b7(a,i,t.w).w,g=this.a
-if(g.d)g=B.bi
-else{s=g.e
+$2(a,b){var s,r,q,p,o,n,m,l,k=null,j=A.b7(a,k,t.w).w,i=this.a
+if(i.d)i=B.bi
+else{s=i.e
 r=this.b
 q=t.p
-if(s!=null)g=A.f7(A.ag(A.a([A.n(s,i,i,i,i,A.aX(i,i,r.fy,i,i,i,i,i,i,i,i,i,i,i,i,i,i,!0,i,i,i,i,i,i,i,i),B.aG,i),B.a3,A.aY8(B.lb,g.gapz())],q),B.r,B.h,B.aD),i,i)
+if(s!=null)i=A.f7(A.ag(A.a([A.n(s,k,k,k,k,A.aX(k,k,r.fy,k,k,k,k,k,k,k,k,k,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),B.aG,k),B.a3,A.aY8(B.lb,i.gapz())],q),B.r,B.h,B.aD),k,k)
 else{s=A.b2(14)
 p=r.b
 o=A.ce(p.a6(0.25),1)
 n=r.k2
-s=A.br(A.bn(A.a([B.nO,B.bz,A.bd(A.aZl(g.w,B.SG,!1,"*",i),1),A.l_(i,i,B.S0,i,i,new A.aMQ(g),i,i,"Clear")],q),B.r,B.h,B.i,0),B.o,i,new A.bg(n,i,o,s,i,i,B.A),i,i,i,B.bQ,i)
+s=A.br(A.bn(A.a([B.nO,B.bz,A.bd(A.aZl(i.w,B.SG,!1,"*",k),1),A.l_(k,k,B.S0,k,k,new A.aMQ(i),k,k,"Clear")],q),B.r,B.h,B.i,0),B.o,k,new A.bg(n,k,o,s,k,k,B.A),k,k,k,B.bQ,k)
 o=this.c
-o=A.cq(A.zg(i,new A.aMR(g,o),o.length,i,B.aJ,new A.aMS()),42,i)
-m=g.r.length
+o=A.cq(A.zg(k,new A.aMR(i,o),o.length,k,B.aJ,new A.aMS()),42,k)
+m=i.r.length
 l=b.b
-k=l<460
-if(k)j=1
-else j=l<820?2:3
-if(k)l=1.9
-else l=l<820?0.95:0.68
-m=A.bd(A.u7(new A.jA(j,12,12,l),new A.aMT(g,r),m,i,i,!1),1)
-g=A.b2(14)
+if(l<460)l=0.72
+else l=l<820?0.82:0.92
+m=A.bd(A.u7(new A.jA(3,12,12,l),new A.aMT(i,r),m,k,k,!1),1)
+i=A.b2(14)
 p=A.ce(p.a6(0.2),1)
-q=A.ag(A.a([s,B.q,o,B.q,m,B.R,A.br(A.n("This is not a quiz. Choose a movement - perform it - get a real readiness score and cues you can use later.",i,i,i,i,A.aX(i,i,r.k3.a6(0.85),i,i,i,i,i,i,i,i,i,i,i,B.at,i,i,!0,i,i,i,i,i,i,i,i),i,i),B.o,i,new A.bg(n,i,p,g,i,i,B.A),i,i,i,B.bQ,1/0)],q),B.r,B.h,B.i)
-g=q}}return new A.a_(new A.aa(16,16,16,h.r.d+16),g,i)},
+q=A.ag(A.a([s,B.q,o,B.q,m,B.R,A.br(A.n("This is not a quiz. Choose a movement - perform it - get a real readiness score and cues you can use later.",k,k,k,k,A.aX(k,k,r.k3.a6(0.85),k,k,k,k,k,k,k,k,k,k,k,B.at,k,k,!0,k,k,k,k,k,k,k,k),k,k),B.o,k,new A.bg(n,k,p,i,k,k,B.A),k,k,k,B.bQ,1/0)],q),B.r,B.h,B.i)
+i=q}}return new A.a_(new A.aa(16,16,16,j.r.d+16),i,k)},
 $S:731}
 A.aMQ.prototype={
 $0(){var s=this.a

@@ -1,0 +1,571 @@
+[
+  {
+    "id": "portfolio",
+    "title": "Portfolio Projects",
+    "summary": "Build evidence that shows how you observe movement, explain choices, protect safety boundaries, and improve a plan over time.",
+    "coreDomains": ["movement observation", "communication", "education-only boundaries", "progress documentation"],
+    "sections": [
+      {
+        "title": "Project Ladder",
+        "summary": "Start with narrow projects that can be finished, reviewed, and improved.",
+        "items": [
+          "Movement screen write-up with observed patterns, education-only findings, and referral boundaries",
+          "Warmup progression for one sport, activity, or joint pattern",
+          "Technique breakdown using public movement principles and cited learning sources",
+          "Training log dashboard with readiness, RPE, attendance, and reflection fields",
+          "Career case study comparing education path, work setting, credentials, and company role"
+        ],
+        "actions": [
+          "Choose one audience and one movement problem before selecting tools",
+          "Record the goal, inputs, method, limits, and what changed after review",
+          "Add a short ethics note that states what was observed and what was not concluded"
+        ],
+        "outputs": [
+          "One-page PDF or web page",
+          "Annotated screenshots or charts",
+          "Reflection section with next learning step"
+        ]
+      },
+      {
+        "title": "Evidence Quality",
+        "summary": "A strong portfolio makes the reasoning easy to inspect.",
+        "items": [
+          "Goal, audience, method, safety boundaries, and referral rules",
+          "Before and after plan changes with dates or session markers",
+          "Observed data separated from interpretation",
+          "Clear citation or source notes for educational concepts",
+          "Communication reflection for athlete, parent, coach, clinician, or customer"
+        ],
+        "actions": [
+          "Review each project for scope language before sharing",
+          "Keep private health details out of public work unless consent and policy allow it",
+          "Replace vague claims with observed facts and learning outcomes"
+        ],
+        "outputs": [
+          "Evidence checklist",
+          "Portfolio table of contents",
+          "Role-specific project tags"
+        ]
+      },
+      {
+        "title": "Role Matching",
+        "summary": "Shape projects toward the role you want next.",
+        "items": [
+          "Clinical and rehab paths: observation logs, exercise progressions, communication reflections",
+          "Strength and performance paths: program design, testing summaries, cue libraries",
+          "Research and data paths: small datasets, analysis notebooks, visualizations, literature summaries",
+          "Technology paths: product requirements, data flow diagrams, QA notes, user education screens",
+          "Education paths: lesson plans, student progress measures, inclusive activity adaptations"
+        ],
+        "actions": [
+          "Attach each project to a career path and a school roadmap level",
+          "Identify the mentor or reviewer who can validate quality",
+          "Keep the project small enough to finish and improve"
+        ],
+        "outputs": [
+          "Career-aligned portfolio map",
+          "Reviewer notes",
+          "Updated project version"
+        ]
+      }
+    ],
+    "checklists": [
+      {
+        "title": "Ready To Share",
+        "items": [
+          "Title explains the project without hype",
+          "Scope boundary is visible",
+          "Methods and data are described plainly",
+          "Every chart, screenshot, or claim has context",
+          "Next step shows learning and humility"
+        ]
+      }
+    ],
+    "routeTargets": [
+      {"label": "Career Paths", "route": "careerPathList"},
+      {"label": "School Roadmap", "route": "schoolRoadmap"},
+      {"label": "Companies", "route": "careerCompanies"}
+    ]
+  },
+  {
+    "id": "business-models",
+    "title": "Business Models",
+    "summary": "Movement science can become a local service, clinical pathway, school program, lab service, education product, or software company when the audience and scope are specific.",
+    "coreDomains": ["customer problem", "operations", "trust", "education-only scope"],
+    "sections": [
+      {
+        "title": "Service Models",
+        "summary": "Service businesses win through trust, repeatable operations, and measurable learning.",
+        "items": [
+          "Physical therapy, occupational therapy, or sports medicine clinic ownership through licensed practice",
+          "Sports performance studio for youth, high school, college, or adult athletes",
+          "Mobile movement education and screening service within credential boundaries",
+          "School-based kinesiology, wellness, or career education program",
+          "Corporate wellness and movement-readiness education program"
+        ],
+        "actions": [
+          "Define the buyer, user, setting, and safety boundary",
+          "Write one intake, one session flow, and one follow-up process",
+          "List credential requirements before offering any health-related service"
+        ],
+        "outputs": [
+          "Service blueprint",
+          "Referral policy",
+          "Customer journey map"
+        ]
+      },
+      {
+        "title": "Technology Models",
+        "summary": "Technology models need a narrow workflow, trusted data handling, and a real user problem.",
+        "items": [
+          "Biomechanics lab or motion-analysis service",
+          "Wearable-data interpretation and education platform",
+          "Coach workflow tool for readiness, reports, and progress tracking",
+          "Movement education content library or credential pathway",
+          "Clinical operations product for intake, outcomes, or patient education"
+        ],
+        "actions": [
+          "Map input data, Core processing, rendered output, and storage boundaries",
+          "Keep early product scope to one repeated job",
+          "Verify privacy, consent, and professional boundary requirements"
+        ],
+        "outputs": [
+          "Data flow map",
+          "Minimum product workflow",
+          "Risk and boundary checklist"
+        ]
+      },
+      {
+        "title": "Revenue And Operations",
+        "summary": "A business model is stronger when delivery, pricing, support, and quality control are visible.",
+        "items": [
+          "One-time assessment, recurring coaching, group program, school contract, clinic license, or subscription",
+          "Scheduling, intake, payment, records, reporting, and support process",
+          "Quality review cadence for content, coaches, reports, and customer outcomes",
+          "Partnership channels through clinics, schools, teams, employers, and community organizations"
+        ],
+        "actions": [
+          "Choose one primary revenue path first",
+          "Document what the business will refuse to do outside scope",
+          "Create a weekly operations checklist before scaling"
+        ],
+        "outputs": [
+          "Pricing model",
+          "Operations checklist",
+          "Partner outreach list"
+        ]
+      }
+    ],
+    "checklists": [
+      {
+        "title": "Business Readiness",
+        "items": [
+          "Specific audience",
+          "Specific movement education problem",
+          "Credential and referral rules",
+          "Repeatable service or product workflow",
+          "Evidence and privacy policy"
+        ]
+      }
+    ],
+    "routeTargets": [
+      {"label": "Start A Company", "route": "careerGuidance", "args": "founder"},
+      {"label": "Companies", "route": "careerCompanies"},
+      {"label": "Portfolio", "route": "careerGuidance", "args": "portfolio"}
+    ]
+  },
+  {
+    "id": "skills",
+    "title": "Skills Builder",
+    "summary": "Movement science careers combine anatomy, observation, coaching, data, communication, ethics, and role-specific tools.",
+    "coreDomains": ["kinesiology foundations", "coaching", "data literacy", "professional communication"],
+    "sections": [
+      {
+        "title": "Foundation Stack",
+        "summary": "These skills support almost every movement science path.",
+        "items": [
+          "Anatomy, joint actions, tissue basics, and movement vocabulary",
+          "Biomechanics, force, timing, balance, posture, and coordination concepts",
+          "Exercise physiology, adaptation, fatigue, recovery, and progression",
+          "Program design for warmup, strength, mobility, return-to-activity, or education",
+          "Communication with athletes, patients, parents, coaches, clinicians, and customers"
+        ],
+        "actions": [
+          "Practice explaining one concept in student, parent, and coach language",
+          "Use one movement video to identify what is visible and what is unknown",
+          "Create one progression with easier, normal, and harder levels"
+        ],
+        "outputs": [
+          "Concept notes",
+          "Cue library",
+          "Progression ladder"
+        ]
+      },
+      {
+        "title": "Technical Stack",
+        "summary": "Technical skills make your work easier to inspect and easier to improve.",
+        "items": [
+          "Video review and movement annotation",
+          "Spreadsheet analysis, simple statistics, and chart interpretation",
+          "Force, timing, balance, wearable, or workload data interpretation",
+          "Report writing with evidence boundaries and plain language",
+          "Privacy-aware handling of health, school, and performance information"
+        ],
+        "actions": [
+          "Build one spreadsheet that tracks sessions, RPE, readiness, and notes",
+          "Annotate one movement frame with visible joints and coaching cues",
+          "Write a report that separates observation from conclusion"
+        ],
+        "outputs": [
+          "Tracking sheet",
+          "Annotated movement image",
+          "Education-only report"
+        ]
+      },
+      {
+        "title": "Professional Stack",
+        "summary": "Professional habits make internships, jobs, and companies safer.",
+        "items": [
+          "Listening, note-taking, follow-up, and feedback loops",
+          "Referral judgment when pain, injury, illness, or medical concerns appear",
+          "Documentation that is concise, dated, and respectful",
+          "Team communication across coach, clinician, teacher, parent, and athlete roles",
+          "Ethical boundaries for claims, credentials, privacy, and customer promises"
+        ],
+        "actions": [
+          "Write a two-sentence referral boundary for your portfolio",
+          "Ask a mentor to review one project for clarity and scope",
+          "Turn feedback into a dated improvement note"
+        ],
+        "outputs": [
+          "Professional boundary statement",
+          "Mentor feedback log",
+          "Revised project"
+        ]
+      }
+    ],
+    "checklists": [
+      {
+        "title": "Weekly Builder",
+        "items": [
+          "One anatomy concept reviewed",
+          "One movement observation practiced",
+          "One communication note written",
+          "One data or chart skill practiced",
+          "One project improved"
+        ]
+      }
+    ],
+    "routeTargets": [
+      {"label": "Movement Library", "route": "movementLibrary"},
+      {"label": "Portfolio", "route": "careerGuidance", "args": "portfolio"},
+      {"label": "Career Paths", "route": "careerPathList"}
+    ]
+  },
+  {
+    "id": "certifications",
+    "title": "Certifications",
+    "summary": "Certifications support readiness and supervised experience; licensure and clinical authority remain separate where required.",
+    "coreDomains": ["credential planning", "scope boundaries", "school alignment", "career readiness"],
+    "sections": [
+      {
+        "title": "Early Credentials",
+        "summary": "Early credentials help students become safer volunteers, interns, and assistants.",
+        "items": [
+          "CPR/AED and first aid",
+          "Youth-safety or athlete-safety training when working with minors",
+          "Introductory anatomy, kinesiology, exercise science, or health science coursework",
+          "Basic coaching, officiating, or volunteer training through school or community programs"
+        ],
+        "actions": [
+          "Check age, cost, expiration, and renewal requirements",
+          "Save proof of completion in the career portfolio",
+          "Match each credential to a role or internship requirement"
+        ],
+        "outputs": [
+          "Credential tracker",
+          "Renewal calendar",
+          "Resume credential section"
+        ]
+      },
+      {
+        "title": "Performance And Wellness Credentials",
+        "summary": "Fitness and performance credentials should match the setting, audience, and education path.",
+        "items": [
+          "ACSM, NSCA, NASM, or ACE credentials for fitness and performance paths",
+          "CSCS after degree requirements are met for strength and conditioning",
+          "Specialty education in speed, mobility, corrective exercise, nutrition coaching, or youth training when relevant",
+          "Vendor training for wearable, motion capture, force plate, or coaching platforms"
+        ],
+        "actions": [
+          "Compare prerequisites before paying for an exam",
+          "Use certification study to build portfolio projects",
+          "Verify continuing education expectations"
+        ],
+        "outputs": [
+          "Certification comparison table",
+          "Study plan",
+          "Portfolio-aligned practice project"
+        ]
+      },
+      {
+        "title": "Clinical And Professional Credentials",
+        "summary": "Clinical credentials require accredited education, supervised hours, exams, and jurisdiction rules.",
+        "items": [
+          "BOC athletic training certification after accredited athletic training education",
+          "PT, PTA, OT, OTA, physician, physician assistant, nursing, and related credentials through accredited programs and boards",
+          "State licensure, renewal, continuing education, and scope of practice requirements",
+          "Clinical observation and supervised placement documentation"
+        ],
+        "actions": [
+          "Use official program and board sources for requirements",
+          "Track prerequisites and observation hours by school",
+          "Keep clinical language aligned with licensed scope"
+        ],
+        "outputs": [
+          "Prerequisite map",
+          "Observation log",
+          "Licensure requirement notes"
+        ]
+      }
+    ],
+    "checklists": [
+      {
+        "title": "Credential Fit Check",
+        "items": [
+          "Recognized by the target role",
+          "Prerequisites are met or planned",
+          "Cost and renewal are understood",
+          "Scope is clear",
+          "Evidence can be added to portfolio"
+        ]
+      }
+    ],
+    "routeTargets": [
+      {"label": "School Roadmap", "route": "schoolRoadmap"},
+      {"label": "Career Paths", "route": "careerPathList"},
+      {"label": "Application Prep", "route": "careerGuidance", "args": "application-prep"}
+    ]
+  },
+  {
+    "id": "founder",
+    "title": "Start a Movement Science Company",
+    "summary": "Build from a clear movement problem, a specific audience, ethical boundaries, and a repeatable workflow before adding scale.",
+    "coreDomains": ["problem definition", "offer design", "operations", "trust"],
+    "sections": [
+      {
+        "title": "Founder Sequence",
+        "summary": "A movement company starts with scope, audience, and repeatability.",
+        "items": [
+          "Pick one audience: athlete, parent, coach, clinic, school, employer, or student",
+          "Define one painful movement education problem in plain language",
+          "Choose a service or product model that fits credentials and scope",
+          "Document safety boundaries, referral rules, and education-only language",
+          "Run a small paid or supervised pilot before expanding"
+        ],
+        "actions": [
+          "Write the problem in the customer's words",
+          "Create one-page offer, intake, delivery, and follow-up notes",
+          "Ask three target users what they already do today"
+        ],
+        "outputs": [
+          "Problem statement",
+          "Offer page",
+          "Pilot plan"
+        ]
+      },
+      {
+        "title": "Company Building Blocks",
+        "summary": "The business needs a clear offer and clean operations before growth.",
+        "items": [
+          "Offer: outcome the customer understands",
+          "Evidence: how movement data, education, and progress are documented",
+          "Operations: scheduling, intake, records, payments, support, and quality review",
+          "Trust: credentials, references, policies, and professional boundaries",
+          "Growth: schools, clinics, teams, employers, and community channels"
+        ],
+        "actions": [
+          "Map the first customer journey from discovery to renewal",
+          "Set a weekly quality review for service notes and customer feedback",
+          "Build referral relationships before claims expand"
+        ],
+        "outputs": [
+          "Customer journey",
+          "Operating checklist",
+          "Referral directory"
+        ]
+      },
+      {
+        "title": "Launch Guardrails",
+        "summary": "Trust comes from saying clearly what the company can and cannot do.",
+        "items": [
+          "Do not diagnose, treat, or promise injury recovery outside licensed scope",
+          "Use clinician referral pathways when pain, injury, or medical concerns appear",
+          "Keep student, parent, and athlete messaging educational and transparent",
+          "Protect privacy before collecting movement, health, or school data"
+        ],
+        "actions": [
+          "Add scope text to intake, reports, website, and sales materials",
+          "Create referral language for medical concerns",
+          "Review privacy and consent requirements before collecting data"
+        ],
+        "outputs": [
+          "Scope language",
+          "Referral script",
+          "Privacy checklist"
+        ]
+      }
+    ],
+    "checklists": [
+      {
+        "title": "Pilot Ready",
+        "items": [
+          "Audience is specific",
+          "Problem is plain",
+          "Offer can be delivered repeatedly",
+          "Safety boundaries are written",
+          "Feedback collection is ready"
+        ]
+      }
+    ],
+    "routeTargets": [
+      {"label": "Business Models", "route": "careerGuidance", "args": "business-models"},
+      {"label": "Companies", "route": "careerCompanies"},
+      {"label": "Portfolio", "route": "careerGuidance", "args": "portfolio"}
+    ]
+  },
+  {
+    "id": "internships",
+    "title": "Internships",
+    "summary": "Internships, observation hours, lab roles, and assistant roles turn movement science learning into verified experience.",
+    "coreDomains": ["experience search", "outreach", "readiness", "reflection"],
+    "sections": [
+      {
+        "title": "Entry Points",
+        "summary": "Use the role and setting to choose the right first experience.",
+        "items": [
+          "Clinical observation in PT, OT, athletic training, or sports medicine clinics",
+          "Rehab aide, tech, front desk, or patient services work in outpatient settings",
+          "Sports performance internships with teams, schools, or training facilities",
+          "Biomechanics, exercise physiology, or motor learning lab assistant roles",
+          "Health technology internships in product, support, data, QA, or research"
+        ],
+        "actions": [
+          "Choose one domain and list ten matching organizations",
+          "Check official career pages and school internship offices",
+          "Track outreach, response, requirements, and follow-up dates"
+        ],
+        "outputs": [
+          "Opportunity list",
+          "Outreach tracker",
+          "Requirement notes"
+        ]
+      },
+      {
+        "title": "Application Sequence",
+        "summary": "Preparation makes outreach more specific and more respectful.",
+        "items": [
+          "Build a one-page resume with coursework, certifications, and movement projects",
+          "Write a short message that explains why that organization fits the path",
+          "Contact clinics, labs, teams, and companies through verified channels",
+          "Convert each interview into a learning conversation about the role",
+          "Document what was learned after every shadowing or internship day"
+        ],
+        "actions": [
+          "Prepare two portfolio projects before outreach",
+          "Ask about supervision, schedule, school credit, and confidentiality rules",
+          "Send a concise thank-you message after every conversation"
+        ],
+        "outputs": [
+          "Resume",
+          "Outreach message",
+          "Reflection log"
+        ]
+      }
+    ],
+    "checklists": [
+      {
+        "title": "Internship Readiness",
+        "items": [
+          "CPR/AED started or completed when relevant",
+          "One movement project documented",
+          "One professional reference identified",
+          "Availability and transportation clarified",
+          "School-credit requirements checked"
+        ]
+      }
+    ],
+    "routeTargets": [
+      {"label": "Companies", "route": "careerCompanies"},
+      {"label": "Application Prep", "route": "careerGuidance", "args": "application-prep"},
+      {"label": "Portfolio", "route": "careerGuidance", "args": "portfolio"}
+    ]
+  },
+  {
+    "id": "application-prep",
+    "title": "Application Prep",
+    "summary": "Strong applications show direction, preparation, and respect for the organization before asking for an opportunity.",
+    "coreDomains": ["resume", "outreach", "interviewing", "follow-up"],
+    "sections": [
+      {
+        "title": "Materials",
+        "summary": "Keep materials clear, role-specific, and evidence-backed.",
+        "items": [
+          "One-page resume tailored to the domain",
+          "Short cover note explaining why that company and role fit the path",
+          "Portfolio link or PDF with two to four relevant projects",
+          "Reference list with permission from each reference",
+          "Tracker for applications, follow-ups, and outcomes"
+        ],
+        "actions": [
+          "Use the job or internship description to select resume bullets",
+          "Put certifications, coursework, and portfolio projects near the top when relevant",
+          "Save each version with the company and role name"
+        ],
+        "outputs": [
+          "Resume",
+          "Cover note",
+          "Application tracker"
+        ]
+      },
+      {
+        "title": "Interview Prep",
+        "summary": "Interview answers should connect learning, behavior, and fit.",
+        "items": [
+          "Explain career direction in less than one minute",
+          "Prepare one example of coaching, helping, analyzing, or learning from feedback",
+          "Know the company category, audience, and relevant roles",
+          "Ask how students or early-career staff grow inside the organization",
+          "Prepare a boundary-aware answer for medical or injury questions outside scope"
+        ],
+        "actions": [
+          "Practice out loud with a timer",
+          "Write three questions for the interviewer",
+          "Send follow-up within one business day"
+        ],
+        "outputs": [
+          "One-minute career pitch",
+          "Interview question list",
+          "Follow-up message"
+        ]
+      }
+    ],
+    "checklists": [
+      {
+        "title": "Before Submit",
+        "items": [
+          "Role-specific resume",
+          "No unsupported claims",
+          "Portfolio link works",
+          "Contact information checked",
+          "Follow-up date scheduled"
+        ]
+      }
+    ],
+    "routeTargets": [
+      {"label": "Internships", "route": "careerGuidance", "args": "internships"},
+      {"label": "Companies", "route": "careerCompanies"},
+      {"label": "Skills Builder", "route": "careerGuidance", "args": "skills"}
+    ]
+  }
+]

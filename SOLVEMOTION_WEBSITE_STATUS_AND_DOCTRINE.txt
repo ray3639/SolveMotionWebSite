@@ -2208,3 +2208,23 @@ Android AAB: C:\src\SolveMotionWebSite\downloads\solvepharmacy\SolvePharmacy-lat
 Android APK local note: C:\src\SolveMotionWebSite\downloads\solvepharmacy\SolvePharmacy-latest.apk exists locally, 156447387 bytes, SHA256 44FCF7C7975E71993804D3B3865557DA8D24D3CFB5E91874F5AEE5D844A68DBC, but downloads/**/*.apk is ignored by website Git.
 Baseline: C:\src\_BASELINES\SolvePharmacy-6.0-PHASE-K-STEP-1-OF-1-BUILD80-WEBSITE-PRODUCTION-GREEN-20260723-002559
 ================================================================================
+PHASE AG PUBLIC HEADER STANDARDIZATION CLOSEOUT
+Date: 2026-08-02
+Status=GREEN
+GateGreen=True
+Scope=Standardized the public SolveMotion Labs website header across all public root, product, education, and downloads HTML pages.
+Steps Completed:
+- Step 1 of 6: Inspected GLOBAL_RULES.md, repository state, current homepage header, RayAI product header, product directory header, metrics header, and public page header inventory before edits.
+- Step 2 of 6: Identified compact legacy site-header/site-nav usage and pages missing the full branded header pattern.
+- Step 3 of 6: Applied the full branded SolveMotion Labs header with logo, brand title, subtitle, RayAI navigation, Metrics navigation, and authority band to 39 public HTML pages.
+- Step 4 of 6: Removed leftover legacy product-only site-nav markup.
+- Step 5 of 6: Verified relative links for root, product, education, and downloads pages.
+- Step 6 of 6: Prepared production publish through PushWebDownloads.ps1 only.
+Gate Receipts:
+- HeaderConsistencyGate=PASS Files=39.
+- HeaderLinkGate=PASS Files=39.
+- ForbiddenLegacyHeaderGate=PASS.
+- GitDiffCheck=PASS.
+Rules Preserved:
+- Website remains render-only.
+- No Core 12 logic, RayAI logic, app intelligence, placeholders, stubs, mocks, or fake/demo content introduced.

@@ -484,7 +484,61 @@
                             "sourceAnchors":  [
                                                   "BLS - Psychologists (OOH)",
                                                   "O*NET - Clinical \u0026 Counseling Psychologists"
-                                              ]
+                                              ],
+                            "internships":  [
+                                                "Research assistant in clinical or developmental psychology lab.",
+                                                "Behavioral health program assistant where permitted.",
+                                                "Crisis-line or peer-support training with age/scope limits.",
+                                                "Hospital, community, or nonprofit volunteer role focused on observation and support."
+                                            ],
+                            "applicationPrep":  [
+                                                    "Show research experience, ethical judgment, writing quality, and commitment to supervised practice.",
+                                                    "Prepare recommendation relationships with faculty, supervisors, and research mentors.",
+                                                    "Explain why psychology rather than general helping interest.",
+                                                    "Track prerequisites, supervised-hour expectations, and licensure rules from official sources."
+                                                ],
+                            "educationPath":  [
+                                                  "High school: biology, statistics, writing, psychology, health science, and volunteering.",
+                                                  "Undergraduate: psychology major or related field, research methods, statistics, lab or clinic-adjacent experience.",
+                                                  "Graduate: PhD or PsyD for psychologist roles; supervised practicum, internship, postdoctoral hours, and licensure exam requirements vary by state."
+                                              ],
+                            "portfolioProjects":  [
+                                                      "Literature review on one disorder, treatment approach, or assessment boundary.",
+                                                      "Ethics case analysis showing what can and cannot be concluded.",
+                                                      "Outcome-tracking mock dashboard using fictional/de-identified data.",
+                                                      "Reflection on shadowing, volunteering, or supervised observation."
+                                                  ],
+                            "category":  "Clinical and Behavioral Health",
+                            "whatYouDo":  [
+                                              "Assess mental, emotional, cognitive, and behavioral concerns using interviews, assessments, observation, and evidence-based frameworks.",
+                                              "Develop treatment plans, monitor outcomes, coordinate care, and communicate ethically with clients, families, and care teams.",
+                                              "Work inside strict licensure, supervision, documentation, privacy, and referral boundaries."
+                                          ],
+                            "ethicalBoundaries":  [
+                                                      "Do not diagnose, treat, or assess outside licensed/supervised authority.",
+                                                      "Protect privacy and avoid using identifiable client stories in portfolios.",
+                                                      "Use referral and crisis escalation pathways when safety is involved."
+                                                  ],
+                            "typicalSettings":  [
+                                                    "Hospitals and integrated care systems.",
+                                                    "Community mental health centers.",
+                                                    "Private practice after licensure.",
+                                                    "University clinics and research programs.",
+                                                    "Veterans, correctional, school, or public service settings."
+                                                ],
+                            "studyFocus":  [
+                                               "Abnormal psychology and psychopathology.",
+                                               "Clinical interviewing and assessment.",
+                                               "Research methods and statistics.",
+                                               "Ethics, privacy, cultural humility, and trauma-informed care.",
+                                               "Developmental, cognitive, biological, and social bases of behavior."
+                                           ],
+                            "nextSteps":  [
+                                              "Build research and volunteer evidence this term.",
+                                              "Study licensure requirements for the state or country of interest.",
+                                              "Interview a licensed psychologist about training realities.",
+                                              "Create a graduate-school readiness checklist."
+                                          ]
                         },
                         {
                             "id":  "ux_researcher",
@@ -511,7 +565,61 @@
                                                    "Case studies",
                                                    "Research writeups",
                                                    "Stakeholder presentations"
-                                               ]
+                                               ],
+                            "internships":  [
+                                                "UX research intern.",
+                                                "Product research assistant.",
+                                                "Human factors lab assistant.",
+                                                "Survey or insights intern.",
+                                                "Accessibility research support role."
+                                            ],
+                            "applicationPrep":  [
+                                                    "Build two or three clean case studies that show question, method, evidence, decision, and limitation.",
+                                                    "Practice explaining tradeoffs to non-research stakeholders.",
+                                                    "Prepare behavioral interview stories about ambiguity, ethics, and influence.",
+                                                    "Use company job descriptions to mirror role language."
+                                                ],
+                            "educationPath":  [
+                                                  "High school: psychology, writing, statistics, design or media projects.",
+                                                  "Undergraduate: psychology, cognitive science, human factors, HCI, information science, or related field.",
+                                                  "Graduate study can help for senior research, mixed methods, or specialized human factors roles but is not always required."
+                                              ],
+                            "portfolioProjects":  [
+                                                      "Usability study with research question, protocol, findings, limitations, and recommendations.",
+                                                      "Interview synthesis project with coded themes.",
+                                                      "Survey analysis around behavior or motivation.",
+                                                      "Accessibility heuristic review connected to cognitive load."
+                                                  ],
+                            "category":  "Human Behavior and Product Research",
+                            "whatYouDo":  [
+                                              "Study how people think, decide, navigate, and feel while using products, services, and systems.",
+                                              "Plan interviews, usability studies, surveys, diary studies, experiments, and synthesis sessions.",
+                                              "Turn user evidence into product recommendations without overclaiming beyond the data."
+                                          ],
+                            "ethicalBoundaries":  [
+                                                      "Protect participant privacy and consent.",
+                                                      "Avoid claiming a study proves more than the sample supports.",
+                                                      "Separate user need from business pressure when reporting evidence."
+                                                  ],
+                            "typicalSettings":  [
+                                                    "Technology companies.",
+                                                    "Healthcare product teams.",
+                                                    "Education technology.",
+                                                    "Consulting and research agencies.",
+                                                    "Government digital service teams."
+                                                ],
+                            "studyFocus":  [
+                                               "Cognitive psychology, attention, memory, decision-making, perception, and problem-solving.",
+                                               "Research design, sampling, interviewing, survey design, usability methods, and statistics.",
+                                               "Ethics, consent, privacy, accessibility, and inclusive research.",
+                                               "Communication, storytelling, product thinking, and stakeholder synthesis."
+                                           ],
+                            "nextSteps":  [
+                                              "Run one small usability study using a real product.",
+                                              "Write a case study with screenshots, method, findings, and next steps.",
+                                              "Save target companies by product area and research maturity.",
+                                              "Practice a portfolio walkthrough."
+                                          ]
                         },
                         {
                             "id":  "io_psychologist",
@@ -531,7 +639,61 @@
                                           "HRIS analytics",
                                           "Power BI",
                                           "R/Python"
-                                      ]
+                                      ],
+                            "internships":  [
+                                                "People analytics intern.",
+                                                "HR research or talent intern.",
+                                                "Organizational development assistant.",
+                                                "Survey research intern.",
+                                                "Assessment project support."
+                                            ],
+                            "applicationPrep":  [
+                                                    "Show statistics, survey, writing, and stakeholder communication evidence.",
+                                                    "Use terms like job analysis, validity, engagement, selection, training, and organizational development when accurate.",
+                                                    "Prepare examples of ethical handling of sensitive workforce data."
+                                                ],
+                            "educationPath":  [
+                                                  "High school: psychology, statistics, business, writing, and leadership activities.",
+                                                  "Undergraduate: psychology, business, statistics, HR, or organizational studies.",
+                                                  "Graduate: MA/MS or PhD in I-O psychology is common for specialist and psychologist roles."
+                                              ],
+                            "portfolioProjects":  [
+                                                      "Job analysis for a fictional or public role.",
+                                                      "Employee survey design with ethics and privacy note.",
+                                                      "Training evaluation plan.",
+                                                      "Leadership or teamwork literature review with workplace recommendations."
+                                                  ],
+                            "category":  "Workplace and Organizational Behavior",
+                            "whatYouDo":  [
+                                              "Apply psychology to hiring, assessment, training, leadership, motivation, teamwork, culture, wellbeing, and organizational performance.",
+                                              "Design surveys, analyze workforce patterns, evaluate programs, and advise leaders using evidence.",
+                                              "Keep fairness, validity, privacy, and legal/ethical boundaries visible."
+                                          ],
+                            "ethicalBoundaries":  [
+                                                      "Avoid unfair or invalid selection recommendations.",
+                                                      "Protect employee privacy.",
+                                                      "Distinguish business preference from psychological evidence."
+                                                  ],
+                            "typicalSettings":  [
+                                                    "Large employers and HR analytics teams.",
+                                                    "Consulting firms.",
+                                                    "Assessment vendors.",
+                                                    "Government personnel research.",
+                                                    "Organizational development teams."
+                                                ],
+                            "studyFocus":  [
+                                               "Industrial-organizational psychology.",
+                                               "Psychometrics and assessment validity.",
+                                               "Statistics, survey design, and people analytics.",
+                                               "Leadership, motivation, teams, job analysis, and organizational development.",
+                                               "Ethics, fairness, adverse impact, and privacy."
+                                           ],
+                            "nextSteps":  [
+                                              "Build one survey or job-analysis project.",
+                                              "Research I-O graduate programs and SIOP resources.",
+                                              "Save consulting, HR analytics, and assessment companies.",
+                                              "Practice explaining a people-data insight responsibly."
+                                          ]
                         },
                         {
                             "id":  "behavioral_scientist",
@@ -550,7 +712,60 @@
                                           "R/Python",
                                           "Experiment platforms",
                                           "BI tools"
-                                      ]
+                                      ],
+                            "internships":  [
+                                                "Behavioral insights intern.",
+                                                "Public health research assistant.",
+                                                "Program evaluation assistant.",
+                                                "Product experimentation intern.",
+                                                "Policy research assistant."
+                                            ],
+                            "applicationPrep":  [
+                                                    "Show that you can connect theory, evidence, intervention, and measurement.",
+                                                    "Prepare examples of uncertainty and unintended-effect thinking.",
+                                                    "Build one project around health, education, policy, or product behavior."
+                                                ],
+                            "educationPath":  [
+                                                  "High school: psychology, statistics, writing, public health, economics, and service projects.",
+                                                  "Undergraduate: psychology, cognitive science, public health, economics, data science, or policy.",
+                                                  "Graduate study can include behavioral science, psychology, public policy, public health, or decision science."
+                                              ],
+                            "portfolioProjects":  [
+                                                      "Behavior-change plan with target behavior, friction, intervention, ethics, and measurement.",
+                                                      "Experiment or A/B test proposal using fictional data.",
+                                                      "Literature review on a behavioral intervention.",
+                                                      "Policy or health communication redesign."
+                                                  ],
+                            "category":  "Applied Behavioral Science",
+                            "whatYouDo":  [
+                                              "Use behavioral evidence to improve decisions, health outcomes, product design, policy, education, and communication.",
+                                              "Design interventions, experiments, nudges, surveys, and evaluation plans.",
+                                              "Translate psychology research into practical changes while tracking ethics and limits."
+                                          ],
+                            "ethicalBoundaries":  [
+                                                      "Do not manipulate people without consent or safeguards.",
+                                                      "Consider equity and unintended harms.",
+                                                      "Keep claims proportional to evidence quality."
+                                                  ],
+                            "typicalSettings":  [
+                                                    "Health systems and public health teams.",
+                                                    "Government behavioral insights units.",
+                                                    "Product and growth research teams.",
+                                                    "Nonprofits and education programs.",
+                                                    "Consulting or research organizations."
+                                                ],
+                            "studyFocus":  [
+                                               "Cognitive psychology, social psychology, judgment and decision-making.",
+                                               "Behavior change, motivation, habit formation, and social influence.",
+                                               "Statistics, experiments, research methods, and program evaluation.",
+                                               "Ethics, consent, equity, and unintended consequences."
+                                           ],
+                            "nextSteps":  [
+                                              "Pick one behavior-change problem.",
+                                              "Map barriers and supports.",
+                                              "Design a small ethical intervention plan.",
+                                              "Save behavioral science teams and public health organizations."
+                                          ]
                         },
                         {
                             "id":  "gov_behavioral_analysis",
@@ -941,64 +1156,119 @@
                                       {
                                           "id":  "healthcare",
                                           "title":  "Healthcare Systems",
-                                          "items":  [
-                                                        {
-                                                            "name":  "Mayo Clinic",
-                                                            "region":  "US",
-                                                            "careers":  "https://jobs.mayoclinic.org/"
-                                                        },
-                                                        {
-                                                            "name":  "Cleveland Clinic",
-                                                            "region":  "US",
-                                                            "careers":  "https://jobs.clevelandclinic.org/"
-                                                        },
-                                                        {
-                                                            "name":  "Johns Hopkins Medicine",
-                                                            "region":  "US",
-                                                            "careers":  "https://jobs.hopkinsmedicine.org/"
-                                                        },
-                                                        {
-                                                            "name":  "Kaiser Permanente",
-                                                            "region":  "US",
-                                                            "careers":  "https://www.kaiserpermanentejobs.org/"
-                                                        },
-                                                        {
-                                                            "name":  "VA (Veterans Health Administration)",
-                                                            "region":  "US",
-                                                            "careers":  "https://vacareers.va.gov/"
-                                                        },
-                                                        {
-                                                            "name":  "NHS (National Health Service)",
-                                                            "region":  "UK",
-                                                            "careers":  "https://www.jobs.nhs.uk/"
-                                                        }
-                                                    ]
+                                          "applicationStrategy":  [
+                                                                      "Use official career pages and filter by behavioral health, psychology, research, patient experience, and program roles.",
+                                                                      "Check degree, age, certification, background, and supervision requirements.",
+                                                                      "Tailor resume around care, ethics, research, communication, and reliability."
+                                                                  ],
+                                          "summary":  "Healthcare systems hire psychology and behavioral health learners for clinical support, research, patient experience, program coordination, health behavior, and integrated care roles.",
+                                          "nextActions":  [
+                                                              "Save five health systems.",
+                                                              "Find three entry roles and one internship.",
+                                                              "Match each role to one project or volunteer proof.",
+                                                              "Track deadlines and requirements."
+                                                          ],
+                                          "portfolioProof":  [
+                                                                 "De-identified case reflection.",
+                                                                 "Health behavior literature review.",
+                                                                 "Patient education redesign.",
+                                                                 "Outcome-tracking mock dashboard.",
+                                                                 "Ethics boundary checklist."
+                                                             ],
+                                          "companyTypes":  [
+                                                               "Academic medical centers.",
+                                                               "Integrated care systems.",
+                                                               "Community mental health providers.",
+                                                               "Veterans and public hospitals.",
+                                                               "Rehabilitation and specialty clinics."
+                                                           ],
+                                          "exampleCompanies":  [
+                                                                   "Mayo Clinic - hospital, research, patient care, psychology training environment.",
+                                                                   "Cleveland Clinic - health system with behavioral health, research, and patient experience teams.",
+                                                                   "Johns Hopkins Medicine - academic health system with research and clinical program roles.",
+                                                                   "Kaiser Permanente - integrated care and population health environment.",
+                                                                   "Veterans Health Administration - public service, behavioral health, research, and care coordination."
+                                                               ],
+                                          "interviewPrep":  [
+                                                                "Prepare examples of privacy, empathy, boundaries, and teamwork.",
+                                                                "Explain what you can do as a learner versus what requires licensure.",
+                                                                "Practice describing stressful situations calmly and ethically."
+                                                            ],
+                                          "rolesToSearch":  [
+                                                                "Behavioral health technician.",
+                                                                "Research assistant.",
+                                                                "Clinical research coordinator.",
+                                                                "Patient experience analyst.",
+                                                                "Program assistant.",
+                                                                "Mental health associate.",
+                                                                "Care coordinator."
+                                                            ],
+                                          "whatToStudy":  [
+                                                              "Abnormal psychology.",
+                                                              "Health psychology.",
+                                                              "Ethics and privacy.",
+                                                              "Research methods.",
+                                                              "Trauma-informed communication.",
+                                                              "Statistics."
+                                                          ]
                                       },
                                       {
                                           "id":  "research",
                                           "title":  "Research Institutions",
-                                          "items":  [
-                                                        {
-                                                            "name":  "NIH",
-                                                            "region":  "US",
-                                                            "careers":  "https://www.training.nih.gov/"
-                                                        },
-                                                        {
-                                                            "name":  "NIMH",
-                                                            "region":  "US",
-                                                            "careers":  "https://www.nimh.nih.gov/"
-                                                        },
-                                                        {
-                                                            "name":  "CDC",
-                                                            "region":  "US",
-                                                            "careers":  "https://jobs.cdc.gov/"
-                                                        },
-                                                        {
-                                                            "name":  "RAND Corporation",
-                                                            "region":  "Global",
-                                                            "careers":  "https://www.rand.org/jobs.html"
-                                                        }
-                                                    ]
+                                          "applicationStrategy":  [
+                                                                      "Search lab pages and official institution career pages.",
+                                                                      "Email faculty/lab contacts only with concise, respectful, specific interest.",
+                                                                      "Show writing, methods, reliability, and data-care evidence."
+                                                                  ],
+                                          "summary":  "Research institutions connect psychology learners to labs, studies, data collection, literature review, public health, neuroscience, and behavioral science projects.",
+                                          "nextActions":  [
+                                                              "Identify ten labs or institutions.",
+                                                              "Prepare a one-page research interest statement.",
+                                                              "Polish one methods-focused portfolio artifact.",
+                                                              "Ask teachers or faculty about research assistant opportunities."
+                                                          ],
+                                          "portfolioProof":  [
+                                                                 "Literature review with five credible sources.",
+                                                                 "Survey project with method and limitations.",
+                                                                 "Mock IRB-style ethics checklist.",
+                                                                 "Data visualization from fictional/de-identified data.",
+                                                                 "Research poster summary."
+                                                             ],
+                                          "companyTypes":  [
+                                                               "University psychology labs.",
+                                                               "Federal research agencies.",
+                                                               "Public health research groups.",
+                                                               "Think tanks.",
+                                                               "Behavioral science research centers."
+                                                           ],
+                                          "exampleCompanies":  [
+                                                                   "NIH - research training, health science, and behavioral research pathways.",
+                                                                   "NIMH - mental health research and science communication context.",
+                                                                   "CDC - public health, behavior, data, and program evaluation roles.",
+                                                                   "RAND Corporation - policy, health, education, and behavioral research.",
+                                                                   "University labs - psychology, neuroscience, social, clinical, developmental, and cognitive research teams."
+                                                               ],
+                                          "interviewPrep":  [
+                                                                "Explain one study design clearly.",
+                                                                "Discuss consent, privacy, and limitations.",
+                                                                "Show comfort with repetitive careful data work."
+                                                            ],
+                                          "rolesToSearch":  [
+                                                                "Research assistant.",
+                                                                "Lab assistant.",
+                                                                "Study coordinator.",
+                                                                "Survey research assistant.",
+                                                                "Data collection assistant.",
+                                                                "Program evaluation intern."
+                                                            ],
+                                          "whatToStudy":  [
+                                                              "Research methods.",
+                                                              "Statistics.",
+                                                              "Ethics and consent.",
+                                                              "Literature review.",
+                                                              "Survey design.",
+                                                              "Experimental and correlational methods."
+                                                          ]
                                       },
                                       {
                                           "id":  "tech_ai",
@@ -1065,28 +1335,60 @@
                                       {
                                           "id":  "government",
                                           "title":  "Government \u0026 Public Service",
-                                          "items":  [
-                                                        {
-                                                            "name":  "FBI",
-                                                            "region":  "US",
-                                                            "careers":  "https://fbijobs.gov/"
-                                                        },
-                                                        {
-                                                            "name":  "DoD (Department of Defense)",
-                                                            "region":  "US",
-                                                            "careers":  "https://www.usajobs.gov/"
-                                                        },
-                                                        {
-                                                            "name":  "WHO (World Health Organization)",
-                                                            "region":  "Global",
-                                                            "careers":  "https://careers.who.int/"
-                                                        },
-                                                        {
-                                                            "name":  "UNICEF",
-                                                            "region":  "Global",
-                                                            "careers":  "https://jobs.unicef.org/"
-                                                        }
-                                                    ]
+                                          "applicationStrategy":  [
+                                                                      "Check eligibility, background, citizenship, training, and civil-service rules early.",
+                                                                      "Use official job portals and role-specific keywords.",
+                                                                      "Prepare writing samples and examples of public trust."
+                                                                  ],
+                                          "summary":  "Government and public service organizations use psychology and behavioral health knowledge in public health, schools, veterans services, community programs, justice-adjacent rehabilitation, and policy.",
+                                          "nextActions":  [
+                                                              "Choose a public service population or issue.",
+                                                              "Save official agency job portals.",
+                                                              "Build one policy or program portfolio piece.",
+                                                              "Track application windows."
+                                                          ],
+                                          "portfolioProof":  [
+                                                                 "Program evaluation plan.",
+                                                                 "Public behavior brief.",
+                                                                 "Resource map.",
+                                                                 "Ethics/privacy checklist.",
+                                                                 "Community mental health education summary."
+                                                             ],
+                                          "companyTypes":  [
+                                                               "Public health departments.",
+                                                               "School districts.",
+                                                               "Veterans and social service agencies.",
+                                                               "Federal and state research teams.",
+                                                               "Community behavioral health programs."
+                                                           ],
+                                          "exampleCompanies":  [
+                                                                   "CDC - public health behavior, prevention, research, and communication.",
+                                                                   "VA - veterans behavioral health, research, care support, and public service.",
+                                                                   "SAMHSA-connected programs - behavioral health policy, prevention, and community support context.",
+                                                                   "School districts - school psychology, counseling support, student services, and research.",
+                                                                   "State health departments - program evaluation, prevention, and community health."
+                                                               ],
+                                          "interviewPrep":  [
+                                                                "Discuss privacy, safety, and respectful service.",
+                                                                "Explain how evidence informs public programs.",
+                                                                "Show maturity around sensitive populations."
+                                                            ],
+                                          "rolesToSearch":  [
+                                                                "Public health intern.",
+                                                                "Program assistant.",
+                                                                "Research assistant.",
+                                                                "Behavioral health program coordinator.",
+                                                                "School support role.",
+                                                                "Policy research assistant."
+                                                            ],
+                                          "whatToStudy":  [
+                                                              "Public health.",
+                                                              "Developmental psychology.",
+                                                              "Social psychology.",
+                                                              "Trauma-informed practice.",
+                                                              "Policy writing.",
+                                                              "Program evaluation."
+                                                          ]
                                       },
                                       {
                                           "id":  "gaming_media",

@@ -1,7 +1,46 @@
 {
   "source": "RayAI 6.0 build-current ecosystem status and content freshness contract; Platform Map remains consolidated into the single Ecosystem button.",
-  "generatedAt": "20260730",
+  "generatedAt": "20260802",
   "tiles": [
+    {
+      "id": "psecu_digital_banking",
+      "title": "PSECU Testing",
+      "routeName": "psecuDigitalBanking",
+      "status": "Ready",
+      "summary": "Tenant-scoped PSECU digital banking web testing readiness, credential registration visibility, defect report handoff, and approved local automation boundaries.",
+      "health": "green",
+      "lastVerified": "2026-08-02",
+      "sourceType": "tenant_scope_contract",
+      "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
+      "action": "Open PSECU web testing readiness, report evidence, and local runner boundaries.",
+      "category": "Testing",
+      "priority": 47,
+      "healthReason": "PSECU tenant login is scoped to this single testing surface; live website execution remains approval-gated and report-backed. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
+      "blockerCount": 1,
+      "nextActionLabel": "Open PSECU testing",
+      "metrics": [
+        {
+          "label": "Tenant",
+          "value": "PSECU"
+        },
+        {
+          "label": "Scope",
+          "value": "Web test"
+        },
+        {
+          "label": "Mode",
+          "value": "Gated"
+        }
+      ],
+      "workflowLinks": [
+        {
+          "label": "Open",
+          "routeName": "psecuDigitalBanking",
+          "description": "Open PSECU web testing readiness."
+        }
+      ]
+    },
     {
       "id": "ecosystem",
       "title": "Ecosystem",
@@ -9,14 +48,14 @@
       "status": "Monitor",
       "summary": "Monitors the SolveMotion Labs ecosystem status across supported apps, Core 12, website, Command Center visibility, and RayAI governance boundaries.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review ecosystem status, route coverage, health indicators, and monitored boundaries.",
       "category": "Ecosystem",
       "priority": 12,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Review ecosystem status, route coverage, health indicators, and monitored boundaries.",
       "metrics": [
@@ -30,7 +69,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -58,14 +97,14 @@
       "status": "Insight",
       "summary": "Explains Command Center status and signals while preserving Command Center as the operations layer and preventing duplicate execution inside RayAI.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review Command Center visibility, operational boundaries, and no-duplication safeguards.",
       "category": "Ecosystem",
       "priority": 22,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Review Command Center visibility, operational boundaries, and no-duplication safeguards.",
       "metrics": [
@@ -79,7 +118,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -107,14 +146,14 @@
       "status": "Ask",
       "summary": "Tenant-scoped evidence-backed conversational workspace for testing, bugs, release readiness, reports, costs, decisions, builds, and ecosystem status without executing changes.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Ask authorized questions and review confidence, freshness, unknowns, conflicts, and source references.",
       "category": "Executive",
       "priority": 23,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Ask authorized questions and review confidence, freshness, unknowns, conflicts, and source references.",
       "metrics": [
@@ -128,7 +167,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -156,14 +195,14 @@
       "status": "Estimate",
       "summary": "Tracks estimated cost, licensing, API, SDK, SaaS access models, asset value, and valuation visibility with all estimates clearly guarded.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review estimated pricing, licensing, valuation guardrails, and no-public-claim boundaries.",
       "category": "Executive",
       "priority": 41,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Review estimated pricing, licensing, valuation guardrails, and no-public-claim boundaries.",
       "metrics": [
@@ -177,7 +216,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -205,14 +244,14 @@
       "status": "Strategy",
       "summary": "Supports truthful marketing positioning, audience targeting, website copy ideas, feature proof points, launch messaging, and guarded commercial claims.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review marketing positioning, launch messaging, proof points, and verified-claim boundaries.",
       "category": "Executive",
       "priority": 42,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Review marketing positioning, launch messaging, proof points, and verified-claim boundaries.",
       "metrics": [
@@ -226,7 +265,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -254,14 +293,14 @@
       "status": "Log",
       "summary": "Records key decisions, GREEN phases, blockers, approvals, review outcomes, baseline references, and next actions for the RayAI 6.0 lane.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review decision history, approvals, blockers, baseline references, and next action trail.",
       "category": "Executive",
       "priority": 43,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Review decision history, approvals, blockers, baseline references, and next action trail.",
       "metrics": [
@@ -275,7 +314,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -303,14 +342,14 @@
       "status": "Scope locked",
       "summary": "Shows the approved Enterprise QA Automation and Test Intelligence Platform 6.0 phases, POC boundary, security gates, integration decisions, and rollout scope without executing automation or touching protected systems.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "approved_scope_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review Enterprise QA platform phases, POC boundaries, integration gates, and production rollout readiness.",
       "category": "Testing",
       "priority": 49,
-      "healthReason": "Scope is centralized in RayAI as a render-only contract; execution and integrations remain approval-gated. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Scope is centralized in RayAI as a render-only contract; execution and integrations remain approval-gated. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Open Enterprise QA Platform scope",
       "metrics": [
@@ -352,14 +391,14 @@
       "status": "Review",
       "summary": "Inspects ecosystem testing and bug-intelligence visibility, records possible findings, classifies risk, and preserves no-fix-without-approval boundaries.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review testing visibility, bug classification, finding-recording boundaries, and approval gates.",
       "category": "Testing",
       "priority": 50,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Review testing visibility, bug classification, finding-recording boundaries, and approval gates.",
       "metrics": [
@@ -373,7 +412,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -401,14 +440,14 @@
       "status": "Monitor",
       "summary": "Displays render-only code monitoring readiness, inspected risk signals, analyzer visibility, and bug-awareness boundaries without direct filesystem or command execution.",
       "health": "yellow",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review code monitoring readiness, risk classification signals, and no-auto-fix boundaries.",
       "category": "Release",
       "priority": 54,
-      "healthReason": "Guarded visibility remains active because the tile is monitored or in progress in the current contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-06-07",
+      "healthReason": "Guarded visibility remains active because the tile is monitored or in progress in the current contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Review code monitoring readiness, risk classification signals, and no-auto-fix boundaries.",
       "metrics": [
@@ -422,7 +461,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -450,14 +489,14 @@
       "status": "Generate",
       "summary": "Generates internal status-report visibility, closeout summary framing, release summary readiness, and doctrine-ready summary guidance without publishing.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review report generation readiness, closeout framing, and doctrine-summary boundaries.",
       "category": "Reports",
       "priority": 59,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Review report generation readiness, closeout framing, and doctrine-summary boundaries.",
       "metrics": [
@@ -471,7 +510,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -499,14 +538,14 @@
       "status": "6.0",
       "summary": "Tracks SolveMotion 6.0 design-mode intelligence, route coverage, recommendations, camera/report readiness, Core boundaries, and future build gate visibility.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review SolveMotion 6.0 intelligence status, inspected scope, and next readiness signals.",
       "category": "Apps",
       "priority": 65,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Review SolveMotion 6.0 intelligence status, inspected scope, and next readiness signals.",
       "metrics": [
@@ -520,7 +559,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -548,14 +587,14 @@
       "status": "6.0",
       "summary": "Tracks SolveMind 6.0 intelligence status, knowledge-domain readiness, Core 12 render-only boundaries, tool coverage, and release-gate visibility.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review SolveMind 6.0 status, knowledge scope, and guarded release readiness.",
       "category": "Apps",
       "priority": 66,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Review SolveMind 6.0 status, knowledge scope, and guarded release readiness.",
       "metrics": [
@@ -569,7 +608,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -597,14 +636,14 @@
       "status": "Gate",
       "summary": "Tracks analyzer state, test state, release gates, baseline readiness, build readiness, unresolved blockers, and guarded release decisions.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review release readiness gates, baseline status, blockers, and guarded approval signals.",
       "category": "Release",
       "priority": 67,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Review release readiness gates, baseline status, blockers, and guarded approval signals.",
       "metrics": [
@@ -618,7 +657,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -646,14 +685,14 @@
       "status": "6.0",
       "summary": "Tracks SolveCrime 6.0 phases, scene diagram, evidence workspace, CaseLab, reports, build readiness, Mac/iOS lane, and final release-gate status.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review SolveCrime 6.0 phase status, evidence workspace coverage, and release gates.",
       "category": "Apps",
       "priority": 67,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Review SolveCrime 6.0 phase status, evidence workspace coverage, and release gates.",
       "metrics": [
@@ -667,7 +706,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -695,14 +734,14 @@
       "status": "Gate",
       "summary": "Explains whether Android, iOS, web, Windows, Mac/iOS, or website builds are allowed based on inspected state and approval gates.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review build permission state, platform gates, and no-build-until-approved boundaries.",
       "category": "Release",
       "priority": 68,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Review build permission state, platform gates, and no-build-until-approved boundaries.",
       "metrics": [
@@ -716,7 +755,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -744,14 +783,14 @@
       "status": "6.0",
       "summary": "Tracks SolvePharmacy 6.0 education, pharmacy knowledge, careers, employers, web portal state, app readiness, and Core 12 ownership boundaries.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review SolvePharmacy 6.0 status, content domains, portal state, and guarded boundaries.",
       "category": "Apps",
       "priority": 68,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Review SolvePharmacy 6.0 status, content domains, portal state, and guarded boundaries.",
       "metrics": [
@@ -765,7 +804,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -793,14 +832,14 @@
       "status": "In Progress",
       "summary": "Tracks SolveOura as in-progress only, keeping health and wearable intelligence claims guarded until the app is upgraded, verified, and explicitly approved.",
       "health": "yellow",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review SolveOura in-progress status, guarded claims, and deferred upgrade boundaries.",
       "category": "Apps",
       "priority": 69,
-      "healthReason": "Guarded visibility remains active because the tile is monitored or in progress in the current contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-06-07",
+      "healthReason": "Guarded visibility remains active because the tile is monitored or in progress in the current contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Review SolveOura in-progress status, guarded claims, and deferred upgrade boundaries.",
       "metrics": [
@@ -814,7 +853,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -842,14 +881,14 @@
       "status": "Gate",
       "summary": "Tracks Android and iOS build readiness, Build-RayAI, PushPhone, PushtoMac, phone install readiness, App Store visibility, TestFlight visibility, and release boundary evidence without running build or release commands.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Open Mobile Build Release Intelligence",
       "category": "Release",
       "priority": 78,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Open Mobile Build Release Intelligence",
       "metrics": [
@@ -863,7 +902,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -891,14 +930,14 @@
       "status": "Monitor",
       "summary": "Tracks SolveMotion Labs website status, RayAI Web Portal links, public claims, SEO visibility, production verification boundaries, and publish readiness without publishing.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review website intelligence, public-claim guardrails, portal status, and publish boundaries.",
       "category": "Client",
       "priority": 81,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Review website intelligence, public-claim guardrails, portal status, and publish boundaries.",
       "metrics": [
@@ -912,7 +951,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -940,14 +979,14 @@
       "status": "Advisor",
       "summary": "Renders next-scope guidance, blockers, doctrine boundaries, phase order, and patch-readiness status without selecting or applying fixes automatically.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review next inspected scope, patch readiness, blockers, and phase-gate evidence.",
       "category": "Admin",
       "priority": 93,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Review next inspected scope, patch readiness, blockers, and phase-gate evidence.",
       "metrics": [
@@ -961,7 +1000,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -989,14 +1028,14 @@
       "status": "Planner",
       "summary": "Shows the next five upgrades inside RayAI 6.0, preserving build-number tracking and avoiding version-number jumps or unapproved roadmap claims.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review the next five 6.0 upgrades, build-number lane, and guarded planning rules.",
       "category": "Admin",
       "priority": 94,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Review the next five 6.0 upgrades, build-number lane, and guarded planning rules.",
       "metrics": [
@@ -1010,7 +1049,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -1038,14 +1077,14 @@
       "status": "Rules",
       "summary": "Shows doctrine rules, phase status, architecture boundaries, locked decisions, and scope limits without modifying doctrine from the screen.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review doctrine rules, scope boundaries, phase status, and locked governance decisions.",
       "category": "Admin",
       "priority": 95,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Review doctrine rules, scope boundaries, phase status, and locked governance decisions.",
       "metrics": [
@@ -1059,7 +1098,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -1087,14 +1126,14 @@
       "status": "Review",
       "summary": "Tracks reusable business workflow coverage, scenario matrices, validation evidence, ownership checkpoints, downstream system touchpoints, and Phase T workflow intelligence boundaries.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review business workflow coverage, scenario evidence, ownership checkpoints, and downstream boundaries.",
       "category": "Client",
       "priority": 96,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Review business workflow coverage, scenario evidence, ownership checkpoints, and downstream boundaries.",
       "metrics": [
@@ -1108,7 +1147,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -1136,14 +1175,14 @@
       "status": "Reports",
       "summary": "Explains inspection reports, review counts, failed gates, patch readiness, source status, and next recommended mode without performing fixes.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review inspection report status, failure evidence, review counts, and next gate readiness.",
       "category": "Admin",
       "priority": 96,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Review inspection report status, failure evidence, review counts, and next gate readiness.",
       "metrics": [
@@ -1157,7 +1196,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -1185,14 +1224,14 @@
       "status": "Inspect",
       "summary": "Tracks website-hosted RayAI portal visibility, tenant login readiness, SaaS API SDK access boundaries, client-scoped reporting, usage visibility, billing visibility, and admin oversight.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Open RayAI Web Portal Intelligence",
       "category": "Client",
       "priority": 97,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Open RayAI Web Portal Intelligence",
       "metrics": [
@@ -1206,7 +1245,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -1234,14 +1273,14 @@
       "status": "Boundary",
       "summary": "Tracks local-only Core 12 contracts, DTO outputs, domain knowledge, commercial readiness, and no-local-scoring enforcement without running Core intelligence.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review Core 12 contract visibility, render-only boundaries, and no-local-scoring enforcement.",
       "category": "Core",
       "priority": 100,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Review Core 12 contract visibility, render-only boundaries, and no-local-scoring enforcement.",
       "metrics": [
@@ -1255,7 +1294,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -1283,14 +1322,14 @@
       "status": "Config",
       "summary": "Shows local RayAI settings, display preferences, configuration visibility, data-path status, and future admin configuration boundaries.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review local settings visibility, configuration status, and guarded settings boundaries.",
       "category": "Admin",
       "priority": 104,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Review local settings visibility, configuration status, and guarded settings boundaries.",
       "metrics": [
@@ -1304,7 +1343,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [
@@ -1332,14 +1371,14 @@
       "status": "Access",
       "summary": "Tracks Ray administrator access, company tenant visibility, role boundaries, API/SDK usage visibility, and tenant isolation guardrails.",
       "health": "green",
-      "lastVerified": "2026-07-30",
+      "lastVerified": "2026-08-02",
       "sourceType": "phase_verified_contract",
       "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
       "action": "Review admin access visibility, role boundaries, tenant isolation, and company access guardrails.",
       "category": "Admin",
       "priority": 105,
-      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-07-30.",
-      "lastGreen": "2026-07-30",
+      "healthReason": "Verified green by the current RayAI doctrine and ecosystem status contract. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
+      "lastGreen": "2026-08-02",
       "blockerCount": 0,
       "nextActionLabel": "Review admin access visibility, role boundaries, tenant isolation, and company access guardrails.",
       "metrics": [
@@ -1353,7 +1392,7 @@
         },
         {
           "label": "Verified",
-          "value": "2026-07-30"
+          "value": "2026-08-02"
         }
       ],
       "workflowLinks": [

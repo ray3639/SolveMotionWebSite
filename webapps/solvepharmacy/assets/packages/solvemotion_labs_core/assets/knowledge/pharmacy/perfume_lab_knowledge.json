@@ -7,123 +7,724 @@
     {
       "id": "fresh_aquatic",
       "name": "Fresh aquatic",
-      "best_for": ["mens", "unisex"],
+      "best_for": [
+        "mens",
+        "unisex"
+      ],
       "smell_goal": "Clean, watery, airy, crisp, shower-fresh, and modern.",
-      "top_ideas": ["bergamot", "grapefruit", "green mandarin", "marine accord", "mint leaf"],
-      "heart_ideas": ["lavender", "geranium", "violet leaf", "soft jasmine", "transparent floral accord"],
-      "base_ideas": ["white musk", "ambroxan style accord", "cedarwood", "clean amber", "sandalwood"],
-      "materials_to_research": ["dihydromyrcenol", "calone style marine material", "hedione", "iso e super", "ambroxan style material"],
+      "top_ideas": [
+        "bergamot",
+        "grapefruit",
+        "green mandarin",
+        "marine accord",
+        "mint leaf"
+      ],
+      "heart_ideas": [
+        "lavender",
+        "geranium",
+        "violet leaf",
+        "soft jasmine",
+        "transparent floral accord"
+      ],
+      "base_ideas": [
+        "white musk",
+        "ambroxan style accord",
+        "cedarwood",
+        "clean amber",
+        "sandalwood"
+      ],
+      "materials_to_research": [
+        "dihydromyrcenol",
+        "calone style marine material",
+        "hedione",
+        "iso e super",
+        "ambroxan style material"
+      ],
       "portfolio_prompt": "Build a clean sport or summer cologne brief and compare aquatic lift against citrus brightness."
     },
     {
       "id": "citrus_aromatic",
       "name": "Citrus aromatic",
-      "best_for": ["mens", "unisex"],
+      "best_for": [
+        "mens",
+        "unisex"
+      ],
       "smell_goal": "Bright citrus peel, herbal freshness, light spice, and polished drydown.",
-      "top_ideas": ["bergamot", "lemon peel", "grapefruit", "calamansi", "green mandarin"],
-      "heart_ideas": ["lavender", "rosemary", "basil", "clary sage", "geranium"],
-      "base_ideas": ["cedarwood", "vetiver", "white musk", "amber woods", "oakmoss style accord"],
-      "materials_to_research": ["linalool", "linalyl acetate", "citral-containing citrus materials", "terpinyl acetate", "vetiver materials"],
+      "top_ideas": [
+        "bergamot",
+        "lemon peel",
+        "grapefruit",
+        "calamansi",
+        "green mandarin"
+      ],
+      "heart_ideas": [
+        "lavender",
+        "rosemary",
+        "basil",
+        "clary sage",
+        "geranium"
+      ],
+      "base_ideas": [
+        "cedarwood",
+        "vetiver",
+        "white musk",
+        "amber woods",
+        "oakmoss style accord"
+      ],
+      "materials_to_research": [
+        "linalool",
+        "linalyl acetate",
+        "citral-containing citrus materials",
+        "terpinyl acetate",
+        "vetiver materials"
+      ],
       "portfolio_prompt": "Create a professional daytime cologne concept with a clear top-heart-base explanation."
     },
     {
       "id": "woody_amber",
       "name": "Woody amber",
-      "best_for": ["mens", "unisex"],
+      "best_for": [
+        "mens",
+        "unisex"
+      ],
       "smell_goal": "Warm woods, mineral amber, smooth resin, and long drydown character.",
-      "top_ideas": ["bergamot", "pink pepper", "cardamom", "elemi", "ginger"],
-      "heart_ideas": ["cedar", "violet leaf", "iris style accord", "incense", "soft spice"],
-      "base_ideas": ["sandalwood", "amber", "labdanum style accord", "ambroxan style accord", "musk"],
-      "materials_to_research": ["iso e super", "cedramber style materials", "ambroxan style materials", "vanillin", "sandalwood materials"],
+      "top_ideas": [
+        "bergamot",
+        "pink pepper",
+        "cardamom",
+        "elemi",
+        "ginger"
+      ],
+      "heart_ideas": [
+        "cedar",
+        "violet leaf",
+        "iris style accord",
+        "incense",
+        "soft spice"
+      ],
+      "base_ideas": [
+        "sandalwood",
+        "amber",
+        "labdanum style accord",
+        "ambroxan style accord",
+        "musk"
+      ],
+      "materials_to_research": [
+        "iso e super",
+        "cedramber style materials",
+        "ambroxan style materials",
+        "vanillin",
+        "sandalwood materials"
+      ],
       "portfolio_prompt": "Draft a premium evening fragrance brief focused on texture, warmth, and drydown."
     },
     {
       "id": "fruity_floral",
       "name": "Fruity floral",
-      "best_for": ["womens", "unisex"],
+      "best_for": [
+        "womens",
+        "unisex"
+      ],
       "smell_goal": "Juicy fruit opening, clean floral heart, soft musk, and gentle sweetness.",
-      "top_ideas": ["pear accord", "white grape", "lychee", "bergamot", "mandarin"],
-      "heart_ideas": ["jasmine", "rose", "peony", "orange blossom", "water lily"],
-      "base_ideas": ["white musk", "sandalwood", "vanilla", "clean amber", "soft woods"],
-      "materials_to_research": ["hedione", "ethyl maltol in trace study context", "benzyl acetate", "rose materials", "musk materials"],
+      "top_ideas": [
+        "pear accord",
+        "white grape",
+        "lychee",
+        "bergamot",
+        "mandarin"
+      ],
+      "heart_ideas": [
+        "jasmine",
+        "rose",
+        "peony",
+        "orange blossom",
+        "water lily"
+      ],
+      "base_ideas": [
+        "white musk",
+        "sandalwood",
+        "vanilla",
+        "clean amber",
+        "soft woods"
+      ],
+      "materials_to_research": [
+        "hedione",
+        "ethyl maltol in trace study context",
+        "benzyl acetate",
+        "rose materials",
+        "musk materials"
+      ],
       "portfolio_prompt": "Build a bright portfolio fragrance with fruit-to-floral transition notes."
     },
     {
       "id": "white_floral",
       "name": "White floral",
-      "best_for": ["womens", "unisex"],
+      "best_for": [
+        "womens",
+        "unisex"
+      ],
       "smell_goal": "Radiant petals, orange blossom glow, jasmine body, and soft creamy base.",
-      "top_ideas": ["bergamot", "mandarin", "neroli", "green tea", "soft citrus"],
-      "heart_ideas": ["jasmine", "orange blossom", "tuberose style accord", "gardenia style accord", "ylang ylang"],
-      "base_ideas": ["white musk", "sandalwood", "vanilla", "benzoin style accord", "creamy amber"],
-      "materials_to_research": ["hedione", "benzyl salicylate", "linalool", "ylang materials", "jasmine materials"],
+      "top_ideas": [
+        "bergamot",
+        "mandarin",
+        "neroli",
+        "green tea",
+        "soft citrus"
+      ],
+      "heart_ideas": [
+        "jasmine",
+        "orange blossom",
+        "tuberose style accord",
+        "gardenia style accord",
+        "ylang ylang"
+      ],
+      "base_ideas": [
+        "white musk",
+        "sandalwood",
+        "vanilla",
+        "benzoin style accord",
+        "creamy amber"
+      ],
+      "materials_to_research": [
+        "hedione",
+        "benzyl salicylate",
+        "linalool",
+        "ylang materials",
+        "jasmine materials"
+      ],
       "portfolio_prompt": "Compare a clean white floral structure against a richer creamy floral structure."
     },
     {
       "id": "rose_musk",
       "name": "Rose musk",
-      "best_for": ["womens", "unisex"],
+      "best_for": [
+        "womens",
+        "unisex"
+      ],
       "smell_goal": "Soft rose, clean skin musk, delicate fruit, and smooth woods.",
-      "top_ideas": ["bergamot", "pink pepper", "raspberry accord", "lychee", "mandarin"],
-      "heart_ideas": ["rose", "geranium", "peony", "violet", "soft tea"],
-      "base_ideas": ["white musk", "cashmere woods", "sandalwood", "amber", "soft vanilla"],
-      "materials_to_research": ["phenethyl alcohol", "geraniol", "citronellol", "damascone style materials", "musk materials"],
+      "top_ideas": [
+        "bergamot",
+        "pink pepper",
+        "raspberry accord",
+        "lychee",
+        "mandarin"
+      ],
+      "heart_ideas": [
+        "rose",
+        "geranium",
+        "peony",
+        "violet",
+        "soft tea"
+      ],
+      "base_ideas": [
+        "white musk",
+        "cashmere woods",
+        "sandalwood",
+        "amber",
+        "soft vanilla"
+      ],
+      "materials_to_research": [
+        "phenethyl alcohol",
+        "geraniol",
+        "citronellol",
+        "damascone style materials",
+        "musk materials"
+      ],
       "portfolio_prompt": "Document how rose can read fresh, jammy, powdery, or clean depending on support notes."
     },
     {
       "id": "vanilla_amber_gourmand",
       "name": "Vanilla amber gourmand",
-      "best_for": ["womens", "unisex"],
+      "best_for": [
+        "womens",
+        "unisex"
+      ],
       "smell_goal": "Warm vanilla, caramelized sweetness, amber depth, and cozy musk.",
-      "top_ideas": ["bergamot", "mandarin", "pink pepper", "almond accord", "coconut water style note"],
-      "heart_ideas": ["jasmine", "orange blossom", "tonka style accord", "soft spice", "cream accord"],
-      "base_ideas": ["vanilla", "benzoin style accord", "amber", "sandalwood", "musk"],
-      "materials_to_research": ["vanillin", "ethyl vanillin", "benzoin resinoid", "coumarin", "ethyl maltol in trace study context"],
+      "top_ideas": [
+        "bergamot",
+        "mandarin",
+        "pink pepper",
+        "almond accord",
+        "coconut water style note"
+      ],
+      "heart_ideas": [
+        "jasmine",
+        "orange blossom",
+        "tonka style accord",
+        "soft spice",
+        "cream accord"
+      ],
+      "base_ideas": [
+        "vanilla",
+        "benzoin style accord",
+        "amber",
+        "sandalwood",
+        "musk"
+      ],
+      "materials_to_research": [
+        "vanillin",
+        "ethyl vanillin",
+        "benzoin resinoid",
+        "coumarin",
+        "ethyl maltol in trace study context"
+      ],
       "portfolio_prompt": "Create a dessert-inspired fragrance brief while keeping sweetness balanced and documented."
     },
     {
       "id": "lanzones_tropical_fruit",
       "name": "Lanzones tropical fruit",
-      "best_for": ["mens", "womens", "unisex", "fruit"],
+      "best_for": [
+        "mens",
+        "womens",
+        "unisex",
+        "fruit"
+      ],
       "smell_goal": "Sweet-tart tropical pulp, grape-lychee juiciness, citrus peel, translucent floral body, and creamy clean drydown.",
-      "top_ideas": ["lanzones accord", "calamansi", "bergamot", "green mandarin", "white grape"],
-      "heart_ideas": ["lychee", "jasmine petals", "orange blossom", "soft tea leaf", "water lily"],
-      "base_ideas": ["white musk", "sandalwood", "creamy amber", "clean vanilla", "coconut water style note"],
-      "materials_to_research": ["citrus materials", "grape accord materials", "lychee accord materials", "hedione", "white musk materials"],
+      "top_ideas": [
+        "lanzones accord",
+        "calamansi",
+        "bergamot",
+        "green mandarin",
+        "white grape"
+      ],
+      "heart_ideas": [
+        "lychee",
+        "jasmine petals",
+        "orange blossom",
+        "soft tea leaf",
+        "water lily"
+      ],
+      "base_ideas": [
+        "white musk",
+        "sandalwood",
+        "creamy amber",
+        "clean vanilla",
+        "coconut water style note"
+      ],
+      "materials_to_research": [
+        "citrus materials",
+        "grape accord materials",
+        "lychee accord materials",
+        "hedione",
+        "white musk materials"
+      ],
       "portfolio_prompt": "Use lanzones as an accord concept that can plug into men's, women's, or unisex formulas without direct fruit extraction instructions."
     },
     {
       "id": "tropical_mango_citrus",
       "name": "Mango citrus tropical",
-      "best_for": ["womens", "unisex", "fruit"],
+      "best_for": [
+        "womens",
+        "unisex",
+        "fruit"
+      ],
       "smell_goal": "Ripe mango, citrus sparkle, tropical nectar, and soft floral warmth.",
-      "top_ideas": ["mango accord", "orange", "lime", "pineapple nuance", "green mandarin"],
-      "heart_ideas": ["jasmine", "frangipani style accord", "ylang ylang", "peach accord", "tea leaf"],
-      "base_ideas": ["vanilla", "sandalwood", "white musk", "coconut", "amber"],
-      "materials_to_research": ["lactone materials", "citrus materials", "gamma undecalactone study", "hedione", "vanillin"],
+      "top_ideas": [
+        "mango accord",
+        "orange",
+        "lime",
+        "pineapple nuance",
+        "green mandarin"
+      ],
+      "heart_ideas": [
+        "jasmine",
+        "frangipani style accord",
+        "ylang ylang",
+        "peach accord",
+        "tea leaf"
+      ],
+      "base_ideas": [
+        "vanilla",
+        "sandalwood",
+        "white musk",
+        "coconut",
+        "amber"
+      ],
+      "materials_to_research": [
+        "lactone materials",
+        "citrus materials",
+        "gamma undecalactone study",
+        "hedione",
+        "vanillin"
+      ],
       "portfolio_prompt": "Build a summer fragrance brief that separates juicy fruit, floral body, and creamy drydown."
     },
     {
       "id": "guava_passionfruit",
       "name": "Guava passionfruit",
-      "best_for": ["womens", "unisex", "fruit"],
+      "best_for": [
+        "womens",
+        "unisex",
+        "fruit"
+      ],
       "smell_goal": "Tart tropical fruit, pink pulp, sparkling citrus, and clean musk.",
-      "top_ideas": ["guava accord", "passionfruit accord", "grapefruit", "bergamot", "green mango nuance"],
-      "heart_ideas": ["hibiscus style accord", "rose", "jasmine", "lychee", "water lily"],
-      "base_ideas": ["white musk", "cedarwood", "clean amber", "soft vanilla", "sandalwood"],
-      "materials_to_research": ["fruity ester study materials", "citrus materials", "rose materials", "hedione", "musk materials"],
+      "top_ideas": [
+        "guava accord",
+        "passionfruit accord",
+        "grapefruit",
+        "bergamot",
+        "green mango nuance"
+      ],
+      "heart_ideas": [
+        "hibiscus style accord",
+        "rose",
+        "jasmine",
+        "lychee",
+        "water lily"
+      ],
+      "base_ideas": [
+        "white musk",
+        "cedarwood",
+        "clean amber",
+        "soft vanilla",
+        "sandalwood"
+      ],
+      "materials_to_research": [
+        "fruity ester study materials",
+        "citrus materials",
+        "rose materials",
+        "hedione",
+        "musk materials"
+      ],
       "portfolio_prompt": "Use tart fruit contrast to make a bright body mist or fine fragrance study concept."
     },
     {
       "id": "fig_green_tea",
       "name": "Fig green tea",
-      "best_for": ["mens", "womens", "unisex", "fruit"],
+      "best_for": [
+        "mens",
+        "womens",
+        "unisex",
+        "fruit"
+      ],
       "smell_goal": "Green fig leaf, soft fruit pulp, tea, woods, and calm clean musk.",
-      "top_ideas": ["fig leaf accord", "bergamot", "green tea", "grapefruit", "blackcurrant bud style nuance"],
-      "heart_ideas": ["tea leaf", "iris style accord", "jasmine", "violet leaf", "soft spice"],
-      "base_ideas": ["cedarwood", "sandalwood", "musk", "amber", "tonka style accord"],
-      "materials_to_research": ["stemone style green fig materials", "ionone materials", "hedione", "cedar materials", "musk materials"],
+      "top_ideas": [
+        "fig leaf accord",
+        "bergamot",
+        "green tea",
+        "grapefruit",
+        "blackcurrant bud style nuance"
+      ],
+      "heart_ideas": [
+        "tea leaf",
+        "iris style accord",
+        "jasmine",
+        "violet leaf",
+        "soft spice"
+      ],
+      "base_ideas": [
+        "cedarwood",
+        "sandalwood",
+        "musk",
+        "amber",
+        "tonka style accord"
+      ],
+      "materials_to_research": [
+        "stemone style green fig materials",
+        "ionone materials",
+        "hedione",
+        "cedar materials",
+        "musk materials"
+      ],
       "portfolio_prompt": "Create a quiet luxury unisex brief with green fruit, tea, and woods."
+    }
+  ],
+  "ingredient_palette": [
+    {
+      "id": "bergamot",
+      "name": "Bergamot",
+      "category": "Citrus top note",
+      "smell_tags": [
+        "bright",
+        "citrus",
+        "fresh",
+        "sparkling"
+      ],
+      "shopping_role": "Citrus lift for cologne, perfume, and fruit accords",
+      "safety_note": "Review citrus allergen, phototoxicity, IFRA, and supplier SDS documentation."
+    },
+    {
+      "id": "green_mandarin",
+      "name": "Green mandarin",
+      "category": "Citrus top note",
+      "smell_tags": [
+        "green",
+        "citrus",
+        "juicy",
+        "fresh"
+      ],
+      "shopping_role": "Green citrus brightness for tropical or clean openings",
+      "safety_note": "Review citrus allergen, phototoxicity, IFRA, and supplier SDS documentation."
+    },
+    {
+      "id": "grapefruit",
+      "name": "Grapefruit",
+      "category": "Citrus top note",
+      "smell_tags": [
+        "bitter",
+        "citrus",
+        "fresh",
+        "sparkling"
+      ],
+      "shopping_role": "Sharp fresh citrus for sport, aquatic, and tart fruit briefs",
+      "safety_note": "Review citrus allergen, phototoxicity, IFRA, and supplier SDS documentation."
+    },
+    {
+      "id": "calamansi",
+      "name": "Calamansi accord",
+      "category": "Citrus accord",
+      "smell_tags": [
+        "tart",
+        "citrus",
+        "tropical",
+        "fresh"
+      ],
+      "shopping_role": "Tart tropical citrus direction for lanzones-style briefs",
+      "safety_note": "Use as an accord study target; verify each actual material separately."
+    },
+    {
+      "id": "white_grape",
+      "name": "White grape accord",
+      "category": "Fruit accord",
+      "smell_tags": [
+        "juicy",
+        "grape",
+        "fruity",
+        "transparent"
+      ],
+      "shopping_role": "Grape-like juiciness for lanzones, fruity floral, and unisex fruit profiles",
+      "safety_note": "Use as an accord study target; verify each actual material separately."
+    },
+    {
+      "id": "lychee",
+      "name": "Lychee accord",
+      "category": "Fruit accord",
+      "smell_tags": [
+        "juicy",
+        "fruity",
+        "floral",
+        "tropical"
+      ],
+      "shopping_role": "Soft tropical fruit body for lanzones, rose musk, and fruity floral profiles",
+      "safety_note": "Use as an accord study target; verify each actual material separately."
+    },
+    {
+      "id": "mango",
+      "name": "Mango accord",
+      "category": "Fruit accord",
+      "smell_tags": [
+        "ripe",
+        "tropical",
+        "sweet",
+        "creamy"
+      ],
+      "shopping_role": "Ripe tropical fruit direction for summer perfume concepts",
+      "safety_note": "Use as an accord study target; verify each actual material separately."
+    },
+    {
+      "id": "guava",
+      "name": "Guava accord",
+      "category": "Fruit accord",
+      "smell_tags": [
+        "pink",
+        "tart",
+        "tropical",
+        "juicy"
+      ],
+      "shopping_role": "Pink tropical tartness for fruit-forward perfume briefs",
+      "safety_note": "Use as an accord study target; verify each actual material separately."
+    },
+    {
+      "id": "fig_leaf",
+      "name": "Fig leaf accord",
+      "category": "Green fruit accord",
+      "smell_tags": [
+        "green",
+        "leafy",
+        "fig",
+        "quiet"
+      ],
+      "shopping_role": "Green fruit and leaf character for quiet unisex profiles",
+      "safety_note": "Use as an accord study target; verify each actual material separately."
+    },
+    {
+      "id": "jasmine",
+      "name": "Jasmine material or accord",
+      "category": "Floral heart note",
+      "smell_tags": [
+        "floral",
+        "radiant",
+        "petal",
+        "smooth"
+      ],
+      "shopping_role": "Floral body for fruity floral, white floral, and tropical accords",
+      "safety_note": "Review allergen, IFRA, and supplier SDS documentation."
+    },
+    {
+      "id": "orange_blossom",
+      "name": "Orange blossom material or accord",
+      "category": "Floral heart note",
+      "smell_tags": [
+        "floral",
+        "citrus",
+        "clean",
+        "bright"
+      ],
+      "shopping_role": "Clean floral bridge between citrus top notes and soft bases",
+      "safety_note": "Review allergen, IFRA, and supplier SDS documentation."
+    },
+    {
+      "id": "rose",
+      "name": "Rose material or accord",
+      "category": "Floral heart note",
+      "smell_tags": [
+        "rose",
+        "floral",
+        "soft",
+        "romantic"
+      ],
+      "shopping_role": "Rose body for rose musk, fruity floral, and portfolio floral briefs",
+      "safety_note": "Review allergen, IFRA, and supplier SDS documentation."
+    },
+    {
+      "id": "lavender",
+      "name": "Lavender",
+      "category": "Aromatic heart note",
+      "smell_tags": [
+        "aromatic",
+        "herbal",
+        "fresh",
+        "clean"
+      ],
+      "shopping_role": "Classic aromatic structure for cologne and barbershop styles",
+      "safety_note": "Review allergen, IFRA, and supplier SDS documentation."
+    },
+    {
+      "id": "tea_leaf",
+      "name": "Tea leaf accord",
+      "category": "Green heart note",
+      "smell_tags": [
+        "tea",
+        "green",
+        "soft",
+        "transparent"
+      ],
+      "shopping_role": "Soft leafy bridge for lanzones, fig, floral, and unisex profiles",
+      "safety_note": "Use as an accord study target; verify each actual material separately."
+    },
+    {
+      "id": "cedarwood",
+      "name": "Cedarwood material or accord",
+      "category": "Woody base note",
+      "smell_tags": [
+        "woody",
+        "dry",
+        "clean",
+        "structured"
+      ],
+      "shopping_role": "Dry wood structure for cologne, unisex, and clean fruit profiles",
+      "safety_note": "Review allergen, IFRA, and supplier SDS documentation."
+    },
+    {
+      "id": "sandalwood",
+      "name": "Sandalwood material or accord",
+      "category": "Woody base note",
+      "smell_tags": [
+        "woody",
+        "creamy",
+        "smooth",
+        "soft"
+      ],
+      "shopping_role": "Creamy wood base for perfume, cologne, and tropical fruit drydowns",
+      "safety_note": "Review allergen, IFRA, and supplier SDS documentation."
+    },
+    {
+      "id": "white_musk",
+      "name": "White musk material or accord",
+      "category": "Musk base note",
+      "smell_tags": [
+        "musk",
+        "clean",
+        "soft",
+        "longlasting"
+      ],
+      "shopping_role": "Clean soft drydown for fresh, fruity, floral, and unisex briefs",
+      "safety_note": "Review IFRA, supplier SDS, and material-specific restrictions."
+    },
+    {
+      "id": "vanilla",
+      "name": "Vanilla or vanillin material",
+      "category": "Sweet base note",
+      "smell_tags": [
+        "vanilla",
+        "sweet",
+        "warm",
+        "creamy"
+      ],
+      "shopping_role": "Sweet warmth for gourmand, floral, and tropical drydowns",
+      "safety_note": "Review IFRA, supplier SDS, and material-specific restrictions."
+    },
+    {
+      "id": "amber",
+      "name": "Amber accord",
+      "category": "Amber base accord",
+      "smell_tags": [
+        "amber",
+        "warm",
+        "smooth",
+        "resinous"
+      ],
+      "shopping_role": "Warm base depth for woody amber, vanilla amber, and evening profiles",
+      "safety_note": "Use as an accord study target; verify each actual material separately."
+    },
+    {
+      "id": "coconut",
+      "name": "Coconut accord",
+      "category": "Creamy tropical accord",
+      "smell_tags": [
+        "coconut",
+        "creamy",
+        "tropical",
+        "soft"
+      ],
+      "shopping_role": "Creamy tropical support for lanzones, mango, and vacation-style concepts",
+      "safety_note": "Use as an accord study target; verify each actual material separately."
+    },
+    {
+      "id": "carrier",
+      "name": "Perfumery alcohol or approved carrier concept",
+      "category": "Carrier or diluent",
+      "smell_tags": [
+        "carrier",
+        "dilution",
+        "format"
+      ],
+      "shopping_role": "Formula format planning; choose only documented supplier materials suitable for intended use",
+      "safety_note": "Verify legal restrictions, supplier SDS, intended-use category, and local rules before buying or using."
+    },
+    {
+      "id": "blotters",
+      "name": "Blotter strips",
+      "category": "Evaluation supply",
+      "smell_tags": [
+        "testing",
+        "evaluation",
+        "study"
+      ],
+      "shopping_role": "Evaluate scent development over time without applying to skin",
+      "safety_note": "Study supply only; keep records for each material tested."
+    },
+    {
+      "id": "vials",
+      "name": "Glass sample vials",
+      "category": "Storage supply",
+      "smell_tags": [
+        "storage",
+        "batch",
+        "study"
+      ],
+      "shopping_role": "Store small study samples with labels and batch notes",
+      "safety_note": "Use documented storage and labeling practices."
     }
   ]
 }

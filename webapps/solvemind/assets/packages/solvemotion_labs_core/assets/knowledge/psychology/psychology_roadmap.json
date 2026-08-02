@@ -579,27 +579,141 @@
     "skillsAndTools":  {
                            "coreSkills":  [
                                               {
-                                                  "name":  "Research design",
-                                                  "why":  "Turns curiosity into credible evidence."
+                                                  "id":  "observation",
+                                                  "title":  "Observation",
+                                                  "summary":  "Notice behavior, context, timing, emotion, and environment before interpreting meaning.",
+                                                  "category":  "Psychology Skill",
+                                                  "why":  "Careful observation keeps the learner from guessing.",
+                                                  "uses":  [
+                                                               "Case notes.",
+                                                               "Behavior journals.",
+                                                               "Volunteer reflections."
+                                                           ],
+                                                  "examples":  [
+                                                                   "What happened?",
+                                                                   "Where did it happen?",
+                                                                   "What changed before and after?"
+                                                               ]
                                               },
                                               {
-                                                  "name":  "Statistics",
-                                                  "why":  "Makes studies interpretable and defensible."
+                                                  "id":  "empathy_boundaries",
+                                                  "title":  "Empathy and Boundaries",
+                                                  "summary":  "Practice care, respect, consent, privacy, and limits while learning about people-facing work.",
+                                                  "category":  "Professional Skill",
+                                                  "why":  "Helping fields require warmth and boundaries together.",
+                                                  "uses":  [
+                                                               "Peer support.",
+                                                               "Case reflection.",
+                                                               "Internship preparation."
+                                                           ],
+                                                  "examples":  [
+                                                                   "Listen without diagnosing.",
+                                                                   "Protect private information.",
+                                                                   "Know when to refer."
+                                                               ]
                                               },
                                               {
-                                                  "name":  "Ethics",
-                                                  "why":  "Protects people and your career."
+                                                  "id":  "research_design",
+                                                  "title":  "Research Design",
+                                                  "summary":  "Turn curiosity into an ethical question, method, evidence plan, and limitation statement.",
+                                                  "category":  "Research Skill",
+                                                  "why":  "Psychology claims need evidence and limits.",
+                                                  "uses":  [
+                                                               "Survey projects.",
+                                                               "Literature reviews.",
+                                                               "Portfolio studies."
+                                                           ],
+                                                  "examples":  [
+                                                                   "Question.",
+                                                                   "Method.",
+                                                                   "Evidence.",
+                                                                   "Limitation."
+                                                               ]
                                               },
                                               {
-                                                  "name":  "Communication",
-                                                  "why":  "Transforms findings into action."
+                                                  "id":  "ethical_reasoning",
+                                                  "title":  "Ethical Reasoning",
+                                                  "summary":  "Check privacy, consent, scope, safety, supervision, and respectful language.",
+                                                  "category":  "Ethics",
+                                                  "why":  "Behavioral health learning must protect people.",
+                                                  "uses":  [
+                                                               "Before surveys.",
+                                                               "Before case writeups.",
+                                                               "Before applications."
+                                                           ],
+                                                  "examples":  [
+                                                                   "What is private?",
+                                                                   "Who consented?",
+                                                                   "What is outside scope?"
+                                                               ]
                                               },
                                               {
-                                                  "name":  "Empathy + boundaries",
-                                                  "why":  "Critical for any people-facing role."
+                                                  "id":  "communication",
+                                                  "title":  "Communication",
+                                                  "summary":  "Explain psychology ideas clearly, carefully, and without overclaiming.",
+                                                  "category":  "Professional Skill",
+                                                  "why":  "Communication turns learning into trustable work.",
+                                                  "uses":  [
+                                                               "Reports.",
+                                                               "Interviews.",
+                                                               "Portfolio summaries."
+                                                           ],
+                                                  "examples":  [
+                                                                   "Here is what we know.",
+                                                                   "Here is what we do not know.",
+                                                                   "Here is the next safe step."
+                                                               ]
                                               }
                                           ],
                            "tools":  [
+                                         {
+                                             "id":  "key_branches_of_psychology",
+                                             "title":  "Key Branches of Psychology",
+                                             "summary":  "Compare clinical, cognitive, developmental, and social psychology so the learner understands what each branch studies and where it connects.",
+                                             "category":  "Psychology Foundations",
+                                             "why":  "Branches give the learner a mental map of the psychology field before choosing tools, projects, careers, or companies.",
+                                             "uses":  [
+                                                          "Use before choosing a school project.",
+                                                          "Use before comparing career paths.",
+                                                          "Use when a case study needs a branch label."
+                                                      ],
+                                             "skills":  [
+                                                            "Domain mapping",
+                                                            "Concept comparison",
+                                                            "Career connection"
+                                                        ],
+                                             "examples":  [
+                                                              "Clinical Psychology: diagnoses and treats mental health disorders.",
+                                                              "Cognitive Psychology: studies memory, attention, problem-solving, and internal thought processes.",
+                                                              "Developmental Psychology: tracks growth and change across the lifespan.",
+                                                              "Social Psychology: explores how groups, norms, and peer pressure shape actions."
+                                                          ]
+                                         },
+                                         {
+                                             "id":  "core_behavior_approaches",
+                                             "title":  "Core Approaches to Understanding Behavior",
+                                             "summary":  "Compare biological, behavioral, psychodynamic, cognitive, humanistic, and sociocultural approaches to behavior.",
+                                             "category":  "Behavior Approaches",
+                                             "why":  "Approaches help the learner ask better questions about why behavior happens without jumping to one explanation.",
+                                             "uses":  [
+                                                          "Choose one approach for a case reflection.",
+                                                          "Compare two explanations for the same behavior.",
+                                                          "Identify what evidence each approach would need."
+                                                      ],
+                                             "skills":  [
+                                                            "Behavior analysis",
+                                                            "Perspective taking",
+                                                            "Evidence matching"
+                                                        ],
+                                             "examples":  [
+                                                              "Biological Approach: focuses on brain, genes, body systems, sleep, stress, and neurochemistry.",
+                                                              "Behavioral Approach: studies rewards, habits, conditioning, and environment.",
+                                                              "Psychodynamic Approach: considers hidden motives, early experiences, and unconscious conflict.",
+                                                              "Cognitive Approach: looks at thoughts, beliefs, attention, memory, and problem-solving.",
+                                                              "Humanistic Approach: emphasizes growth, meaning, values, autonomy, and strengths.",
+                                                              "Sociocultural Approach: studies culture, family, groups, identity, and social context."
+                                                          ]
+                                         },
                                          {
                                              "id":  "bias_checker",
                                              "title":  "Bias Checker",
@@ -645,9 +759,9 @@
                                                           ]
                                          },
                                          {
-                                             "id":  "survey_builder",
+                                             "id":  "behavioral_survey_builder",
                                              "title":  "Behavioral Survey Builder",
-                                             "summary":  "Design ethical surveys for school projects, study habits, wellbeing routines, motivation, or career interests.",
+                                             "summary":  "Design ethical surveys for school projects, study habits, wellbeing routines, motivation, social pressure, or career interests.",
                                              "category":  "Research Methods",
                                              "why":  "Good survey design keeps questions clear, consent-aware, and limited to appropriate learning use.",
                                              "uses":  [
@@ -691,7 +805,7 @@
                                          {
                                              "id":  "learning_plan_builder",
                                              "title":  "Psychology Learning Plan Builder",
-                                             "summary":  "Turn a grade, course, or career goal into a study plan with topics, projects, milestones, and review checkpoints.",
+                                             "summary":  "Turn a grade, course, or career goal into a study plan with psychology topics, projects, milestones, and review checkpoints.",
                                              "category":  "School Roadmap",
                                              "why":  "A learning plan connects psychology content to practical evidence.",
                                              "uses":  [
@@ -1591,67 +1705,247 @@
     "aiCoach":  {
                     "cards":  [
                                   {
-                                      "id":  "behavioral_health_learning_guide",
-                                      "title":  "Behavioral Health Learning Guide",
-                                      "summary":  "Use Core psychology knowledge to choose what to study next across behavior, cognition, emotion, ethics, and career readiness.",
-                                      "category":  "Psychology Learning",
-                                      "whyThisMatters":  "The AI surface should point the learner toward psychology and behavioral health learning, not generic automation.",
+                                      "id":  "psych_coach",
+                                      "title":  "Psych Coach",
+                                      "summary":  "Guides psychology and behavioral health learning by connecting concepts, cases, tools, ethics, careers, and next study actions.",
+                                      "category":  "Learning Guide",
+                                      "whyThisMatters":  "The coach gives the learner a psychology-centered starting point instead of generic AI prompts.",
                                       "prompts":  [
-                                                      "What psychology topic am I struggling to understand right now?",
-                                                      "Which behavioral health concept connects to my current goal?",
-                                                      "What should I study next based on the Core roadmap?"
+                                                      "What psychology concept should I study next?",
+                                                      "What evidence do I have?",
+                                                      "What ethical boundary should I remember?"
                                                   ],
                                       "outputGoal":  [
-                                                         "A clear next learning topic.",
-                                                         "A short study plan.",
-                                                         "A related career, tool, or portfolio action."
+                                                         "A clear study target.",
+                                                         "A relevant Core tool.",
+                                                         "A safe next action."
                                                      ],
                                       "guardrails":  [
                                                          "Education only; not diagnosis or treatment.",
-                                                         "Escalate urgent safety or clinical concerns to qualified professionals."
+                                                         "Use qualified professional support for clinical or urgent concerns."
                                                      ]
                                   },
                                   {
-                                      "id":  "case_reflection_coach",
-                                      "title":  "Case Reflection Coach",
-                                      "summary":  "Structure a behavioral health case reflection around context, behavior, evidence, bias risk, ethics, and next questions.",
-                                      "category":  "Case Thinking",
-                                      "whyThisMatters":  "Good psychology reasoning separates observation from interpretation and keeps boundaries visible.",
+                                      "id":  "daily_coach",
+                                      "title":  "Daily Coach",
+                                      "summary":  "Turns daily reflection into psychology practice around emotion, behavior, stress, attention, communication, and habits.",
+                                      "category":  "Reflection",
+                                      "whyThisMatters":  "Daily practice helps the learner notice patterns without over-interpreting them.",
                                       "prompts":  [
-                                                      "What did I observe?",
-                                                      "What am I inferring?",
-                                                      "What evidence is missing?",
-                                                      "What ethical boundary matters here?"
+                                                      "What did I notice today?",
+                                                      "What thought, emotion, or behavior stood out?",
+                                                      "What is one healthy next step?"
                                                   ],
                                       "outputGoal":  [
-                                                         "A cleaner case summary.",
-                                                         "A missing-evidence list.",
+                                                         "A short reflection.",
+                                                         "A behavior pattern to observe.",
+                                                         "A realistic next step."
+                                                     ],
+                                      "guardrails":  [
+                                                         "Do not diagnose yourself or others from a daily note.",
+                                                         "Escalate safety concerns to appropriate support."
+                                                     ]
+                                  },
+                                  {
+                                      "id":  "reports",
+                                      "title":  "Reports",
+                                      "summary":  "Prepares learning, case, career, and tool activity for professional summaries with evidence, limits, and recommendations.",
+                                      "category":  "Reporting",
+                                      "whyThisMatters":  "Reports turn learning into something the user can review, share, or use for school and career planning.",
+                                      "prompts":  [
+                                                      "What did I study?",
+                                                      "What tool did I use?",
+                                                      "What evidence or limitation should be included?"
+                                                  ],
+                                      "outputGoal":  [
+                                                         "A clean summary.",
+                                                         "Evidence notes.",
+                                                         "Recommended next actions."
+                                                     ],
+                                      "guardrails":  [
+                                                         "Reports should not claim clinical conclusions.",
+                                                         "Keep personal or sensitive details private."
+                                                     ]
+                                  },
+                                  {
+                                      "id":  "quiz",
+                                      "title":  "Quiz",
+                                      "summary":  "Builds review around psychology concepts, branches, behavior approaches, ethics, bias, and career readiness.",
+                                      "category":  "Knowledge Check",
+                                      "whyThisMatters":  "Quizzes help the learner find weak spots and choose what to study next.",
+                                      "prompts":  [
+                                                      "Which topic did I miss?",
+                                                      "What is the correct concept?",
+                                                      "What should I review next?"
+                                                  ],
+                                      "outputGoal":  [
+                                                         "A targeted review topic.",
+                                                         "A short explanation.",
+                                                         "A next practice action."
+                                                     ],
+                                      "guardrails":  [
+                                                         "Quiz results are learning signals, not professional judgments."
+                                                     ]
+                                  },
+                                  {
+                                      "id":  "trivia",
+                                      "title":  "Trivia",
+                                      "summary":  "Uses low-pressure psychology facts to build familiarity with behavior, cognition, development, social influence, and ethics.",
+                                      "category":  "Practice",
+                                      "whyThisMatters":  "Small facts make the domain easier to explore before deeper study.",
+                                      "prompts":  [
+                                                      "What fact surprised me?",
+                                                      "What branch does this connect to?",
+                                                      "What should I explore next?"
+                                                  ],
+                                      "outputGoal":  [
+                                                         "A remembered concept.",
+                                                         "A related branch.",
+                                                         "A next study card."
+                                                     ],
+                                      "guardrails":  [
+                                                         "Trivia is introductory and should not replace deeper study."
+                                                     ]
+                                  },
+                                  {
+                                      "id":  "decisions",
+                                      "title":  "Decisions",
+                                      "summary":  "Reviews psychology-related decisions for bias, evidence, uncertainty, values, consequences, and reversibility.",
+                                      "category":  "Decision Psychology",
+                                      "whyThisMatters":  "Decision quality is a core behavioral science skill.",
+                                      "prompts":  [
+                                                      "What choice am I making?",
+                                                      "What bias risk applies?",
+                                                      "What evidence is missing?"
+                                                  ],
+                                      "outputGoal":  [
+                                                         "A clearer decision frame.",
+                                                         "A bias check.",
+                                                         "A reversible next step."
+                                                     ],
+                                      "guardrails":  [
+                                                         "Do not use this as medical, legal, or crisis advice."
+                                                     ]
+                                  },
+                                  {
+                                      "id":  "case_studies",
+                                      "title":  "Case Studies",
+                                      "summary":  "Helps analyze educational cases through observation, behavior, possible explanations, evidence, ethics, and boundaries.",
+                                      "category":  "Applied Psychology",
+                                      "whyThisMatters":  "Case work trains careful reasoning without jumping to diagnosis.",
+                                      "prompts":  [
+                                                      "What is observed?",
+                                                      "What are alternative explanations?",
+                                                      "What ethical boundary matters?"
+                                                  ],
+                                      "outputGoal":  [
+                                                         "A structured case reflection.",
+                                                         "Missing evidence.",
                                                          "A safer next question."
                                                      ],
                                       "guardrails":  [
-                                                         "Do not label, diagnose, or recommend treatment from limited information.",
-                                                         "Use supervised or professional review for real clinical situations."
+                                                         "Educational cases are not clinical assessment.",
+                                                         "Avoid labeling real people from limited information."
                                                      ]
                                   },
                                   {
-                                      "id":  "career_readiness_coach",
-                                      "title":  "Psychology Career Readiness Coach",
-                                      "summary":  "Connect school stage, skills, portfolio projects, companies, internships, certifications, and applications to a psychology path.",
-                                      "category":  "Career Readiness",
-                                      "whyThisMatters":  "A learner needs a practical path from study to evidence to applications.",
+                                      "id":  "school_roadmap",
+                                      "title":  "School Roadmap",
+                                      "summary":  "Connects grade level, courses, projects, study topics, applications, and milestones to psychology and behavioral health careers.",
+                                      "category":  "Education Planning",
+                                      "whyThisMatters":  "A roadmap makes study choices practical and career-aware.",
                                       "prompts":  [
                                                       "What grade or school stage am I in?",
-                                                      "Which psychology career path interests me most?",
-                                                      "What proof should I build before applying?"
+                                                      "What should I study this term?",
+                                                      "What evidence should I build?"
                                                   ],
                                       "outputGoal":  [
-                                                         "A path-aligned next action.",
-                                                         "A study or project recommendation.",
-                                                         "A company, internship, or application prep target."
+                                                         "Grade-specific study focus.",
+                                                         "One project.",
+                                                         "One application milestone."
                                                      ],
                                       "guardrails":  [
-                                                         "Licensure and clinical authority vary by jurisdiction.",
-                                                         "Always verify program and employer requirements from official sources."
+                                                         "Verify school and program requirements from official sources."
+                                                     ]
+                                  },
+                                  {
+                                      "id":  "career_paths",
+                                      "title":  "Career Paths",
+                                      "summary":  "Connects branches of psychology to clinical, counseling, school, research, UX, organizational, behavioral science, and public health roles.",
+                                      "category":  "Career Planning",
+                                      "whyThisMatters":  "Career planning works better when roles are tied to education, evidence, ethics, and employer types.",
+                                      "prompts":  [
+                                                      "Which branch interests me?",
+                                                      "What role connects to it?",
+                                                      "What education is typical?"
+                                                  ],
+                                      "outputGoal":  [
+                                                         "A primary path.",
+                                                         "Two backup paths.",
+                                                         "A readiness gap to close."
+                                                     ],
+                                      "guardrails":  [
+                                                         "Licensure and clinical authority vary by location."
+                                                     ]
+                                  },
+                                  {
+                                      "id":  "psychology_tools",
+                                      "title":  "Psychology Tools",
+                                      "summary":  "Uses bias checks, case analysis, learning plans, surveys, ethics reviews, and scenario practice to support psychology learning.",
+                                      "category":  "Applied Tools",
+                                      "whyThisMatters":  "Tools should support behavioral health understanding, not become programming utilities.",
+                                      "prompts":  [
+                                                      "What problem am I trying to understand?",
+                                                      "Which tool fits?",
+                                                      "What output should I save?"
+                                                  ],
+                                      "outputGoal":  [
+                                                         "A chosen tool.",
+                                                         "A useful learning output.",
+                                                         "A saved report or portfolio item."
+                                                     ],
+                                      "guardrails":  [
+                                                         "Tools are for education, reflection, and planning, not diagnosis."
+                                                     ]
+                                  },
+                                  {
+                                      "id":  "companies",
+                                      "title":  "Companies",
+                                      "summary":  "Helps identify healthcare, research, school, government, UX, technology, and community organizations to investigate or apply to.",
+                                      "category":  "Applications",
+                                      "whyThisMatters":  "Company research turns interest into real opportunities and role requirements.",
+                                      "prompts":  [
+                                                      "What sector fits my path?",
+                                                      "What role title should I search?",
+                                                      "What proof do I need before applying?"
+                                                  ],
+                                      "outputGoal":  [
+                                                         "A target company list.",
+                                                         "Role keywords.",
+                                                         "Application evidence."
+                                                     ],
+                                      "guardrails":  [
+                                                         "Use official career pages and current employer requirements."
+                                                     ]
+                                  },
+                                  {
+                                      "id":  "search",
+                                      "title":  "Search",
+                                      "summary":  "Searches Core psychology content across branches, approaches, tools, careers, companies, school roadmap, cases, and resources.",
+                                      "category":  "Navigation",
+                                      "whyThisMatters":  "Search helps the learner find the right Core-owned psychology content quickly.",
+                                      "prompts":  [
+                                                      "What topic am I looking for?",
+                                                      "Is it a branch, approach, tool, career, or company?",
+                                                      "What should I open next?"
+                                                  ],
+                                      "outputGoal":  [
+                                                         "A relevant Core card.",
+                                                         "A next screen.",
+                                                         "A focused study action."
+                                                     ],
+                                      "guardrails":  [
+                                                         "Search returns learning content; verify external requirements from official sources."
                                                      ]
                                   }
                               ]

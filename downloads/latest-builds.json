@@ -49,9 +49,9 @@
     "type": "apk",
     "status": "published",
     "file": "downloads/solvepharmacy/SolvePharmacy-latest.apk",
-    "sizeMb": 56.39,
+    "sizeMb": 56.43,
     "source": "C:\\src\\dist\\solvepharmacy.apk",
-    "updatedUtc": "2026-08-02T01:48:12Z"
+    "updatedUtc": "2026-08-02T02:26:46Z"
   },
   {
     "app": "SolvePharmacy",
@@ -103,8 +103,8 @@
     "type": "aab",
     "status": "published",
     "file": "downloads/solvepharmacy/SolvePharmacy-latest.aab",
-    "sizeMb": 45.57,
+    "sizeMb": 45.59,
     "source": "C:\\src\\dist\\solvepharmacy.aab",
-    "updatedUtc": "2026-08-02T01:48:12Z"
+    "updatedUtc": "2026-08-02T02:26:46Z"
   }
 ]

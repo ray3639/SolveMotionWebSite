@@ -823,6 +823,21 @@
           "Inputs: setting, time, observed behavior, antecedent, consequence, and context.",
           "Output: clean observation note and possible next question.",
           "Boundary: observation does not equal diagnosis or motive-reading."
+        ],
+        "expandedCategories": [
+          "Behavior: observable action, duration, frequency, intensity, and change over time.",
+          "Context: place, time, task, people present, environmental cues, and social pressure.",
+          "Before/after: antecedents, consequences, supports, barriers, and what changed.",
+          "Limits: observation cannot prove motives, diagnoses, personality, or private experience by itself."
+        ],
+        "practicePrompts": [
+          "Write the note without using labels or motive words.",
+          "What happened before the behavior, and what happened after?",
+          "What would I need to observe again before calling this a pattern?"
+        ],
+        "sourceLinks": [
+          "APA Dictionary Behavior: https://dictionary.apa.org/behavior",
+          "APA Psychology Topics: https://www.apa.org/topics"
         ]
       },
       {
@@ -855,6 +870,21 @@
           "Inputs: relationship, setting, privacy level, power difference, and support options.",
           "Output: respectful response, boundary statement, and referral/supervision note.",
           "Boundary: urgent safety concerns require immediate trusted adult, school, emergency, or professional support."
+        ],
+        "expandedCategories": [
+          "Empathy: listening, validation, dignity, cultural humility, and respectful curiosity.",
+          "Boundaries: role clarity, consent, privacy, time limits, and no promises of clinical outcomes.",
+          "Referral: when to involve a teacher, guardian, supervisor, counselor, clinician, or emergency support.",
+          "Professional growth: documentation, supervision, reflective practice, and respectful interview stories."
+        ],
+        "practicePrompts": [
+          "What can I offer, and what should I not offer?",
+          "How can I show care without taking over or diagnosing?",
+          "Who is the right support person if this is beyond my role?"
+        ],
+        "sourceLinks": [
+          "APA Ethics Code: https://www.apa.org/ethics/code",
+          "NIMH Find Help: https://www.nimh.nih.gov/health/find-help"
         ]
       },
       {
@@ -887,6 +917,22 @@
           "Inputs: question, method, audience, evidence source, privacy limits, and timeline.",
           "Output: research plan, ethics note, evidence map, and limitation statement.",
           "Boundary: projects involving people may require school, guardian, institutional, or supervisor approval."
+        ],
+        "expandedCategories": [
+          "Question: focused, answerable, ethical, and connected to psychology concepts.",
+          "Method: survey, observation, interview, literature review, simple experiment, or case comparison.",
+          "Evidence: sample, variables, consent, source quality, limitations, and bias control.",
+          "Output: chart, summary, limitation statement, ethical note, and portfolio-ready report."
+        ],
+        "practicePrompts": [
+          "What is the exact question, and what answer would count as evidence?",
+          "What method fits the question without collecting sensitive information?",
+          "What limitation should be stated before showing the result?"
+        ],
+        "sourceLinks": [
+          "APA PsycInfo Classification Codes: https://www.apa.org/pubs/databases/training/class-codes.html",
+          "HHS Human Subjects Research: https://www.hhs.gov/ohrp/regulations-and-policy/guidance/faq/index.html",
+          "CDC Evaluation Resources: https://www.cdc.gov/evaluation/"
         ]
       },
       {
@@ -919,6 +965,21 @@
           "Inputs: activity, affected people, data sensitivity, authority, risk, and supervision.",
           "Output: ethics checklist, risk warning, safer wording, and escalation note.",
           "Boundary: follow official ethical, legal, school, workplace, and professional requirements."
+        ],
+        "expandedCategories": [
+          "People affected: participant, student, client, peer, family, organization, audience, and community.",
+          "Risk-benefit: possible harm, benefit, pressure, privacy loss, stigma, misunderstanding, or exclusion.",
+          "Authority and supervision: school rules, workplace rules, legal duties, clinical boundaries, and professional standards.",
+          "Safer choice: reduce data, remove identifiers, ask permission, slow down, or refer upward."
+        ],
+        "practicePrompts": [
+          "What could go wrong if this is misunderstood or shared?",
+          "What is the least sensitive data that still answers the learning question?",
+          "What would a supervisor need to review before I continue?"
+        ],
+        "sourceLinks": [
+          "APA Ethics Code: https://www.apa.org/ethics/code",
+          "HHS Human Subjects Research: https://www.hhs.gov/ohrp/regulations-and-policy/guidance/faq/index.html"
         ]
       },
       {
@@ -951,6 +1012,21 @@
           "Inputs: audience, claim, evidence, limits, tone, and desired next action.",
           "Output: concise explanation, boundary statement, and action-ready summary.",
           "Boundary: clarity matters most when topics involve mental health, privacy, identity, or vulnerable populations."
+        ],
+        "expandedCategories": [
+          "Audience: teacher, advisor, supervisor, employer, client-adjacent team, or general reader.",
+          "Claim quality: what is known, source of evidence, uncertainty, limitation, and next step.",
+          "Tone: respectful, plain-language, non-diagnostic, culturally careful, and action-ready.",
+          "Products: report summary, portfolio caption, interview story, company outreach, or presentation note."
+        ],
+        "practicePrompts": [
+          "Say what you know, what you do not know, and what you recommend next.",
+          "Remove any word that sounds like diagnosis unless it comes from a qualified source and proper context.",
+          "Turn a long explanation into a three-sentence professional summary."
+        ],
+        "sourceLinks": [
+          "APA Style: https://apastyle.apa.org",
+          "APA Psychology Topics: https://www.apa.org/topics"
         ]
       }
     ],
@@ -985,6 +1061,24 @@
           "Inputs: school level, interest area, case topic, project idea, or career target.",
           "Output: branch match, related careers, useful tools, and safe next learning steps.",
           "Boundary: this is educational guidance, not diagnosis or treatment advice."
+        ],
+        "expandedCategories": [
+          "Clinical: assessment, diagnosis, treatment planning, supervised practice, licensure, and mental health systems.",
+          "Cognitive: attention, memory, learning, decision-making, problem-solving, perception, and language.",
+          "Developmental: lifespan growth, school readiness, adolescence, adulthood, aging, and family context.",
+          "Social: group influence, attitudes, identity, prejudice, persuasion, peer pressure, and relationships.",
+          "Applied/career branches: counseling, school, industrial-organizational, health, forensic, sport, neuropsychology, and UX research."
+        ],
+        "practicePrompts": [
+          "Pick one branch and name one career, one course, one project, and one ethical boundary connected to it.",
+          "For a case study, identify which branch would ask the strongest first question and why.",
+          "Compare two branches and write what each can explain and what evidence it would still need."
+        ],
+        "sourceLinks": [
+          "APA Careers in Psychology: https://www.apa.org/education-career/guide/careers",
+          "APA Dictionary Clinical Psychology: https://dictionary.apa.org/clinical-psychology",
+          "BLS Psychologists: https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm",
+          "O*NET Clinical and Counseling Psychologists: https://www.onetonline.org/link/result/19-3033.00"
         ]
       },
       {
@@ -1017,6 +1111,23 @@
           "Inputs: observed behavior, context, possible triggers, and available evidence.",
           "Output: multiple explanations, evidence needs, risk of overclaiming, and next question.",
           "Boundary: avoid diagnosing or assuming hidden causes without proper training and data."
+        ],
+        "expandedCategories": [
+          "Biological: brain, nervous system, genetics, hormones, sleep, stress, medication, and physical health.",
+          "Behavioral: reinforcement, punishment, cues, habits, conditioning, modeling, and environment.",
+          "Cognitive: beliefs, attention, memory, expectations, interpretation, planning, and problem-solving.",
+          "Psychodynamic and humanistic: early experience, meaning, autonomy, growth, values, and identity.",
+          "Sociocultural/biopsychosocial: culture, family, systems, community, social support, and combined causes."
+        ],
+        "practicePrompts": [
+          "Explain the same behavior through two different approaches without deciding which one is final.",
+          "Name what evidence would support the biological explanation and what evidence would support the social explanation.",
+          "Write one sentence that avoids overclaiming: one observation, one possible explanation, one missing evidence point."
+        ],
+        "sourceLinks": [
+          "APA Psychology Topics: https://www.apa.org/topics",
+          "APA PsycInfo Classification Codes: https://www.apa.org/pubs/databases/training/class-codes.html",
+          "NIMH Mental Health Information: https://www.nimh.nih.gov/health"
         ]
       },
       {
@@ -1049,6 +1160,21 @@
           "Inputs: claim, evidence, emotion level, missing evidence, and possible alternatives.",
           "Output: bias risks, balancing questions, and a safer next action.",
           "Boundary: reduces reasoning risk; it does not prove what is true by itself."
+        ],
+        "expandedCategories": [
+          "Evidence risks: confirmation bias, availability bias, anchoring, selective attention, and missing counterexamples.",
+          "People-judgment risks: attribution error, halo effect, stereotyping, mind reading, and labeling.",
+          "Decision risks: overconfidence, sunk cost, loss aversion, urgency pressure, and false certainty.",
+          "Career/application risks: assuming one rejection predicts the future, choosing only familiar companies, or ignoring skill gaps."
+        ],
+        "practicePrompts": [
+          "What evidence would change my mind?",
+          "What am I assuming because it is vivid, recent, familiar, or emotionally loud?",
+          "What would a careful teacher, advisor, supervisor, or researcher ask before accepting this claim?"
+        ],
+        "sourceLinks": [
+          "APA Dictionary Bias: https://dictionary.apa.org/bias",
+          "APA Psychology Topics: https://www.apa.org/topics"
         ]
       },
       {
@@ -1081,6 +1207,22 @@
           "Inputs: option list, goal, evidence, constraints, risks, and deadline.",
           "Output: option comparison, risk notes, and next evidence-building action.",
           "Boundary: this supports decision quality; it does not replace guidance from guardians, teachers, supervisors, advisors, or clinicians."
+        ],
+        "expandedCategories": [
+          "Decision frame: goal, options, constraints, people affected, deadline, values, and success criteria.",
+          "Evidence quality: facts, assumptions, missing data, source reliability, and feedback loops.",
+          "Risk review: reversibility, downside, safety, ethical concerns, privacy, and supervision needs.",
+          "Action plan: next step, checkpoint, fallback, and what will be learned from the action."
+        ],
+        "practicePrompts": [
+          "What decision am I really making, and what decision am I avoiding?",
+          "Which option is easiest to reverse if I learn something new?",
+          "What is the smallest next action that creates useful evidence?"
+        ],
+        "sourceLinks": [
+          "CareerOneStop: https://www.careeronestop.org",
+          "O*NET Interest Profiler: https://www.mynextmove.org/explore/ip",
+          "BLS Psychologists: https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm"
         ]
       },
       {
@@ -1113,6 +1255,22 @@
           "Inputs: topic, audience, consent limits, question types, and reporting plan.",
           "Output: survey outline, question set, privacy note, and summary plan.",
           "Boundary: avoid sensitive clinical screening unless supervised by qualified professionals and approved by the proper setting."
+        ],
+        "expandedCategories": [
+          "Question design: neutral wording, one idea per question, clear scale labels, and age-appropriate language.",
+          "Ethics: consent, voluntary participation, privacy, sensitive topics, de-identification, and reporting limits.",
+          "Data plan: sample, response type, summary method, bias risk, limitations, and what not to conclude.",
+          "Psychology uses: study habits, motivation, stress supports, social pressure, career interests, and wellbeing routines."
+        ],
+        "practicePrompts": [
+          "Rewrite one leading question into a neutral question.",
+          "Add a consent/privacy note before collecting any answer.",
+          "Write the limitation statement before writing the survey conclusion."
+        ],
+        "sourceLinks": [
+          "APA Ethics Code: https://www.apa.org/ethics/code",
+          "HHS Human Subjects Research: https://www.hhs.gov/ohrp/regulations-and-policy/guidance/faq/index.html",
+          "CDC Evaluation Resources: https://www.cdc.gov/evaluation/"
         ]
       },
       {
@@ -1145,6 +1303,22 @@
           "Inputs: statement, situation, emotion intensity, evidence for, evidence against, and next need.",
           "Output: possible pattern, balanced rewrite, and next action.",
           "Boundary: educational reflection only; seek qualified help for urgent distress, safety concerns, or clinical needs."
+        ],
+        "expandedCategories": [
+          "Pattern recognition: all-or-nothing thinking, catastrophizing, mind reading, labeling, filtering, and should statements.",
+          "Balanced rewrite: observation, emotion, evidence for, evidence against, uncertainty, and next action.",
+          "Learning boundaries: reflection language, self-monitoring, support-seeking, and no diagnosis.",
+          "Use cases: test anxiety, career doubt, application stress, conflict reflection, and habit change."
+        ],
+        "practicePrompts": [
+          "What is the exact thought, and what emotion came with it?",
+          "What part is fact, what part is interpretation, and what part is prediction?",
+          "Rewrite the thought in a way that is honest, kinder, and more evidence-based."
+        ],
+        "sourceLinks": [
+          "NIMH Anxiety Disorders: https://www.nimh.nih.gov/health/topics/anxiety-disorders",
+          "NIMH Depression: https://www.nimh.nih.gov/health/topics/depression",
+          "APA Psychology Topics: https://www.apa.org/topics"
         ]
       },
       {
@@ -1177,6 +1351,22 @@
           "Inputs: grade, current courses, target role, time available, strengths, and missing skills.",
           "Output: topic sequence, project outputs, milestones, resources to review, and next actions.",
           "Boundary: recommendations are educational; degree, licensure, and certification rules must be checked with official programs and boards."
+        ],
+        "expandedCategories": [
+          "Middle/high school: vocabulary, brain and behavior, development, social influence, study habits, ethics, and project basics.",
+          "AP/college prep: research methods, statistics, cognition, biological bases, abnormal psychology, social psychology, and health.",
+          "Career readiness: roles, companies, internships, certifications, portfolio projects, applications, and supervised experience.",
+          "Output planning: weekly topics, notes, quizzes, case reflections, project artifacts, and review checkpoints."
+        ],
+        "practicePrompts": [
+          "Choose one school stage and map the next four weeks of study.",
+          "Connect one topic to one career path and one portfolio artifact.",
+          "Pick one weak area and create a review checkpoint."
+        ],
+        "sourceLinks": [
+          "AP Psychology Course: https://apstudents.collegeboard.org/courses/ap-psychology",
+          "APA Careers in Psychology: https://www.apa.org/education-career/guide/careers",
+          "BLS Psychologists: https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm"
         ]
       },
       {
@@ -1209,6 +1399,21 @@
           "Inputs: situation, emotion, audience, goal, and boundary concern.",
           "Output: reflection prompt set and a concise next-action note.",
           "Boundary: prompts support learning; they are not therapy instructions or clinical assessment."
+        ],
+        "expandedCategories": [
+          "Observation prompts: what happened, where, when, who was involved, and what changed.",
+          "Emotion/thought prompts: what feeling appeared, what thought followed, and what evidence exists.",
+          "Ethics prompts: privacy, consent, respect, scope, safety, and who should support the situation.",
+          "Action prompts: next question, next study step, next communication, or report-ready note."
+        ],
+        "practicePrompts": [
+          "Write one fact-only sentence and one interpretation sentence.",
+          "Name one ethical boundary before giving advice.",
+          "Turn the reflection into one next learning action."
+        ],
+        "sourceLinks": [
+          "APA Ethics Code: https://www.apa.org/ethics/code",
+          "NIMH Mental Health Information: https://www.nimh.nih.gov/health"
         ]
       },
       {
@@ -1241,6 +1446,22 @@
           "Inputs: case summary, observed behavior, setting, timeline, evidence, and ethical concern.",
           "Output: structured case map, alternative explanations, bias warnings, and next questions.",
           "Boundary: never present educational analysis as diagnosis, treatment, or professional evaluation."
+        ],
+        "expandedCategories": [
+          "Case map: context, timeline, observed behavior, supports, stressors, environment, and missing evidence.",
+          "Theory map: biological, cognitive, behavioral, developmental, social, and sociocultural explanations.",
+          "Ethics map: privacy, labels, scope, safety, referral, supervision, and respectful language.",
+          "Output map: possible explanations, evidence limits, next questions, and safe recommendations."
+        ],
+        "practicePrompts": [
+          "What do I know, what do I infer, and what do I not know?",
+          "Name two alternative explanations before choosing a preferred one.",
+          "Rewrite the conclusion so it does not diagnose or overclaim."
+        ],
+        "sourceLinks": [
+          "APA Ethics Code: https://www.apa.org/ethics/code",
+          "APA Psychology Topics: https://www.apa.org/topics",
+          "NIMH Mental Health Information: https://www.nimh.nih.gov/health"
         ]
       },
       {
@@ -1273,6 +1494,23 @@
           "Inputs: target path, school stage, experience, project proof, skills, and deadlines.",
           "Output: readiness score narrative, gaps, next actions, and report-ready summary.",
           "Boundary: official admissions, hiring, licensure, and certification decisions are made by those organizations, not the app."
+        ],
+        "expandedCategories": [
+          "School readiness: grades, courses, study systems, recommendations, essays, and subject foundations.",
+          "Career readiness: target role, required education, skills, supervised experience, and professional boundaries.",
+          "Portfolio readiness: research plan, case analysis, survey, reflection, presentation, report, or application evidence.",
+          "Application readiness: company list, resume proof, cover note, interview stories, deadlines, and follow-up plan."
+        ],
+        "practicePrompts": [
+          "What evidence do I already have for this path?",
+          "What is the biggest missing proof point: coursework, project, experience, writing, or reference?",
+          "What can I finish this week that would make an application stronger?"
+        ],
+        "sourceLinks": [
+          "BLS Psychologists: https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm",
+          "O*NET Psychology Careers: https://www.onetonline.org/find/quick?s=psychology",
+          "Common App: https://www.commonapp.org",
+          "CareerOneStop: https://www.careeronestop.org"
         ]
       },
       {
@@ -1305,6 +1543,22 @@
           "Inputs: activity, audience, data collected, supervision, risk level, and communication plan.",
           "Output: boundary checklist, risk warnings, safer wording, and referral/supervision note.",
           "Boundary: always follow school, workplace, legal, clinical, and professional rules for the setting."
+        ],
+        "expandedCategories": [
+          "Consent and privacy: voluntary participation, permission, sensitive data, de-identification, and storage.",
+          "Scope: student learning versus professional service, diagnosis, treatment, advice, or crisis response.",
+          "Safety: risk signals, mandated reporting context, referral paths, and trusted adult/professional support.",
+          "Communication: respectful wording, uncertainty, limits, and no unsupported claims."
+        ],
+        "practicePrompts": [
+          "Who could be affected by this activity or write-up?",
+          "What information should not be collected, saved, shared, or published?",
+          "What is outside my role, and who should supervise or handle it?"
+        ],
+        "sourceLinks": [
+          "APA Ethics Code: https://www.apa.org/ethics/code",
+          "HHS Human Subjects Research: https://www.hhs.gov/ohrp/regulations-and-policy/guidance/faq/index.html",
+          "NIMH Help for Mental Illnesses: https://www.nimh.nih.gov/health/find-help"
         ]
       },
       {
@@ -1337,6 +1591,22 @@
           "Inputs: scenario, options, constraints, supports, assumptions, and risk tolerance.",
           "Output: option comparison, risk notes, support plan, and next action.",
           "Boundary: scenarios are planning exercises; real-world outcomes require feedback, supervision, and updated evidence."
+        ],
+        "expandedCategories": [
+          "School scenarios: course choices, study plans, project topics, teacher feedback, and grade-stage readiness.",
+          "Career scenarios: clinical, counseling, UX, I-O, school, health, behavioral science, and research paths.",
+          "Company scenarios: healthcare, universities, consulting, government, digital health, education, nonprofits, and research labs.",
+          "Startup scenarios: education product, coaching workflow, assessment support, research service, content studio, or software tool."
+        ],
+        "practicePrompts": [
+          "Compare two options by benefit, risk, reversibility, and evidence gained.",
+          "What support would make the scenario safer or more realistic?",
+          "What signal will tell me to continue, change, pause, or ask for help?"
+        ],
+        "sourceLinks": [
+          "O*NET Interest Profiler: https://www.mynextmove.org/explore/ip",
+          "CareerOneStop: https://www.careeronestop.org",
+          "BLS Psychologists: https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm"
         ]
       }
     ]

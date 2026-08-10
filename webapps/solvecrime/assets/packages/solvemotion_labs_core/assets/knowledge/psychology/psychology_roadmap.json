@@ -106,6 +106,28 @@
                                          "milestones":  [
                                                             "Write one 2-3 page psychology topic report",
                                                             "Create a one-page career map: education -\u003e job -\u003e employers"
+                                                        ],
+                                         "recommendations":  [
+                                                                 "Focus on observation, empathy, health science, and accurate note-taking.",
+                                                                 "Build one small behavior journal project and one presentation about a psychology career.",
+                                                                 "Practice separating facts, feelings, thoughts, and behavior in everyday examples."
+                                                             ],
+                                         "applicationEvidence":  [
+                                                                     "Behavior journal summary.",
+                                                                     "Career map.",
+                                                                     "Volunteer reflection.",
+                                                                     "Short report on one psychology topic."
+                                                                 ],
+                                         "nextSteps":  [
+                                                           "Choose one psychology field to follow for the year.",
+                                                           "Ask a counselor or teacher about school psychology electives.",
+                                                           "Start a portfolio folder."
+                                                       ],
+                                         "studyFocus":  [
+                                                            "Intro psychology branches.",
+                                                            "Brain and behavior basics.",
+                                                            "Privacy, consent, and respectful language.",
+                                                            "Basic survey and reflection skills."
                                                         ]
                                      },
                                      {
@@ -148,6 +170,28 @@
                                          "milestones":  [
                                                             "Complete a small survey study (20+ responses)",
                                                             "Build a personal \"Career Interest Scorecard\""
+                                                        ],
+                                         "recommendations":  [
+                                                                 "Strengthen biology, writing, and early data interpretation.",
+                                                                 "Use sleep, stress, attention, and social influence as safe applied topics.",
+                                                                 "Begin comparing clinical, research, UX, school, and workplace psychology paths."
+                                                             ],
+                                         "applicationEvidence":  [
+                                                                     "Sleep or study-habit mini study.",
+                                                                     "Bias experiment summary.",
+                                                                     "Science fair or class project.",
+                                                                     "Career interest scorecard."
+                                                                 ],
+                                         "nextSteps":  [
+                                                           "Find one community volunteer option.",
+                                                           "Track one behavior-health question for two weeks.",
+                                                           "Save three possible internship or summer program ideas."
+                                                       ],
+                                         "studyFocus":  [
+                                                            "Nervous system basics.",
+                                                            "Stress and sleep.",
+                                                            "Cognitive biases.",
+                                                            "Charts, survey results, and simple interpretation."
                                                         ]
                                      },
                                      {
@@ -190,6 +234,28 @@
                                          "milestones":  [
                                                             "Create a 1-2 page resume draft",
                                                             "Identify 5 target colleges + psychology programs"
+                                                        ],
+                                         "recommendations":  [
+                                                                 "Prioritize AP Psychology, statistics, research methods, and ethical reasoning.",
+                                                                 "Start supervised exposure through school, community, lab, hospital, or nonprofit settings where allowed.",
+                                                                 "Build a resume and portfolio around evidence, not vague interest."
+                                                             ],
+                                         "applicationEvidence":  [
+                                                                     "Literature review.",
+                                                                     "Research poster.",
+                                                                     "Resume draft.",
+                                                                     "Shadowing or volunteer reflection."
+                                                                 ],
+                                         "nextSteps":  [
+                                                           "Identify five colleges or programs.",
+                                                           "Choose one primary career path and two backups.",
+                                                           "Prepare questions for a psychology professional interview."
+                                                       ],
+                                         "studyFocus":  [
+                                                            "Research design.",
+                                                            "Abnormal psychology overview.",
+                                                            "Developmental psychology.",
+                                                            "Correlation, causation, and limits of evidence."
                                                         ]
                                      },
                                      {
@@ -230,6 +296,28 @@
                                          "milestones":  [
                                                             "Pick a primary pathway and 2 backups",
                                                             "Have 10 employers saved with entry roles"
+                                                        ],
+                                         "recommendations":  [
+                                                                 "Finalize a school and career launch plan with realistic education requirements.",
+                                                                 "Polish three portfolio artifacts and connect each to a career path.",
+                                                                 "Prepare applications with ethics, boundaries, evidence, and fit clearly stated."
+                                                             ],
+                                         "applicationEvidence":  [
+                                                                     "Personal statement.",
+                                                                     "Resume.",
+                                                                     "Portfolio with three projects.",
+                                                                     "Target company or program list."
+                                                                 ],
+                                         "nextSteps":  [
+                                                           "Save ten target employers or programs.",
+                                                           "Apply for internships or summer programs.",
+                                                           "Build a semester-by-semester undergrad plan."
+                                                       ],
+                                         "studyFocus":  [
+                                                            "Ethics and boundaries.",
+                                                            "Assessment basics.",
+                                                            "BA/BS, MA/MS, PhD, PsyD, and licensure differences.",
+                                                            "Portfolio and interview readiness."
                                                         ]
                                      }
                                  ],
@@ -396,7 +484,61 @@
                             "sourceAnchors":  [
                                                   "BLS - Psychologists (OOH)",
                                                   "O*NET - Clinical \u0026 Counseling Psychologists"
-                                              ]
+                                              ],
+                            "internships":  [
+                                                "Research assistant in clinical or developmental psychology lab.",
+                                                "Behavioral health program assistant where permitted.",
+                                                "Crisis-line or peer-support training with age/scope limits.",
+                                                "Hospital, community, or nonprofit volunteer role focused on observation and support."
+                                            ],
+                            "applicationPrep":  [
+                                                    "Show research experience, ethical judgment, writing quality, and commitment to supervised practice.",
+                                                    "Prepare recommendation relationships with faculty, supervisors, and research mentors.",
+                                                    "Explain why psychology rather than general helping interest.",
+                                                    "Track prerequisites, supervised-hour expectations, and licensure rules from official sources."
+                                                ],
+                            "educationPath":  [
+                                                  "High school: biology, statistics, writing, psychology, health science, and volunteering.",
+                                                  "Undergraduate: psychology major or related field, research methods, statistics, lab or clinic-adjacent experience.",
+                                                  "Graduate: PhD or PsyD for psychologist roles; supervised practicum, internship, postdoctoral hours, and licensure exam requirements vary by state."
+                                              ],
+                            "portfolioProjects":  [
+                                                      "Literature review on one disorder, treatment approach, or assessment boundary.",
+                                                      "Ethics case analysis showing what can and cannot be concluded.",
+                                                      "Outcome-tracking mock dashboard using fictional/de-identified data.",
+                                                      "Reflection on shadowing, volunteering, or supervised observation."
+                                                  ],
+                            "category":  "Clinical and Behavioral Health",
+                            "whatYouDo":  [
+                                              "Assess mental, emotional, cognitive, and behavioral concerns using interviews, assessments, observation, and evidence-based frameworks.",
+                                              "Develop treatment plans, monitor outcomes, coordinate care, and communicate ethically with clients, families, and care teams.",
+                                              "Work inside strict licensure, supervision, documentation, privacy, and referral boundaries."
+                                          ],
+                            "ethicalBoundaries":  [
+                                                      "Do not diagnose, treat, or assess outside licensed/supervised authority.",
+                                                      "Protect privacy and avoid using identifiable client stories in portfolios.",
+                                                      "Use referral and crisis escalation pathways when safety is involved."
+                                                  ],
+                            "typicalSettings":  [
+                                                    "Hospitals and integrated care systems.",
+                                                    "Community mental health centers.",
+                                                    "Private practice after licensure.",
+                                                    "University clinics and research programs.",
+                                                    "Veterans, correctional, school, or public service settings."
+                                                ],
+                            "studyFocus":  [
+                                               "Abnormal psychology and psychopathology.",
+                                               "Clinical interviewing and assessment.",
+                                               "Research methods and statistics.",
+                                               "Ethics, privacy, cultural humility, and trauma-informed care.",
+                                               "Developmental, cognitive, biological, and social bases of behavior."
+                                           ],
+                            "nextSteps":  [
+                                              "Build research and volunteer evidence this term.",
+                                              "Study licensure requirements for the state or country of interest.",
+                                              "Interview a licensed psychologist about training realities.",
+                                              "Create a graduate-school readiness checklist."
+                                          ]
                         },
                         {
                             "id":  "ux_researcher",
@@ -423,7 +565,61 @@
                                                    "Case studies",
                                                    "Research writeups",
                                                    "Stakeholder presentations"
-                                               ]
+                                               ],
+                            "internships":  [
+                                                "UX research intern.",
+                                                "Product research assistant.",
+                                                "Human factors lab assistant.",
+                                                "Survey or insights intern.",
+                                                "Accessibility research support role."
+                                            ],
+                            "applicationPrep":  [
+                                                    "Build two or three clean case studies that show question, method, evidence, decision, and limitation.",
+                                                    "Practice explaining tradeoffs to non-research stakeholders.",
+                                                    "Prepare behavioral interview stories about ambiguity, ethics, and influence.",
+                                                    "Use company job descriptions to mirror role language."
+                                                ],
+                            "educationPath":  [
+                                                  "High school: psychology, writing, statistics, design or media projects.",
+                                                  "Undergraduate: psychology, cognitive science, human factors, HCI, information science, or related field.",
+                                                  "Graduate study can help for senior research, mixed methods, or specialized human factors roles but is not always required."
+                                              ],
+                            "portfolioProjects":  [
+                                                      "Usability study with research question, protocol, findings, limitations, and recommendations.",
+                                                      "Interview synthesis project with coded themes.",
+                                                      "Survey analysis around behavior or motivation.",
+                                                      "Accessibility heuristic review connected to cognitive load."
+                                                  ],
+                            "category":  "Human Behavior and Product Research",
+                            "whatYouDo":  [
+                                              "Study how people think, decide, navigate, and feel while using products, services, and systems.",
+                                              "Plan interviews, usability studies, surveys, diary studies, experiments, and synthesis sessions.",
+                                              "Turn user evidence into product recommendations without overclaiming beyond the data."
+                                          ],
+                            "ethicalBoundaries":  [
+                                                      "Protect participant privacy and consent.",
+                                                      "Avoid claiming a study proves more than the sample supports.",
+                                                      "Separate user need from business pressure when reporting evidence."
+                                                  ],
+                            "typicalSettings":  [
+                                                    "Technology companies.",
+                                                    "Healthcare product teams.",
+                                                    "Education technology.",
+                                                    "Consulting and research agencies.",
+                                                    "Government digital service teams."
+                                                ],
+                            "studyFocus":  [
+                                               "Cognitive psychology, attention, memory, decision-making, perception, and problem-solving.",
+                                               "Research design, sampling, interviewing, survey design, usability methods, and statistics.",
+                                               "Ethics, consent, privacy, accessibility, and inclusive research.",
+                                               "Communication, storytelling, product thinking, and stakeholder synthesis."
+                                           ],
+                            "nextSteps":  [
+                                              "Run one small usability study using a real product.",
+                                              "Write a case study with screenshots, method, findings, and next steps.",
+                                              "Save target companies by product area and research maturity.",
+                                              "Practice a portfolio walkthrough."
+                                          ]
                         },
                         {
                             "id":  "io_psychologist",
@@ -443,7 +639,61 @@
                                           "HRIS analytics",
                                           "Power BI",
                                           "R/Python"
-                                      ]
+                                      ],
+                            "internships":  [
+                                                "People analytics intern.",
+                                                "HR research or talent intern.",
+                                                "Organizational development assistant.",
+                                                "Survey research intern.",
+                                                "Assessment project support."
+                                            ],
+                            "applicationPrep":  [
+                                                    "Show statistics, survey, writing, and stakeholder communication evidence.",
+                                                    "Use terms like job analysis, validity, engagement, selection, training, and organizational development when accurate.",
+                                                    "Prepare examples of ethical handling of sensitive workforce data."
+                                                ],
+                            "educationPath":  [
+                                                  "High school: psychology, statistics, business, writing, and leadership activities.",
+                                                  "Undergraduate: psychology, business, statistics, HR, or organizational studies.",
+                                                  "Graduate: MA/MS or PhD in I-O psychology is common for specialist and psychologist roles."
+                                              ],
+                            "portfolioProjects":  [
+                                                      "Job analysis for a fictional or public role.",
+                                                      "Employee survey design with ethics and privacy note.",
+                                                      "Training evaluation plan.",
+                                                      "Leadership or teamwork literature review with workplace recommendations."
+                                                  ],
+                            "category":  "Workplace and Organizational Behavior",
+                            "whatYouDo":  [
+                                              "Apply psychology to hiring, assessment, training, leadership, motivation, teamwork, culture, wellbeing, and organizational performance.",
+                                              "Design surveys, analyze workforce patterns, evaluate programs, and advise leaders using evidence.",
+                                              "Keep fairness, validity, privacy, and legal/ethical boundaries visible."
+                                          ],
+                            "ethicalBoundaries":  [
+                                                      "Avoid unfair or invalid selection recommendations.",
+                                                      "Protect employee privacy.",
+                                                      "Distinguish business preference from psychological evidence."
+                                                  ],
+                            "typicalSettings":  [
+                                                    "Large employers and HR analytics teams.",
+                                                    "Consulting firms.",
+                                                    "Assessment vendors.",
+                                                    "Government personnel research.",
+                                                    "Organizational development teams."
+                                                ],
+                            "studyFocus":  [
+                                               "Industrial-organizational psychology.",
+                                               "Psychometrics and assessment validity.",
+                                               "Statistics, survey design, and people analytics.",
+                                               "Leadership, motivation, teams, job analysis, and organizational development.",
+                                               "Ethics, fairness, adverse impact, and privacy."
+                                           ],
+                            "nextSteps":  [
+                                              "Build one survey or job-analysis project.",
+                                              "Research I-O graduate programs and SIOP resources.",
+                                              "Save consulting, HR analytics, and assessment companies.",
+                                              "Practice explaining a people-data insight responsibly."
+                                          ]
                         },
                         {
                             "id":  "behavioral_scientist",
@@ -462,7 +712,60 @@
                                           "R/Python",
                                           "Experiment platforms",
                                           "BI tools"
-                                      ]
+                                      ],
+                            "internships":  [
+                                                "Behavioral insights intern.",
+                                                "Public health research assistant.",
+                                                "Program evaluation assistant.",
+                                                "Product experimentation intern.",
+                                                "Policy research assistant."
+                                            ],
+                            "applicationPrep":  [
+                                                    "Show that you can connect theory, evidence, intervention, and measurement.",
+                                                    "Prepare examples of uncertainty and unintended-effect thinking.",
+                                                    "Build one project around health, education, policy, or product behavior."
+                                                ],
+                            "educationPath":  [
+                                                  "High school: psychology, statistics, writing, public health, economics, and service projects.",
+                                                  "Undergraduate: psychology, cognitive science, public health, economics, data science, or policy.",
+                                                  "Graduate study can include behavioral science, psychology, public policy, public health, or decision science."
+                                              ],
+                            "portfolioProjects":  [
+                                                      "Behavior-change plan with target behavior, friction, intervention, ethics, and measurement.",
+                                                      "Experiment or A/B test proposal using fictional data.",
+                                                      "Literature review on a behavioral intervention.",
+                                                      "Policy or health communication redesign."
+                                                  ],
+                            "category":  "Applied Behavioral Science",
+                            "whatYouDo":  [
+                                              "Use behavioral evidence to improve decisions, health outcomes, product design, policy, education, and communication.",
+                                              "Design interventions, experiments, nudges, surveys, and evaluation plans.",
+                                              "Translate psychology research into practical changes while tracking ethics and limits."
+                                          ],
+                            "ethicalBoundaries":  [
+                                                      "Do not manipulate people without consent or safeguards.",
+                                                      "Consider equity and unintended harms.",
+                                                      "Keep claims proportional to evidence quality."
+                                                  ],
+                            "typicalSettings":  [
+                                                    "Health systems and public health teams.",
+                                                    "Government behavioral insights units.",
+                                                    "Product and growth research teams.",
+                                                    "Nonprofits and education programs.",
+                                                    "Consulting or research organizations."
+                                                ],
+                            "studyFocus":  [
+                                               "Cognitive psychology, social psychology, judgment and decision-making.",
+                                               "Behavior change, motivation, habit formation, and social influence.",
+                                               "Statistics, experiments, research methods, and program evaluation.",
+                                               "Ethics, consent, equity, and unintended consequences."
+                                           ],
+                            "nextSteps":  [
+                                              "Pick one behavior-change problem.",
+                                              "Map barriers and supports.",
+                                              "Design a small ethical intervention plan.",
+                                              "Save behavioral science teams and public health organizations."
+                                          ]
                         },
                         {
                             "id":  "gov_behavioral_analysis",
@@ -491,145 +794,359 @@
     "skillsAndTools":  {
                            "coreSkills":  [
                                               {
-                                                  "name":  "Research design",
-                                                  "why":  "Turns curiosity into credible evidence."
+                                                  "id":  "observation",
+                                                  "title":  "Observation",
+                                                  "summary":  "Notice behavior, context, timing, emotion, and environment before interpreting meaning.",
+                                                  "category":  "Psychology Skill",
+                                                  "why":  "Careful observation keeps the learner from guessing.",
+                                                  "uses":  [
+                                                               "Case notes.",
+                                                               "Behavior journals.",
+                                                               "Volunteer reflections."
+                                                           ],
+                                                  "examples":  [
+                                                                   "What happened?",
+                                                                   "Where did it happen?",
+                                                                   "What changed before and after?"
+                                                               ]
                                               },
                                               {
-                                                  "name":  "Statistics",
-                                                  "why":  "Makes studies interpretable and defensible."
+                                                  "id":  "empathy_boundaries",
+                                                  "title":  "Empathy and Boundaries",
+                                                  "summary":  "Practice care, respect, consent, privacy, and limits while learning about people-facing work.",
+                                                  "category":  "Professional Skill",
+                                                  "why":  "Helping fields require warmth and boundaries together.",
+                                                  "uses":  [
+                                                               "Peer support.",
+                                                               "Case reflection.",
+                                                               "Internship preparation."
+                                                           ],
+                                                  "examples":  [
+                                                                   "Listen without diagnosing.",
+                                                                   "Protect private information.",
+                                                                   "Know when to refer."
+                                                               ]
                                               },
                                               {
-                                                  "name":  "Ethics",
-                                                  "why":  "Protects people and your career."
+                                                  "id":  "research_design",
+                                                  "title":  "Research Design",
+                                                  "summary":  "Turn curiosity into an ethical question, method, evidence plan, and limitation statement.",
+                                                  "category":  "Research Skill",
+                                                  "why":  "Psychology claims need evidence and limits.",
+                                                  "uses":  [
+                                                               "Survey projects.",
+                                                               "Literature reviews.",
+                                                               "Portfolio studies."
+                                                           ],
+                                                  "examples":  [
+                                                                   "Question.",
+                                                                   "Method.",
+                                                                   "Evidence.",
+                                                                   "Limitation."
+                                                               ]
                                               },
                                               {
-                                                  "name":  "Communication",
-                                                  "why":  "Transforms findings into action."
+                                                  "id":  "ethical_reasoning",
+                                                  "title":  "Ethical Reasoning",
+                                                  "summary":  "Check privacy, consent, scope, safety, supervision, and respectful language.",
+                                                  "category":  "Ethics",
+                                                  "why":  "Behavioral health learning must protect people.",
+                                                  "uses":  [
+                                                               "Before surveys.",
+                                                               "Before case writeups.",
+                                                               "Before applications."
+                                                           ],
+                                                  "examples":  [
+                                                                   "What is private?",
+                                                                   "Who consented?",
+                                                                   "What is outside scope?"
+                                                               ]
                                               },
                                               {
-                                                  "name":  "Empathy + boundaries",
-                                                  "why":  "Critical for any people-facing role."
+                                                  "id":  "communication",
+                                                  "title":  "Communication",
+                                                  "summary":  "Explain psychology ideas clearly, carefully, and without overclaiming.",
+                                                  "category":  "Professional Skill",
+                                                  "why":  "Communication turns learning into trustable work.",
+                                                  "uses":  [
+                                                               "Reports.",
+                                                               "Interviews.",
+                                                               "Portfolio summaries."
+                                                           ],
+                                                  "examples":  [
+                                                                   "Here is what we know.",
+                                                                   "Here is what we do not know.",
+                                                                   "Here is the next safe step."
+                                                               ]
                                               }
                                           ],
                            "tools":  [
                                          {
-                                             "name":  "R",
-                                             "category":  "Analytics",
-                                             "id":  "r_statistics",
-                                             "title":  "R Statistics",
-                                             "summary":  "Open-source statistical computing for research analysis, visualization, and reproducible psychology workflows.",
-                                             "why":  "R helps students and analysts move from raw data to credible evidence using transparent scripts and repeatable methods.",
+                                             "id":  "key_branches_of_psychology",
+                                             "title":  "Key Branches of Psychology",
+                                             "summary":  "Compare clinical, cognitive, developmental, and social psychology so the learner understands what each branch studies and where it connects.",
+                                             "category":  "Psychology Foundations",
+                                             "why":  "Branches give the learner a mental map of the psychology field before choosing tools, projects, careers, or companies.",
                                              "uses":  [
-                                                          "Run descriptive statistics and basic inferential tests.",
-                                                          "Create charts for behavior, survey, and research data.",
-                                                          "Document reproducible analysis steps for a portfolio."
+                                                          "Use before choosing a school project.",
+                                                          "Use before comparing career paths.",
+                                                          "Use when a case study needs a branch label."
                                                       ],
                                              "skills":  [
-                                                            "Statistics",
-                                                            "Data visualization",
+                                                            "Domain mapping",
+                                                            "Concept comparison",
+                                                            "Career connection"
+                                                        ],
+                                             "examples":  [
+                                                              "Clinical Psychology: diagnoses and treats mental health disorders.",
+                                                              "Cognitive Psychology: studies memory, attention, problem-solving, and internal thought processes.",
+                                                              "Developmental Psychology: tracks growth and change across the lifespan.",
+                                                              "Social Psychology: explores how groups, norms, and peer pressure shape actions."
+                                                          ]
+                                         },
+                                         {
+                                             "id":  "core_behavior_approaches",
+                                             "title":  "Core Approaches to Understanding Behavior",
+                                             "summary":  "Compare biological, behavioral, psychodynamic, cognitive, humanistic, and sociocultural approaches to behavior.",
+                                             "category":  "Behavior Approaches",
+                                             "why":  "Approaches help the learner ask better questions about why behavior happens without jumping to one explanation.",
+                                             "uses":  [
+                                                          "Choose one approach for a case reflection.",
+                                                          "Compare two explanations for the same behavior.",
+                                                          "Identify what evidence each approach would need."
+                                                      ],
+                                             "skills":  [
+                                                            "Behavior analysis",
+                                                            "Perspective taking",
+                                                            "Evidence matching"
+                                                        ],
+                                             "examples":  [
+                                                              "Biological Approach: focuses on brain, genes, body systems, sleep, stress, and neurochemistry.",
+                                                              "Behavioral Approach: studies rewards, habits, conditioning, and environment.",
+                                                              "Psychodynamic Approach: considers hidden motives, early experiences, and unconscious conflict.",
+                                                              "Cognitive Approach: looks at thoughts, beliefs, attention, memory, and problem-solving.",
+                                                              "Humanistic Approach: emphasizes growth, meaning, values, autonomy, and strengths.",
+                                                              "Sociocultural Approach: studies culture, family, groups, identity, and social context."
+                                                          ]
+                                         },
+                                         {
+                                             "id":  "bias_checker",
+                                             "title":  "Bias Checker",
+                                             "summary":  "Identify confirmation, availability, anchoring, overconfidence, attribution, and loss-aversion risks in a psychology or behavioral health decision.",
+                                             "category":  "Cognitive Bias",
+                                             "why":  "Bias checks protect the learner from treating first impressions as evidence.",
+                                             "uses":  [
+                                                          "Review a decision or case note.",
+                                                          "Mark possible bias risks.",
+                                                          "Write one disconfirming question."
+                                                      ],
+                                             "skills":  [
+                                                            "Critical thinking",
+                                                            "Evidence review",
+                                                            "Metacognition"
+                                                        ],
+                                             "examples":  [
+                                                              "Before choosing a career path.",
+                                                              "Before interpreting a behavior pattern.",
+                                                              "Before writing a case reflection."
+                                                          ]
+                                         },
+                                         {
+                                             "id":  "decision_quality_review",
+                                             "title":  "Decision Quality Review",
+                                             "summary":  "Review a psychology-related choice for goal clarity, evidence quality, uncertainty, risk, reversibility, and next action.",
+                                             "category":  "Decision Psychology",
+                                             "why":  "Behavioral health decisions improve when the learner can show what is known, unknown, and reversible.",
+                                             "uses":  [
+                                                          "State the decision.",
+                                                          "List evidence and missing evidence.",
+                                                          "Choose a safe next step."
+                                                      ],
+                                             "skills":  [
+                                                            "Judgment",
+                                                            "Risk framing",
+                                                            "Planning"
+                                                        ],
+                                             "examples":  [
+                                                              "Selecting a class.",
+                                                              "Choosing an internship.",
+                                                              "Planning a portfolio project."
+                                                          ]
+                                         },
+                                         {
+                                             "id":  "behavioral_survey_builder",
+                                             "title":  "Behavioral Survey Builder",
+                                             "summary":  "Design ethical surveys for school projects, study habits, wellbeing routines, motivation, social pressure, or career interests.",
+                                             "category":  "Research Methods",
+                                             "why":  "Good survey design keeps questions clear, consent-aware, and limited to appropriate learning use.",
+                                             "uses":  [
+                                                          "Define the research question.",
+                                                          "Write neutral questions.",
+                                                          "Add privacy and consent notes."
+                                                      ],
+                                             "skills":  [
                                                             "Research design",
-                                                            "Reproducible analysis"
+                                                            "Ethics",
+                                                            "Data literacy"
                                                         ],
                                              "examples":  [
-                                                              "Analyze a sleep log study with summary statistics.",
-                                                              "Create a graph comparing survey response groups.",
-                                                              "Build a simple research report from a CSV dataset."
+                                                              "Study habits survey.",
+                                                              "Sleep and attention survey.",
+                                                              "Career interest survey."
                                                           ]
                                          },
                                          {
-                                             "name":  "Python",
-                                             "category":  "Analytics",
-                                             "id":  "python_analysis",
-                                             "title":  "Python for Behavioral Data",
-                                             "summary":  "General-purpose programming for data cleanup, automation, notebooks, and applied behavioral science projects.",
-                                             "why":  "Python supports practical analysis, automation, and structured thinking across research, product, and workplace settings.",
+                                             "id":  "cognitive_distortion_analyzer",
+                                             "title":  "Cognitive Distortion Analyzer",
+                                             "summary":  "Learn to recognize thinking patterns such as all-or-nothing thinking, catastrophizing, mind reading, labeling, and should statements.",
+                                             "category":  "Cognitive Psychology",
+                                             "why":  "Recognizing thinking patterns supports reflection and communication without diagnosing anyone.",
                                              "uses":  [
-                                                          "Clean and transform survey or activity data.",
-                                                          "Build notebooks that explain each analysis step.",
-                                                          "Prototype small decision-support or learning tools."
+                                                          "Read a reflection statement.",
+                                                          "Identify possible thinking patterns.",
+                                                          "Rewrite it as a balanced observation."
                                                       ],
                                              "skills":  [
-                                                            "Data cleaning",
-                                                            "Automation",
-                                                            "Notebook reporting",
-                                                            "Applied analysis"
+                                                            "Reflection",
+                                                            "Emotional regulation",
+                                                            "Language precision"
                                                         ],
                                              "examples":  [
-                                                              "Clean a survey export and summarize response trends.",
-                                                              "Create a notebook for a bias recognition project.",
-                                                              "Automate a weekly learning progress report."
+                                                              "Test anxiety reflection.",
+                                                              "Conflict reflection.",
+                                                              "Career doubt reflection."
                                                           ]
                                          },
                                          {
-                                             "name":  "SPSS",
-                                             "category":  "Stats",
-                                             "id":  "spss_statistics",
-                                             "title":  "SPSS Statistics",
-                                             "summary":  "Point-and-click statistical software commonly used in psychology, education, healthcare, and social science programs.",
-                                             "why":  "SPSS helps learners understand statistical workflows without requiring heavy programming at the beginning.",
+                                             "id":  "learning_plan_builder",
+                                             "title":  "Psychology Learning Plan Builder",
+                                             "summary":  "Turn a grade, course, or career goal into a study plan with psychology topics, projects, milestones, and review checkpoints.",
+                                             "category":  "School Roadmap",
+                                             "why":  "A learning plan connects psychology content to practical evidence.",
                                              "uses":  [
-                                                          "Run descriptive statistics, t-tests, correlations, and regressions.",
-                                                          "Inspect survey datasets and variable coding.",
-                                                          "Export tables for class, research, or workplace reports."
+                                                          "Choose current grade or school stage.",
+                                                          "Pick one topic and one project.",
+                                                          "Set a milestone and review date."
                                                       ],
                                              "skills":  [
-                                                            "Statistical interpretation",
-                                                            "Survey analysis",
-                                                            "Variable coding",
-                                                            "Research reporting"
+                                                            "Study planning",
+                                                            "Self-regulation",
+                                                            "Portfolio building"
                                                         ],
                                              "examples":  [
-                                                              "Compare pre-test and post-test results.",
-                                                              "Summarize survey responses by group.",
-                                                              "Prepare tables for an applied psychology report."
+                                                              "Grade 10 brain and behavior plan.",
+                                                              "AP Psychology review plan.",
+                                                              "Undergrad research-methods plan."
                                                           ]
                                          },
                                          {
-                                             "name":  "Qualtrics",
-                                             "category":  "Survey",
-                                             "id":  "qualtrics_surveys",
-                                             "title":  "Qualtrics Surveys",
-                                             "summary":  "Survey design and data collection platform used for research, customer feedback, employee listening, and behavioral studies.",
-                                             "why":  "Qualtrics connects research questions to structured data collection and helps avoid weak or biased survey design.",
+                                             "id":  "reflection_prompt_builder",
+                                             "title":  "Reflection Prompt Builder",
+                                             "summary":  "Create prompts for observation, emotion, behavior, assumptions, evidence, ethics, and next action.",
+                                             "category":  "Reflective Practice",
+                                             "why":  "Structured reflection helps a learner build insight while staying inside educational boundaries.",
                                              "uses":  [
-                                                          "Build surveys with clear question logic.",
-                                                          "Collect consent-aware response data.",
-                                                          "Export results for analysis in R, Python, SPSS, or Power BI."
+                                                          "Choose a situation.",
+                                                          "Separate facts from interpretation.",
+                                                          "Write one next question."
                                                       ],
                                              "skills":  [
-                                                            "Survey design",
-                                                            "Question writing",
-                                                            "Research ethics",
-                                                            "Data collection"
+                                                            "Self-awareness",
+                                                            "Communication",
+                                                            "Ethical reasoning"
                                                         ],
                                              "examples":  [
-                                                              "Create a stress and sleep questionnaire.",
-                                                              "Design a career interest survey.",
-                                                              "Export survey data for a statistics project."
+                                                              "After a case study.",
+                                                              "After volunteering.",
+                                                              "After a difficult conversation."
                                                           ]
                                          },
                                          {
-                                             "name":  "Power BI",
-                                             "category":  "BI",
-                                             "id":  "power_bi_dashboards",
-                                             "title":  "Power BI Dashboards",
-                                             "summary":  "Dashboard and reporting tool for turning data into visual insights, trends, and decision-ready summaries.",
-                                             "why":  "Power BI helps communicate findings clearly to teams, leaders, and stakeholders who need fast interpretation.",
+                                             "id":  "case_study_analyzer",
+                                             "title":  "Case Study Analyzer",
+                                             "summary":  "Analyze educational case studies by context, behavior, evidence, alternative explanations, bias risks, and ethical boundaries.",
+                                             "category":  "Applied Psychology",
+                                             "why":  "Case analysis trains careful reasoning without jumping to diagnosis.",
                                              "uses":  [
-                                                          "Create dashboards from survey, learning, or performance data.",
-                                                          "Track trends and compare categories over time.",
-                                                          "Present findings with charts, filters, and summary cards."
+                                                          "Summarize the case.",
+                                                          "List evidence and missing evidence.",
+                                                          "Identify bias and ethics boundaries."
                                                       ],
                                              "skills":  [
-                                                            "Data storytelling",
-                                                            "Dashboard design",
-                                                            "Trend analysis",
-                                                            "Stakeholder communication"
+                                                            "Case reasoning",
+                                                            "Ethics",
+                                                            "Evidence mapping"
                                                         ],
                                              "examples":  [
-                                                              "Build a dashboard for quiz performance by topic.",
-                                                              "Track learning progress over several weeks.",
-                                                              "Visualize survey results for a class or project."
+                                                              "School stress case.",
+                                                              "Workplace motivation case.",
+                                                              "Health behavior case."
+                                                          ]
+                                         },
+                                         {
+                                             "id":  "readiness_self_assessment",
+                                             "title":  "Career Readiness Self-Assessment",
+                                             "summary":  "Check readiness across coursework, skills, projects, internships, applications, and professional boundaries.",
+                                             "category":  "Career Readiness",
+                                             "why":  "Readiness should be based on evidence the learner can show.",
+                                             "uses":  [
+                                                          "Review school stage.",
+                                                          "Match evidence to a target path.",
+                                                          "Choose the next gap to close."
+                                                      ],
+                                             "skills":  [
+                                                            "Self-assessment",
+                                                            "Career planning",
+                                                            "Evidence building"
+                                                        ],
+                                             "examples":  [
+                                                              "Internship readiness.",
+                                                              "College application readiness.",
+                                                              "Entry role readiness."
+                                                          ]
+                                         },
+                                         {
+                                             "id":  "ethics_boundary_review",
+                                             "title":  "Ethics Boundary Review",
+                                             "summary":  "Review consent, privacy, scope, safety, referral, supervision, and respectful language before psychology-related work.",
+                                             "category":  "Ethics",
+                                             "why":  "Psychology and behavioral health work must protect people and avoid overclaiming.",
+                                             "uses":  [
+                                                          "State the activity.",
+                                                          "Check privacy and consent.",
+                                                          "Name what is outside scope."
+                                                      ],
+                                             "skills":  [
+                                                            "Ethics",
+                                                            "Boundary setting",
+                                                            "Professional judgment"
+                                                        ],
+                                             "examples":  [
+                                                              "Survey project.",
+                                                              "Peer support situation.",
+                                                              "Portfolio case write-up."
+                                                          ]
+                                         },
+                                         {
+                                             "id":  "scenario_simulator",
+                                             "title":  "Behavior Scenario Simulator",
+                                             "summary":  "Explore possible outcomes of school, career, case, or communication choices using assumptions, risks, supports, and alternatives.",
+                                             "category":  "Scenario Reasoning",
+                                             "why":  "Scenario thinking helps the learner compare options without pretending to predict people perfectly.",
+                                             "uses":  [
+                                                          "Describe the scenario.",
+                                                          "Name assumptions and risks.",
+                                                          "Compare two safe next actions."
+                                                      ],
+                                             "skills":  [
+                                                            "Perspective taking",
+                                                            "Risk review",
+                                                            "Planning"
+                                                        ],
+                                             "examples":  [
+                                                              "Choosing a major.",
+                                                              "Preparing for an interview.",
+                                                              "Responding to a case study."
                                                           ]
                                          }
                                      ]
@@ -639,64 +1156,119 @@
                                       {
                                           "id":  "healthcare",
                                           "title":  "Healthcare Systems",
-                                          "items":  [
-                                                        {
-                                                            "name":  "Mayo Clinic",
-                                                            "region":  "US",
-                                                            "careers":  "https://jobs.mayoclinic.org/"
-                                                        },
-                                                        {
-                                                            "name":  "Cleveland Clinic",
-                                                            "region":  "US",
-                                                            "careers":  "https://jobs.clevelandclinic.org/"
-                                                        },
-                                                        {
-                                                            "name":  "Johns Hopkins Medicine",
-                                                            "region":  "US",
-                                                            "careers":  "https://jobs.hopkinsmedicine.org/"
-                                                        },
-                                                        {
-                                                            "name":  "Kaiser Permanente",
-                                                            "region":  "US",
-                                                            "careers":  "https://www.kaiserpermanentejobs.org/"
-                                                        },
-                                                        {
-                                                            "name":  "VA (Veterans Health Administration)",
-                                                            "region":  "US",
-                                                            "careers":  "https://vacareers.va.gov/"
-                                                        },
-                                                        {
-                                                            "name":  "NHS (National Health Service)",
-                                                            "region":  "UK",
-                                                            "careers":  "https://www.jobs.nhs.uk/"
-                                                        }
-                                                    ]
+                                          "applicationStrategy":  [
+                                                                      "Use official career pages and filter by behavioral health, psychology, research, patient experience, and program roles.",
+                                                                      "Check degree, age, certification, background, and supervision requirements.",
+                                                                      "Tailor resume around care, ethics, research, communication, and reliability."
+                                                                  ],
+                                          "summary":  "Healthcare systems hire psychology and behavioral health learners for clinical support, research, patient experience, program coordination, health behavior, and integrated care roles.",
+                                          "nextActions":  [
+                                                              "Save five health systems.",
+                                                              "Find three entry roles and one internship.",
+                                                              "Match each role to one project or volunteer proof.",
+                                                              "Track deadlines and requirements."
+                                                          ],
+                                          "portfolioProof":  [
+                                                                 "De-identified case reflection.",
+                                                                 "Health behavior literature review.",
+                                                                 "Patient education redesign.",
+                                                                 "Outcome-tracking mock dashboard.",
+                                                                 "Ethics boundary checklist."
+                                                             ],
+                                          "companyTypes":  [
+                                                               "Academic medical centers.",
+                                                               "Integrated care systems.",
+                                                               "Community mental health providers.",
+                                                               "Veterans and public hospitals.",
+                                                               "Rehabilitation and specialty clinics."
+                                                           ],
+                                          "exampleCompanies":  [
+                                                                   "Mayo Clinic - hospital, research, patient care, psychology training environment.",
+                                                                   "Cleveland Clinic - health system with behavioral health, research, and patient experience teams.",
+                                                                   "Johns Hopkins Medicine - academic health system with research and clinical program roles.",
+                                                                   "Kaiser Permanente - integrated care and population health environment.",
+                                                                   "Veterans Health Administration - public service, behavioral health, research, and care coordination."
+                                                               ],
+                                          "interviewPrep":  [
+                                                                "Prepare examples of privacy, empathy, boundaries, and teamwork.",
+                                                                "Explain what you can do as a learner versus what requires licensure.",
+                                                                "Practice describing stressful situations calmly and ethically."
+                                                            ],
+                                          "rolesToSearch":  [
+                                                                "Behavioral health technician.",
+                                                                "Research assistant.",
+                                                                "Clinical research coordinator.",
+                                                                "Patient experience analyst.",
+                                                                "Program assistant.",
+                                                                "Mental health associate.",
+                                                                "Care coordinator."
+                                                            ],
+                                          "whatToStudy":  [
+                                                              "Abnormal psychology.",
+                                                              "Health psychology.",
+                                                              "Ethics and privacy.",
+                                                              "Research methods.",
+                                                              "Trauma-informed communication.",
+                                                              "Statistics."
+                                                          ]
                                       },
                                       {
                                           "id":  "research",
                                           "title":  "Research Institutions",
-                                          "items":  [
-                                                        {
-                                                            "name":  "NIH",
-                                                            "region":  "US",
-                                                            "careers":  "https://www.training.nih.gov/"
-                                                        },
-                                                        {
-                                                            "name":  "NIMH",
-                                                            "region":  "US",
-                                                            "careers":  "https://www.nimh.nih.gov/"
-                                                        },
-                                                        {
-                                                            "name":  "CDC",
-                                                            "region":  "US",
-                                                            "careers":  "https://jobs.cdc.gov/"
-                                                        },
-                                                        {
-                                                            "name":  "RAND Corporation",
-                                                            "region":  "Global",
-                                                            "careers":  "https://www.rand.org/jobs.html"
-                                                        }
-                                                    ]
+                                          "applicationStrategy":  [
+                                                                      "Search lab pages and official institution career pages.",
+                                                                      "Email faculty/lab contacts only with concise, respectful, specific interest.",
+                                                                      "Show writing, methods, reliability, and data-care evidence."
+                                                                  ],
+                                          "summary":  "Research institutions connect psychology learners to labs, studies, data collection, literature review, public health, neuroscience, and behavioral science projects.",
+                                          "nextActions":  [
+                                                              "Identify ten labs or institutions.",
+                                                              "Prepare a one-page research interest statement.",
+                                                              "Polish one methods-focused portfolio artifact.",
+                                                              "Ask teachers or faculty about research assistant opportunities."
+                                                          ],
+                                          "portfolioProof":  [
+                                                                 "Literature review with five credible sources.",
+                                                                 "Survey project with method and limitations.",
+                                                                 "Mock IRB-style ethics checklist.",
+                                                                 "Data visualization from fictional/de-identified data.",
+                                                                 "Research poster summary."
+                                                             ],
+                                          "companyTypes":  [
+                                                               "University psychology labs.",
+                                                               "Federal research agencies.",
+                                                               "Public health research groups.",
+                                                               "Think tanks.",
+                                                               "Behavioral science research centers."
+                                                           ],
+                                          "exampleCompanies":  [
+                                                                   "NIH - research training, health science, and behavioral research pathways.",
+                                                                   "NIMH - mental health research and science communication context.",
+                                                                   "CDC - public health, behavior, data, and program evaluation roles.",
+                                                                   "RAND Corporation - policy, health, education, and behavioral research.",
+                                                                   "University labs - psychology, neuroscience, social, clinical, developmental, and cognitive research teams."
+                                                               ],
+                                          "interviewPrep":  [
+                                                                "Explain one study design clearly.",
+                                                                "Discuss consent, privacy, and limitations.",
+                                                                "Show comfort with repetitive careful data work."
+                                                            ],
+                                          "rolesToSearch":  [
+                                                                "Research assistant.",
+                                                                "Lab assistant.",
+                                                                "Study coordinator.",
+                                                                "Survey research assistant.",
+                                                                "Data collection assistant.",
+                                                                "Program evaluation intern."
+                                                            ],
+                                          "whatToStudy":  [
+                                                              "Research methods.",
+                                                              "Statistics.",
+                                                              "Ethics and consent.",
+                                                              "Literature review.",
+                                                              "Survey design.",
+                                                              "Experimental and correlational methods."
+                                                          ]
                                       },
                                       {
                                           "id":  "tech_ai",
@@ -763,28 +1335,60 @@
                                       {
                                           "id":  "government",
                                           "title":  "Government \u0026 Public Service",
-                                          "items":  [
-                                                        {
-                                                            "name":  "FBI",
-                                                            "region":  "US",
-                                                            "careers":  "https://fbijobs.gov/"
-                                                        },
-                                                        {
-                                                            "name":  "DoD (Department of Defense)",
-                                                            "region":  "US",
-                                                            "careers":  "https://www.usajobs.gov/"
-                                                        },
-                                                        {
-                                                            "name":  "WHO (World Health Organization)",
-                                                            "region":  "Global",
-                                                            "careers":  "https://careers.who.int/"
-                                                        },
-                                                        {
-                                                            "name":  "UNICEF",
-                                                            "region":  "Global",
-                                                            "careers":  "https://jobs.unicef.org/"
-                                                        }
-                                                    ]
+                                          "applicationStrategy":  [
+                                                                      "Check eligibility, background, citizenship, training, and civil-service rules early.",
+                                                                      "Use official job portals and role-specific keywords.",
+                                                                      "Prepare writing samples and examples of public trust."
+                                                                  ],
+                                          "summary":  "Government and public service organizations use psychology and behavioral health knowledge in public health, schools, veterans services, community programs, justice-adjacent rehabilitation, and policy.",
+                                          "nextActions":  [
+                                                              "Choose a public service population or issue.",
+                                                              "Save official agency job portals.",
+                                                              "Build one policy or program portfolio piece.",
+                                                              "Track application windows."
+                                                          ],
+                                          "portfolioProof":  [
+                                                                 "Program evaluation plan.",
+                                                                 "Public behavior brief.",
+                                                                 "Resource map.",
+                                                                 "Ethics/privacy checklist.",
+                                                                 "Community mental health education summary."
+                                                             ],
+                                          "companyTypes":  [
+                                                               "Public health departments.",
+                                                               "School districts.",
+                                                               "Veterans and social service agencies.",
+                                                               "Federal and state research teams.",
+                                                               "Community behavioral health programs."
+                                                           ],
+                                          "exampleCompanies":  [
+                                                                   "CDC - public health behavior, prevention, research, and communication.",
+                                                                   "VA - veterans behavioral health, research, care support, and public service.",
+                                                                   "SAMHSA-connected programs - behavioral health policy, prevention, and community support context.",
+                                                                   "School districts - school psychology, counseling support, student services, and research.",
+                                                                   "State health departments - program evaluation, prevention, and community health."
+                                                               ],
+                                          "interviewPrep":  [
+                                                                "Discuss privacy, safety, and respectful service.",
+                                                                "Explain how evidence informs public programs.",
+                                                                "Show maturity around sensitive populations."
+                                                            ],
+                                          "rolesToSearch":  [
+                                                                "Public health intern.",
+                                                                "Program assistant.",
+                                                                "Research assistant.",
+                                                                "Behavioral health program coordinator.",
+                                                                "School support role.",
+                                                                "Policy research assistant."
+                                                            ],
+                                          "whatToStudy":  [
+                                                              "Public health.",
+                                                              "Developmental psychology.",
+                                                              "Social psychology.",
+                                                              "Trauma-informed practice.",
+                                                              "Policy writing.",
+                                                              "Program evaluation."
+                                                          ]
                                       },
                                       {
                                           "id":  "gaming_media",
@@ -810,7 +1414,25 @@
                                                             "region":  "Global",
                                                             "careers":  "https://www.lifeatspotify.com/jobs"
                                                         }
-                                                    ]
+                                                    ],
+                                          "targetCompaniesAndTeams":  [
+                                                                          "Player research teams",
+                                                                          "Learning media studios",
+                                                                          "Behavior change content teams",
+                                                                          "Accessibility research teams",
+                                                                          "Community safety teams"
+                                                                      ],
+                                          "howToApply":  [
+                                                             "Search official career pages using psychology, behavioral health, research assistant, UX research, people analytics, program assistant, and internship keywords.",
+                                                             "Save the role title, requirements, deadline, and application link.",
+                                                             "Match each application to one portfolio project, one skill, and one education milestone."
+                                                         ],
+                                          "applicationEvidence":  [
+                                                                      "Resume tailored to the role.",
+                                                                      "One psychology or behavioral health project.",
+                                                                      "Reflection on ethics, privacy, and boundaries.",
+                                                                      "Short cover note showing fit."
+                                                                  ]
                                       }
                                   ],
                       "catalogs":  {
@@ -1116,5 +1738,518 @@
                                         "behavioral_scientist":  "market_research_analyst",
                                         "behavioral_therapist":  "mental_health_counselor"
                                     }
-                    }
+                    },
+    "careerReadiness":  {
+                            "cards":  [
+                                          {
+                                              "id":  "career_paths",
+                                              "title":  "Career Paths",
+                                              "summary":  "Compare psychology, cognitive science, research, UX, organizational, healthcare, government, and AI-aligned career directions.",
+                                              "category":  "Career Planning",
+                                              "whyThisMatters":  "A clear path helps the learner choose school, tools, projects, internships, and application evidence without guessing.",
+                                              "useThisInPractice":  [
+                                                                        "Pick one primary path and two backup paths.",
+                                                                        "Compare required education, experience, and portfolio signals.",
+                                                                        "Use Core career cards to decide what evidence to build next."
+                                                                    ],
+                                              "relatedCoreSections":  [
+                                                                          "careerPaths",
+                                                                          "roles.catalog",
+                                                                          "laborMarket"
+                                                                      ],
+                                              "details":  [
+                                                              "Clinical and counseling paths often require graduate education and licensure.",
+                                                              "Research paths need methods, statistics, lab experience, and writing.",
+                                                              "UX, product, people analytics, and behavioral science paths need research evidence and communication."
+                                                          ],
+                                              "recommendedActions":  [
+                                                                         "Choose a primary path.",
+                                                                         "List education requirements.",
+                                                                         "Pick one project that proves readiness."
+                                                                     ]
+                                          },
+                                          {
+                                              "id":  "companies",
+                                              "title":  "Companies",
+                                              "summary":  "Review employer sectors and example organizations connected to psychology, behavioral science, UX research, healthcare, consulting, government, media, and AI.",
+                                              "category":  "Employer Research",
+                                              "whyThisMatters":  "Company research turns a general interest into real opportunity targets, role language, and application timing.",
+                                              "useThisInPractice":  [
+                                                                        "Save companies by sector.",
+                                                                        "Match each company to one career path and one portfolio project.",
+                                                                        "Use official career pages before outreach or applications."
+                                                                    ],
+                                              "relatedCoreSections":  [
+                                                                          "employers.sectors",
+                                                                          "employers.catalogs",
+                                                                          "links.roleToEmployers"
+                                                                      ],
+                                              "details":  [
+                                                              "Company research belongs under employer sectors, target teams, official career pages, and role requirements.",
+                                                              "The learner should compare healthcare, research, technology, consulting, government, education, and media organizations."
+                                                          ],
+                                              "recommendedActions":  [
+                                                                         "Save ten target organizations.",
+                                                                         "Match each to one role type.",
+                                                                         "Track requirements and deadlines."
+                                                                     ]
+                                          },
+                                          {
+                                              "id":  "internships",
+                                              "title":  "Internships",
+                                              "summary":  "Plan internships, labs, observation hours, assistant roles, and supervised experience that build credible career evidence.",
+                                              "category":  "Experience",
+                                              "whyThisMatters":  "Internships and supervised roles convert learning into verified practice, references, and portfolio proof.",
+                                              "useThisInPractice":  [
+                                                                        "Identify internship categories by path: lab, clinic, school, HR, UX, public health, product, or research.",
+                                                                        "Track deadlines, prerequisites, supervision rules, and school-credit requirements.",
+                                                                        "Write a reflection after each shadowing, lab, or internship experience."
+                                                                    ],
+                                              "relatedCoreSections":  [
+                                                                          "howToGetHired.pipeline",
+                                                                          "education.grades",
+                                                                          "education.postSecondary"
+                                                                      ],
+                                              "details":  [
+                                                              "Useful internship categories include research assistant, behavioral health program support, school support, UX research, people analytics, public health, and community education.",
+                                                              "Some settings require age, background check, training, or supervision rules."
+                                                          ],
+                                              "recommendedActions":  [
+                                                                         "Build a deadline tracker.",
+                                                                         "Prepare a resume and project proof.",
+                                                                         "Ask about supervision and allowed duties."
+                                                                     ]
+                                          },
+                                          {
+                                              "id":  "start_a_company",
+                                              "title":  "Start a Company",
+                                              "summary":  "Explore how cognitive science and psychology can become a focused service, education product, assessment workflow, research support offer, or software tool.",
+                                              "category":  "Founder Path",
+                                              "whyThisMatters":  "Founder work needs a narrow audience, ethical boundary, repeatable workflow, and measurable outcome before growth.",
+                                              "useThisInPractice":  [
+                                                                        "Choose one audience: students, schools, clinics, teams, workplaces, creators, researchers, or product teams.",
+                                                                        "Define what the company will do and what it will refuse to do outside scope.",
+                                                                        "Build one small portfolio proof before offering the service."
+                                                                    ],
+                                              "relatedCoreSections":  [
+                                                                          "careerReadiness.business_models",
+                                                                          "skillsAndTools.tools",
+                                                                          "employers.sectors"
+                                                                      ],
+                                              "details":  [
+                                                              "Founder ideas must stay within education, coaching, research support, analytics, or workflow support unless licensed clinical authority exists.",
+                                                              "Good offers are narrow, ethical, measurable, and referral-aware."
+                                                          ],
+                                              "recommendedActions":  [
+                                                                         "Pick one audience.",
+                                                                         "Write scope and out-of-scope rules.",
+                                                                         "Build one small proof project."
+                                                                     ]
+                                          },
+                                          {
+                                              "id":  "business_models",
+                                              "title":  "Business Models",
+                                              "summary":  "Compare service, coaching, school program, research support, analytics, dashboard, content, and software models for applied cognitive work.",
+                                              "category":  "Business Planning",
+                                              "whyThisMatters":  "A business model makes the user clarify who is served, what is delivered, how quality is protected, and how outcomes are reviewed.",
+                                              "useThisInPractice":  [
+                                                                        "Choose one delivery model before designing features or services.",
+                                                                        "Define pricing, support, quality review, privacy boundaries, and referral rules.",
+                                                                        "Tie the model to a career path, tool workflow, and portfolio project."
+                                                                    ],
+                                              "relatedCoreSections":  [
+                                                                          "skillsAndTools.tools",
+                                                                          "ethicsBoundaries",
+                                                                          "howToGetHired.pipeline"
+                                                                      ],
+                                              "details":  [
+                                                              "Possible models include workshops, school programs, research support, survey analysis, portfolio coaching, behavior-change education, and software dashboards.",
+                                                              "Each model needs privacy, consent, quality review, and referral boundaries."
+                                                          ],
+                                              "recommendedActions":  [
+                                                                         "Choose one model.",
+                                                                         "Define deliverables.",
+                                                                         "Create an ethics and privacy checklist."
+                                                                     ]
+                                          },
+                                          {
+                                              "id":  "certifications",
+                                              "title":  "Certifications",
+                                              "summary":  "Track credentials, certificates, coursework, supervised requirements, and scope boundaries that support psychology-adjacent readiness.",
+                                              "category":  "Credentials",
+                                              "whyThisMatters":  "Credentials can strengthen readiness, but they must not be confused with licensure, diagnosis authority, or clinical scope.",
+                                              "useThisInPractice":  [
+                                                                        "Record each certification with issuer, date, renewal, and role relevance.",
+                                                                        "Separate certificates from licenses and supervised clinical authority.",
+                                                                        "Connect every credential to a portfolio project or internship requirement."
+                                                                    ],
+                                              "relatedCoreSections":  [
+                                                                          "education.postSecondary",
+                                                                          "careerPaths",
+                                                                          "ethicsBoundaries"
+                                                                      ],
+                                              "details":  [
+                                                              "Certificates can support readiness but are not the same as licensure.",
+                                                              "Track issuer, expiration, renewal, scope, and role relevance."
+                                                          ],
+                                              "recommendedActions":  [
+                                                                         "Separate certificate, degree, license, and supervised experience.",
+                                                                         "Verify requirements from official sources.",
+                                                                         "Connect credentials to target roles."
+                                                                     ]
+                                          },
+                                          {
+                                              "id":  "portfolio_projects",
+                                              "title":  "Portfolio Projects",
+                                              "summary":  "Build evidence through survey studies, usability studies, behavior-change plans, literature reviews, dashboards, and ethics-aware case analyses.",
+                                              "category":  "Portfolio",
+                                              "whyThisMatters":  "Projects make skills inspectable and help schools, employers, and collaborators understand what the learner can actually do.",
+                                              "useThisInPractice":  [
+                                                                        "Keep each project tied to a career path and a Core concept.",
+                                                                        "Include question, method, ethics note, result, limitation, and next action.",
+                                                                        "Use report export to turn saved work into a professional summary."
+                                                                    ],
+                                              "relatedCoreSections":  [
+                                                                          "howToGetHired.portfolioIdeas",
+                                                                          "skillsAndTools.tools",
+                                                                          "careerPaths"
+                                                                      ],
+                                              "details":  [
+                                                              "Strong projects include survey studies, literature reviews, usability studies, behavior-change plans, case analyses, dashboards, and ethics reviews.",
+                                                              "Every project should show question, method, evidence, limitation, and next step."
+                                                          ],
+                                              "recommendedActions":  [
+                                                                         "Build three polished artifacts.",
+                                                                         "Add an ethics note to each.",
+                                                                         "Tie each project to a career path."
+                                                                     ]
+                                          },
+                                          {
+                                              "id":  "school_roadmap",
+                                              "title":  "School Roadmap",
+                                              "summary":  "Connect grade-level and post-secondary learning to psychology topics, projects, milestones, internships, and career paths.",
+                                              "category":  "Education Planning",
+                                              "whyThisMatters":  "A school roadmap helps the learner choose classes, projects, activities, and application evidence in the right order.",
+                                              "useThisInPractice":  [
+                                                                        "Review the current grade or school stage.",
+                                                                        "Pick one project and one activity for the current term.",
+                                                                        "Map courses and milestones to a career path before applying."
+                                                                    ],
+                                              "relatedCoreSections":  [
+                                                                          "education.grades",
+                                                                          "education.gradeSemesters",
+                                                                          "education.postSecondary"
+                                                                      ],
+                                              "details":  [
+                                                              "Grade-level planning should connect classes, psychology topics, activities, projects, milestones, and applications.",
+                                                              "Post-secondary planning should compare undergraduate, graduate, licensure, research, and applied industry paths."
+                                                          ],
+                                              "recommendedActions":  [
+                                                                         "Review current grade.",
+                                                                         "Choose one study focus.",
+                                                                         "Pick one project and one application milestone."
+                                                                     ]
+                                          },
+                                          {
+                                              "id":  "skills_builder",
+                                              "title":  "Skills Builder",
+                                              "summary":  "Develop research design, statistics, ethics, communication, empathy, data tools, survey design, dashboards, and applied analysis skills.",
+                                              "category":  "Skill Development",
+                                              "whyThisMatters":  "Skills become useful when they are practiced through projects and connected to real career or school evidence.",
+                                              "useThisInPractice":  [
+                                                                        "Choose one core skill and one tool skill.",
+                                                                        "Practice the skill through a small project.",
+                                                                        "Save the evidence to a portfolio or report."
+                                                                    ],
+                                              "relatedCoreSections":  [
+                                                                          "skillsAndTools.coreSkills",
+                                                                          "skillsAndTools.tools",
+                                                                          "howToGetHired.portfolioIdeas"
+                                                                      ],
+                                              "details":  [
+                                                              "Core psychology skills include observation, ethics, communication, research design, statistics, case reasoning, survey design, and reflective practice.",
+                                                              "Tool skills should support psychology work, not become the purpose of the app."
+                                                          ],
+                                              "recommendedActions":  [
+                                                                         "Pick one concept skill and one evidence skill.",
+                                                                         "Practice through a project.",
+                                                                         "Save proof to the portfolio."
+                                                                     ]
+                                          },
+                                          {
+                                              "id":  "application_prep",
+                                              "title":  "Application Prep",
+                                              "summary":  "Prepare resumes, personal statements, cover notes, portfolios, interview answers, school applications, internships, and job applications.",
+                                              "category":  "Application Readiness",
+                                              "whyThisMatters":  "Application prep turns learning into a clear story with evidence, fit, boundaries, and next steps.",
+                                              "useThisInPractice":  [
+                                                                        "Create one resume or application version per role or program.",
+                                                                        "Use the opportunity description to select proof points.",
+                                                                        "Track submissions, follow-ups, interviews, and outcomes."
+                                                                    ],
+                                              "relatedCoreSections":  [
+                                                                          "howToGetHired.pipeline",
+                                                                          "howToGetHired.portfolioIdeas",
+                                                                          "employers.sectors"
+                                                                      ],
+                                              "details":  [
+                                                              "Application prep includes role research, resume, cover note, personal statement, interview stories, portfolio evidence, references, and follow-up tracking.",
+                                                              "Each application should show fit, boundaries, and evidence."
+                                                          ],
+                                              "recommendedActions":  [
+                                                                         "Choose a target role or program.",
+                                                                         "Tailor resume and proof points.",
+                                                                         "Track submission, follow-up, interview, and result."
+                                                                     ]
+                                          }
+                                      ]
+                        },
+    "aiCoach":  {
+                    "cards":  [
+                                  {
+                                      "id":  "psych_coach",
+                                      "title":  "Psych Coach",
+                                      "summary":  "Guides psychology and behavioral health learning by connecting concepts, cases, tools, ethics, careers, and next study actions.",
+                                      "category":  "Learning Guide",
+                                      "whyThisMatters":  "The coach gives the learner a psychology-centered starting point instead of generic AI prompts.",
+                                      "prompts":  [
+                                                      "What psychology concept should I study next?",
+                                                      "What evidence do I have?",
+                                                      "What ethical boundary should I remember?"
+                                                  ],
+                                      "outputGoal":  [
+                                                         "A clear study target.",
+                                                         "A relevant Core tool.",
+                                                         "A safe next action."
+                                                     ],
+                                      "guardrails":  [
+                                                         "Education only; not diagnosis or treatment.",
+                                                         "Use qualified professional support for clinical or urgent concerns."
+                                                     ]
+                                  },
+                                  {
+                                      "id":  "daily_coach",
+                                      "title":  "Daily Coach",
+                                      "summary":  "Turns daily reflection into psychology practice around emotion, behavior, stress, attention, communication, and habits.",
+                                      "category":  "Reflection",
+                                      "whyThisMatters":  "Daily practice helps the learner notice patterns without over-interpreting them.",
+                                      "prompts":  [
+                                                      "What did I notice today?",
+                                                      "What thought, emotion, or behavior stood out?",
+                                                      "What is one healthy next step?"
+                                                  ],
+                                      "outputGoal":  [
+                                                         "A short reflection.",
+                                                         "A behavior pattern to observe.",
+                                                         "A realistic next step."
+                                                     ],
+                                      "guardrails":  [
+                                                         "Do not diagnose yourself or others from a daily note.",
+                                                         "Escalate safety concerns to appropriate support."
+                                                     ]
+                                  },
+                                  {
+                                      "id":  "reports",
+                                      "title":  "Reports",
+                                      "summary":  "Prepares learning, case, career, and tool activity for professional summaries with evidence, limits, and recommendations.",
+                                      "category":  "Reporting",
+                                      "whyThisMatters":  "Reports turn learning into something the user can review, share, or use for school and career planning.",
+                                      "prompts":  [
+                                                      "What did I study?",
+                                                      "What tool did I use?",
+                                                      "What evidence or limitation should be included?"
+                                                  ],
+                                      "outputGoal":  [
+                                                         "A clean summary.",
+                                                         "Evidence notes.",
+                                                         "Recommended next actions."
+                                                     ],
+                                      "guardrails":  [
+                                                         "Reports should not claim clinical conclusions.",
+                                                         "Keep personal or sensitive details private."
+                                                     ]
+                                  },
+                                  {
+                                      "id":  "quiz",
+                                      "title":  "Quiz",
+                                      "summary":  "Builds review around psychology concepts, branches, behavior approaches, ethics, bias, and career readiness.",
+                                      "category":  "Knowledge Check",
+                                      "whyThisMatters":  "Quizzes help the learner find weak spots and choose what to study next.",
+                                      "prompts":  [
+                                                      "Which topic did I miss?",
+                                                      "What is the correct concept?",
+                                                      "What should I review next?"
+                                                  ],
+                                      "outputGoal":  [
+                                                         "A targeted review topic.",
+                                                         "A short explanation.",
+                                                         "A next practice action."
+                                                     ],
+                                      "guardrails":  [
+                                                         "Quiz results are learning signals, not professional judgments."
+                                                     ]
+                                  },
+                                  {
+                                      "id":  "trivia",
+                                      "title":  "Trivia",
+                                      "summary":  "Uses low-pressure psychology facts to build familiarity with behavior, cognition, development, social influence, and ethics.",
+                                      "category":  "Practice",
+                                      "whyThisMatters":  "Small facts make the domain easier to explore before deeper study.",
+                                      "prompts":  [
+                                                      "What fact surprised me?",
+                                                      "What branch does this connect to?",
+                                                      "What should I explore next?"
+                                                  ],
+                                      "outputGoal":  [
+                                                         "A remembered concept.",
+                                                         "A related branch.",
+                                                         "A next study card."
+                                                     ],
+                                      "guardrails":  [
+                                                         "Trivia is introductory and should not replace deeper study."
+                                                     ]
+                                  },
+                                  {
+                                      "id":  "decisions",
+                                      "title":  "Decisions",
+                                      "summary":  "Reviews psychology-related decisions for bias, evidence, uncertainty, values, consequences, and reversibility.",
+                                      "category":  "Decision Psychology",
+                                      "whyThisMatters":  "Decision quality is a core behavioral science skill.",
+                                      "prompts":  [
+                                                      "What choice am I making?",
+                                                      "What bias risk applies?",
+                                                      "What evidence is missing?"
+                                                  ],
+                                      "outputGoal":  [
+                                                         "A clearer decision frame.",
+                                                         "A bias check.",
+                                                         "A reversible next step."
+                                                     ],
+                                      "guardrails":  [
+                                                         "Do not use this as medical, legal, or crisis advice."
+                                                     ]
+                                  },
+                                  {
+                                      "id":  "case_studies",
+                                      "title":  "Case Studies",
+                                      "summary":  "Helps analyze educational cases through observation, behavior, possible explanations, evidence, ethics, and boundaries.",
+                                      "category":  "Applied Psychology",
+                                      "whyThisMatters":  "Case work trains careful reasoning without jumping to diagnosis.",
+                                      "prompts":  [
+                                                      "What is observed?",
+                                                      "What are alternative explanations?",
+                                                      "What ethical boundary matters?"
+                                                  ],
+                                      "outputGoal":  [
+                                                         "A structured case reflection.",
+                                                         "Missing evidence.",
+                                                         "A safer next question."
+                                                     ],
+                                      "guardrails":  [
+                                                         "Educational cases are not clinical assessment.",
+                                                         "Avoid labeling real people from limited information."
+                                                     ]
+                                  },
+                                  {
+                                      "id":  "school_roadmap",
+                                      "title":  "School Roadmap",
+                                      "summary":  "Connects grade level, courses, projects, study topics, applications, and milestones to psychology and behavioral health careers.",
+                                      "category":  "Education Planning",
+                                      "whyThisMatters":  "A roadmap makes study choices practical and career-aware.",
+                                      "prompts":  [
+                                                      "What grade or school stage am I in?",
+                                                      "What should I study this term?",
+                                                      "What evidence should I build?"
+                                                  ],
+                                      "outputGoal":  [
+                                                         "Grade-specific study focus.",
+                                                         "One project.",
+                                                         "One application milestone."
+                                                     ],
+                                      "guardrails":  [
+                                                         "Verify school and program requirements from official sources."
+                                                     ]
+                                  },
+                                  {
+                                      "id":  "career_paths",
+                                      "title":  "Career Paths",
+                                      "summary":  "Connects branches of psychology to clinical, counseling, school, research, UX, organizational, behavioral science, and public health roles.",
+                                      "category":  "Career Planning",
+                                      "whyThisMatters":  "Career planning works better when roles are tied to education, evidence, ethics, and employer types.",
+                                      "prompts":  [
+                                                      "Which branch interests me?",
+                                                      "What role connects to it?",
+                                                      "What education is typical?"
+                                                  ],
+                                      "outputGoal":  [
+                                                         "A primary path.",
+                                                         "Two backup paths.",
+                                                         "A readiness gap to close."
+                                                     ],
+                                      "guardrails":  [
+                                                         "Licensure and clinical authority vary by location."
+                                                     ]
+                                  },
+                                  {
+                                      "id":  "psychology_tools",
+                                      "title":  "Psychology Tools",
+                                      "summary":  "Uses bias checks, case analysis, learning plans, surveys, ethics reviews, and scenario practice to support psychology learning.",
+                                      "category":  "Applied Tools",
+                                      "whyThisMatters":  "Tools should support behavioral health understanding, not become programming utilities.",
+                                      "prompts":  [
+                                                      "What problem am I trying to understand?",
+                                                      "Which tool fits?",
+                                                      "What output should I save?"
+                                                  ],
+                                      "outputGoal":  [
+                                                         "A chosen tool.",
+                                                         "A useful learning output.",
+                                                         "A saved report or portfolio item."
+                                                     ],
+                                      "guardrails":  [
+                                                         "Tools are for education, reflection, and planning, not diagnosis."
+                                                     ]
+                                  },
+                                  {
+                                      "id":  "companies",
+                                      "title":  "Companies",
+                                      "summary":  "Helps identify healthcare, research, school, government, UX, technology, and community organizations to investigate or apply to.",
+                                      "category":  "Applications",
+                                      "whyThisMatters":  "Company research turns interest into real opportunities and role requirements.",
+                                      "prompts":  [
+                                                      "What sector fits my path?",
+                                                      "What role title should I search?",
+                                                      "What proof do I need before applying?"
+                                                  ],
+                                      "outputGoal":  [
+                                                         "A target company list.",
+                                                         "Role keywords.",
+                                                         "Application evidence."
+                                                     ],
+                                      "guardrails":  [
+                                                         "Use official career pages and current employer requirements."
+                                                     ]
+                                  },
+                                  {
+                                      "id":  "search",
+                                      "title":  "Search",
+                                      "summary":  "Searches Core psychology content across branches, approaches, tools, careers, companies, school roadmap, cases, and resources.",
+                                      "category":  "Navigation",
+                                      "whyThisMatters":  "Search helps the learner find the right Core-owned psychology content quickly.",
+                                      "prompts":  [
+                                                      "What topic am I looking for?",
+                                                      "Is it a branch, approach, tool, career, or company?",
+                                                      "What should I open next?"
+                                                  ],
+                                      "outputGoal":  [
+                                                         "A relevant Core card.",
+                                                         "A next screen.",
+                                                         "A focused study action."
+                                                     ],
+                                      "guardrails":  [
+                                                         "Search returns learning content; verify external requirements from official sources."
+                                                     ]
+                                  }
+                              ]
+                }
 }

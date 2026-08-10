@@ -3174,5 +3174,59 @@
         ]
       }
     ]
+  },
+  "executiveSnapshot": {
+    "title": "Executive Intelligence Snapshot",
+    "trajectory": "Core 12 psychology trajectory ready for learning evidence",
+    "summary": "SolveMind is ready to use Core 12 psychology and behavioral-health knowledge as the executive layer for learning, tools, quizzes, trivia, reports, school planning, careers, companies, internships, portfolio projects, and application prep.",
+    "reasoning": [
+      "Core 12 should remain useful even when a live runtime snapshot has limited activity. The executive snapshot should display verified domain coverage, current activity signals, ethics/risk reminders, and the next Core-backed action instead of blank pending states.",
+      "Trivia, quiz, Daily Coach, reports, tools, case studies, school roadmap, career paths, and companies all create learning evidence that can feed the Core signal loop."
+    ],
+    "decision": "Use one Core-backed activity, save the result as future Core input, then review Reports or Daily Coach for the next structured action.",
+    "readiness": "Core 12 Ready",
+    "risk": "Educational guidance only; not diagnosis, treatment, legal, financial, or emergency advice.",
+    "priority": "Run a Core-backed learning activity and capture evidence.",
+    "domains": [
+      "Psychology foundations",
+      "Behavior approaches",
+      "Cognition and bias",
+      "Mental health literacy",
+      "Research methods",
+      "Ethics and boundaries",
+      "School roadmap",
+      "Career paths",
+      "Companies",
+      "Internships",
+      "Portfolio projects",
+      "Application prep"
+    ],
+    "activitySignals": [
+      "Daily Coach check-ins",
+      "Quiz answers and results",
+      "Trivia reveal/known/review signals",
+      "Case study progress",
+      "Psychology Tool usage",
+      "Report saves and exports"
+    ],
+    "riskAndEthicsNotes": [
+      "Use respectful non-diagnostic language.",
+      "Protect privacy and avoid sensitive data collection without supervision.",
+      "Refer urgent safety concerns to qualified support or crisis resources.",
+      "Treat scores and trivia results as learning signals only."
+    ],
+    "nextActions": [
+      "Complete a Quiz, Trivia set, Psychology Tool, or Case Study.",
+      "Save the output to Reports as learning evidence.",
+      "Use Daily Coach to choose the next safe study, career, or application-prep step."
+    ],
+    "reportReadiness": [
+      "Knowledge areas reviewed",
+      "Tools or activities used",
+      "Bias/risk notes",
+      "Ethical boundary checked",
+      "Career or school-roadmap alignment",
+      "Next action selected"
+    ]
   }
 }

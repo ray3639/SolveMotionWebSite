@@ -838,6 +838,34 @@
         "sourceLinks": [
           "APA Dictionary Behavior: https://dictionary.apa.org/behavior",
           "APA Psychology Topics: https://www.apa.org/topics"
+        ],
+        "coreKnowledgeDetail": [
+          "Observation is part of the Core 12 psychology and behavioral-health roadmap, not a generic app feature. Core connects this topic to psychology foundations, school roadmap planning, career paths, companies and internships, certifications, portfolio projects, application prep, ethical boundaries, and report-ready learning output.",
+          "What it covers: Practice noticing behavior, context, timing, emotion, environment, and changes before interpreting meaning. Careful observation is the foundation of psychology learning because it slows down guessing and keeps evidence separate from assumptions. This means the learner should use the tool to build understanding, evidence, and safer reasoning rather than quick labels or unsupported advice.",
+          "Domain categories connected to this page: Behavior: observable action, duration, frequency, intensity, and change over time; Context: place, time, task, people present, environmental cues, and social pressure; Before/after: antecedents, consequences, supports, barriers, and what changed; Limits: observation cannot prove motives, diagnoses, personality, or private experience by itself. These categories help the user see where the button fits inside psychology, behavioral health, research, education, careers, and practical decision-making.",
+          "Skill map: Observation; Note-taking; Evidence separation; Context awareness; Pattern recognition. These are not just labels; they are the capabilities the learner should practice while reading, answering prompts, writing reports, preparing applications, or building portfolio proof.",
+          "Evidence and boundary rule: use observations, coursework, project artifacts, official resources, and supervised experience where appropriate. Do not treat educational content as diagnosis, treatment, crisis support, legal advice, or a replacement for qualified professionals."
+        ],
+        "guidedWorkflow": [
+          "Step 1: Start with the goal. Decide whether you are using Observation for school learning, a case study, career planning, company research, internship preparation, portfolio work, certification study, or a report summary.",
+          "Step 2: Gather inputs. Use the relevant facts, context, grade level, career target, observed behavior, assumptions, current evidence, missing evidence, and ethical limits before interpreting anything.",
+          "Step 3: Apply the Core questions. Use these actions as the workflow: Record what happened, where, when, and who was present; Separate observable behavior from interpretation or judgment; Track what happened before and after the behavior; Use observations to form better questions, not final conclusions. Work slowly enough to separate facts from interpretations and recommendations from assumptions.",
+          "Step 4: Connect the result. Link the output to at least one psychology concept, one practical skill, one career or education path, one risk or ethical boundary, and one recommended next step.",
+          "Step 5: Save the learning. Turn the result into a report note, portfolio artifact, application story, study plan checkpoint, or next Daily Coach action so the work becomes useful beyond the current screen."
+        ],
+        "interpretationGuide": [
+          "Look for patterns, not one-off proof. A single example can start a question, but Core expects repeated evidence, context, and alternative explanations before treating something as meaningful.",
+          "Use the examples as models: Classroom: student looked away after feedback, then stopped writing for five minutes; Study habit: phone notifications increased during homework and breaks became longer; Volunteer setting: participant joined more when instructions were visual and step-by-step; Communication: tone changed after a deadline or expectation was clarified. Expand each example by naming the context, the behavior or claim, the possible explanation, the missing evidence, and the safest next action.",
+          "Use the practice prompts as thinking checks: Write the note without using labels or motive words; What happened before the behavior, and what happened after?; What would I need to observe again before calling this a pattern?. The best answer usually includes what is known, what is uncertain, what should be checked next, and what boundary should be respected.",
+          "Connect interpretation to people and settings. Psychology work changes depending on age, culture, school level, family context, workplace context, health context, supervision, privacy, and role responsibility.",
+          "Avoid overclaiming. Strong Core output should use careful language such as suggests, may connect to, needs more evidence, within this educational context, or ask a qualified professional/supervisor when the topic is sensitive."
+        ],
+        "reportOutput": [
+          "Report section to create: summarize what was reviewed, why it matters, which Core categories were used, and which skills were practiced.",
+          "Evidence to include: coursework, notes, survey results, observation logs, case-study facts, career research, internship requirements, company role descriptions, project artifacts, and official source links.",
+          "Recommended next actions: choose one concept to review, one tool to use next, one career/company/application step, one portfolio artifact to improve, and one ethical boundary to check.",
+          "Professional wording: describe the work as educational psychology and behavioral-health learning. Keep claims specific, respectful, evidence-based, and limited to what the user actually reviewed.",
+          "Card surface reminder: Best for: case studies, school projects, internships, and behavioral journals; Inputs: setting, time, observed behavior, antecedent, consequence, and context; Output: clean observation note and possible next question; Boundary: observation does not equal diagnosis or motive-reading. Use this surface to decide how the information should appear in a summary, report, portfolio note, or Daily Coach follow-up."
         ]
       },
       {
@@ -885,6 +913,34 @@
         "sourceLinks": [
           "APA Ethics Code: https://www.apa.org/ethics/code",
           "NIMH Find Help: https://www.nimh.nih.gov/health/find-help"
+        ],
+        "coreKnowledgeDetail": [
+          "Empathy and Boundaries is part of the Core 12 psychology and behavioral-health roadmap, not a generic app feature. Core connects this topic to psychology foundations, school roadmap planning, career paths, companies and internships, certifications, portfolio projects, application prep, ethical boundaries, and report-ready learning output.",
+          "What it covers: Practice care, respect, consent, privacy, role clarity, and limits while learning about psychology and people-facing work. Behavioral health work requires warmth and boundaries at the same time. Too little care harms trust; too little boundary harms safety. This means the learner should use the tool to build understanding, evidence, and safer reasoning rather than quick labels or unsupported advice.",
+          "Domain categories connected to this page: Empathy: listening, validation, dignity, cultural humility, and respectful curiosity; Boundaries: role clarity, consent, privacy, time limits, and no promises of clinical outcomes; Referral: when to involve a teacher, guardian, supervisor, counselor, clinician, or emergency support; Professional growth: documentation, supervision, reflective practice, and respectful interview stories. These categories help the user see where the button fits inside psychology, behavioral health, research, education, careers, and practical decision-making.",
+          "Skill map: Empathy; Boundary setting; Consent awareness; Referral judgment; Respectful communication. These are not just labels; they are the capabilities the learner should practice while reading, answering prompts, writing reports, preparing applications, or building portfolio proof.",
+          "Evidence and boundary rule: use observations, coursework, project artifacts, official resources, and supervised experience where appropriate. Do not treat educational content as diagnosis, treatment, crisis support, legal advice, or a replacement for qualified professionals."
+        ],
+        "guidedWorkflow": [
+          "Step 1: Start with the goal. Decide whether you are using Empathy and Boundaries for school learning, a case study, career planning, company research, internship preparation, portfolio work, certification study, or a report summary.",
+          "Step 2: Gather inputs. Use the relevant facts, context, grade level, career target, observed behavior, assumptions, current evidence, missing evidence, and ethical limits before interpreting anything.",
+          "Step 3: Apply the Core questions. Use these actions as the workflow: Listen and reflect without diagnosing or promising outcomes; Protect privacy and avoid sharing sensitive details; Know when a teacher, supervisor, guardian, counselor, clinician, or emergency support is needed; Use respectful language that preserves dignity and choice. Work slowly enough to separate facts from interpretations and recommendations from assumptions.",
+          "Step 4: Connect the result. Link the output to at least one psychology concept, one practical skill, one career or education path, one risk or ethical boundary, and one recommended next step.",
+          "Step 5: Save the learning. Turn the result into a report note, portfolio artifact, application story, study plan checkpoint, or next Daily Coach action so the work becomes useful beyond the current screen."
+        ],
+        "interpretationGuide": [
+          "Look for patterns, not one-off proof. A single example can start a question, but Core expects repeated evidence, context, and alternative explanations before treating something as meaningful.",
+          "Use the examples as models: Peer support: I can listen, but I cannot be your therapist; Internship: ask what information can be documented and who can see it; Portfolio: remove identifying details before writing a case reflection; Interview: describe helping experience without exposing private stories. Expand each example by naming the context, the behavior or claim, the possible explanation, the missing evidence, and the safest next action.",
+          "Use the practice prompts as thinking checks: What can I offer, and what should I not offer?; How can I show care without taking over or diagnosing?; Who is the right support person if this is beyond my role?. The best answer usually includes what is known, what is uncertain, what should be checked next, and what boundary should be respected.",
+          "Connect interpretation to people and settings. Psychology work changes depending on age, culture, school level, family context, workplace context, health context, supervision, privacy, and role responsibility.",
+          "Avoid overclaiming. Strong Core output should use careful language such as suggests, may connect to, needs more evidence, within this educational context, or ask a qualified professional/supervisor when the topic is sensitive."
+        ],
+        "reportOutput": [
+          "Report section to create: summarize what was reviewed, why it matters, which Core categories were used, and which skills were practiced.",
+          "Evidence to include: coursework, notes, survey results, observation logs, case-study facts, career research, internship requirements, company role descriptions, project artifacts, and official source links.",
+          "Recommended next actions: choose one concept to review, one tool to use next, one career/company/application step, one portfolio artifact to improve, and one ethical boundary to check.",
+          "Professional wording: describe the work as educational psychology and behavioral-health learning. Keep claims specific, respectful, evidence-based, and limited to what the user actually reviewed.",
+          "Card surface reminder: Best for: clinical interest, counseling interest, school settings, internships, and volunteer roles; Inputs: relationship, setting, privacy level, power difference, and support options; Output: respectful response, boundary statement, and referral/supervision note; Boundary: urgent safety concerns require immediate trusted adult, school, emergency, or professional support. Use this surface to decide how the information should appear in a summary, report, portfolio note, or Daily Coach follow-up."
         ]
       },
       {
@@ -933,6 +989,34 @@
           "APA PsycInfo Classification Codes: https://www.apa.org/pubs/databases/training/class-codes.html",
           "HHS Human Subjects Research: https://www.hhs.gov/ohrp/regulations-and-policy/guidance/faq/index.html",
           "CDC Evaluation Resources: https://www.cdc.gov/evaluation/"
+        ],
+        "coreKnowledgeDetail": [
+          "Research Design is part of the Core 12 psychology and behavioral-health roadmap, not a generic app feature. Core connects this topic to psychology foundations, school roadmap planning, career paths, companies and internships, certifications, portfolio projects, application prep, ethical boundaries, and report-ready learning output.",
+          "What it covers: Turn curiosity into an ethical psychology question, method, evidence plan, limitation statement, and report-ready conclusion. Psychology claims need evidence, clear methods, and humility about limits. This means the learner should use the tool to build understanding, evidence, and safer reasoning rather than quick labels or unsupported advice.",
+          "Domain categories connected to this page: Question: focused, answerable, ethical, and connected to psychology concepts; Method: survey, observation, interview, literature review, simple experiment, or case comparison; Evidence: sample, variables, consent, source quality, limitations, and bias control; Output: chart, summary, limitation statement, ethical note, and portfolio-ready report. These categories help the user see where the button fits inside psychology, behavioral health, research, education, careers, and practical decision-making.",
+          "Skill map: Research design; Methods literacy; Ethics; Data interpretation; Limitations writing. These are not just labels; they are the capabilities the learner should practice while reading, answering prompts, writing reports, preparing applications, or building portfolio proof.",
+          "Evidence and boundary rule: use observations, coursework, project artifacts, official resources, and supervised experience where appropriate. Do not treat educational content as diagnosis, treatment, crisis support, legal advice, or a replacement for qualified professionals."
+        ],
+        "guidedWorkflow": [
+          "Step 1: Start with the goal. Decide whether you are using Research Design for school learning, a case study, career planning, company research, internship preparation, portfolio work, certification study, or a report summary.",
+          "Step 2: Gather inputs. Use the relevant facts, context, grade level, career target, observed behavior, assumptions, current evidence, missing evidence, and ethical limits before interpreting anything.",
+          "Step 3: Apply the Core questions. Use these actions as the workflow: Write a focused research question that can be answered safely; Choose a method such as survey, observation, interview, literature review, or simple experiment when appropriate; Define variables, sample, consent, privacy, and limitations; Plan how results will be summarized without overclaiming. Work slowly enough to separate facts from interpretations and recommendations from assumptions.",
+          "Step 4: Connect the result. Link the output to at least one psychology concept, one practical skill, one career or education path, one risk or ethical boundary, and one recommended next step.",
+          "Step 5: Save the learning. Turn the result into a report note, portfolio artifact, application story, study plan checkpoint, or next Daily Coach action so the work becomes useful beyond the current screen."
+        ],
+        "interpretationGuide": [
+          "Look for patterns, not one-off proof. A single example can start a question, but Core expects repeated evidence, context, and alternative explanations before treating something as meaningful.",
+          "Use the examples as models: Survey: How do study routines relate to perceived test confidence?; Observation: What classroom conditions appear before participation changes?; Literature review: What does research say about sleep and attention?; Portfolio project: Compare two motivation strategies and explain limitations. Expand each example by naming the context, the behavior or claim, the possible explanation, the missing evidence, and the safest next action.",
+          "Use the practice prompts as thinking checks: What is the exact question, and what answer would count as evidence?; What method fits the question without collecting sensitive information?; What limitation should be stated before showing the result?. The best answer usually includes what is known, what is uncertain, what should be checked next, and what boundary should be respected.",
+          "Connect interpretation to people and settings. Psychology work changes depending on age, culture, school level, family context, workplace context, health context, supervision, privacy, and role responsibility.",
+          "Avoid overclaiming. Strong Core output should use careful language such as suggests, may connect to, needs more evidence, within this educational context, or ask a qualified professional/supervisor when the topic is sensitive."
+        ],
+        "reportOutput": [
+          "Report section to create: summarize what was reviewed, why it matters, which Core categories were used, and which skills were practiced.",
+          "Evidence to include: coursework, notes, survey results, observation logs, case-study facts, career research, internship requirements, company role descriptions, project artifacts, and official source links.",
+          "Recommended next actions: choose one concept to review, one tool to use next, one career/company/application step, one portfolio artifact to improve, and one ethical boundary to check.",
+          "Professional wording: describe the work as educational psychology and behavioral-health learning. Keep claims specific, respectful, evidence-based, and limited to what the user actually reviewed.",
+          "Card surface reminder: Best for: school projects, portfolio projects, internships, and research assistant prep; Inputs: question, method, audience, evidence source, privacy limits, and timeline; Output: research plan, ethics note, evidence map, and limitation statement; Boundary: projects involving people may require school, guardian, institutional, or supervisor approval. Use this surface to decide how the information should appear in a summary, report, portfolio note, or Daily Coach follow-up."
         ]
       },
       {
@@ -980,6 +1064,34 @@
         "sourceLinks": [
           "APA Ethics Code: https://www.apa.org/ethics/code",
           "HHS Human Subjects Research: https://www.hhs.gov/ohrp/regulations-and-policy/guidance/faq/index.html"
+        ],
+        "coreKnowledgeDetail": [
+          "Ethical Reasoning is part of the Core 12 psychology and behavioral-health roadmap, not a generic app feature. Core connects this topic to psychology foundations, school roadmap planning, career paths, companies and internships, certifications, portfolio projects, application prep, ethical boundaries, and report-ready learning output.",
+          "What it covers: Check privacy, consent, scope, safety, supervision, equity, respectful language, and possible unintended consequences. Every psychology activity should consider who could be helped, harmed, exposed, pressured, mislabeled, or misunderstood. This means the learner should use the tool to build understanding, evidence, and safer reasoning rather than quick labels or unsupported advice.",
+          "Domain categories connected to this page: People affected: participant, student, client, peer, family, organization, audience, and community; Risk-benefit: possible harm, benefit, pressure, privacy loss, stigma, misunderstanding, or exclusion; Authority and supervision: school rules, workplace rules, legal duties, clinical boundaries, and professional standards; Safer choice: reduce data, remove identifiers, ask permission, slow down, or refer upward. These categories help the user see where the button fits inside psychology, behavioral health, research, education, careers, and practical decision-making.",
+          "Skill map: Ethical reasoning; Risk awareness; Scope control; Respectful language; Professional responsibility. These are not just labels; they are the capabilities the learner should practice while reading, answering prompts, writing reports, preparing applications, or building portfolio proof.",
+          "Evidence and boundary rule: use observations, coursework, project artifacts, official resources, and supervised experience where appropriate. Do not treat educational content as diagnosis, treatment, crisis support, legal advice, or a replacement for qualified professionals."
+        ],
+        "guidedWorkflow": [
+          "Step 1: Start with the goal. Decide whether you are using Ethical Reasoning for school learning, a case study, career planning, company research, internship preparation, portfolio work, certification study, or a report summary.",
+          "Step 2: Gather inputs. Use the relevant facts, context, grade level, career target, observed behavior, assumptions, current evidence, missing evidence, and ethical limits before interpreting anything.",
+          "Step 3: Apply the Core questions. Use these actions as the workflow: Identify the people affected and the information involved; Check consent, privacy, vulnerability, power differences, and supervision; Consider harms, benefits, alternatives, and what should not be done; Write the safest educational next step and the right escalation path. Work slowly enough to separate facts from interpretations and recommendations from assumptions.",
+          "Step 4: Connect the result. Link the output to at least one psychology concept, one practical skill, one career or education path, one risk or ethical boundary, and one recommended next step.",
+          "Step 5: Save the learning. Turn the result into a report note, portfolio artifact, application story, study plan checkpoint, or next Daily Coach action so the work becomes useful beyond the current screen."
+        ],
+        "interpretationGuide": [
+          "Look for patterns, not one-off proof. A single example can start a question, but Core expects repeated evidence, context, and alternative explanations before treating something as meaningful.",
+          "Use the examples as models: Do not ask classmates to reveal trauma, diagnoses, or private family information for a casual project; Do not call a case subject depressed, anxious, or disordered without qualified assessment; Do not use company or internship data in a portfolio unless approved and de-identified; Do ask for supervision when a situation involves safety, mandated reporting, or clinical concerns. Expand each example by naming the context, the behavior or claim, the possible explanation, the missing evidence, and the safest next action.",
+          "Use the practice prompts as thinking checks: What could go wrong if this is misunderstood or shared?; What is the least sensitive data that still answers the learning question?; What would a supervisor need to review before I continue?. The best answer usually includes what is known, what is uncertain, what should be checked next, and what boundary should be respected.",
+          "Connect interpretation to people and settings. Psychology work changes depending on age, culture, school level, family context, workplace context, health context, supervision, privacy, and role responsibility.",
+          "Avoid overclaiming. Strong Core output should use careful language such as suggests, may connect to, needs more evidence, within this educational context, or ask a qualified professional/supervisor when the topic is sensitive."
+        ],
+        "reportOutput": [
+          "Report section to create: summarize what was reviewed, why it matters, which Core categories were used, and which skills were practiced.",
+          "Evidence to include: coursework, notes, survey results, observation logs, case-study facts, career research, internship requirements, company role descriptions, project artifacts, and official source links.",
+          "Recommended next actions: choose one concept to review, one tool to use next, one career/company/application step, one portfolio artifact to improve, and one ethical boundary to check.",
+          "Professional wording: describe the work as educational psychology and behavioral-health learning. Keep claims specific, respectful, evidence-based, and limited to what the user actually reviewed.",
+          "Card surface reminder: Best for: before surveys, case writeups, reports, applications, internships, and company projects; Inputs: activity, affected people, data sensitivity, authority, risk, and supervision; Output: ethics checklist, risk warning, safer wording, and escalation note; Boundary: follow official ethical, legal, school, workplace, and professional requirements. Use this surface to decide how the information should appear in a summary, report, portfolio note, or Daily Coach follow-up."
         ]
       },
       {
@@ -1027,6 +1139,34 @@
         "sourceLinks": [
           "APA Style: https://apastyle.apa.org",
           "APA Psychology Topics: https://www.apa.org/topics"
+        ],
+        "coreKnowledgeDetail": [
+          "Communication is part of the Core 12 psychology and behavioral-health roadmap, not a generic app feature. Core connects this topic to psychology foundations, school roadmap planning, career paths, companies and internships, certifications, portfolio projects, application prep, ethical boundaries, and report-ready learning output.",
+          "What it covers: Explain psychology ideas clearly, carefully, respectfully, and without overclaiming so learning becomes useful to teachers, supervisors, employers, and teams. Good communication turns psychology knowledge into trustable work: clear claims, clear limits, and clear next actions. This means the learner should use the tool to build understanding, evidence, and safer reasoning rather than quick labels or unsupported advice.",
+          "Domain categories connected to this page: Audience: teacher, advisor, supervisor, employer, client-adjacent team, or general reader; Claim quality: what is known, source of evidence, uncertainty, limitation, and next step; Tone: respectful, plain-language, non-diagnostic, culturally careful, and action-ready; Products: report summary, portfolio caption, interview story, company outreach, or presentation note. These categories help the user see where the button fits inside psychology, behavioral health, research, education, careers, and practical decision-making.",
+          "Skill map: Professional writing; Plain-language explanation; Evidence framing; Interview storytelling; Report synthesis. These are not just labels; they are the capabilities the learner should practice while reading, answering prompts, writing reports, preparing applications, or building portfolio proof.",
+          "Evidence and boundary rule: use observations, coursework, project artifacts, official resources, and supervised experience where appropriate. Do not treat educational content as diagnosis, treatment, crisis support, legal advice, or a replacement for qualified professionals."
+        ],
+        "guidedWorkflow": [
+          "Step 1: Start with the goal. Decide whether you are using Communication for school learning, a case study, career planning, company research, internship preparation, portfolio work, certification study, or a report summary.",
+          "Step 2: Gather inputs. Use the relevant facts, context, grade level, career target, observed behavior, assumptions, current evidence, missing evidence, and ethical limits before interpreting anything.",
+          "Step 3: Apply the Core questions. Use these actions as the workflow: State what is known, what is unknown, and what evidence supports the claim; Use respectful, non-diagnostic language when discussing people; Translate findings into a practical recommendation, question, or next step; Adjust the message for class, report, interview, portfolio, or workplace audience. Work slowly enough to separate facts from interpretations and recommendations from assumptions.",
+          "Step 4: Connect the result. Link the output to at least one psychology concept, one practical skill, one career or education path, one risk or ethical boundary, and one recommended next step.",
+          "Step 5: Save the learning. Turn the result into a report note, portfolio artifact, application story, study plan checkpoint, or next Daily Coach action so the work becomes useful beyond the current screen."
+        ],
+        "interpretationGuide": [
+          "Look for patterns, not one-off proof. A single example can start a question, but Core expects repeated evidence, context, and alternative explanations before treating something as meaningful.",
+          "Use the examples as models: Report: The survey suggests a pattern, but the sample is small and self-reported; Interview: My project taught me how to define a question, protect privacy, and summarize limits; Case reflection: I observed withdrawal after feedback; I cannot know the cause without more context; Company outreach: I am interested in behavioral research, patient experience, and ethical evidence-building roles. Expand each example by naming the context, the behavior or claim, the possible explanation, the missing evidence, and the safest next action.",
+          "Use the practice prompts as thinking checks: Say what you know, what you do not know, and what you recommend next; Remove any word that sounds like diagnosis unless it comes from a qualified source and proper context; Turn a long explanation into a three-sentence professional summary. The best answer usually includes what is known, what is uncertain, what should be checked next, and what boundary should be respected.",
+          "Connect interpretation to people and settings. Psychology work changes depending on age, culture, school level, family context, workplace context, health context, supervision, privacy, and role responsibility.",
+          "Avoid overclaiming. Strong Core output should use careful language such as suggests, may connect to, needs more evidence, within this educational context, or ask a qualified professional/supervisor when the topic is sensitive."
+        ],
+        "reportOutput": [
+          "Report section to create: summarize what was reviewed, why it matters, which Core categories were used, and which skills were practiced.",
+          "Evidence to include: coursework, notes, survey results, observation logs, case-study facts, career research, internship requirements, company role descriptions, project artifacts, and official source links.",
+          "Recommended next actions: choose one concept to review, one tool to use next, one career/company/application step, one portfolio artifact to improve, and one ethical boundary to check.",
+          "Professional wording: describe the work as educational psychology and behavioral-health learning. Keep claims specific, respectful, evidence-based, and limited to what the user actually reviewed.",
+          "Card surface reminder: Best for: reports, applications, interviews, portfolio summaries, and stakeholder updates; Inputs: audience, claim, evidence, limits, tone, and desired next action; Output: concise explanation, boundary statement, and action-ready summary; Boundary: clarity matters most when topics involve mental health, privacy, identity, or vulnerable populations. Use this surface to decide how the information should appear in a summary, report, portfolio note, or Daily Coach follow-up."
         ]
       }
     ],
@@ -1079,6 +1219,34 @@
           "APA Dictionary Clinical Psychology: https://dictionary.apa.org/clinical-psychology",
           "BLS Psychologists: https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm",
           "O*NET Clinical and Counseling Psychologists: https://www.onetonline.org/link/result/19-3033.00"
+        ],
+        "coreKnowledgeDetail": [
+          "Key Branches of Psychology is part of the Core 12 psychology and behavioral-health roadmap, not a generic app feature. Core connects this topic to psychology foundations, school roadmap planning, career paths, companies and internships, certifications, portfolio projects, application prep, ethical boundaries, and report-ready learning output.",
+          "What it covers: Compare the major branches of psychology and connect each branch to school topics, career paths, ethical limits, portfolio projects, and real behavioral health questions. Students need a clear field map before choosing courses, projects, internships, companies, or career directions. This tool prevents psychology from feeling like one vague subject. This means the learner should use the tool to build understanding, evidence, and safer reasoning rather than quick labels or unsupported advice.",
+          "Domain categories connected to this page: Clinical: assessment, diagnosis, treatment planning, supervised practice, licensure, and mental health systems; Cognitive: attention, memory, learning, decision-making, problem-solving, perception, and language; Developmental: lifespan growth, school readiness, adolescence, adulthood, aging, and family context; Social: group influence, attitudes, identity, prejudice, persuasion, peer pressure, and relationships; Applied/career branches: counseling, school, industrial-organizational, health, forensic, sport, neuropsychology, and UX research. These categories help the user see where the button fits inside psychology, behavioral health, research, education, careers, and practical decision-making.",
+          "Skill map: Domain mapping; Concept comparison; Career connection; Ethical scope control; Evidence matching. These are not just labels; they are the capabilities the learner should practice while reading, answering prompts, writing reports, preparing applications, or building portfolio proof.",
+          "Evidence and boundary rule: use observations, coursework, project artifacts, official resources, and supervised experience where appropriate. Do not treat educational content as diagnosis, treatment, crisis support, legal advice, or a replacement for qualified professionals."
+        ],
+        "guidedWorkflow": [
+          "Step 1: Start with the goal. Decide whether you are using Key Branches of Psychology for school learning, a case study, career planning, company research, internship preparation, portfolio work, certification study, or a report summary.",
+          "Step 2: Gather inputs. Use the relevant facts, context, grade level, career target, observed behavior, assumptions, current evidence, missing evidence, and ethical limits before interpreting anything.",
+          "Step 3: Apply the Core questions. Use these actions as the workflow: Match a class topic to clinical, cognitive, developmental, social, biological, industrial-organizational, counseling, school, or health psychology; Choose the best branch for a case study, portfolio project, company search, or internship plan; Name what the branch can explain, what evidence it needs, and what it cannot claim without professional assessment. Work slowly enough to separate facts from interpretations and recommendations from assumptions.",
+          "Step 4: Connect the result. Link the output to at least one psychology concept, one practical skill, one career or education path, one risk or ethical boundary, and one recommended next step.",
+          "Step 5: Save the learning. Turn the result into a report note, portfolio artifact, application story, study plan checkpoint, or next Daily Coach action so the work becomes useful beyond the current screen."
+        ],
+        "interpretationGuide": [
+          "Look for patterns, not one-off proof. A single example can start a question, but Core expects repeated evidence, context, and alternative explanations before treating something as meaningful.",
+          "Use the examples as models: Clinical Psychology: assessment and treatment of mental health disorders by qualified professionals; Cognitive Psychology: memory, attention, learning, problem-solving, decision-making, and mental models; Developmental Psychology: growth and change across childhood, adolescence, adulthood, and aging; Social Psychology: group influence, norms, persuasion, identity, prejudice, and peer pressure. Expand each example by naming the context, the behavior or claim, the possible explanation, the missing evidence, and the safest next action.",
+          "Use the practice prompts as thinking checks: Pick one branch and name one career, one course, one project, and one ethical boundary connected to it; For a case study, identify which branch would ask the strongest first question and why; Compare two branches and write what each can explain and what evidence it would still need. The best answer usually includes what is known, what is uncertain, what should be checked next, and what boundary should be respected.",
+          "Connect interpretation to people and settings. Psychology work changes depending on age, culture, school level, family context, workplace context, health context, supervision, privacy, and role responsibility.",
+          "Avoid overclaiming. Strong Core output should use careful language such as suggests, may connect to, needs more evidence, within this educational context, or ask a qualified professional/supervisor when the topic is sensitive."
+        ],
+        "reportOutput": [
+          "Report section to create: summarize what was reviewed, why it matters, which Core categories were used, and which skills were practiced.",
+          "Evidence to include: coursework, notes, survey results, observation logs, case-study facts, career research, internship requirements, company role descriptions, project artifacts, and official source links.",
+          "Recommended next actions: choose one concept to review, one tool to use next, one career/company/application step, one portfolio artifact to improve, and one ethical boundary to check.",
+          "Professional wording: describe the work as educational psychology and behavioral-health learning. Keep claims specific, respectful, evidence-based, and limited to what the user actually reviewed.",
+          "Card surface reminder: Best for: choosing a branch before deeper study or career planning; Inputs: school level, interest area, case topic, project idea, or career target; Output: branch match, related careers, useful tools, and safe next learning steps; Boundary: this is educational guidance, not diagnosis or treatment advice. Use this surface to decide how the information should appear in a summary, report, portfolio note, or Daily Coach follow-up."
         ]
       },
       {
@@ -1128,6 +1296,34 @@
           "APA Psychology Topics: https://www.apa.org/topics",
           "APA PsycInfo Classification Codes: https://www.apa.org/pubs/databases/training/class-codes.html",
           "NIMH Mental Health Information: https://www.nimh.nih.gov/health"
+        ],
+        "coreKnowledgeDetail": [
+          "Core Approaches to Understanding Behavior is part of the Core 12 psychology and behavioral-health roadmap, not a generic app feature. Core connects this topic to psychology foundations, school roadmap planning, career paths, companies and internships, certifications, portfolio projects, application prep, ethical boundaries, and report-ready learning output.",
+          "What it covers: Compare biological, behavioral, psychodynamic, cognitive, humanistic, sociocultural, evolutionary, and biopsychosocial explanations of behavior. Behavior usually has more than one cause. This tool trains learners to compare explanations instead of forcing every case into one theory. This means the learner should use the tool to build understanding, evidence, and safer reasoning rather than quick labels or unsupported advice.",
+          "Domain categories connected to this page: Biological: brain, nervous system, genetics, hormones, sleep, stress, medication, and physical health; Behavioral: reinforcement, punishment, cues, habits, conditioning, modeling, and environment; Cognitive: beliefs, attention, memory, expectations, interpretation, planning, and problem-solving; Psychodynamic and humanistic: early experience, meaning, autonomy, growth, values, and identity; Sociocultural/biopsychosocial: culture, family, systems, community, social support, and combined causes. These categories help the user see where the button fits inside psychology, behavioral health, research, education, careers, and practical decision-making.",
+          "Skill map: Behavior analysis; Perspective taking; Evidence matching; Theory comparison; Case formulation literacy. These are not just labels; they are the capabilities the learner should practice while reading, answering prompts, writing reports, preparing applications, or building portfolio proof.",
+          "Evidence and boundary rule: use observations, coursework, project artifacts, official resources, and supervised experience where appropriate. Do not treat educational content as diagnosis, treatment, crisis support, legal advice, or a replacement for qualified professionals."
+        ],
+        "guidedWorkflow": [
+          "Step 1: Start with the goal. Decide whether you are using Core Approaches to Understanding Behavior for school learning, a case study, career planning, company research, internship preparation, portfolio work, certification study, or a report summary.",
+          "Step 2: Gather inputs. Use the relevant facts, context, grade level, career target, observed behavior, assumptions, current evidence, missing evidence, and ethical limits before interpreting anything.",
+          "Step 3: Apply the Core questions. Use these actions as the workflow: Pick two approaches and explain how each would interpret the same behavior; Identify what evidence would support or weaken each explanation; Write a balanced case reflection that separates observation, interpretation, and limits. Work slowly enough to separate facts from interpretations and recommendations from assumptions.",
+          "Step 4: Connect the result. Link the output to at least one psychology concept, one practical skill, one career or education path, one risk or ethical boundary, and one recommended next step.",
+          "Step 5: Save the learning. Turn the result into a report note, portfolio artifact, application story, study plan checkpoint, or next Daily Coach action so the work becomes useful beyond the current screen."
+        ],
+        "interpretationGuide": [
+          "Look for patterns, not one-off proof. A single example can start a question, but Core expects repeated evidence, context, and alternative explanations before treating something as meaningful.",
+          "Use the examples as models: Biological: sleep loss, stress hormones, brain systems, genetics, medication, and health factors; Behavioral: reinforcement, punishment, cues, habits, modeling, and environment; Cognitive: thoughts, beliefs, attention, memory, expectations, and problem-solving; Humanistic: values, meaning, autonomy, strengths, and growth needs. Expand each example by naming the context, the behavior or claim, the possible explanation, the missing evidence, and the safest next action.",
+          "Use the practice prompts as thinking checks: Explain the same behavior through two different approaches without deciding which one is final; Name what evidence would support the biological explanation and what evidence would support the social explanation; Write one sentence that avoids overclaiming: one observation, one possible explanation, one missing evidence point. The best answer usually includes what is known, what is uncertain, what should be checked next, and what boundary should be respected.",
+          "Connect interpretation to people and settings. Psychology work changes depending on age, culture, school level, family context, workplace context, health context, supervision, privacy, and role responsibility.",
+          "Avoid overclaiming. Strong Core output should use careful language such as suggests, may connect to, needs more evidence, within this educational context, or ask a qualified professional/supervisor when the topic is sensitive."
+        ],
+        "reportOutput": [
+          "Report section to create: summarize what was reviewed, why it matters, which Core categories were used, and which skills were practiced.",
+          "Evidence to include: coursework, notes, survey results, observation logs, case-study facts, career research, internship requirements, company role descriptions, project artifacts, and official source links.",
+          "Recommended next actions: choose one concept to review, one tool to use next, one career/company/application step, one portfolio artifact to improve, and one ethical boundary to check.",
+          "Professional wording: describe the work as educational psychology and behavioral-health learning. Keep claims specific, respectful, evidence-based, and limited to what the user actually reviewed.",
+          "Card surface reminder: Best for: case studies, essays, research questions, and interview prep; Inputs: observed behavior, context, possible triggers, and available evidence; Output: multiple explanations, evidence needs, risk of overclaiming, and next question; Boundary: avoid diagnosing or assuming hidden causes without proper training and data. Use this surface to decide how the information should appear in a summary, report, portfolio note, or Daily Coach follow-up."
         ]
       },
       {
@@ -1175,6 +1371,34 @@
         "sourceLinks": [
           "APA Dictionary Bias: https://dictionary.apa.org/bias",
           "APA Psychology Topics: https://www.apa.org/topics"
+        ],
+        "coreKnowledgeDetail": [
+          "Bias Checker is part of the Core 12 psychology and behavioral-health roadmap, not a generic app feature. Core connects this topic to psychology foundations, school roadmap planning, career paths, companies and internships, certifications, portfolio projects, application prep, ethical boundaries, and report-ready learning output.",
+          "What it covers: Review a psychology, school, career, or behavioral health decision for confirmation, availability, anchoring, attribution, overconfidence, halo effect, and loss-aversion risks. Bias checks protect learners from turning first impressions, strong emotions, or familiar examples into conclusions. This means the learner should use the tool to build understanding, evidence, and safer reasoning rather than quick labels or unsupported advice.",
+          "Domain categories connected to this page: Evidence risks: confirmation bias, availability bias, anchoring, selective attention, and missing counterexamples; People-judgment risks: attribution error, halo effect, stereotyping, mind reading, and labeling; Decision risks: overconfidence, sunk cost, loss aversion, urgency pressure, and false certainty; Career/application risks: assuming one rejection predicts the future, choosing only familiar companies, or ignoring skill gaps. These categories help the user see where the button fits inside psychology, behavioral health, research, education, careers, and practical decision-making.",
+          "Skill map: Metacognition; Critical thinking; Evidence review; Decision hygiene; Reflective pause. These are not just labels; they are the capabilities the learner should practice while reading, answering prompts, writing reports, preparing applications, or building portfolio proof.",
+          "Evidence and boundary rule: use observations, coursework, project artifacts, official resources, and supervised experience where appropriate. Do not treat educational content as diagnosis, treatment, crisis support, legal advice, or a replacement for qualified professionals."
+        ],
+        "guidedWorkflow": [
+          "Step 1: Start with the goal. Decide whether you are using Bias Checker for school learning, a case study, career planning, company research, internship preparation, portfolio work, certification study, or a report summary.",
+          "Step 2: Gather inputs. Use the relevant facts, context, grade level, career target, observed behavior, assumptions, current evidence, missing evidence, and ethical limits before interpreting anything.",
+          "Step 3: Apply the Core questions. Use these actions as the workflow: State the decision, interpretation, or case conclusion in one sentence; Mark which bias risks could be influencing the interpretation; Write one disconfirming question and one missing-evidence question; Choose a slower, safer next step before acting. Work slowly enough to separate facts from interpretations and recommendations from assumptions.",
+          "Step 4: Connect the result. Link the output to at least one psychology concept, one practical skill, one career or education path, one risk or ethical boundary, and one recommended next step.",
+          "Step 5: Save the learning. Turn the result into a report note, portfolio artifact, application story, study plan checkpoint, or next Daily Coach action so the work becomes useful beyond the current screen."
+        ],
+        "interpretationGuide": [
+          "Look for patterns, not one-off proof. A single example can start a question, but Core expects repeated evidence, context, and alternative explanations before treating something as meaningful.",
+          "Use the examples as models: Before deciding a career is impossible because one class felt hard; Before interpreting someone else behavior as laziness without context; Before accepting the first company or internship search result as the best fit; Before writing a report that only uses evidence supporting the original idea. Expand each example by naming the context, the behavior or claim, the possible explanation, the missing evidence, and the safest next action.",
+          "Use the practice prompts as thinking checks: What evidence would change my mind?; What am I assuming because it is vivid, recent, familiar, or emotionally loud?; What would a careful teacher, advisor, supervisor, or researcher ask before accepting this claim?. The best answer usually includes what is known, what is uncertain, what should be checked next, and what boundary should be respected.",
+          "Connect interpretation to people and settings. Psychology work changes depending on age, culture, school level, family context, workplace context, health context, supervision, privacy, and role responsibility.",
+          "Avoid overclaiming. Strong Core output should use careful language such as suggests, may connect to, needs more evidence, within this educational context, or ask a qualified professional/supervisor when the topic is sensitive."
+        ],
+        "reportOutput": [
+          "Report section to create: summarize what was reviewed, why it matters, which Core categories were used, and which skills were practiced.",
+          "Evidence to include: coursework, notes, survey results, observation logs, case-study facts, career research, internship requirements, company role descriptions, project artifacts, and official source links.",
+          "Recommended next actions: choose one concept to review, one tool to use next, one career/company/application step, one portfolio artifact to improve, and one ethical boundary to check.",
+          "Professional wording: describe the work as educational psychology and behavioral-health learning. Keep claims specific, respectful, evidence-based, and limited to what the user actually reviewed.",
+          "Card surface reminder: Best for: decisions, case notes, application choices, and portfolio reflections; Inputs: claim, evidence, emotion level, missing evidence, and possible alternatives; Output: bias risks, balancing questions, and a safer next action; Boundary: reduces reasoning risk; it does not prove what is true by itself. Use this surface to decide how the information should appear in a summary, report, portfolio note, or Daily Coach follow-up."
         ]
       },
       {
@@ -1223,6 +1447,34 @@
           "CareerOneStop: https://www.careeronestop.org",
           "O*NET Interest Profiler: https://www.mynextmove.org/explore/ip",
           "BLS Psychologists: https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm"
+        ],
+        "coreKnowledgeDetail": [
+          "Decision Quality Review is part of the Core 12 psychology and behavioral-health roadmap, not a generic app feature. Core connects this topic to psychology foundations, school roadmap planning, career paths, companies and internships, certifications, portfolio projects, application prep, ethical boundaries, and report-ready learning output.",
+          "What it covers: Evaluate a psychology-related choice by checking the goal, evidence quality, uncertainty, reversibility, risk, values, affected people, and next action. Good behavioral health decisions are careful, reversible when possible, and honest about uncertainty. This means the learner should use the tool to build understanding, evidence, and safer reasoning rather than quick labels or unsupported advice.",
+          "Domain categories connected to this page: Decision frame: goal, options, constraints, people affected, deadline, values, and success criteria; Evidence quality: facts, assumptions, missing data, source reliability, and feedback loops; Risk review: reversibility, downside, safety, ethical concerns, privacy, and supervision needs; Action plan: next step, checkpoint, fallback, and what will be learned from the action. These categories help the user see where the button fits inside psychology, behavioral health, research, education, careers, and practical decision-making.",
+          "Skill map: Judgment; Risk framing; Planning; Uncertainty management; Ethical reasoning. These are not just labels; they are the capabilities the learner should practice while reading, answering prompts, writing reports, preparing applications, or building portfolio proof.",
+          "Evidence and boundary rule: use observations, coursework, project artifacts, official resources, and supervised experience where appropriate. Do not treat educational content as diagnosis, treatment, crisis support, legal advice, or a replacement for qualified professionals."
+        ],
+        "guidedWorkflow": [
+          "Step 1: Start with the goal. Decide whether you are using Decision Quality Review for school learning, a case study, career planning, company research, internship preparation, portfolio work, certification study, or a report summary.",
+          "Step 2: Gather inputs. Use the relevant facts, context, grade level, career target, observed behavior, assumptions, current evidence, missing evidence, and ethical limits before interpreting anything.",
+          "Step 3: Apply the Core questions. Use these actions as the workflow: Define the decision and the result you are trying to improve; Separate facts, assumptions, emotions, constraints, and unknowns; Compare at least two options and rate reversibility and risk; Choose the smallest next action that creates useful evidence. Work slowly enough to separate facts from interpretations and recommendations from assumptions.",
+          "Step 4: Connect the result. Link the output to at least one psychology concept, one practical skill, one career or education path, one risk or ethical boundary, and one recommended next step.",
+          "Step 5: Save the learning. Turn the result into a report note, portfolio artifact, application story, study plan checkpoint, or next Daily Coach action so the work becomes useful beyond the current screen."
+        ],
+        "interpretationGuide": [
+          "Look for patterns, not one-off proof. A single example can start a question, but Core expects repeated evidence, context, and alternative explanations before treating something as meaningful.",
+          "Use the examples as models: Choosing between AP Psychology, statistics, biology, or sociology; Selecting a practicum, volunteer role, research assistant role, or internship; Deciding whether a portfolio project should be a survey, case review, or literature review; Planning how to contact a company without overclaiming experience. Expand each example by naming the context, the behavior or claim, the possible explanation, the missing evidence, and the safest next action.",
+          "Use the practice prompts as thinking checks: What decision am I really making, and what decision am I avoiding?; Which option is easiest to reverse if I learn something new?; What is the smallest next action that creates useful evidence?. The best answer usually includes what is known, what is uncertain, what should be checked next, and what boundary should be respected.",
+          "Connect interpretation to people and settings. Psychology work changes depending on age, culture, school level, family context, workplace context, health context, supervision, privacy, and role responsibility.",
+          "Avoid overclaiming. Strong Core output should use careful language such as suggests, may connect to, needs more evidence, within this educational context, or ask a qualified professional/supervisor when the topic is sensitive."
+        ],
+        "reportOutput": [
+          "Report section to create: summarize what was reviewed, why it matters, which Core categories were used, and which skills were practiced.",
+          "Evidence to include: coursework, notes, survey results, observation logs, case-study facts, career research, internship requirements, company role descriptions, project artifacts, and official source links.",
+          "Recommended next actions: choose one concept to review, one tool to use next, one career/company/application step, one portfolio artifact to improve, and one ethical boundary to check.",
+          "Professional wording: describe the work as educational psychology and behavioral-health learning. Keep claims specific, respectful, evidence-based, and limited to what the user actually reviewed.",
+          "Card surface reminder: Best for: school, career, project, internship, and company-search choices; Inputs: option list, goal, evidence, constraints, risks, and deadline; Output: option comparison, risk notes, and next evidence-building action; Boundary: this supports decision quality; it does not replace guidance from guardians, teachers, supervisors, advisors, or clinicians. Use this surface to decide how the information should appear in a summary, report, portfolio note, or Daily Coach follow-up."
         ]
       },
       {
@@ -1271,6 +1523,34 @@
           "APA Ethics Code: https://www.apa.org/ethics/code",
           "HHS Human Subjects Research: https://www.hhs.gov/ohrp/regulations-and-policy/guidance/faq/index.html",
           "CDC Evaluation Resources: https://www.cdc.gov/evaluation/"
+        ],
+        "coreKnowledgeDetail": [
+          "Behavioral Survey Builder is part of the Core 12 psychology and behavioral-health roadmap, not a generic app feature. Core connects this topic to psychology foundations, school roadmap planning, career paths, companies and internships, certifications, portfolio projects, application prep, ethical boundaries, and report-ready learning output.",
+          "What it covers: Build ethical surveys for psychology learning, school projects, study habits, wellbeing routines, motivation, social pressure, career interests, or user research. Survey work can accidentally lead, pressure, expose, or overinterpret people. This tool keeps questions clear, respectful, private, and educational. This means the learner should use the tool to build understanding, evidence, and safer reasoning rather than quick labels or unsupported advice.",
+          "Domain categories connected to this page: Question design: neutral wording, one idea per question, clear scale labels, and age-appropriate language; Ethics: consent, voluntary participation, privacy, sensitive topics, de-identification, and reporting limits; Data plan: sample, response type, summary method, bias risk, limitations, and what not to conclude; Psychology uses: study habits, motivation, stress supports, social pressure, career interests, and wellbeing routines. These categories help the user see where the button fits inside psychology, behavioral health, research, education, careers, and practical decision-making.",
+          "Skill map: Research design; Question writing; Consent awareness; Data literacy; Ethical reporting. These are not just labels; they are the capabilities the learner should practice while reading, answering prompts, writing reports, preparing applications, or building portfolio proof.",
+          "Evidence and boundary rule: use observations, coursework, project artifacts, official resources, and supervised experience where appropriate. Do not treat educational content as diagnosis, treatment, crisis support, legal advice, or a replacement for qualified professionals."
+        ],
+        "guidedWorkflow": [
+          "Step 1: Start with the goal. Decide whether you are using Behavioral Survey Builder for school learning, a case study, career planning, company research, internship preparation, portfolio work, certification study, or a report summary.",
+          "Step 2: Gather inputs. Use the relevant facts, context, grade level, career target, observed behavior, assumptions, current evidence, missing evidence, and ethical limits before interpreting anything.",
+          "Step 3: Apply the Core questions. Use these actions as the workflow: Define the learning question and the population in plain language; Write neutral questions with simple answer choices; Add consent, privacy, voluntary participation, and age/school boundary notes; Plan how results will be summarized without diagnosing anyone. Work slowly enough to separate facts from interpretations and recommendations from assumptions.",
+          "Step 4: Connect the result. Link the output to at least one psychology concept, one practical skill, one career or education path, one risk or ethical boundary, and one recommended next step.",
+          "Step 5: Save the learning. Turn the result into a report note, portfolio artifact, application story, study plan checkpoint, or next Daily Coach action so the work becomes useful beyond the current screen."
+        ],
+        "interpretationGuide": [
+          "Look for patterns, not one-off proof. A single example can start a question, but Core expects repeated evidence, context, and alternative explanations before treating something as meaningful.",
+          "Use the examples as models: Study habits survey comparing sleep, planning, phone use, and homework consistency; Career interest survey asking about preferred settings, tasks, populations, and school subjects; Wellbeing routine survey about stress supports, exercise, sleep, and social support; Social pressure survey about norms, peer influence, and decision confidence. Expand each example by naming the context, the behavior or claim, the possible explanation, the missing evidence, and the safest next action.",
+          "Use the practice prompts as thinking checks: Rewrite one leading question into a neutral question; Add a consent/privacy note before collecting any answer; Write the limitation statement before writing the survey conclusion. The best answer usually includes what is known, what is uncertain, what should be checked next, and what boundary should be respected.",
+          "Connect interpretation to people and settings. Psychology work changes depending on age, culture, school level, family context, workplace context, health context, supervision, privacy, and role responsibility.",
+          "Avoid overclaiming. Strong Core output should use careful language such as suggests, may connect to, needs more evidence, within this educational context, or ask a qualified professional/supervisor when the topic is sensitive."
+        ],
+        "reportOutput": [
+          "Report section to create: summarize what was reviewed, why it matters, which Core categories were used, and which skills were practiced.",
+          "Evidence to include: coursework, notes, survey results, observation logs, case-study facts, career research, internship requirements, company role descriptions, project artifacts, and official source links.",
+          "Recommended next actions: choose one concept to review, one tool to use next, one career/company/application step, one portfolio artifact to improve, and one ethical boundary to check.",
+          "Professional wording: describe the work as educational psychology and behavioral-health learning. Keep claims specific, respectful, evidence-based, and limited to what the user actually reviewed.",
+          "Card surface reminder: Best for: school projects, portfolio evidence, and early research-methods practice; Inputs: topic, audience, consent limits, question types, and reporting plan; Output: survey outline, question set, privacy note, and summary plan; Boundary: avoid sensitive clinical screening unless supervised by qualified professionals and approved by the proper setting. Use this surface to decide how the information should appear in a summary, report, portfolio note, or Daily Coach follow-up."
         ]
       },
       {
@@ -1319,6 +1599,34 @@
           "NIMH Anxiety Disorders: https://www.nimh.nih.gov/health/topics/anxiety-disorders",
           "NIMH Depression: https://www.nimh.nih.gov/health/topics/depression",
           "APA Psychology Topics: https://www.apa.org/topics"
+        ],
+        "coreKnowledgeDetail": [
+          "Cognitive Distortion Analyzer is part of the Core 12 psychology and behavioral-health roadmap, not a generic app feature. Core connects this topic to psychology foundations, school roadmap planning, career paths, companies and internships, certifications, portfolio projects, application prep, ethical boundaries, and report-ready learning output.",
+          "What it covers: Recognize common thinking patterns such as all-or-nothing thinking, catastrophizing, mind reading, labeling, overgeneralizing, filtering, and should statements. Learners can build reflection and emotional regulation by naming patterns carefully without diagnosing themselves or others. This means the learner should use the tool to build understanding, evidence, and safer reasoning rather than quick labels or unsupported advice.",
+          "Domain categories connected to this page: Pattern recognition: all-or-nothing thinking, catastrophizing, mind reading, labeling, filtering, and should statements; Balanced rewrite: observation, emotion, evidence for, evidence against, uncertainty, and next action; Learning boundaries: reflection language, self-monitoring, support-seeking, and no diagnosis; Use cases: test anxiety, career doubt, application stress, conflict reflection, and habit change. These categories help the user see where the button fits inside psychology, behavioral health, research, education, careers, and practical decision-making.",
+          "Skill map: Reflection; Emotional regulation; Language precision; Cognitive psychology literacy; Self-monitoring. These are not just labels; they are the capabilities the learner should practice while reading, answering prompts, writing reports, preparing applications, or building portfolio proof.",
+          "Evidence and boundary rule: use observations, coursework, project artifacts, official resources, and supervised experience where appropriate. Do not treat educational content as diagnosis, treatment, crisis support, legal advice, or a replacement for qualified professionals."
+        ],
+        "guidedWorkflow": [
+          "Step 1: Start with the goal. Decide whether you are using Cognitive Distortion Analyzer for school learning, a case study, career planning, company research, internship preparation, portfolio work, certification study, or a report summary.",
+          "Step 2: Gather inputs. Use the relevant facts, context, grade level, career target, observed behavior, assumptions, current evidence, missing evidence, and ethical limits before interpreting anything.",
+          "Step 3: Apply the Core questions. Use these actions as the workflow: Paste or write a short reflection statement; Identify possible thinking patterns and the evidence behind them; Rewrite the statement as a balanced observation with uncertainty included; Choose one practical next step, support, or question. Work slowly enough to separate facts from interpretations and recommendations from assumptions.",
+          "Step 4: Connect the result. Link the output to at least one psychology concept, one practical skill, one career or education path, one risk or ethical boundary, and one recommended next step.",
+          "Step 5: Save the learning. Turn the result into a report note, portfolio artifact, application story, study plan checkpoint, or next Daily Coach action so the work becomes useful beyond the current screen."
+        ],
+        "interpretationGuide": [
+          "Look for patterns, not one-off proof. A single example can start a question, but Core expects repeated evidence, context, and alternative explanations before treating something as meaningful.",
+          "Use the examples as models: Test anxiety: I failed one quiz so I will fail everything becomes one quiz shows a gap I can study; Career doubt: I am not good at psychology becomes I need more evidence from classes, projects, and practice; Conflict reflection: they ignored me on purpose becomes I do not know the reason yet; I can ask respectfully; Application stress: no company will respond becomes I need a wider list, stronger materials, and more repetitions. Expand each example by naming the context, the behavior or claim, the possible explanation, the missing evidence, and the safest next action.",
+          "Use the practice prompts as thinking checks: What is the exact thought, and what emotion came with it?; What part is fact, what part is interpretation, and what part is prediction?; Rewrite the thought in a way that is honest, kinder, and more evidence-based. The best answer usually includes what is known, what is uncertain, what should be checked next, and what boundary should be respected.",
+          "Connect interpretation to people and settings. Psychology work changes depending on age, culture, school level, family context, workplace context, health context, supervision, privacy, and role responsibility.",
+          "Avoid overclaiming. Strong Core output should use careful language such as suggests, may connect to, needs more evidence, within this educational context, or ask a qualified professional/supervisor when the topic is sensitive."
+        ],
+        "reportOutput": [
+          "Report section to create: summarize what was reviewed, why it matters, which Core categories were used, and which skills were practiced.",
+          "Evidence to include: coursework, notes, survey results, observation logs, case-study facts, career research, internship requirements, company role descriptions, project artifacts, and official source links.",
+          "Recommended next actions: choose one concept to review, one tool to use next, one career/company/application step, one portfolio artifact to improve, and one ethical boundary to check.",
+          "Professional wording: describe the work as educational psychology and behavioral-health learning. Keep claims specific, respectful, evidence-based, and limited to what the user actually reviewed.",
+          "Card surface reminder: Best for: reflection journals, coaching prompts, stress moments, and communication prep; Inputs: statement, situation, emotion intensity, evidence for, evidence against, and next need; Output: possible pattern, balanced rewrite, and next action; Boundary: educational reflection only; seek qualified help for urgent distress, safety concerns, or clinical needs. Use this surface to decide how the information should appear in a summary, report, portfolio note, or Daily Coach follow-up."
         ]
       },
       {
@@ -1367,6 +1675,34 @@
           "AP Psychology Course: https://apstudents.collegeboard.org/courses/ap-psychology",
           "APA Careers in Psychology: https://www.apa.org/education-career/guide/careers",
           "BLS Psychologists: https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm"
+        ],
+        "coreKnowledgeDetail": [
+          "Psychology Learning Plan Builder is part of the Core 12 psychology and behavioral-health roadmap, not a generic app feature. Core connects this topic to psychology foundations, school roadmap planning, career paths, companies and internships, certifications, portfolio projects, application prep, ethical boundaries, and report-ready learning output.",
+          "What it covers: Turn a grade level, course, certification goal, college plan, or psychology career target into a study path with topics, projects, milestones, and review checkpoints. A strong roadmap connects psychology content to proof: coursework, vocabulary, research methods, ethics, portfolio work, and supervised experience. This means the learner should use the tool to build understanding, evidence, and safer reasoning rather than quick labels or unsupported advice.",
+          "Domain categories connected to this page: Middle/high school: vocabulary, brain and behavior, development, social influence, study habits, ethics, and project basics; AP/college prep: research methods, statistics, cognition, biological bases, abnormal psychology, social psychology, and health; Career readiness: roles, companies, internships, certifications, portfolio projects, applications, and supervised experience; Output planning: weekly topics, notes, quizzes, case reflections, project artifacts, and review checkpoints. These categories help the user see where the button fits inside psychology, behavioral health, research, education, careers, and practical decision-making.",
+          "Skill map: Study planning; Self-regulation; Portfolio building; Milestone design; Career alignment. These are not just labels; they are the capabilities the learner should practice while reading, answering prompts, writing reports, preparing applications, or building portfolio proof.",
+          "Evidence and boundary rule: use observations, coursework, project artifacts, official resources, and supervised experience where appropriate. Do not treat educational content as diagnosis, treatment, crisis support, legal advice, or a replacement for qualified professionals."
+        ],
+        "guidedWorkflow": [
+          "Step 1: Start with the goal. Decide whether you are using Psychology Learning Plan Builder for school learning, a case study, career planning, company research, internship preparation, portfolio work, certification study, or a report summary.",
+          "Step 2: Gather inputs. Use the relevant facts, context, grade level, career target, observed behavior, assumptions, current evidence, missing evidence, and ethical limits before interpreting anything.",
+          "Step 3: Apply the Core questions. Use these actions as the workflow: Choose school stage, target branch, and target role or project; Select weekly topics across foundations, methods, ethics, statistics, and career literacy; Pair each topic with one output such as notes, flashcards, a case reflection, a survey plan, or a portfolio artifact; Set checkpoints for review, feedback, application prep, and next-step recommendations. Work slowly enough to separate facts from interpretations and recommendations from assumptions.",
+          "Step 4: Connect the result. Link the output to at least one psychology concept, one practical skill, one career or education path, one risk or ethical boundary, and one recommended next step.",
+          "Step 5: Save the learning. Turn the result into a report note, portfolio artifact, application story, study plan checkpoint, or next Daily Coach action so the work becomes useful beyond the current screen."
+        ],
+        "interpretationGuide": [
+          "Look for patterns, not one-off proof. A single example can start a question, but Core expects repeated evidence, context, and alternative explanations before treating something as meaningful.",
+          "Use the examples as models: Grade 8-9: learn behavior basics, emotion vocabulary, study habits, and safe observation; Grade 10-12: connect AP Psychology, biology, statistics, research ethics, and volunteer evidence; College: plan research methods, abnormal psychology, developmental psychology, statistics, internships, and lab experience; Career pivot: build a reading plan, project proof, application materials, and informational interview targets. Expand each example by naming the context, the behavior or claim, the possible explanation, the missing evidence, and the safest next action.",
+          "Use the practice prompts as thinking checks: Choose one school stage and map the next four weeks of study; Connect one topic to one career path and one portfolio artifact; Pick one weak area and create a review checkpoint. The best answer usually includes what is known, what is uncertain, what should be checked next, and what boundary should be respected.",
+          "Connect interpretation to people and settings. Psychology work changes depending on age, culture, school level, family context, workplace context, health context, supervision, privacy, and role responsibility.",
+          "Avoid overclaiming. Strong Core output should use careful language such as suggests, may connect to, needs more evidence, within this educational context, or ask a qualified professional/supervisor when the topic is sensitive."
+        ],
+        "reportOutput": [
+          "Report section to create: summarize what was reviewed, why it matters, which Core categories were used, and which skills were practiced.",
+          "Evidence to include: coursework, notes, survey results, observation logs, case-study facts, career research, internship requirements, company role descriptions, project artifacts, and official source links.",
+          "Recommended next actions: choose one concept to review, one tool to use next, one career/company/application step, one portfolio artifact to improve, and one ethical boundary to check.",
+          "Professional wording: describe the work as educational psychology and behavioral-health learning. Keep claims specific, respectful, evidence-based, and limited to what the user actually reviewed.",
+          "Card surface reminder: Best for: School Roadmap, certifications, portfolio projects, and career-path planning; Inputs: grade, current courses, target role, time available, strengths, and missing skills; Output: topic sequence, project outputs, milestones, resources to review, and next actions; Boundary: recommendations are educational; degree, licensure, and certification rules must be checked with official programs and boards. Use this surface to decide how the information should appear in a summary, report, portfolio note, or Daily Coach follow-up."
         ]
       },
       {
@@ -1414,6 +1750,34 @@
         "sourceLinks": [
           "APA Ethics Code: https://www.apa.org/ethics/code",
           "NIMH Mental Health Information: https://www.nimh.nih.gov/health"
+        ],
+        "coreKnowledgeDetail": [
+          "Reflection Prompt Builder is part of the Core 12 psychology and behavioral-health roadmap, not a generic app feature. Core connects this topic to psychology foundations, school roadmap planning, career paths, companies and internships, certifications, portfolio projects, application prep, ethical boundaries, and report-ready learning output.",
+          "What it covers: Create structured prompts for observation, emotion, behavior, assumptions, evidence, ethics, communication, learning, and next action. Prompted reflection helps learners slow down, separate facts from interpretations, and turn experience into useful psychology learning. This means the learner should use the tool to build understanding, evidence, and safer reasoning rather than quick labels or unsupported advice.",
+          "Domain categories connected to this page: Observation prompts: what happened, where, when, who was involved, and what changed; Emotion/thought prompts: what feeling appeared, what thought followed, and what evidence exists; Ethics prompts: privacy, consent, respect, scope, safety, and who should support the situation; Action prompts: next question, next study step, next communication, or report-ready note. These categories help the user see where the button fits inside psychology, behavioral health, research, education, careers, and practical decision-making.",
+          "Skill map: Self-awareness; Communication; Ethical reasoning; Evidence separation; Learning transfer. These are not just labels; they are the capabilities the learner should practice while reading, answering prompts, writing reports, preparing applications, or building portfolio proof.",
+          "Evidence and boundary rule: use observations, coursework, project artifacts, official resources, and supervised experience where appropriate. Do not treat educational content as diagnosis, treatment, crisis support, legal advice, or a replacement for qualified professionals."
+        ],
+        "guidedWorkflow": [
+          "Step 1: Start with the goal. Decide whether you are using Reflection Prompt Builder for school learning, a case study, career planning, company research, internship preparation, portfolio work, certification study, or a report summary.",
+          "Step 2: Gather inputs. Use the relevant facts, context, grade level, career target, observed behavior, assumptions, current evidence, missing evidence, and ethical limits before interpreting anything.",
+          "Step 3: Apply the Core questions. Use these actions as the workflow: Choose a situation: class, case study, volunteer moment, interview, project, or decision; Pick a prompt angle: observation, emotion, evidence, bias, ethics, or action; Answer briefly using facts first and interpretation second; Save the best insight into a report, learning plan, or portfolio note. Work slowly enough to separate facts from interpretations and recommendations from assumptions.",
+          "Step 4: Connect the result. Link the output to at least one psychology concept, one practical skill, one career or education path, one risk or ethical boundary, and one recommended next step.",
+          "Step 5: Save the learning. Turn the result into a report note, portfolio artifact, application story, study plan checkpoint, or next Daily Coach action so the work becomes useful beyond the current screen."
+        ],
+        "interpretationGuide": [
+          "Look for patterns, not one-off proof. A single example can start a question, but Core expects repeated evidence, context, and alternative explanations before treating something as meaningful.",
+          "Use the examples as models: What did I observe, and what did I assume?; What evidence supports my interpretation, and what evidence is missing?; What privacy, consent, or scope boundary matters here?; What is one safer or more respectful next action?. Expand each example by naming the context, the behavior or claim, the possible explanation, the missing evidence, and the safest next action.",
+          "Use the practice prompts as thinking checks: Write one fact-only sentence and one interpretation sentence; Name one ethical boundary before giving advice; Turn the reflection into one next learning action. The best answer usually includes what is known, what is uncertain, what should be checked next, and what boundary should be respected.",
+          "Connect interpretation to people and settings. Psychology work changes depending on age, culture, school level, family context, workplace context, health context, supervision, privacy, and role responsibility.",
+          "Avoid overclaiming. Strong Core output should use careful language such as suggests, may connect to, needs more evidence, within this educational context, or ask a qualified professional/supervisor when the topic is sensitive."
+        ],
+        "reportOutput": [
+          "Report section to create: summarize what was reviewed, why it matters, which Core categories were used, and which skills were practiced.",
+          "Evidence to include: coursework, notes, survey results, observation logs, case-study facts, career research, internship requirements, company role descriptions, project artifacts, and official source links.",
+          "Recommended next actions: choose one concept to review, one tool to use next, one career/company/application step, one portfolio artifact to improve, and one ethical boundary to check.",
+          "Professional wording: describe the work as educational psychology and behavioral-health learning. Keep claims specific, respectful, evidence-based, and limited to what the user actually reviewed.",
+          "Card surface reminder: Best for: Daily Coach, reports, case studies, internships, and portfolio reflection; Inputs: situation, emotion, audience, goal, and boundary concern; Output: reflection prompt set and a concise next-action note; Boundary: prompts support learning; they are not therapy instructions or clinical assessment. Use this surface to decide how the information should appear in a summary, report, portfolio note, or Daily Coach follow-up."
         ]
       },
       {
@@ -1462,6 +1826,34 @@
           "APA Ethics Code: https://www.apa.org/ethics/code",
           "APA Psychology Topics: https://www.apa.org/topics",
           "NIMH Mental Health Information: https://www.nimh.nih.gov/health"
+        ],
+        "coreKnowledgeDetail": [
+          "Case Study Analyzer is part of the Core 12 psychology and behavioral-health roadmap, not a generic app feature. Core connects this topic to psychology foundations, school roadmap planning, career paths, companies and internships, certifications, portfolio projects, application prep, ethical boundaries, and report-ready learning output.",
+          "What it covers: Analyze educational case studies through context, behavior, evidence, alternative explanations, bias risks, ethical boundaries, supports, and next-step questions. Case analysis should teach careful reasoning, not quick labels. The learner practices evidence-first thinking and professional humility. This means the learner should use the tool to build understanding, evidence, and safer reasoning rather than quick labels or unsupported advice.",
+          "Domain categories connected to this page: Case map: context, timeline, observed behavior, supports, stressors, environment, and missing evidence; Theory map: biological, cognitive, behavioral, developmental, social, and sociocultural explanations; Ethics map: privacy, labels, scope, safety, referral, supervision, and respectful language; Output map: possible explanations, evidence limits, next questions, and safe recommendations. These categories help the user see where the button fits inside psychology, behavioral health, research, education, careers, and practical decision-making.",
+          "Skill map: Case reasoning; Evidence mapping; Ethics; Alternative explanations; Professional communication. These are not just labels; they are the capabilities the learner should practice while reading, answering prompts, writing reports, preparing applications, or building portfolio proof.",
+          "Evidence and boundary rule: use observations, coursework, project artifacts, official resources, and supervised experience where appropriate. Do not treat educational content as diagnosis, treatment, crisis support, legal advice, or a replacement for qualified professionals."
+        ],
+        "guidedWorkflow": [
+          "Step 1: Start with the goal. Decide whether you are using Case Study Analyzer for school learning, a case study, career planning, company research, internship preparation, portfolio work, certification study, or a report summary.",
+          "Step 2: Gather inputs. Use the relevant facts, context, grade level, career target, observed behavior, assumptions, current evidence, missing evidence, and ethical limits before interpreting anything.",
+          "Step 3: Apply the Core questions. Use these actions as the workflow: Summarize the case using observable facts and context; List possible explanations from more than one psychology approach; Mark missing evidence, bias risks, safety concerns, and ethical boundaries; Write an educational recommendation or next question without diagnosing. Work slowly enough to separate facts from interpretations and recommendations from assumptions.",
+          "Step 4: Connect the result. Link the output to at least one psychology concept, one practical skill, one career or education path, one risk or ethical boundary, and one recommended next step.",
+          "Step 5: Save the learning. Turn the result into a report note, portfolio artifact, application story, study plan checkpoint, or next Daily Coach action so the work becomes useful beyond the current screen."
+        ],
+        "interpretationGuide": [
+          "Look for patterns, not one-off proof. A single example can start a question, but Core expects repeated evidence, context, and alternative explanations before treating something as meaningful.",
+          "Use the examples as models: School stress case: compare sleep, workload, support, anxiety, environment, and motivation factors; Workplace motivation case: review reinforcement, autonomy, role clarity, burnout, and social context; Health behavior case: map barriers, cues, supports, readiness, and risk boundaries; Developmental case: separate age-typical behavior, context, learning history, and family/school factors. Expand each example by naming the context, the behavior or claim, the possible explanation, the missing evidence, and the safest next action.",
+          "Use the practice prompts as thinking checks: What do I know, what do I infer, and what do I not know?; Name two alternative explanations before choosing a preferred one; Rewrite the conclusion so it does not diagnose or overclaim. The best answer usually includes what is known, what is uncertain, what should be checked next, and what boundary should be respected.",
+          "Connect interpretation to people and settings. Psychology work changes depending on age, culture, school level, family context, workplace context, health context, supervision, privacy, and role responsibility.",
+          "Avoid overclaiming. Strong Core output should use careful language such as suggests, may connect to, needs more evidence, within this educational context, or ask a qualified professional/supervisor when the topic is sensitive."
+        ],
+        "reportOutput": [
+          "Report section to create: summarize what was reviewed, why it matters, which Core categories were used, and which skills were practiced.",
+          "Evidence to include: coursework, notes, survey results, observation logs, case-study facts, career research, internship requirements, company role descriptions, project artifacts, and official source links.",
+          "Recommended next actions: choose one concept to review, one tool to use next, one career/company/application step, one portfolio artifact to improve, and one ethical boundary to check.",
+          "Professional wording: describe the work as educational psychology and behavioral-health learning. Keep claims specific, respectful, evidence-based, and limited to what the user actually reviewed.",
+          "Card surface reminder: Best for: Case Studies, reports, class assignments, and interview preparation; Inputs: case summary, observed behavior, setting, timeline, evidence, and ethical concern; Output: structured case map, alternative explanations, bias warnings, and next questions; Boundary: never present educational analysis as diagnosis, treatment, or professional evaluation. Use this surface to decide how the information should appear in a summary, report, portfolio note, or Daily Coach follow-up."
         ]
       },
       {
@@ -1511,6 +1903,34 @@
           "O*NET Psychology Careers: https://www.onetonline.org/find/quick?s=psychology",
           "Common App: https://www.commonapp.org",
           "CareerOneStop: https://www.careeronestop.org"
+        ],
+        "coreKnowledgeDetail": [
+          "Career Readiness Self-Assessment is part of the Core 12 psychology and behavioral-health roadmap, not a generic app feature. Core connects this topic to psychology foundations, school roadmap planning, career paths, companies and internships, certifications, portfolio projects, application prep, ethical boundaries, and report-ready learning output.",
+          "What it covers: Check psychology and behavioral health readiness across coursework, grades, skills, projects, internships, certifications, application materials, and professional boundaries. Readiness should be visible in evidence the learner can show, not just interest or confidence. This means the learner should use the tool to build understanding, evidence, and safer reasoning rather than quick labels or unsupported advice.",
+          "Domain categories connected to this page: School readiness: grades, courses, study systems, recommendations, essays, and subject foundations; Career readiness: target role, required education, skills, supervised experience, and professional boundaries; Portfolio readiness: research plan, case analysis, survey, reflection, presentation, report, or application evidence; Application readiness: company list, resume proof, cover note, interview stories, deadlines, and follow-up plan. These categories help the user see where the button fits inside psychology, behavioral health, research, education, careers, and practical decision-making.",
+          "Skill map: Self-assessment; Career planning; Evidence building; Gap analysis; Application readiness. These are not just labels; they are the capabilities the learner should practice while reading, answering prompts, writing reports, preparing applications, or building portfolio proof.",
+          "Evidence and boundary rule: use observations, coursework, project artifacts, official resources, and supervised experience where appropriate. Do not treat educational content as diagnosis, treatment, crisis support, legal advice, or a replacement for qualified professionals."
+        ],
+        "guidedWorkflow": [
+          "Step 1: Start with the goal. Decide whether you are using Career Readiness Self-Assessment for school learning, a case study, career planning, company research, internship preparation, portfolio work, certification study, or a report summary.",
+          "Step 2: Gather inputs. Use the relevant facts, context, grade level, career target, observed behavior, assumptions, current evidence, missing evidence, and ethical limits before interpreting anything.",
+          "Step 3: Apply the Core questions. Use these actions as the workflow: Choose a target: class, internship, company, certification, college program, career path, or startup idea; Score current evidence across knowledge, skills, experience, ethics, communication, and portfolio work; Identify the biggest gap and the smallest next action to close it; Save readiness notes into a report or application prep plan. Work slowly enough to separate facts from interpretations and recommendations from assumptions.",
+          "Step 4: Connect the result. Link the output to at least one psychology concept, one practical skill, one career or education path, one risk or ethical boundary, and one recommended next step.",
+          "Step 5: Save the learning. Turn the result into a report note, portfolio artifact, application story, study plan checkpoint, or next Daily Coach action so the work becomes useful beyond the current screen."
+        ],
+        "interpretationGuide": [
+          "Look for patterns, not one-off proof. A single example can start a question, but Core expects repeated evidence, context, and alternative explanations before treating something as meaningful.",
+          "Use the examples as models: Internship readiness: coursework, reliability, writing sample, research exposure, and boundaries; College application readiness: grades, activities, essay themes, recommendations, and project proof; Entry-role readiness: resume evidence, company list, interview stories, and skill match; Certification readiness: eligibility, study plan, supervised experience, and official requirements. Expand each example by naming the context, the behavior or claim, the possible explanation, the missing evidence, and the safest next action.",
+          "Use the practice prompts as thinking checks: What evidence do I already have for this path?; What is the biggest missing proof point: coursework, project, experience, writing, or reference?; What can I finish this week that would make an application stronger?. The best answer usually includes what is known, what is uncertain, what should be checked next, and what boundary should be respected.",
+          "Connect interpretation to people and settings. Psychology work changes depending on age, culture, school level, family context, workplace context, health context, supervision, privacy, and role responsibility.",
+          "Avoid overclaiming. Strong Core output should use careful language such as suggests, may connect to, needs more evidence, within this educational context, or ask a qualified professional/supervisor when the topic is sensitive."
+        ],
+        "reportOutput": [
+          "Report section to create: summarize what was reviewed, why it matters, which Core categories were used, and which skills were practiced.",
+          "Evidence to include: coursework, notes, survey results, observation logs, case-study facts, career research, internship requirements, company role descriptions, project artifacts, and official source links.",
+          "Recommended next actions: choose one concept to review, one tool to use next, one career/company/application step, one portfolio artifact to improve, and one ethical boundary to check.",
+          "Professional wording: describe the work as educational psychology and behavioral-health learning. Keep claims specific, respectful, evidence-based, and limited to what the user actually reviewed.",
+          "Card surface reminder: Best for: Career Paths, Companies, Internships, Certifications, and Application Prep; Inputs: target path, school stage, experience, project proof, skills, and deadlines; Output: readiness score narrative, gaps, next actions, and report-ready summary; Boundary: official admissions, hiring, licensure, and certification decisions are made by those organizations, not the app. Use this surface to decide how the information should appear in a summary, report, portfolio note, or Daily Coach follow-up."
         ]
       },
       {
@@ -1559,6 +1979,34 @@
           "APA Ethics Code: https://www.apa.org/ethics/code",
           "HHS Human Subjects Research: https://www.hhs.gov/ohrp/regulations-and-policy/guidance/faq/index.html",
           "NIMH Help for Mental Illnesses: https://www.nimh.nih.gov/health/find-help"
+        ],
+        "coreKnowledgeDetail": [
+          "Ethics Boundary Review is part of the Core 12 psychology and behavioral-health roadmap, not a generic app feature. Core connects this topic to psychology foundations, school roadmap planning, career paths, companies and internships, certifications, portfolio projects, application prep, ethical boundaries, and report-ready learning output.",
+          "What it covers: Review consent, privacy, scope, safety, referral, supervision, power dynamics, respectful language, and reporting limits before psychology-related work. Psychology and behavioral health learning involves real people. Ethical boundaries protect others and keep the learner from overstepping. This means the learner should use the tool to build understanding, evidence, and safer reasoning rather than quick labels or unsupported advice.",
+          "Domain categories connected to this page: Consent and privacy: voluntary participation, permission, sensitive data, de-identification, and storage; Scope: student learning versus professional service, diagnosis, treatment, advice, or crisis response; Safety: risk signals, mandated reporting context, referral paths, and trusted adult/professional support; Communication: respectful wording, uncertainty, limits, and no unsupported claims. These categories help the user see where the button fits inside psychology, behavioral health, research, education, careers, and practical decision-making.",
+          "Skill map: Ethics; Boundary setting; Professional judgment; Respectful language; Safety awareness. These are not just labels; they are the capabilities the learner should practice while reading, answering prompts, writing reports, preparing applications, or building portfolio proof.",
+          "Evidence and boundary rule: use observations, coursework, project artifacts, official resources, and supervised experience where appropriate. Do not treat educational content as diagnosis, treatment, crisis support, legal advice, or a replacement for qualified professionals."
+        ],
+        "guidedWorkflow": [
+          "Step 1: Start with the goal. Decide whether you are using Ethics Boundary Review for school learning, a case study, career planning, company research, internship preparation, portfolio work, certification study, or a report summary.",
+          "Step 2: Gather inputs. Use the relevant facts, context, grade level, career target, observed behavior, assumptions, current evidence, missing evidence, and ethical limits before interpreting anything.",
+          "Step 3: Apply the Core questions. Use these actions as the workflow: State the activity and who could be affected; Check consent, privacy, data handling, sensitivity, and age/school requirements; Name what is outside the learner scope and who should supervise or support it; Rewrite any claim that sounds diagnostic, treatment-like, or too certain. Work slowly enough to separate facts from interpretations and recommendations from assumptions.",
+          "Step 4: Connect the result. Link the output to at least one psychology concept, one practical skill, one career or education path, one risk or ethical boundary, and one recommended next step.",
+          "Step 5: Save the learning. Turn the result into a report note, portfolio artifact, application story, study plan checkpoint, or next Daily Coach action so the work becomes useful beyond the current screen."
+        ],
+        "interpretationGuide": [
+          "Look for patterns, not one-off proof. A single example can start a question, but Core expects repeated evidence, context, and alternative explanations before treating something as meaningful.",
+          "Use the examples as models: Survey project: add consent language and avoid sensitive clinical screening; Peer support: listen respectfully and refer safety concerns to trusted adults or professionals; Portfolio case write-up: de-identify details and avoid diagnosis; Company project: avoid collecting private behavioral health data without proper approvals. Expand each example by naming the context, the behavior or claim, the possible explanation, the missing evidence, and the safest next action.",
+          "Use the practice prompts as thinking checks: Who could be affected by this activity or write-up?; What information should not be collected, saved, shared, or published?; What is outside my role, and who should supervise or handle it?. The best answer usually includes what is known, what is uncertain, what should be checked next, and what boundary should be respected.",
+          "Connect interpretation to people and settings. Psychology work changes depending on age, culture, school level, family context, workplace context, health context, supervision, privacy, and role responsibility.",
+          "Avoid overclaiming. Strong Core output should use careful language such as suggests, may connect to, needs more evidence, within this educational context, or ask a qualified professional/supervisor when the topic is sensitive."
+        ],
+        "reportOutput": [
+          "Report section to create: summarize what was reviewed, why it matters, which Core categories were used, and which skills were practiced.",
+          "Evidence to include: coursework, notes, survey results, observation logs, case-study facts, career research, internship requirements, company role descriptions, project artifacts, and official source links.",
+          "Recommended next actions: choose one concept to review, one tool to use next, one career/company/application step, one portfolio artifact to improve, and one ethical boundary to check.",
+          "Professional wording: describe the work as educational psychology and behavioral-health learning. Keep claims specific, respectful, evidence-based, and limited to what the user actually reviewed.",
+          "Card surface reminder: Best for: surveys, case writeups, internships, reports, portfolio projects, and people-facing work; Inputs: activity, audience, data collected, supervision, risk level, and communication plan; Output: boundary checklist, risk warnings, safer wording, and referral/supervision note; Boundary: always follow school, workplace, legal, clinical, and professional rules for the setting. Use this surface to decide how the information should appear in a summary, report, portfolio note, or Daily Coach follow-up."
         ]
       },
       {
@@ -1607,6 +2055,34 @@
           "O*NET Interest Profiler: https://www.mynextmove.org/explore/ip",
           "CareerOneStop: https://www.careeronestop.org",
           "BLS Psychologists: https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm"
+        ],
+        "coreKnowledgeDetail": [
+          "Behavior Scenario Simulator is part of the Core 12 psychology and behavioral-health roadmap, not a generic app feature. Core connects this topic to psychology foundations, school roadmap planning, career paths, companies and internships, certifications, portfolio projects, application prep, ethical boundaries, and report-ready learning output.",
+          "What it covers: Explore possible outcomes of school, career, case, startup, company, or communication choices using assumptions, risks, supports, alternatives, and next actions. Scenario thinking helps learners compare options without pretending to perfectly predict behavior. This means the learner should use the tool to build understanding, evidence, and safer reasoning rather than quick labels or unsupported advice.",
+          "Domain categories connected to this page: School scenarios: course choices, study plans, project topics, teacher feedback, and grade-stage readiness; Career scenarios: clinical, counseling, UX, I-O, school, health, behavioral science, and research paths; Company scenarios: healthcare, universities, consulting, government, digital health, education, nonprofits, and research labs; Startup scenarios: education product, coaching workflow, assessment support, research service, content studio, or software tool. These categories help the user see where the button fits inside psychology, behavioral health, research, education, careers, and practical decision-making.",
+          "Skill map: Perspective taking; Risk review; Planning; Systems thinking; Communication strategy. These are not just labels; they are the capabilities the learner should practice while reading, answering prompts, writing reports, preparing applications, or building portfolio proof.",
+          "Evidence and boundary rule: use observations, coursework, project artifacts, official resources, and supervised experience where appropriate. Do not treat educational content as diagnosis, treatment, crisis support, legal advice, or a replacement for qualified professionals."
+        ],
+        "guidedWorkflow": [
+          "Step 1: Start with the goal. Decide whether you are using Behavior Scenario Simulator for school learning, a case study, career planning, company research, internship preparation, portfolio work, certification study, or a report summary.",
+          "Step 2: Gather inputs. Use the relevant facts, context, grade level, career target, observed behavior, assumptions, current evidence, missing evidence, and ethical limits before interpreting anything.",
+          "Step 3: Apply the Core questions. Use these actions as the workflow: Describe the situation, goal, people involved, and constraints; Name assumptions, risk points, supports, and alternative paths; Compare two or three actions by likely benefit, risk, reversibility, and evidence gained; Choose a safe next step and a sign to watch afterward. Work slowly enough to separate facts from interpretations and recommendations from assumptions.",
+          "Step 4: Connect the result. Link the output to at least one psychology concept, one practical skill, one career or education path, one risk or ethical boundary, and one recommended next step.",
+          "Step 5: Save the learning. Turn the result into a report note, portfolio artifact, application story, study plan checkpoint, or next Daily Coach action so the work becomes useful beyond the current screen."
+        ],
+        "interpretationGuide": [
+          "Look for patterns, not one-off proof. A single example can start a question, but Core expects repeated evidence, context, and alternative explanations before treating something as meaningful.",
+          "Use the examples as models: School: compare whether to take psychology, statistics, biology, or a research elective next; Career: compare clinical, UX research, I-O psychology, behavioral science, and school psychology paths; Company: compare applying to hospitals, universities, consulting firms, public agencies, or digital health companies; Startup: compare coaching product, education course, assessment workflow, research support service, or software tool. Expand each example by naming the context, the behavior or claim, the possible explanation, the missing evidence, and the safest next action.",
+          "Use the practice prompts as thinking checks: Compare two options by benefit, risk, reversibility, and evidence gained; What support would make the scenario safer or more realistic?; What signal will tell me to continue, change, pause, or ask for help?. The best answer usually includes what is known, what is uncertain, what should be checked next, and what boundary should be respected.",
+          "Connect interpretation to people and settings. Psychology work changes depending on age, culture, school level, family context, workplace context, health context, supervision, privacy, and role responsibility.",
+          "Avoid overclaiming. Strong Core output should use careful language such as suggests, may connect to, needs more evidence, within this educational context, or ask a qualified professional/supervisor when the topic is sensitive."
+        ],
+        "reportOutput": [
+          "Report section to create: summarize what was reviewed, why it matters, which Core categories were used, and which skills were practiced.",
+          "Evidence to include: coursework, notes, survey results, observation logs, case-study facts, career research, internship requirements, company role descriptions, project artifacts, and official source links.",
+          "Recommended next actions: choose one concept to review, one tool to use next, one career/company/application step, one portfolio artifact to improve, and one ethical boundary to check.",
+          "Professional wording: describe the work as educational psychology and behavioral-health learning. Keep claims specific, respectful, evidence-based, and limited to what the user actually reviewed.",
+          "Card surface reminder: Best for: decision prep, career planning, company targeting, application strategy, and communication practice; Inputs: scenario, options, constraints, supports, assumptions, and risk tolerance; Output: option comparison, risk notes, support plan, and next action; Boundary: scenarios are planning exercises; real-world outcomes require feedback, supervision, and updated evidence. Use this surface to decide how the information should appear in a summary, report, portfolio note, or Daily Coach follow-up."
         ]
       }
     ]

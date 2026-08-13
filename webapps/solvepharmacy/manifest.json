@@ -1,11 +1,11 @@
 {
-    "name": "solvepharmacy",
-    "short_name": "solvepharmacy",
+    "name": "SolvePharmacy",
+    "short_name": "SolvePharmacy",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Education-only pharmacy intelligence, fragrance chemistry, cosmetic formulation, shopping-list, reporting, and Core 12 learning workspace.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
@@ -33,3 +33,4 @@
         }
     ]
 }
+

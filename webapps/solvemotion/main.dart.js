@@ -123849,8 +123849,8 @@ if(k.c===B.v1&&isFinite(b.d)){s=k.d
 r=B.e.p(B.c.kE(s.length/2),1,100)
 q=A.aZ(a,null,t.w).w.r.d+12
 p=(b.d-q-12*(r-1))/r
-o=p>150?150:p
-return A.ve(new A.jo(2,12,12,B.c.p((b.b-12)/2/o,0.72,1.85)),new A.aEc(k),s.length,new A.a9(0,0,0,q),B.pr,!1)}s=b.b
+o=p>128?128:p
+return A.ve(new A.jo(2,12,12,(b.b-12)/2/o),new A.aEc(k),s.length,new A.a9(0,0,0,q),B.pr,!1)}s=b.b
 n=k.ak6(s)
 m=A.aZ(a,null,t.w).w
 l=s<420?132:150

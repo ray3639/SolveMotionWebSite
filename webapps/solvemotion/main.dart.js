@@ -122271,37 +122271,38 @@ A.b0e.prototype={
 $2(a,b){return a+b.e},
 $S:304}
 A.CE.prototype={
-H(a5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1=this,a2=null,a3=$.bQ(),a4=a3.e
-if(a4==null){s=a3.b
-a4=s.length===0?a2:B.b.gO(s)}r=a4==null?a2:a4.gek()
+H(a6){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2=this,a3=null,a4=$.bQ(),a5=a4.e
+if(a5==null){s=a4.b
+a5=s.length===0?a3:B.b.gO(s)}r=a5==null?a3:a5.gek()
 s=t.w
-q=A.aZ(a5,a2,s).w
-p=A.k(a5)
+q=A.aZ(a6,a3,s).w
+p=A.k(a6)
 o=p.ax
-n=A.aZ(a5,B.hd,s).w.a.a-32
-m=a1.Z4(n,0.92,3,0.92,3,0.92,3)
-l=a1.Z4(n,1.03,3,1.03,3,1.03,3)
+n=A.aZ(a6,B.hd,s).w.a.a-32
+m=n>=720
+l=a2.Z4(n,0.92,3,0.92,3,m?1.72:0.92,3)
+k=a2.Z4(n,1.03,3,1.03,3,m?1.72:1.03,3)
 s=r==null
-k=s?"SETUP":"CORE"
+j=s?"SETUP":"CORE"
 s=s?"NEW":"CORE"
-j=t.p6
-i=A.a([new A.fd(B.T7,"Conditions","Environment, surface, space, and constraints","/tools/environment-context",a2),new A.fd(B.Sv,"Equipment","My equipment, compatibility, and substitutions","/tools/equipment",a2),new A.fd(B.T8,"Builder","Assemble exercises by goal, equipment, and difficulty","/tools/exercise-builder",a2),new A.fd(B.kr,"Coaching","Context-aware coaching and exercise options","/tools/coaching",k),new A.fd(B.eg,"Readiness","Current operating readiness and risk","/tools/readiness",s),new A.fd(B.va,"Recovery","Recovery tracking and return-to-training guardrails","/tools/recovery",a2),new A.fd(B.T0,"Trends","Performance direction across recent sessions","/tools/performance-trends",a2),new A.fd(B.cx,"RPE","Rate effort and training intensity","/tools/rpe",a2),new A.fd(B.oj,"Checklist","Session prep and execution checks","/tools/session-checklist",a2),new A.fd(B.SC,"Warmup","Build a targeted pre-session warmup","/tools/warmup-builder",a2),new A.fd(B.v5,"Baselines","Personal movement, mobility, and stability comparisons","/tools/personal-baselines",a2),new A.fd(B.i1,"ROM","Range of motion and mobility history","/tools/rom-mobility",a2),new A.fd(B.SZ,"Testing","Structured test library, repeatability, and validation","/tools/testing-validation-lab",a2),new A.fd(B.oz,"Stability","Timed balance tests and Core 12 stability review","/tools/movement-stability",a2),new A.fd(B.i2,"Dashboard","Executive view of current performance","/tools/performance-dashboard",a2),new A.fd(B.dF,"AI","Core 12 intelligence and system explanation","/tools/intelligence",a2),new A.fd(B.vc,"Analytics","Session history, charts, and progression","/tools/analytics",a2)],j)
-h=A.a([B.ar3,B.ar4,B.ar2],j)
-j=p.ok
-s=j.f
-s=A.c("Performance Toolkit",a2,a2,a2,a2,s==null?a2:s.a0(B.z),a2,a2)
-k=j.z
-k=A.c("Professional tools for session planning, readiness review, trend visibility, warmup planning, environmental decision support, and Core 12-guided performance review.",a2,a2,a2,a2,k==null?a2:k.a5j(o.k3.U(0.78),1.4),a2,a2)
-g=a1.Ev(a5,"Todays Status")
-f=a1.aAi(a5,r)
-e=a1.Ev(a5,"Environmental Guidance")
-j=j.Q
-d=j==null
-c=A.c("Use live weather, indoor setup, and outdoor conditions to choose the right training environment before you begin.",a2,a2,a2,a2,d?a2:j.bw(o.k3.U(0.72)),a2,a2)
-b=A.ve(m,new A.aGv(h),3,a2,B.pr,!0)
-a=a1.Ev(a5,"Available Tools")
-a0=t.p
-return new A.dM("Tools",A.cF(A.a([s,B.t,k,B.aD,g,B.j,f,B.j,new A.f_(a4,"Tool Guidance Evidence","Core 12 Evidence Pending",u.K,a2),B.aD,e,B.a2,c,B.j,b,B.aD,a,B.a2,A.c("Each tool supports a different part of the session workflow, from preparation and tracking to performance review.",a2,a2,a2,a2,d?a2:j.bw(o.k3.U(0.72)),a2,a2),B.j,A.ve(l,new A.aGw(i),17,a2,B.pr,!0),B.aD,a1.Ev(a5,"How to Use This Area"),B.j,A.al(new A.G(B.u,A.W(A.a([a1.MD(a5,"Use Session, Weather, Indoor, Outdoor, Warmup, Checklist, and Readiness to choose the right environment and prepare the session with better context.","Before training"),B.j,a1.MD(a5,"Use Dashboard, Trends, and Analytics to review how performance is changing over time.","During progression"),B.j,a1.MD(a5,"Use AI to inspect Core 12 output and understand what the system is signaling.","For deeper interpretation")],a0),B.i,B.f,B.h),a2),a2,a2,a2,a2,a2)],a0),new A.a9(16,16,16,q.r.d+20),a2,a2,!1),a2)},
+i=t.p6
+h=A.a([new A.fd(B.T7,"Conditions","Environment, surface, space, and constraints","/tools/environment-context",a3),new A.fd(B.Sv,"Equipment","My equipment, compatibility, and substitutions","/tools/equipment",a3),new A.fd(B.T8,"Builder","Assemble exercises by goal, equipment, and difficulty","/tools/exercise-builder",a3),new A.fd(B.kr,"Coaching","Context-aware coaching and exercise options","/tools/coaching",j),new A.fd(B.eg,"Readiness","Current operating readiness and risk","/tools/readiness",s),new A.fd(B.va,"Recovery","Recovery tracking and return-to-training guardrails","/tools/recovery",a3),new A.fd(B.T0,"Trends","Performance direction across recent sessions","/tools/performance-trends",a3),new A.fd(B.cx,"RPE","Rate effort and training intensity","/tools/rpe",a3),new A.fd(B.oj,"Checklist","Session prep and execution checks","/tools/session-checklist",a3),new A.fd(B.SC,"Warmup","Build a targeted pre-session warmup","/tools/warmup-builder",a3),new A.fd(B.v5,"Baselines","Personal movement, mobility, and stability comparisons","/tools/personal-baselines",a3),new A.fd(B.i1,"ROM","Range of motion and mobility history","/tools/rom-mobility",a3),new A.fd(B.SZ,"Testing","Structured test library, repeatability, and validation","/tools/testing-validation-lab",a3),new A.fd(B.oz,"Stability","Timed balance tests and Core 12 stability review","/tools/movement-stability",a3),new A.fd(B.i2,"Dashboard","Executive view of current performance","/tools/performance-dashboard",a3),new A.fd(B.dF,"AI","Core 12 intelligence and system explanation","/tools/intelligence",a3),new A.fd(B.vc,"Analytics","Session history, charts, and progression","/tools/analytics",a3)],i)
+g=A.a([B.ar3,B.ar4,B.ar2],i)
+i=p.ok
+s=i.f
+s=A.c("Performance Toolkit",a3,a3,a3,a3,s==null?a3:s.a0(B.z),a3,a3)
+j=i.z
+j=A.c("Professional tools for session planning, readiness review, trend visibility, warmup planning, environmental decision support, and Core 12-guided performance review.",a3,a3,a3,a3,j==null?a3:j.a5j(o.k3.U(0.78),1.4),a3,a3)
+f=a2.Ev(a6,"Todays Status")
+e=a2.aAi(a6,r)
+d=a2.Ev(a6,"Environmental Guidance")
+i=i.Q
+c=i==null
+b=A.c("Use live weather, indoor setup, and outdoor conditions to choose the right training environment before you begin.",a3,a3,a3,a3,c?a3:i.bw(o.k3.U(0.72)),a3,a3)
+a=A.ve(l,new A.aGv(g),3,a3,B.pr,!0)
+a0=a2.Ev(a6,"Available Tools")
+a1=t.p
+return new A.dM("Tools",A.cF(A.a([s,B.t,j,B.aD,f,B.j,e,B.j,new A.f_(a5,"Tool Guidance Evidence","Core 12 Evidence Pending",u.K,a3),B.aD,d,B.a2,b,B.j,a,B.aD,a0,B.a2,A.c("Each tool supports a different part of the session workflow, from preparation and tracking to performance review.",a3,a3,a3,a3,c?a3:i.bw(o.k3.U(0.72)),a3,a3),B.j,A.ve(k,new A.aGw(h),17,a3,B.pr,!0),B.aD,a2.Ev(a6,"How to Use This Area"),B.j,A.al(new A.G(B.u,A.W(A.a([a2.MD(a6,"Use Session, Weather, Indoor, Outdoor, Warmup, Checklist, and Readiness to choose the right environment and prepare the session with better context.","Before training"),B.j,a2.MD(a6,"Use Dashboard, Trends, and Analytics to review how performance is changing over time.","During progression"),B.j,a2.MD(a6,"Use AI to inspect Core 12 output and understand what the system is signaling.","For deeper interpretation")],a1),B.i,B.f,B.h),a3),a3,a3,a3,a3,a3)],a1),new A.a9(16,16,16,q.r.d+20),a3,a3,!1),a3)},
 Z4(a,b,c,d,e,f,g){if(a>=720)return new A.jo(g,12,12,f)
 if(a>=420)return new A.jo(e,12,12,d)
 return new A.jo(c,12,12,b)},

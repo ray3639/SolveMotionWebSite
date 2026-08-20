@@ -123844,12 +123844,16 @@ ak6(a){if(a>=980)return 4
 if(a>=640)return 3
 return 2}}
 A.aEe.prototype={
-$2(a,b){var s,r,q,p=null,o=this.a,n=b.b,m=o.ak6(n),l=o.d,k=B.e.p(B.c.kE(l.length/m),1,100),j=(n-12*(m-1))/m
-if(o.c===B.v0&&isFinite(b.d)){s=B.c.p(j/B.c.p((b.d-12*(k-1))/k,112,220),0.72,1.35)
-n=A.aZ(a,p,t.w).w
-return A.ve(new A.jo(m,12,12,s),new A.aEc(o),l.length,new A.a9(0,0,0,n.r.d+20),p,!1)}r=A.aZ(a,p,t.w).w
-q=n<420?132:150
-return A.ve(new A.jo(m,12,12,j/q),new A.aEd(o),l.length,new A.a9(0,0,0,r.r.d+20),p,!1)},
+$2(a,b){var s,r,q,p,o,n,m=null,l=this.a
+if(l.c===B.v0&&isFinite(b.d)){s=l.d
+r=B.e.p(B.c.kE(s.length/2),1,100)
+q=B.c.p((b.b-12)/2/B.c.p((b.d-12*(r-1))/r,112,220),0.72,1.35)
+p=A.aZ(a,m,t.w).w
+return A.ve(new A.jo(2,12,12,q),new A.aEc(l),s.length,new A.a9(0,0,0,p.r.d+20),m,!1)}s=b.b
+o=l.ak6(s)
+p=A.aZ(a,m,t.w).w
+n=s<420?132:150
+return A.ve(new A.jo(o,12,12,(s-12*(o-1))/o/n),new A.aEd(l),l.d.length,new A.a9(0,0,0,p.r.d+20),m,!1)},
 $S:140}
 A.aEc.prototype={
 $2(a,b){return this.a.d[b]},

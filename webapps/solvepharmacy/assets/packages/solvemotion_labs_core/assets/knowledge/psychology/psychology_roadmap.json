@@ -3175,6 +3175,89 @@
       }
     ]
   },
+  "knowledgeGraph": {
+    "title": "Core 12 Knowledge Graph",
+    "summary": "Connects psychology concepts, tools, careers, cases, ethics, learning paths, companies, portfolio projects, and application prep into Core-owned recommendation pathways.",
+    "domains": [
+      {
+        "id": "psychology_foundations",
+        "title": "Psychology Foundations",
+        "summary": "Branches, approaches, vocabulary, research methods, evidence limits, and ethical language for understanding behavior.",
+        "relatedConcepts": ["Key Branches of Psychology", "Core Approaches to Understanding Behavior", "Research Design", "Ethical Reasoning"],
+        "relatedTools": ["key_branches_of_psychology", "core_behavior_approaches", "research_design", "ethics_boundary_review"],
+        "relatedCareers": ["Clinical Psychologist", "UX Researcher", "Industrial-Organizational Psychologist", "Behavioral Scientist"],
+        "recommendedNextSteps": ["Compare one branch with one behavior approach.", "Open Psychology Tools and use Ethics Boundary Review before any people-facing project.", "Save a report-ready note that names evidence, limits, and next study action."],
+        "riskWarnings": ["Do not treat educational branch comparisons as diagnosis or treatment advice.", "Use respectful language and identify evidence limits before making claims."],
+        "sourceLinks": ["APA Psychology Topics: https://www.apa.org/topics", "APA Education and Career: https://www.apa.org/education-career"],
+        "reportOutput": ["Knowledge graph reviewed psychology foundations, related tools, career directions, ethical boundaries, and next study actions."]
+      },
+      {
+        "id": "cognition_bias_decision",
+        "title": "Cognition, Bias, and Decision Quality",
+        "summary": "Connects attention, memory, learning, mental models, cognitive bias, decision quality, and case interpretation.",
+        "relatedConcepts": ["Cognitive Psychology", "Learning, Memory, and Attention", "Confirmation Bias", "Availability Bias", "Decision Quality Review"],
+        "relatedTools": ["bias_checker", "decision_quality_review", "cognitive_distortion_analyzer", "case_study_analyzer", "scenario_simulator"],
+        "relatedCareers": ["UX Researcher", "Behavioral Scientist", "Industrial-Organizational Psychologist"],
+        "recommendedNextSteps": ["Use Bias Checker when a choice feels obvious but evidence is incomplete.", "Use Case Study Analyzer to separate observation, interpretation, alternatives, and bias risk.", "Connect the result to a portfolio case study or interview example."],
+        "riskWarnings": ["Bias labels are learning aids, not proof of motive or diagnosis.", "Decision guidance should name uncertainty and missing evidence."],
+        "sourceLinks": ["APA Decision Making: https://www.apa.org/topics/decision-making", "APA Stress: https://www.apa.org/topics/stress"],
+        "reportOutput": ["Knowledge graph connected cognition, bias, decision quality, tools, career relevance, risk notes, and report-ready evidence."]
+      },
+      {
+        "id": "behavioral_health_ethics",
+        "title": "Behavioral Health and Ethics Boundaries",
+        "summary": "Connects wellbeing literacy, privacy, consent, scope, referral, supervision, respectful language, and safety boundaries.",
+        "relatedConcepts": ["Clinical Thinking", "Stress and Cognition", "Mental Health Myths", "Ethics and Boundaries"],
+        "relatedTools": ["ethics_boundary_review", "reflection_prompt_builder", "readiness_self_assessment", "behavioral_survey_builder"],
+        "relatedCareers": ["Clinical Psychologist", "Counseling Pathway", "School Psychology", "Healthcare Research"],
+        "recommendedNextSteps": ["Run Ethics Boundary Review before surveys, case notes, peer-support discussions, or portfolio work involving people.", "Use source links to separate education from professional treatment.", "Add a boundary/risk note to Reports."],
+        "riskWarnings": ["Do not provide diagnosis, crisis counseling, or treatment instructions through the app.", "Use qualified professionals and emergency supports for high-risk concerns."],
+        "sourceLinks": ["APA Ethics Code: https://www.apa.org/ethics/code", "NIMH Mental Health Information: https://www.nimh.nih.gov/health", "988 Lifeline: https://988lifeline.org/"],
+        "reportOutput": ["Knowledge graph reviewed behavioral-health literacy, ethical boundaries, risk warnings, and safe next actions."]
+      },
+      {
+        "id": "education_career_application",
+        "title": "Education, Career, and Application Readiness",
+        "summary": "Connects school roadmap, career paths, companies, internships, certifications, portfolio projects, business models, and application preparation.",
+        "relatedConcepts": ["School Roadmap", "Career Paths", "Companies", "Portfolio Projects", "Application Prep"],
+        "relatedTools": ["learning_plan_builder", "readiness_self_assessment", "behavioral_survey_builder", "research_design"],
+        "relatedCareers": ["Clinical Psychologist", "UX Researcher", "Industrial-Organizational Psychologist", "Behavioral Scientist", "Government / Behavioral Analysis"],
+        "recommendedNextSteps": ["Choose one career direction and map required education, skills, employers, portfolio proof, and application evidence.", "Use Companies to review employer sectors before opening official career sites.", "Save the roadmap as a report-ready application plan."],
+        "riskWarnings": ["Verify current requirements on official school, licensing, employer, and certification pages.", "Do not overstate credentials or supervised experience in applications."],
+        "sourceLinks": ["BLS Psychologists: https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm", "O*NET Clinical and Counseling Psychologists: https://www.onetonline.org/link/summary/19-3033.00", "CareerOneStop: https://www.careeronestop.org/"],
+        "reportOutput": ["Knowledge graph connected education roadmap, career targets, employer sectors, portfolio evidence, risk notes, and application next steps."]
+      }
+    ],
+    "recommendedPaths": [
+      {
+        "id": "learn_apply_report",
+        "title": "Learn, Apply, Report",
+        "summary": "Study one Core concept, use one Psychology Tool, then save one report-ready insight.",
+        "steps": ["Open Search and find a concept.", "Open Psychology Tools and choose a related workflow.", "Save a concise report note with evidence, limits, and next action."],
+        "bestFor": ["Students", "career explorers", "portfolio builders", "application prep"]
+      },
+      {
+        "id": "career_evidence_loop",
+        "title": "Career Evidence Loop",
+        "summary": "Connect one career path to companies, skills, projects, ethics, and application evidence.",
+        "steps": ["Choose a Career Path.", "Review Companies and employer sectors.", "Select a portfolio project and application evidence item.", "Run Ethics Boundary Review before people-facing work."],
+        "bestFor": ["internships", "resume prep", "school planning", "career switching"]
+      }
+    ],
+    "riskWarnings": [
+      "Core Knowledge Graph output is educational and planning support, not diagnosis, treatment, crisis counseling, or legal/licensure advice.",
+      "External school, employer, certification, licensing, and salary requirements must be verified from official current sources."
+    ],
+    "sourceLinks": [
+      "APA Education and Career: https://www.apa.org/education-career",
+      "APA Ethics Code: https://www.apa.org/ethics/code",
+      "BLS Psychologists: https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm",
+      "O*NET: https://www.onetonline.org/"
+    ],
+    "reportOutput": [
+      "Core Knowledge Graph reviewed domains, related tools, related careers, risk warnings, source links, recommended paths, and report-ready next actions."
+    ]
+  },
   "executiveSnapshot": {
     "title": "Executive Intelligence Snapshot",
     "trajectory": "Core 12 psychology trajectory ready for learning evidence",

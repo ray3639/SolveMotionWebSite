@@ -2228,3 +2228,27 @@ Gate Receipts:
 Rules Preserved:
 - Website remains render-only.
 - No Core 12 logic, RayAI logic, app intelligence, placeholders, stubs, mocks, or fake/demo content introduced.
+
+================================================================================
+CORE 12 PHASE U - WEBSITE PUBLIC MESSAGING PRIVACY BOUNDARY CLOSEOUT
+================================================================================
+Date: 20260812
+Status=GREEN
+GateGreen=True
+Mode=Phase U Step 6 of 6 closeout
+
+Scope completed:
+- Website-owned public messaging remains limited to product, platform, doctrine, roadmap, status, and commercial review language supported by verified evidence.
+- Public website content must not identify clients, tenants, financial institutions, or other private counterparties.
+- The website must not render private runtime tenant data or reproduce app-side operational intelligence.
+- RayAI and all generated artifacts under webapps\\rayai are excluded from this phase and must remain unchanged.
+- Phase R Mac/Xcode/CocoaPods/build work remains deferred to its separate Mac task.
+- Phase W remains internal-only QA alignment.
+
+Doctrine preserved:
+- The website is public messaging/status only.
+- Core 12 remains the intelligence authority; website content does not duplicate Core or RayAI logic.
+- No private client, tenant, financial institution, or other counterparty identity is part of the website-owned public scope.
+- SolveOura remains excluded/deferred.
+================================================================================
+

@@ -1365,6 +1365,36 @@
       ]
     },
     {
+      "id": "solvemotion_studio",
+      "title": "SolveMotion Labs Studio",
+      "routeName": "solveMotionStudio",
+      "status": "Studio",
+      "summary": "Open the governed SolveMotion Labs Studio project creation and orchestration workspace.",
+      "health": "green",
+      "lastVerified": "2026-09-07",
+      "sourceType": "phase_verified_contract",
+      "sourcePath": "Studio production web build 6.0.0+6",
+      "action": "Open SolveMotion Labs Studio.",
+      "category": "Apps",
+      "priority": 12,
+      "healthReason": "Studio is the governed project creation and orchestration surface. RayAI remains the authentication, tenant, session, authorization, and reasoning owner.",
+      "lastGreen": "2026-09-07",
+      "blockerCount": 0,
+      "nextActionLabel": "Open SolveMotion Labs Studio.",
+      "metrics": [
+        { "label": "Health", "value": "green" },
+        { "label": "Status", "value": "Production" },
+        { "label": "Build", "value": "6.0.0+6" }
+      ],
+      "workflowLinks": [
+        {
+          "label": "Open Studio",
+          "routeName": "solveMotionStudio",
+          "description": "Open the production SolveMotion Labs Studio workspace."
+        }
+      ]
+    },
+    {
       "id": "admin_access",
       "title": "Admin Access",
       "routeName": "adminCompanyAccessControl",

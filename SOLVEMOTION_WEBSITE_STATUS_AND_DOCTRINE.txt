@@ -2252,3 +2252,76 @@ Doctrine preserved:
 - SolveOura remains excluded/deferred.
 ================================================================================
 
+
+
+================================================================================
+SOLVEMOTION WEBSITE PROFESSIONAL DOMAIN DOCTRINE
+================================================================================
+
+Effective date:
+2026-09-13
+
+Professional production domain:
+https://solvemotionlabs.com
+
+Supported public domain:
+https://www.solvemotionlabs.com
+
+Domain owner and DNS control plane:
+Cloudflare controls solvemotionlabs.com DNS, SSL/TLS posture, and domain-level routing.
+
+Current hosting source:
+GitHub Pages remains the website host/source until the professional domain cutover is verified GREEN.
+
+Current GitHub Pages production URL:
+https://ray3639.github.io/SolveMotionWebSite/
+
+Migration method:
+This is a GitHub Pages custom-domain cutover through Cloudflare DNS. It is not a source-file move to a new hosting platform.
+
+Canonical target:
+The apex domain solvemotionlabs.com is the preferred professional production URL. The www subdomain must also resolve or redirect cleanly after GREEN verification.
+
+Cutover rule:
+Do not declare solvemotionlabs.com production-ready until apex, www, HTTPS, Home, Products, RayAI, Metrics, navigation, logo/header, authority band, and public links verify GREEN.
+
+DNS rule:
+Do not delete, overwrite, proxy, or mutate Cloudflare DNS records without inspection, record inventory, explicit plan, and GREEN gate.
+
+GitHub Pages rule:
+Do not configure DNS alone. GitHub Pages custom domain, CNAME state, domain verification, and DNS records must be aligned before final production declaration.
+
+Security rule:
+Domain verification and HTTPS readiness must be checked before the professional domain is promoted as the public production URL.
+
+Legacy URL rule:
+The GitHub Pages URL remains valid as legacy/current production until the professional domain is verified GREEN.
+
+Design rule:
+After domain migration, website content moves into clean premium marketing upgrade mode: fewer words, stronger visuals, clearer product value, and higher wow factor.
+
+Full domain migration scope:
+Phase A - Domain Control and Current Production Inspection
+Phase B - GitHub Pages Custom Domain Plan
+Phase C - Cloudflare DNS Plan
+Phase D - GREEN-Gated Domain Cutover
+Phase E - Live Domain Verification and HTTPS
+Phase F - Public Website Reference Update
+Phase G - Clean Slick Marketing Upgrade
+Phase H - Final Domain and Website Baseline
+
+Global process rule:
+PowerShell 5.1 only.
+No assumptions.
+Inspect first.
+No duplicate logic.
+No blind edits.
+One-letter phase labels only.
+Step labels must be Step N of X only.
+Central baselines only under C:\src\_BASELINES.
+No project-local backup folders.
+No patch, stage, commit, push, publish, build, baseline, delete, cleanup, DNS mutation, or GitHub Pages setting mutation unless a GREEN gate explicitly allows the exact action.
+No git add dot.
+No git add all.
+No mirror copy.
+

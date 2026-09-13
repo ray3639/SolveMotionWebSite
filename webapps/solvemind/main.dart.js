@@ -32241,19 +32241,19 @@ return B.j.p(b,0,1)},
 aft:function aft(){},
 be_(a,b,c,d){var s,r="step_1",q="step_2",p="recovery",o="maintain",n="stability_recovery",m="learning_reinforcement",l=A.b([],t.lP),k=new A.ai6(l)
 switch(c.a){case"risk_containment":k.$6$action$fallback$gate$id$priority$target("reduce_exposure","switch_to_stability_recovery","regressionRisk >= 0.50",r,1,"regression_risk")
-k.$6$action$fallback$gate$id$priority$target(b.b,o,"stabilityScore < 0.60",q,2,p)
+k.$6$action$fallback$gate$id$priority$target(b.c,o,"stabilityScore < 0.60",q,2,p)
 break
-case"stability_recovery":k.$6$action$fallback$gate$id$priority$target(b.d,"rebalance_domains","volatilityIndex > 0.35",r,1,"system_stability")
-k.$6$action$fallback$gate$id$priority$target(b.b,o,"confidenceLevel < 0.65",q,2,p)
+case"stability_recovery":k.$6$action$fallback$gate$id$priority$target(b.e,"rebalance_domains","volatilityIndex > 0.35",r,1,"system_stability")
+k.$6$action$fallback$gate$id$priority$target(b.c,o,"confidenceLevel < 0.65",q,2,p)
 break
-case"imbalance_correction":k.$6$action$fallback$gate$id$priority$target(b.d,n,"crossDomainImbalance == true",r,1,"cross_domain_alignment")
+case"imbalance_correction":k.$6$action$fallback$gate$id$priority$target(b.e,n,"crossDomainImbalance == true",r,1,"cross_domain_alignment")
 k.$6$action$fallback$gate$id$priority$target("reduce_domain_divergence",o,"systemEquilibriumScore < 0.65",q,2,"equilibrium")
 break
-case"learning_reinforcement":k.$6$action$fallback$gate$id$priority$target(b.c,o,"confidenceLevel >= 0.55",r,1,"learning_velocity")
+case"learning_reinforcement":k.$6$action$fallback$gate$id$priority$target(b.d,o,"confidenceLevel >= 0.55",r,1,"learning_velocity")
 k.$6$action$fallback$gate$id$priority$target("reinforce_primary_drivers",n,"plateauRisk < 0.60",q,2,"driver_strength")
 break
-case"graduated_growth":case"growth_preparation":k.$6$action$fallback$gate$id$priority$target(b.a,m,"breakthroughPotential >= 0.60",r,1,"training_load")
-k.$6$action$fallback$gate$id$priority$target(b.c,o,"confidenceLevel >= 0.60",q,2,"learning")
+case"graduated_growth":case"growth_preparation":k.$6$action$fallback$gate$id$priority$target(b.b,m,"breakthroughPotential >= 0.60",r,1,"training_load")
+k.$6$action$fallback$gate$id$priority$target(b.d,o,"confidenceLevel >= 0.60",q,2,"learning")
 break
 default:k.$6$action$fallback$gate$id$priority$target(o,o,"default",r,1,"current_state")
 break}B.m.bq(l,new A.ai7())
@@ -33692,10 +33692,10 @@ A.yn(a,"driftScore","Drift",i,b,p,a5)
 A.yn(a,o,"Equilibrium",h,b,p,a7)
 a7=b1.as
 a7.ad(0,new A.alr(b1,b,a))
-a5=b0.a
-a4=b0.b
-a3=b0.c
-a2=b0.d
+a5=b0.b
+a4=b0.c
+a3=b0.d
+a2=b0.e
 b.push(new A.fa(g,"recommendation_set","Recommendations",A.k(["training",a5,"recovery",a4,"learning",a3,"stability",a2],a8,a9)))
 a.push(B.Wm)
 a.push(B.Wl)
@@ -33892,29 +33892,38 @@ else q=o<0?0.5-0.5*r:0.5-0.15*r
 return new A.apM(A.b1v(q),o)},
 apM:function apM(a,b){this.a=a
 this.b=b},
-b2n(a){var s,r,q,p,o,n,m,l="maintain",k=a.cy,j=t.s,i=A.b([],j),h=A.b([],j),g=A.b([],j)
-if(k.c<0.3){i.push("Behavior resilience is below 0.30.")
-h.push("Recovery capacity is below the Core stability threshold.")
-g.push("Increase recovery emphasis before raising workload.")
-s="increase_recovery"}else s=l
-if(k.e>0.7){i.push("Learning velocity is above 0.70.")
-g.push("Advance complexity while monitoring confidence drift.")
-r="increase_difficulty"}else r=l
-if(k.w<0.4){i.push("Cross-domain alignment is below 0.40.")
-h.push("Domain alignment is weak enough to require rebalancing.")
-g.push("Rebalance domain focus before expanding intensity.")
+b2n(a1,a2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e="maintain",d=a1.cy,c=t.s,b=A.b([],c),a=A.b([],c),a0=A.b([],c)
+if(d.c<0.3){b.push("Behavior resilience is below 0.30.")
+a.push("Recovery capacity is below the Core stability threshold.")
+a0.push("Increase recovery emphasis before raising workload.")
+s="increase_recovery"}else s=e
+if(d.e>0.7){b.push("Learning velocity is above 0.70.")
+a0.push("Advance complexity while monitoring confidence drift.")
+r="increase_difficulty"}else r=e
+if(d.w<0.4){b.push("Cross-domain alignment is below 0.40.")
+a.push("Domain alignment is weak enough to require rebalancing.")
+a0.push("Rebalance domain focus before expanding intensity.")
 q="rebalance_domains"}else q="stable"
-if(a.d>0.75){i.push("Momentum score is above 0.75.")
-g.push("Use current momentum for a controlled intensity increase.")
-p="increase_intensity"}else p=l
-j=a.r
-if(j<0.5){h.push("Confidence level is below 0.50.")
-g.push("Collect stronger evidence before relying on the recommendation.")}if(a.e>0.6){h.push("Volatility index is above 0.60.")
-g.push("Stabilize volatility before executing aggressive changes.")}if(i.length===0)i.push("Core metrics support maintaining the current plan.")
-o=A.bhW(a)
+if(a1.d>0.75){b.push("Momentum score is above 0.75.")
+a0.push("Use current momentum for a controlled intensity increase.")
+p="increase_intensity"}else p=e
+c=a1.r
+if(c<0.5){a.push("Confidence level is below 0.50.")
+a0.push("Collect stronger evidence before relying on the recommendation.")}if(a1.e>0.6){a.push("Volatility index is above 0.60.")
+a0.push("Stabilize volatility before executing aggressive changes.")}if(b.length===0)b.push("Core metrics support maintaining the current plan.")
+o=A.bhW(a1)
 n=A.bhX(r,o,s,q,p)
-m=t.N
-return new A.asP(p,s,r,q,n,A.bhV(n),"Core selected "+n+" from readiness "+B.j.J(a.a,2)+", stability "+B.j.J(a.c,2)+", confidence "+B.j.J(j,2)+", and evidence: "+B.m.aR(i," "),A.bhY(n,a),o,A.jd(i,m),A.jd(h,m),A.jd(g,m))},
+m=A.bhV(n)
+l=B.j.J(a1.a,2)
+k=B.j.J(a1.c,2)
+c=B.j.J(c,2)
+j=B.m.aR(b," ")
+i=A.bhY(n,a1)
+h=t.N
+g=A.jd(b,h)
+f=A.jd(a,h)
+h=A.jd(a0,h)
+return new A.asP(null,p,s,r,q,n,m,"Core selected "+n+" from readiness "+l+", stability "+k+", confidence "+c+", and evidence: "+j,i,o,g,f,h)},
 bhW(a){var s=a.x.b.toLowerCase()
 if(s==="critical")return"critical"
 if(s==="elevated")return"high"
@@ -33934,7 +33943,7 @@ bhY(a,b){if(a==="increase_recovery")return"Ignoring recovery need may increase v
 if(a==="rebalance_domains")return"Ignoring domain imbalance may reduce cross-domain reliability."
 if(b.e>0.6)return"Ignoring volatility may reduce recommendation reliability."
 return"Ignoring the recommendation may slow improvement but does not indicate immediate critical risk."},
-asP:function asP(a,b,c,d,e,f,g,h,i,j,k,l){var _=this
+asP:function asP(a,b,c,d,e,f,g,h,i,j,k,l,m){var _=this
 _.a=a
 _.b=b
 _.c=c
@@ -33946,7 +33955,8 @@ _.w=h
 _.x=i
 _.y=j
 _.z=k
-_.Q=l},
+_.Q=l
+_.as=m},
 Yj:function Yj(a,b){this.a=a
 this.c=b},
 bjg(a,b){var s=$.aX8.h(0,a)
@@ -113515,7 +113525,7 @@ $1(a){return a.b},
 $S:275}
 A.aep.prototype={
 DK(a,b){var s=this.d.axG(0,b,this.c),r=s
-this.b=A.b2n(r)
+this.b=A.b2n(r,null)
 return r}}
 A.aeq.prototype={
 $0(){A.bjf()
@@ -113534,8 +113544,21 @@ $2(a,b){return new A.ad(a.b,b,t.nm)},
 $S:277}
 A.apM.prototype={}
 A.asP.prototype={
-ao(){var s=this
-return A.k(["training",s.a,"recovery",s.b,"learning",s.c,"stability",s.d,"recommendedNextAction",s.e,"nextBestStep",s.f,"whyThisAction",s.r,"riskIfIgnored",s.w,"actionPriority",s.x,"evidenceUsed",s.y,"confidenceWarnings",s.z,"confidenceImprovementSteps",s.Q],t.N,t.z)}}
+ao(){var s=this,r=A.w(t.N,t.z),q=s.a
+if(q!=null)r.m(0,"learningPath",q)
+r.m(0,"training",s.b)
+r.m(0,"recovery",s.c)
+r.m(0,"learning",s.d)
+r.m(0,"stability",s.e)
+r.m(0,"recommendedNextAction",s.f)
+r.m(0,"nextBestStep",s.r)
+r.m(0,"whyThisAction",s.w)
+r.m(0,"riskIfIgnored",s.x)
+r.m(0,"actionPriority",s.y)
+r.m(0,"evidenceUsed",s.z)
+r.m(0,"confidenceWarnings",s.Q)
+r.m(0,"confidenceImprovementSteps",s.as)
+return r}}
 A.Yj.prototype={}
 A.ayG.prototype={
 $1(a){return new A.xN()},
@@ -113917,18 +113940,18 @@ A.aer.prototype={
 Kd(a){if(t.P.b(a))return a
 if(t.f.b(a))return A.W(a,t.N,t.z)
 return B.ax},
-yU(a,b){return this.aDM(a,b)},
-hr(a){return this.yU(a,null)},
-aDM(aa9,ab0){var s=0,r=A.E(t.sY),q,p=this,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5,f6,f7,f8,f9,g0,g1,g2,g3,g4,g5,g6,g7,g8,g9,h0,h1,h2,h3,h4,h5,h6,h7,h8,h9,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,j0,j1,j2,j3,j4,j5,j6,j7,j8,j9,k0,k1,k2,k3,k4,k5,k6,k7,k8,k9,l0,l1,l2,l3,l4,l5,l6,l7,l8,l9,m0,m1,m2,m3,m4,m5,m6,m7,m8,m9,n0,n1,n2,n3,n4,n5,n6,n7,n8,n9,o0,o1,o2,o3,o4,o5,o6,o7,o8,o9,p0,p1,p2,p3,p4,p5,p6,p7,p8,p9,q0,q1,q2,q3,q4,q5,q6,q7,q8,q9,r0,r1,r2,r3,r4,r5,r6,r7,r8,r9,s0,s1,s2,s3,s4,s5,s6,s7,s8,s9,t0,t1,t2,t3,t4,t5,t6,t7,t8,t9,u0,u1,u2,u3,u4,u5,u6,u7,u8,u9,v0,v1,v2,v3,v4,v5,v6,v7,v8,v9,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9,x0,x1,x2,x3,x4,x5,x6,x7,x8,x9,y0,y1,y2,y3,y4,y5,y6,y7,y8,y9,z0,z1,z2,z3,z4,z5,z6,z7,z8,z9,aa0,aa1,aa2,aa3,aa4,aa5,aa6,aa7,aa8
-var $async$yU=A.F(function(ab1,ab2){if(ab1===1)return A.B(ab2,r)
+yU(a,b,c){return this.aDM(a,b,c)},
+hr(a){return this.yU(a,null,null)},
+aDM(aa9,ab0,ab1){var s=0,r=A.E(t.sY),q,p=this,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5,f6,f7,f8,f9,g0,g1,g2,g3,g4,g5,g6,g7,g8,g9,h0,h1,h2,h3,h4,h5,h6,h7,h8,h9,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,j0,j1,j2,j3,j4,j5,j6,j7,j8,j9,k0,k1,k2,k3,k4,k5,k6,k7,k8,k9,l0,l1,l2,l3,l4,l5,l6,l7,l8,l9,m0,m1,m2,m3,m4,m5,m6,m7,m8,m9,n0,n1,n2,n3,n4,n5,n6,n7,n8,n9,o0,o1,o2,o3,o4,o5,o6,o7,o8,o9,p0,p1,p2,p3,p4,p5,p6,p7,p8,p9,q0,q1,q2,q3,q4,q5,q6,q7,q8,q9,r0,r1,r2,r3,r4,r5,r6,r7,r8,r9,s0,s1,s2,s3,s4,s5,s6,s7,s8,s9,t0,t1,t2,t3,t4,t5,t6,t7,t8,t9,u0,u1,u2,u3,u4,u5,u6,u7,u8,u9,v0,v1,v2,v3,v4,v5,v6,v7,v8,v9,w0,w1,w2,w3,w4,w5,w6,w7,w8,w9,x0,x1,x2,x3,x4,x5,x6,x7,x8,x9,y0,y1,y2,y3,y4,y5,y6,y7,y8,y9,z0,z1,z2,z3,z4,z5,z6,z7,z8,z9,aa0,aa1,aa2,aa3,aa4,aa5,aa6,aa7,aa8
+var $async$yU=A.F(function(ab2,ab3){if(ab2===1)return A.B(ab3,r)
 for(;;)switch(s){case 0:B.m.a0($.alE)
 A.q3("RUN_START",null)
 o=ab0==null
 n=!o&&ab0.length!==0?B.m.ga4(ab0):null
 m=p.a
 l=m.DK(0,aa9)
-k=m.b
-if(k==null)k=A.b2n(l)
+m=m.b
+k=m==null?A.b2n(l,null):m
 j=A.bf1(k,l)
 m=l.a
 i=l.c
@@ -113990,7 +114013,7 @@ c2=b0.a(c1.h(0,"contradictionPatterns"))
 A.q3("PATTERN_RECOGNITION_READY",A.k(["patternKeys",b8,"patternCount",b9,"contradictionCount",J.ce(c2==null?B.ag:c2)],f,e))
 s=3
 return A.v(A.pv(c0,b,a8,p.c,c1,p.d,n,c,k,l,p.b),$async$yU)
-case 3:c3=ab2
+case 3:c3=ab3
 c4=p.d=c3.ao()
 b8=a9.a(c4.h(0,"metrics"))
 b8=a9.a(A.eg("metrics",A.W(b8==null?B.W:b8,f,e)).h(0,"system"))
@@ -114853,7 +114876,7 @@ if(m!=null)n.push(m)
 m=p.d
 if(m!=null)n.push(m)
 s=3
-return A.v(p.c.yU(a,n),$async$BD)
+return A.v(p.c.yU(a,n,null),$async$BD)
 case 3:o=c
 A.b_t(o)
 q=o
@@ -127153,7 +127176,7 @@ q.zS($.aZ6())
 return q})
 s($,"bs6","b7p",()=>new A.alI(A.b([],t.a)))
 s($,"bs5","nb",()=>new A.aly(A.b([],t.vq)))
-s($,"br8","b78",()=>A.hw("https://ray3639.github.io/SolveMotionWebSite/index.html",0,null))
+s($,"br8","b78",()=>A.hw("https://solvemotionlabs.com/index.html",0,null))
 s($,"br7","b77",()=>A.hw("https://www.instagram.com/solvemotion_labs/",0,null))
 s($,"brM","b7i",()=>{var q="High",p="Amiodarone",o="Avoid combination."
 return A.b([A.agA("Major bleeding risk","Warfarin","Aspirin","Additive anticoagulant and antiplatelet effect","Avoid routine combination unless clinically necessary.",q),A.agA("Torsades risk",p,"Azithromycin","Additive QT prolongation",o,q),A.agA("Digoxin toxicity","Digoxin",p,"Reduced digoxin clearance","Monitor levels closely.",q),A.agA("Rhabdomyolysis risk","Simvastatin","Clarithromycin","CYP3A4 inhibition",o,q)],t.tT)})

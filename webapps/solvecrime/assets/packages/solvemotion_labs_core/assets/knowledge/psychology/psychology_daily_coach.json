@@ -1,158 +1,207 @@
 {
-    "schemaVersion":  "1.0",
-    "source":  "SolveMind assets/content/solvemind_content.json",
-    "ownership":  "Core 12.0 Knowledge Domain",
-    "generatedAt":  "2026-05-13T16:55:14",
-    "dailyCoach":  [
-                       {
-                           "title":  "Daily Coach #1",
-                           "id":  "coach_1",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #2",
-                           "id":  "coach_2",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #3",
-                           "id":  "coach_3",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #4",
-                           "id":  "coach_4",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #5",
-                           "id":  "coach_5",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #6",
-                           "id":  "coach_6",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #7",
-                           "id":  "coach_7",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #8",
-                           "id":  "coach_8",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #9",
-                           "id":  "coach_9",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #10",
-                           "id":  "coach_10",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #11",
-                           "id":  "coach_11",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #12",
-                           "id":  "coach_12",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #13",
-                           "id":  "coach_13",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #14",
-                           "id":  "coach_14",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #15",
-                           "id":  "coach_15",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #16",
-                           "id":  "coach_16",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #17",
-                           "id":  "coach_17",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #18",
-                           "id":  "coach_18",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #19",
-                           "id":  "coach_19",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #20",
-                           "id":  "coach_20",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #21",
-                           "id":  "coach_21",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #22",
-                           "id":  "coach_22",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #23",
-                           "id":  "coach_23",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #24",
-                           "id":  "coach_24",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #25",
-                           "id":  "coach_25",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #26",
-                           "id":  "coach_26",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #27",
-                           "id":  "coach_27",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #28",
-                           "id":  "coach_28",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #29",
-                           "id":  "coach_29",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       },
-                       {
-                           "title":  "Daily Coach #30",
-                           "id":  "coach_30",
-                           "text":  "Pause once today before reacting. Identify the emotion present, name the bias it may trigger, and choose one deliberate response instead of the automatic one."
-                       }
-                   ]
+  "schemaVersion": "2.0",
+  "source": "SolveMind Core 12 psychology_daily_coach.json",
+  "ownership": "Core 12.0 Knowledge Domain",
+  "generatedAt": "2026-08-10T11:30:00",
+  "doctrinePhase": "SolveMind 6.0 Phase U",
+  "dailyCoach": [
+    {
+      "id": "daily_core_briefing",
+      "title": "Daily Core Briefing",
+      "category": "Daily Coach",
+      "priority": "Start Here",
+      "summary": "A daily psychology and behavioral-health briefing that connects your current Core snapshot to learning, ethics, career readiness, and next actions without pretending to diagnose or treat.",
+      "why": [
+        "Daily coaching should not be a generic motivational paragraph. It should orient the learner to the Core 12 domain map, name what evidence is available, protect ethical boundaries, and turn the day into a usable learning loop.",
+        "The briefing keeps psychology grounded in observation, evidence, context, and respectful limits while still giving the user something practical to do today."
+      ],
+      "uses": [
+        "Review the Core snapshot before selecting a psychology tool, school topic, career path, company target, internship step, or application-prep action.",
+        "Use the brief as a launch point into Psychology Tools, School Roadmap, Career Paths, Companies & Applications, Case Studies, and Reports.",
+        "Convert the day into one focused learning action, one applied practice action, one ethical boundary check, and one report-ready note."
+      ],
+      "skills": ["Self-monitoring", "Evidence-based reflection", "Domain mapping", "Ethical scope control", "Action planning"],
+      "examples": [
+        "A learner studying cognitive psychology can pair the briefing with the Cognitive Distortion Analyzer, then save a report-ready note about evidence, bias risk, and next study step.",
+        "A student exploring behavioral health careers can use the briefing to compare clinical, counseling, I-O, school, UX research, and behavioral-science directions before choosing a portfolio project."
+      ],
+      "core12Connections": ["Psychology foundations", "Behavior approaches", "Cognition and bias", "Mental health literacy", "Ethics and boundaries", "School roadmap", "Career paths", "Companies", "Internships", "Certifications", "Portfolio projects", "Application prep"],
+      "buttons": [
+        {"label": "Open Psychology Tools", "target": "psychology_tools", "reason": "Choose a Core-owned applied psychology workflow."},
+        {"label": "Open Reports", "target": "reports", "reason": "Review and save report-ready Core output."}
+      ],
+      "reportOutput": ["Daily Coach reviewed the current Core snapshot, selected a focused psychology learning action, identified an ethical boundary, connected the activity to career/application readiness, and prepared next steps for report review."],
+      "sourceLinks": ["APA Psychology Careers: https://www.apa.org/education-career/guide/careers", "NIMH Mental Health Information: https://www.nimh.nih.gov/health", "BLS Psychologists: https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm"]
+    },
+    {
+      "id": "daily_check_in",
+      "title": "Daily Check-In",
+      "category": "Self-Monitoring",
+      "priority": "Interactive",
+      "summary": "A quick self-check that captures focus, stress, confidence, and readiness as raw input signals for future Core use.",
+      "why": ["Psychology learning improves when users separate observation from interpretation. The app can record what the user notices today, while Core owns later interpretation and recommendation logic.", "The check-in creates a simple habit: name the current state, choose a focus area, and avoid overclaiming what the numbers mean."],
+      "uses": ["Select the day focus: learning, career, ethics, research, school roadmap, application prep, or reflection.", "Capture confidence, focus, and stress as local signals only.", "Save the check-in for future Core input so Reports can explain what was reviewed during the session."],
+      "skills": ["Emotional labeling", "Metacognition", "Readiness review", "Behavior tracking", "Reflective practice"],
+      "examples": ["Confidence is high but stress is also high, so the user records that state and chooses a low-risk study review rather than a major career decision.", "Focus is low, so the user selects one small action such as reading one APA career page or drafting one portfolio-project question."],
+      "buttons": [{"label": "Save Check-In", "target": "save_check_in", "reason": "Record local input for future Core processing."}],
+      "reportOutput": ["Daily check-in captured focus, confidence, stress, and readiness as user-entered signals. These signals are not clinical scores and should be interpreted only by Core output or qualified guidance where appropriate."],
+      "sourceLinks": ["APA Stress: https://www.apa.org/topics/stress", "CDC Mental Health: https://www.cdc.gov/mental-health/"]
+    },
+    {
+      "id": "core_12_domain_map",
+      "title": "Core 12 Domain Map",
+      "category": "Core 12",
+      "priority": "Domain Knowledge",
+      "summary": "A compact map of the 12 psychology and behavioral-health knowledge areas Daily Coach should connect every recommendation back to.",
+      "why": ["The user should be able to see how today connects to the whole app, not just one button. Core 12 turns Daily Coach into a hub for psychology learning, careers, companies, internships, school planning, and application readiness.", "This prevents the app from drifting into generic productivity or programming tools."],
+      "uses": ["Check which domain the day belongs to before choosing an action.", "Use related domains to decide what screen to open next.", "Make each Daily Coach note useful for school, portfolio, career, or application evidence."],
+      "skills": ["Domain classification", "Concept linking", "Career transfer", "Evidence organization"],
+      "examples": ["Cognition and bias connects to Bias Checker, Cognitive Distortion Analyzer, UX research, behavioral science, research design, and application interview examples.", "Ethics and boundaries connects to consent, privacy, scope, referral, supervision, respectful language, and report warnings."],
+      "expandedCategories": ["Psychology Foundations: branches, approaches, theories, research methods, evidence limits.", "Behavioral Health Literacy: wellbeing, stress, risk awareness, support-seeking boundaries, referral language.", "Cognition and Bias: attention, memory, learning, decision quality, distortions, judgment errors.", "Education Pathways: grade-level preparation, college prerequisites, graduate pathways, supervised experience.", "Career Paths: clinical, counseling, school, I-O, UX research, behavioral science, research, healthcare, government, consulting.", "Companies and Employers: healthcare systems, clinics, universities, labs, consulting firms, tech research teams, nonprofits, government agencies.", "Internships and Experience: labs, assistant roles, peer-support limits, observation hours, practicum readiness, supervised settings.", "Start a Company: education products, assessment workflows, research support, behavior-change programs, ethical service boundaries.", "Business Models: education products, B2B research services, school programs, employer wellbeing, behavioral product strategy.", "Certifications: research ethics, mental health first aid, statistics tools, UX research, crisis referral literacy, data privacy.", "Portfolio Projects: case analyses, survey studies, literature reviews, intervention plans, ethics memos, career maps.", "Application Prep: resumes, interviews, statements of purpose, recommendation evidence, company research, internship tracking."],
+      "buttons": [{"label": "Open School Roadmap", "target": "school_roadmap", "reason": "Plan grade and course preparation."}, {"label": "Open Career Paths", "target": "career_paths", "reason": "Connect learning to psychology career directions."}, {"label": "Open Companies", "target": "companies", "reason": "Review employers and application targets."}],
+      "reportOutput": ["Daily Coach connected the selected action to Core 12 domains so the session can support learning, career planning, portfolio evidence, and application preparation."],
+      "sourceLinks": ["APA Education and Career: https://www.apa.org/education-career", "O*NET Psychologists: https://www.onetonline.org/link/summary/19-3033.00", "CareerOneStop: https://www.careeronestop.org/"]
+    },
+    {
+      "id": "psychology_tool_recommendations",
+      "title": "Psychology Tool Recommendations",
+      "category": "Applied Tools",
+      "priority": "Choose a Workflow",
+      "summary": "Core-owned recommendations for choosing a psychology tool based on the kind of task the user wants to complete.",
+      "why": ["Tools should be psychology and behavioral-health workflows, not programming utilities. Daily Coach should route users toward applied thinking, ethical review, case interpretation, learning planning, and readiness checks.", "The app renders the tool choices; Core owns why each tool matters."],
+      "uses": ["Use Bias Checker when a decision may be shaped by confirmation bias, availability bias, anchoring, halo effect, or overconfidence.", "Use Cognitive Distortion Analyzer when the user is learning to recognize all-or-nothing thinking, catastrophizing, labeling, mind reading, or should statements.", "Use Ethics Boundary Review before surveys, case writeups, peer support, behavioral-health discussions, or portfolio work involving people."],
+      "skills": ["Tool selection", "Bias awareness", "Ethical reasoning", "Case analysis", "Reflection design"],
+      "examples": ["A school project about social media stress can use Survey Builder, Ethics Boundary Review, and Report Output before collecting any responses.", "A career decision can use Decision Quality Review plus Career Readiness Self-Assessment to separate interest, evidence, constraints, and next steps."],
+      "buttons": [{"label": "Open Psychology Tools", "target": "psychology_tools", "reason": "Launch the applied psychology workspace."}, {"label": "Open Case Studies", "target": "case_studies", "reason": "Practice interpretation on cases."}],
+      "reportOutput": ["Recommended tool path: choose one Core-owned psychology workflow, document why it fits the current question, complete the ethical boundary check, and save the result to Reports."],
+      "sourceLinks": ["APA Ethics Code: https://www.apa.org/ethics/code", "HHS Human Subjects Research: https://www.hhs.gov/ohrp/regulations-and-policy/index.html"]
+    },
+    {
+      "id": "learning_path_action",
+      "title": "Learning Path Action",
+      "category": "Education",
+      "priority": "Study Next",
+      "summary": "A daily study-planning surface that ties grade level, courses, readings, practice projects, and review checkpoints to psychology and behavioral health.",
+      "why": ["Students need more than a topic list. They need recommendations by level: what to study now, what evidence to build, what vocabulary to learn, and what ethical limits to remember.", "Learning paths make the app useful for middle school, high school, college, career switchers, and early professional preparation."],
+      "uses": ["Choose one branch or approach to study today.", "Connect the topic to a grade-level roadmap and one portfolio project.", "Add one source, one vocabulary term, one practice question, and one safe boundary statement."],
+      "skills": ["Study planning", "Source review", "Vocabulary growth", "Project design", "Milestone tracking"],
+      "examples": ["High school: compare cognitive, developmental, social, biological, and clinical psychology, then write a short reflection on what each branch can and cannot explain.", "College: pair research methods with statistics, ethics, literature review, and a small survey design that does not collect sensitive data without supervision."],
+      "buttons": [{"label": "Open School Roadmap", "target": "school_roadmap", "reason": "Review level-specific study guidance."}],
+      "reportOutput": ["Learning path reviewed: topic, level, source, vocabulary, practice task, ethical limit, and next milestone."],
+      "sourceLinks": ["College Board AP Psychology: https://apstudents.collegeboard.org/courses/ap-psychology", "APA Psychology Topics: https://www.apa.org/topics"]
+    },
+    {
+      "id": "career_company_application_action",
+      "title": "Career, Company, and Application Action",
+      "category": "Career Readiness",
+      "priority": "Career Move",
+      "summary": "A daily bridge from psychology learning into career paths, employer research, internships, portfolio projects, and application prep.",
+      "why": ["Career planning should be woven into the learning loop. Users should know which psychology branch connects to which role, which companies or organizations may value it, and what evidence belongs in an application.", "This turns Daily Coach from advice into a career-building workspace."],
+      "uses": ["Pick one career path and identify the related branch, skills, education level, credentials, employers, and portfolio evidence.", "Review companies by sector before opening their career sites manually.", "Draft one application bullet that names a psychology skill, evidence source, and outcome."],
+      "skills": ["Career mapping", "Employer research", "Resume evidence", "Interview preparation", "Portfolio alignment"],
+      "examples": ["UX Researcher: connect cognitive psychology, research design, survey methods, usability studies, ethics, and a portfolio case study.", "Clinical pathway: connect abnormal psychology, developmental psychology, assessment literacy, supervised hours, licensure, privacy, referral, and professional boundaries."],
+      "buttons": [{"label": "Open Career Paths", "target": "career_paths", "reason": "Compare psychology career directions."}, {"label": "Open Companies", "target": "companies", "reason": "Review employer sectors and applications."}, {"label": "Open Reports", "target": "reports", "reason": "Save application-ready evidence."}],
+      "reportOutput": ["Career/application action prepared: role target, related psychology branch, employer sector, evidence to build, boundary/risk note, and next application step."],
+      "sourceLinks": ["BLS Psychologists: https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm", "O*NET Clinical and Counseling Psychologists: https://www.onetonline.org/link/summary/19-3033.00", "CareerOneStop Resume Guide: https://www.careeronestop.org/JobSearch/Resumes/resumes.aspx"]
+    },
+    {
+      "id": "ethics_boundary_check",
+      "title": "Ethics Boundary Check",
+      "category": "Ethics",
+      "priority": "Required Guardrail",
+      "summary": "A daily safety and scope review for privacy, consent, supervision, respectful language, referral needs, and limits of educational guidance.",
+      "why": ["Psychology and behavioral-health apps must be clear about what is education, what needs supervision, and what should be referred to qualified professionals or emergency supports.", "Ethics keeps career prep, surveys, case studies, and peer conversations respectful and safe."],
+      "uses": ["Name whether the activity involves real people, sensitive topics, identifiable information, health claims, or emotional distress.", "Use respectful, non-diagnostic language unless a qualified professional context applies.", "Route high-risk concerns to appropriate professional or crisis resources rather than app-based advice."],
+      "skills": ["Consent review", "Privacy protection", "Scope limits", "Referral awareness", "Respectful communication"],
+      "examples": ["For a class survey, do not collect names, diagnoses, trauma history, or crisis details without proper supervision and approval.", "For a case study, discuss behavior, context, and evidence without labeling a real person or implying a diagnosis."],
+      "buttons": [{"label": "Open Psychology Tools", "target": "psychology_tools", "reason": "Use Ethics Boundary Review."}],
+      "reportOutput": ["Ethical boundary reviewed: consent, privacy, sensitive content, professional scope, referral limits, and respectful language."],
+      "sourceLinks": ["APA Ethics Code: https://www.apa.org/ethics/code", "HHS OHRP: https://www.hhs.gov/ohrp/regulations-and-policy/index.html", "988 Lifeline: https://988lifeline.org/"]
+    },
+    {
+      "id": "case_practice_prompt",
+      "title": "Case Practice Prompt",
+      "category": "Case Studies",
+      "priority": "Practice",
+      "summary": "A structured prompt for applying psychology concepts to a school, workplace, health, product, or behavior scenario.",
+      "why": ["Case practice helps users move from memorizing definitions to explaining behavior with evidence, alternatives, limitations, and ethics.", "It also supports portfolio projects and interview answers because the user can show how they reason through a behavioral question."],
+      "uses": ["Describe the context, behavior, possible explanations, missing evidence, risk of bias, ethical boundary, and next safe step.", "Compare at least two branches or approaches before choosing the best explanation.", "Turn the analysis into a report-ready paragraph with careful language."],
+      "skills": ["Case formulation", "Evidence matching", "Alternative explanations", "Bias review", "Report writing"],
+      "examples": ["A student avoids group work: compare social anxiety, motivation, peer norms, learning history, sleep, stress, and classroom context without diagnosing.", "A product user abandons onboarding: compare attention load, reward design, habit formation, trust, social proof, and usability evidence."],
+      "buttons": [{"label": "Open Case Studies", "target": "case_studies", "reason": "Practice with Core case examples."}],
+      "reportOutput": ["Case practice completed: context, behavior, possible explanations, evidence needed, bias risk, ethical boundary, and next step."],
+      "sourceLinks": ["APA Psychology Topics: https://www.apa.org/topics", "NIMH Health Topics: https://www.nimh.nih.gov/health/topics"]
+    },
+    {
+      "id": "portfolio_project_builder",
+      "title": "Portfolio Project Builder",
+      "category": "Portfolio",
+      "priority": "Evidence Builder",
+      "summary": "A daily project-planning card for building psychology and behavioral-health evidence that can support school, internships, companies, and applications.",
+      "why": ["Portfolio projects make learning visible. A strong project shows a question, ethical boundary, method, evidence, interpretation, limitation, and practical recommendation.", "This helps users apply psychology without overstating expertise or collecting unsafe data."],
+      "uses": ["Choose a project type: literature review, survey design, case analysis, behavior-change plan, UX research plan, ethics memo, career map, or application package.", "Write one project question and one safe evidence plan.", "Connect the project to a career path and employer sector."],
+      "skills": ["Project scoping", "Research design", "Evidence planning", "Ethics memo writing", "Career storytelling"],
+      "examples": ["Survey design project: create a non-sensitive study habit survey, state consent language, list limitations, and produce a dashboard-style summary.", "Career map project: compare clinical psychology, counseling, school psychology, I-O psychology, UX research, and behavioral science by education, skills, employers, and boundaries."],
+      "buttons": [{"label": "Open Psychology Tools", "target": "psychology_tools", "reason": "Use Survey Builder or Research Design."}, {"label": "Open Career Paths", "target": "career_paths", "reason": "Tie projects to roles."}],
+      "reportOutput": ["Portfolio action prepared: project type, question, ethical boundary, evidence plan, related career, employer sector, and next artifact."],
+      "sourceLinks": ["APA Student Resources: https://www.apa.org/ed/precollege", "Common App: https://www.commonapp.org/"]
+    },
+    {
+      "id": "certification_skill_builder",
+      "title": "Certifications and Skills Builder",
+      "category": "Skills",
+      "priority": "Build Skill",
+      "summary": "A daily skill-building card for statistics, research literacy, ethics training, communication, behavioral-health boundaries, and application readiness.",
+      "why": ["Psychology pathways reward both content knowledge and practical evidence. Certifications and skill modules can make a learner more credible when they are selected carefully and used ethically.", "The focus is not collecting badges; it is building usable competence for school, research, internships, and entry-level roles."],
+      "uses": ["Pick one skill: research design, statistics, survey design, ethics, communication, case analysis, literature review, data visualization, or interview prep.", "Name one source, one practice artifact, and one proof point for an application.", "Check whether the credential is recognized, relevant, affordable, and appropriate for the intended role."],
+      "skills": ["Credential evaluation", "Skill practice", "Statistics literacy", "Communication", "Application evidence"],
+      "examples": ["Research role prep: practice literature review, research ethics, statistics basics, spreadsheet cleaning, and plain-language result summaries.", "Behavioral-health pathway prep: learn privacy, referral limits, empathy, supervision boundaries, and respectful documentation."],
+      "buttons": [{"label": "Open School Roadmap", "target": "school_roadmap", "reason": "Connect skills to level-specific study."}, {"label": "Open Companies", "target": "companies", "reason": "Match skills to employer needs."}],
+      "reportOutput": ["Skill action prepared: selected skill, practice artifact, evidence source, certification/credential check, career fit, and next milestone."],
+      "sourceLinks": ["CareerOneStop Credentials: https://www.careeronestop.org/Toolkit/Training/find-certifications.aspx", "APA Education and Career: https://www.apa.org/education-career"]
+    },
+    {
+      "id": "reflection_prompt_builder",
+      "title": "Reflection Prompt Builder",
+      "category": "Reflection",
+      "priority": "Write",
+      "summary": "A guided prompt set for turning daily learning into careful reflection instead of vague journaling.",
+      "why": ["Reflection is strongest when it asks about observation, emotion, assumption, evidence, alternative explanation, ethical limit, and next action.", "This supports emotional regulation, decision quality, learning retention, and report-ready summaries."],
+      "uses": ["Answer one prompt about what happened, what you noticed, what evidence you have, what bias might apply, what boundary matters, and what action is next.", "Use the prompts after a case study, tool workflow, class reading, company research, or application task."],
+      "skills": ["Reflective writing", "Bias recognition", "Evidence review", "Self-regulation", "Next-action planning"],
+      "examples": ["What am I assuming, and what evidence would change my mind?", "What part of this issue belongs to learning, and what part would require a qualified professional or supervised setting?"],
+      "practicePrompts": ["What did I observe today before interpreting it?", "Which psychology concept best explains part of this, and what does it not explain?", "What bias or distortion could shape my interpretation?", "What ethical boundary or privacy issue needs attention?", "What is one concrete next action I can take safely?"],
+      "buttons": [{"label": "Save Check-In", "target": "save_check_in", "reason": "Capture reflection as future Core input."}, {"label": "Open Reports", "target": "reports", "reason": "Review report-ready wording."}],
+      "reportOutput": ["Reflection prepared: observation, emotion, assumption, evidence, bias risk, ethical boundary, and next action."],
+      "sourceLinks": ["APA Topics: https://www.apa.org/topics"]
+    },
+    {
+      "id": "report_ready_daily_summary",
+      "title": "Report-Ready Daily Summary",
+      "category": "Reports",
+      "priority": "Close the Loop",
+      "summary": "A professional summary template that turns Daily Coach activity into something the user can save, export, or use for school/career planning.",
+      "why": ["A polished app should leave the user with an artifact. Daily Coach should help users produce a concise summary of what they learned, which tool they used, what risk or ethics note applies, and what they will do next.", "This gives the Reports area meaningful input without duplicating report logic."],
+      "uses": ["Copy the Daily Coach summary into Reports or application notes.", "Include knowledge areas reviewed, tools used, bias/risk notes, career alignment, recommended learning path, Core explanation, and next actions.", "Use careful educational language and avoid clinical claims unless working in a qualified professional context."],
+      "skills": ["Professional summarization", "Learning evidence", "Career alignment", "Risk note writing", "Action closeout"],
+      "examples": ["Today I reviewed cognitive psychology and bias risk, used the Cognitive Distortion Analyzer, connected it to UX research and behavioral science, checked consent/privacy boundaries, and chose one portfolio action for my school roadmap.", "Today I compared clinical, counseling, and school psychology pathways, reviewed supervised-hour expectations, named an ethics boundary, and prepared one application bullet about research and communication skills."],
+      "buttons": [{"label": "Copy Report Summary", "target": "copy_report", "reason": "Copy the Core-owned report wording."}, {"label": "Open Reports", "target": "reports", "reason": "Save or export the report."}],
+      "reportOutput": ["Knowledge areas reviewed; Psychology Tools used; bias/risk notes; career/company/application alignment; recommended learning path; Core explanation; next actions; source links reviewed."],
+      "sourceLinks": ["APA Careers: https://www.apa.org/education-career/guide/careers", "BLS Occupational Outlook: https://www.bls.gov/ooh/"]
+    },
+    {
+      "id": "daily_source_links",
+      "title": "Daily Source Links",
+      "category": "Sources",
+      "priority": "Reference",
+      "summary": "Official reference links that support psychology learning, career planning, school preparation, ethical boundaries, and behavioral-health literacy.",
+      "why": ["The user asked for external URLs and deeper content. Source links make Daily Coach more credible while keeping sensitive decisions grounded in recognized organizations.", "Sources should be visible as supporting references, not hidden behind shallow cards."],
+      "uses": ["Open sources when researching a career, preparing an application, designing a project, checking ethics, or reviewing mental-health literacy.", "Use official pages first, then compare with school or employer-specific guidance manually."],
+      "skills": ["Source evaluation", "Career research", "Ethics review", "Education planning", "Application preparation"],
+      "examples": ["Use APA career pages to compare psychology pathways before choosing a major or project.", "Use BLS and O*NET to understand role descriptions, education, work activities, and labor-market context."],
+      "buttons": [{"label": "Open Reports", "target": "reports", "reason": "Document sources reviewed."}],
+      "reportOutput": ["Source review completed: official psychology, education, career, ethics, and behavioral-health references checked for today's learning action."],
+      "sourceLinks": ["APA Education and Career: https://www.apa.org/education-career", "APA Ethics Code: https://www.apa.org/ethics/code", "BLS Psychologists: https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm", "O*NET Psychologists: https://www.onetonline.org/link/summary/19-3033.00", "NIMH Mental Health Information: https://www.nimh.nih.gov/health", "CDC Mental Health: https://www.cdc.gov/mental-health/", "CareerOneStop: https://www.careeronestop.org/", "College Board AP Psychology: https://apstudents.collegeboard.org/courses/ap-psychology", "Common App: https://www.commonapp.org/"]
+    }
+  ]
 }

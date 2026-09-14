@@ -341,6 +341,10 @@ main.section {
   align-items: start;
 }
 
+.book-feature + .book-feature {
+  margin-top: 4rem;
+}
+
 .book-cover img {
   width: 100%;
   max-width: 240px;

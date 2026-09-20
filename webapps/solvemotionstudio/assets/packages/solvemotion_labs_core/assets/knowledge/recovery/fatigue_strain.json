@@ -1,0 +1,29 @@
+{
+  "domain": "recovery",
+  "category": "fatigue_strain",
+  "version": "1.0.0",
+  "entries": [
+    {
+      "id": "fatigue_strain_001",
+      "name": "Fatigue load",
+      "summary": "Fatigue load reflects accumulated strain, reduced readiness, or incomplete recovery.",
+      "evidenceSignals": [
+        "fatigue",
+        "strain",
+        "readiness_drop"
+      ],
+      "coreRecommendationBias": "Use conservative recommendations when fatigue evidence is high and recovery evidence is incomplete."
+    },
+    {
+      "id": "fatigue_strain_002",
+      "name": "Strain recovery mismatch",
+      "summary": "A mismatch between high strain and low recovery increases uncertainty and should trigger missing-evidence review.",
+      "evidenceSignals": [
+        "high_strain",
+        "low_recovery",
+        "trend_volatility"
+      ],
+      "coreRecommendationBias": "Explain why recovery evidence may not support higher-intensity action."
+    }
+  ]
+}

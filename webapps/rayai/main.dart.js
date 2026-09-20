@@ -26379,37 +26379,38 @@ s=1
 break
 case 1:return A.I(q,r)}})
 return A.J($async$a3R,r)},
-aDo(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r){return new A.ef(f,q,l,o,p,d,h,n,m,a,c,k,e,b,j,i,r)},
+aDo(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s){return new A.ef(f,r,m,p,q,d,i,o,n,a,c,l,e,b,k,g,j,s)},
 aOq(a){return A.aOp(a)},
-aOp(a4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a=a4.h(0,"metrics"),a0=t.j,a1=a0.b(a)?a:B.fk,a2=a4.h(0,"workflowLinks"),a3=a0.b(a2)?a2:B.fk
-a0=A.dX(a4.h(0,"id"))
-s=A.dX(a4.h(0,"title"))
-r=A.dX(a4.h(0,"routeName"))
-q=A.dX(a4.h(0,"status"))
-p=A.dX(a4.h(0,"summary"))
-o=A.dX(a4.h(0,"health"))
-n=A.dX(a4.h(0,"lastVerified"))
-m=A.dX(a4.h(0,"sourceType"))
-l=A.dX(a4.h(0,"sourcePath"))
-k=A.dX(a4.h(0,"action"))
-j=A.dX(a4.h(0,"category"))
-i=A.aI1(a4.h(0,"priority"))
-h=A.dX(a4.h(0,"healthReason"))
-g=A.dX(a4.h(0,"lastGreen"))
-f=A.aI1(a4.h(0,"blockerCount"))
-e=A.dX(a4.h(0,"nextActionLabel"))
-d=t.P
-c=J.xp(a1,d)
-c=A.hu(c,A.aXP(),c.$ti.i("p.E"),t.By)
-b=A.l(c).i("a3<p.E>")
-c=A.U(new A.a3(c,new A.a3S(),b),b.i("p.E"))
+aOp(a5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0=a5.h(0,"metrics"),a1=t.j,a2=a1.b(a0)?a0:B.fk,a3=a5.h(0,"workflowLinks"),a4=a1.b(a3)?a3:B.fk
+a1=A.dX(a5.h(0,"id"))
+s=A.dX(a5.h(0,"title"))
+r=A.dX(a5.h(0,"routeName"))
+q=A.dX(a5.h(0,"status"))
+p=A.dX(a5.h(0,"summary"))
+o=A.dX(a5.h(0,"health"))
+n=A.dX(a5.h(0,"lastVerified"))
+m=A.dX(a5.h(0,"sourceType"))
+l=A.dX(a5.h(0,"sourcePath"))
+k=A.dX(a5.h(0,"action"))
+j=A.dX(a5.h(0,"category"))
+i=A.aI1(a5.h(0,"priority"))
+h=A.dX(a5.h(0,"healthReason"))
+g=A.dX(a5.h(0,"lastGreen"))
+f=A.aI1(a5.h(0,"blockerCount"))
+e=A.dX(a5.h(0,"nextActionLabel"))
+d=J.d(a5.h(0,"isVisibleOnHome"),!1)
+c=t.P
+b=J.xp(a2,c)
+b=A.hu(b,A.aXP(),b.$ti.i("p.E"),t.By)
+a=A.l(b).i("a3<p.E>")
+b=A.U(new A.a3(b,new A.a3S(),a),a.i("p.E"))
+b.$flags=1
+c=J.xp(a4,c)
+c=A.hu(c,A.aXR(),c.$ti.i("p.E"),t.Bu)
+a=A.l(c).i("a3<p.E>")
+c=A.U(new A.a3(c,new A.a3T(),a),a.i("p.E"))
 c.$flags=1
-d=J.xp(a3,d)
-d=A.hu(d,A.aXR(),d.$ti.i("p.E"),t.Bu)
-b=A.l(d).i("a3<p.E>")
-d=A.U(new A.a3(d,new A.a3T(),b),b.i("p.E"))
-d.$flags=1
-return A.aDo(k,f,j,o,h,a0,g,n,c,e,i,r,l,m,q,p,s,d)},
+return A.aDo(k,f,j,o,h,a1,!d,g,n,b,e,i,r,l,m,q,p,s,c)},
 aOo(a){return new A.l9(A.dX(a.h(0,"label")),A.dX(a.h(0,"value")))},
 aOr(a){return new A.la(A.dX(a.h(0,"label")),A.dX(a.h(0,"routeName")),A.dX(a.h(0,"description")))},
 dX(a){if(typeof a=="string")return a
@@ -26420,7 +26421,7 @@ if(typeof a=="number")return B.d.aK(a)
 if(typeof a=="string"){s=A.qx(B.c.aE(a),null)
 return s==null?0:s}return 0},
 L1:function L1(a){this.d=a},
-ef:function ef(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q){var _=this
+ef:function ef(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r){var _=this
 _.a=a
 _.b=b
 _.c=c
@@ -26437,7 +26438,8 @@ _.as=m
 _.ax=n
 _.ay=o
 _.ch=p
-_.CW=q},
+_.CW=q
+_.cx=r},
 a3S:function a3S(){},
 a3T:function a3T(){},
 l9:function l9(a,b){this.a=a
@@ -90356,7 +90358,7 @@ l=A.IR(a,"Support & Contact")
 k=e.b
 j=A.R("Website: solvemotionlabs.com",h,h,h,A.hL(h,h,k,h,B.fT,h,h,h,h,h,h,h,h,h,h,h,h,!0,h,h,h,h,h,h,h,h),h,h)
 i=A.R(g,h,h,h,h,h,h)
-return A.ja(d,A.BX(!0,A.lw(A.b([b,B.by,c,B.K,B.n0,B.c1,B.f4,B.c1,s,B.a49,B.a3L,B.a4f,B.a3S,B.c1,B.f4,B.c1,r,q,B.c1,B.f4,B.c1,p,B.a3m,B.c1,B.f4,B.c1,o,m,B.c1,B.f4,B.c1,l,j,B.K,B.a3Q,B.K,i,B.AN,A.hi(A.b6(A.b([new A.zK(A.aRW(h,h,new A.xP("assets/images/solvemotion_labs_qr.png",h,h)),180,"SolveMotion Labs QR code",h),B.K,A.R("Follow SolveMotion Labs on Instagram",h,h,h,A.hL(h,h,k,h,B.fT,h,h,h,h,h,h,h,h,h,h,h,h,!0,h,h,h,h,h,h,h,h),h,h)],n),B.aG,B.m,B.p),h,h),B.AN],n),B.f8),B.au,!0))},
+return A.ja(d,A.BX(!0,A.lw(A.b([b,B.by,c,B.K,B.n0,B.c1,B.f4,B.c1,s,B.a49,B.a3M,B.a4f,B.a3T,B.c1,B.f4,B.c1,r,q,B.c1,B.f4,B.c1,p,B.a3m,B.c1,B.f4,B.c1,o,m,B.c1,B.f4,B.c1,l,j,B.K,B.a3R,B.K,i,B.AN,A.hi(A.b6(A.b([new A.zK(A.aRW(h,h,new A.xP("assets/images/solvemotion_labs_qr.png",h,h)),180,"SolveMotion Labs QR code",h),B.K,A.R("Follow SolveMotion Labs on Instagram",h,h,h,A.hL(h,h,k,h,B.fT,h,h,h,h,h,h,h,h,h,h,h,h,!0,h,h,h,h,h,h,h,h),h,h)],n),B.aG,B.m,B.p),h,h),B.AN],n),B.f8),B.au,!0))},
 $S:217}
 A.xr.prototype={
 am(){var s=$.kN(),r=$.ar()
@@ -90416,7 +90418,7 @@ break}n.a6(new A.alw(n))
 case 1:return A.I(q,r)
 case 2:return A.H(o.at(-1),r)}})
 return A.J($async$yv,r)},
-G(a){var s,r,q,p,o,n,m,l,k=null,j=A.iz(k,B.a3V),i=this.c
+G(a){var s,r,q,p,o,n,m,l,k=null,j=A.iz(k,B.a3W),i=this.c
 i.toString
 s=A.G(i)
 r=s.ax
@@ -90440,7 +90442,7 @@ yO(a,b,c){return this.GS(a,b,c,1,!1)},
 akb(a,b,c,d){return this.GS(a,b,c,1,d)},
 aka(a,b,c,d){return this.GS(a,b,c,d,!1)},
 aa4(){var s,r,q,p,o=this,n=null,m=t.p
-m=A.b([A.dv(B.a5,A.b([A.ic(B.Jr,B.a3s,o.gaiY()),A.ic(B.Jp,B.a4i,o.ga7V())],m),8,8),B.ag],m)
+m=A.b([A.dv(B.a5,A.b([A.ic(B.Jr,B.a3t,o.gaiY()),A.ic(B.Jp,B.a4i,o.ga7V())],m),8,8),B.ag],m)
 for(s=o.z,r=0;r<10;++r){q=B.l1[r]
 p=A.R(q.b,n,n,n,n,n,n)
 m.push(A.a2_(B.au,n,n,new A.alt(o,q),A.R(q.c,n,n,n,n,n,n),p,s.m(0,q.a)))}return new A.ap(B.f7,A.aDX(n,A.b6(m,B.da,B.m,B.p),B.K_,!1,!1,!1,!1,n,n),n)},
@@ -90451,7 +90453,7 @@ n=a.f
 r=A.i2(n?B.ID:B.I8,o,o,o)
 q=A.R(a.c+" - "+a.d,o,o,o,o,o,o)
 p=A.R("Tenant: "+a.a+"\nUsername: "+a.e+"\nFolders: "+m+"\nLast login: "+s,o,o,o,o,o,o)
-return A.bB(A.azn(!1,o,o,o,!0,o,o,o,!0,!0,r,o,o,o,o,o,!1,o,o,o,p,o,q,o,n?A.aA3(B.a3X,new A.als(this,a),o):B.a47,o),o,o,o,B.Hr,o)}}
+return A.bB(A.azn(!1,o,o,o,!0,o,o,o,!0,!0,r,o,o,o,o,o,!1,o,o,o,p,o,q,o,n?A.aA3(B.a3Y,new A.als(this,a),o):B.a47,o),o,o,o,B.Hr,o)}}
 A.alz.prototype={
 $0(){var s=this.c,r=this.a.z
 if(this.b)r.F(0,s)
@@ -90475,7 +90477,7 @@ A.alw.prototype={
 $0(){this.a.as="Client tenant saved. Their dashboard will show only the selected ecosystem folders."},
 $S:0}
 A.alD.prototype={
-$2(a,b){var s=null,r=this.a,q=r.GC(B.O3,"RayAI security model"),p=t.p,o=r.GC(A.b([r.yO(r.e,"Tenant ID","tenant_acme_motion"),r.yO(r.f,"Client name","Jane Client"),r.yO(r.r,"Company name","Acme Motion Lab"),r.yO(r.w,"Client email / username","client@example.com"),r.akb(r.x,"Client password","Temporary client password",!0),B.by,r.aa4(),r.aka(r.y,"Notes","Client scope notes",3),new A.Q1(r.Q,new A.alB(r),B.a3F,B.au,s),B.J,A.a5x(B.Jo,B.a46,r.gais()),B.ag,A.R(r.as,s,s,s,s,s,s)],p),"Client tenant setup"),n=A.nj(r.d.c,t.Il),m=A.Q(n).i("V<1,e>")
+$2(a,b){var s=null,r=this.a,q=r.GC(B.O3,"RayAI security model"),p=t.p,o=r.GC(A.b([r.yO(r.e,"Tenant ID","tenant_acme_motion"),r.yO(r.f,"Client name","Jane Client"),r.yO(r.r,"Company name","Acme Motion Lab"),r.yO(r.w,"Client email / username","client@example.com"),r.akb(r.x,"Client password","Temporary client password",!0),B.by,r.aa4(),r.aka(r.y,"Notes","Client scope notes",3),new A.Q1(r.Q,new A.alB(r),B.a3G,B.au,s),B.J,A.a5x(B.Jo,B.a46,r.gais()),B.ag,A.R(r.as,s,s,s,s,s,s)],p),"Client tenant setup"),n=A.nj(r.d.c,t.Il),m=A.Q(n).i("V<1,e>")
 n=A.U(new A.V(n,new A.alC(r),m),m.i("a6.E"))
 return A.lw(A.b([q,B.bO,o,B.bO,r.GC(n,"Current clients")],p),B.f8)},
 $S:565}
@@ -90544,7 +90546,7 @@ l(){var s=this.e
 s.O$=$.ar()
 s.M$=0
 this.aG()},
-G(a){var s,r,q,p,o,n=this,m=null,l=A.G(a),k=$.kN().d,j=A.iz(m,B.a3r),i=A.bv(a,B.aN,t.w).w,h=k==null?m:k.c
+G(a){var s,r,q,p,o,n=this,m=null,l=A.G(a),k=$.kN().d,j=A.iz(m,B.a3s),i=A.bv(a,B.aN,t.w).w,h=k==null?m:k.c
 if(h==null)h="No active tenant"
 s=l.ok
 r=t.p
@@ -90558,7 +90560,7 @@ ajW(a){var s,r,q=null,p=A.R("Suggested Questions",q,q,q,a.ok.w,q,q),o=t.p,n=A.b(
 for(s=0;s<7;++s){r=B.NZ[s]
 n.push(new A.IU(A.R(r,q,q,q,q,q,q),new A.amd(this,r),q))}return A.bB(new A.ap(B.R,A.b6(A.b([p,B.ag,A.dv(B.a5,n,8,8)],o),B.q,B.m,B.p),q),q,q,q,q,q)},
 aiw(a){var s,r=null,q=A.b([A.R("Saved Workspaces",r,r,r,a.ok.w,r,r),B.K],t.p)
-if(J.oQ(this.w))q.push(B.a3Z)
+if(J.oQ(this.w))q.push(B.a4_)
 else for(s=J.bt(this.w);s.v();)q.push(this.aix(a,s.gN()))
 return A.bB(new A.ap(B.R,A.b6(q,B.q,B.m,B.p),r),r,r,r,r,r)},
 aix(a,b){var s,r,q,p,o,n,m,l=this,k=null,j=a.ax,i=j.to
@@ -90573,7 +90575,7 @@ p=A.R(b.e,k,k,k,k,k,k)
 o=A.R("Handoff: "+b.Q,k,k,k,k,k,k)
 n=A.R("Evidence links: "+b.r.length,k,k,k,k,k,k)
 m=A.i2(s?B.p6:B.pa,k,k,k)
-return new A.ap(B.Ht,A.iH(new A.ap(B.cO,A.b6(A.b([q,B.aK,p,B.by,o,n,B.K,A.dv(B.a5,A.b([A.ic(m,A.R(s?"Unpin":"Pin",k,k,k,k,k,k),new A.am9(l,b)),A.ic(B.Jc,B.a3I,new A.ama(l,b)),A.ic(B.Jk,B.a3R,new A.amb(l,b)),A.ic(B.JA,B.a3Y,new A.amc(l,b))],r),8,8)],r),B.q,B.m,B.p),k),new A.cD(k,k,j,i,k,k,B.as),B.bt),k)},
+return new A.ap(B.Ht,A.iH(new A.ap(B.cO,A.b6(A.b([q,B.aK,p,B.by,o,n,B.K,A.dv(B.a5,A.b([A.ic(m,A.R(s?"Unpin":"Pin",k,k,k,k,k,k),new A.am9(l,b)),A.ic(B.Jc,B.a3J,new A.ama(l,b)),A.ic(B.Jk,B.a3S,new A.amb(l,b)),A.ic(B.JA,B.a3Z,new A.amc(l,b))],r),8,8)],r),B.q,B.m,B.p),k),new A.cD(k,k,j,i,k,k,B.as),B.bt),k)},
 a6H(a,b){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=a.ok,g=t.p,f=A.b([A.R(b.b,i,i,i,h.r,i,i),B.aK,A.R(b.a,i,i,i,i,i,i),B.J,j.xe(a,"What RayAI Found",b.c),j.xe(a,"Why RayAI Reached This",b.d),A.dv(B.a5,A.b([A.e_(i,A.R("Confidence: "+b.f,i,i,i,i,i,i),i),A.e_(i,A.R("Freshness: "+b.r,i,i,i,i,i,i),i),A.e_(i,A.R("Context: "+b.w,i,i,i,i,i,i),i)],g),8,8),B.J,A.R("Evidence References",i,i,i,h.w,i,i),B.K],g)
 for(s=b.e,r=s.length,h=h.x,q=a.ax,p=q.to,o=q.p,q=q.k3,n=0;n<s.length;s.length===r||(0,A.t)(s),++n){m=s[n]
 if(p==null)l=o==null?q:o
@@ -90583,7 +90585,7 @@ l=new A.aB(8,8)
 f.push(new A.ap(B.dX,new A.yI(new A.cD(i,i,new A.dy(k,k,k,k),new A.cx(l,l,l,l),i,i,B.as),B.bt,new A.ap(B.cO,A.b6(A.b([A.R(m.w,i,i,i,h,i,i),B.by,A.R(m.x,i,i,i,i,i,i),B.aK,A.R("Source: "+m.d,i,i,i,i,i,i),A.R("Scope: "+m.r,i,i,i,i,i,i),A.R("Confidence: "+m.f,i,i,i,i,i,i),A.R("Freshness: "+m.gXL(),i,i,i,i,i,i)],g),B.q,B.m,B.p),i),i),i))}f.push(j.xe(a,"Incomplete Data / Unknowns",b.y))
 f.push(j.xe(a,"Conflicting Evidence",b.z))
 f.push(B.J)
-f.push(A.dv(B.a5,A.b([A.ic(B.J8,B.a3N,s.length===0?i:new A.alZ(j,b)),A.ic(B.Jd,B.a3U,new A.am_(j,b)),A.ic(B.Jq,B.a3y,new A.am0(j,b)),A.ic(B.Jz,B.a3C,new A.am1(j,b)),A.ic(B.Ji,B.a3M,new A.am2(j,b))],g),8,8))
+f.push(A.dv(B.a5,A.b([A.ic(B.J8,B.a3O,s.length===0?i:new A.alZ(j,b)),A.ic(B.Jd,B.a3V,new A.am_(j,b)),A.ic(B.Jq,B.a3z,new A.am0(j,b)),A.ic(B.Jz,B.a3D,new A.am1(j,b)),A.ic(B.Ji,B.a3N,new A.am2(j,b))],g),8,8))
 return A.bB(new A.ap(B.R,A.b6(f,B.q,B.m,B.p),i),i,i,i,B.f7,i)},
 xe(a,b,c){var s,r,q=null,p=t.p,o=A.b([A.R(b,q,q,q,a.ok.w,q,q),B.aK],p)
 for(s=c.length,r=0;r<c.length;c.length===s||(0,A.t)(c),++r)o.push(new A.ap(B.Hs,A.e7(A.b([B.hX,B.dC,new A.ld(1,B.dg,A.R(c[r],q,q,q,q,q,q),q)],p),B.q,B.m,B.p,0),q))
@@ -90818,7 +90820,7 @@ $S:16}
 A.KS.prototype={
 G(a){return A.eh(new A.a3t(),new A.ds().dV(),t.v)}}
 A.a3t.prototype={
-$2(a,b){var s,r="doctrine",q="/doctrine-reasoning",p=A.aDo("Open doctrine reasoning",0,"","green","",r,"","Pending contract refresh",B.Oz,"",0,q,"assets/ecosystem_status.json","fallback","Rules","Doctrine reasoning and project rule visibility.","Doctrine",B.OA),o=b.b,n=o==null,m=n?null:o.a.h8(r)
+$2(a,b){var s,r="doctrine",q="/doctrine-reasoning",p=A.aDo("Open doctrine reasoning",0,"","green","",r,!0,"","Pending contract refresh",B.Oz,"",0,q,"assets/ecosystem_status.json","fallback","Rules","Doctrine reasoning and project rule visibility.","Doctrine",B.OA),o=b.b,n=o==null,m=n?null:o.a.h8(r)
 if(m==null)m=n?null:o.a.d5(q)
 s=m==null?p:m
 o=b.a===B.bb?"Loading contract":s.d
@@ -90833,7 +90835,7 @@ s=h?j:i.c
 if(s==null)s=0
 r=A.G(a)
 h=A.bv(a,B.aN,t.w).w
-q=A.iz(j,B.a3p)
+q=A.iz(j,B.a3q)
 p=r.ok
 o=A.R("Whole Ecosystem Diagram",j,j,j,p.f,j,j)
 p=A.R("RayAI is the command visibility layer for the SolveMotion Labs ecosystem. It reads inspected evidence, explains status, and keeps execution boundaries clear.",j,j,j,p.z,j,j)
@@ -90890,7 +90892,7 @@ m=m==null?p:m.b===B.bw
 if(m===!0)n.push(A.zG(p,p,B.Ju,p,p,new A.aqh(a),p,p,"Admin client tenant setup"))
 n.push(A.zG(p,p,B.Jf,p,p,new A.aqi(a),p,p,"About RayAI"))
 n.push(A.zG(p,p,B.Jl,p,p,new A.aqj(a),p,p,"Sign out"))
-n=A.iz(n,B.a3w)
+n=A.iz(n,B.a3x)
 s=q.d
 if(s===$){r=$.aL0().dV()
 q.d!==$&&A.al()
@@ -90933,7 +90935,8 @@ A.aqe.prototype={
 $2(a,b){return new A.w5(this.a[b],null)},
 $S:574}
 A.aqa.prototype={
-$1(a){return this.a.uE(A.Bi(A.ayr(a.c)))},
+$1(a){var s=A.Bi(A.ayr(a.c))
+return a.ch&&this.a.uE(s)},
 $S:90}
 A.aqb.prototype={
 $2(a,b){var s=B.e.aX(a.Q,b.Q)
@@ -91040,7 +91043,7 @@ if(g.e==null){s=1
 break}i=null
 switch(j.a.a){case 0:i="Your RayAI session is no longer authenticated. Sign in again."
 break
-case 1:i="Your RayAI account is not authorized to open SolveMotion Labs Studio."
+case 1:i="Your RayAI account is not authorized to open SolveStudio."
 break
 case 2:i="Your RayAI session has expired. Sign in again."
 break
@@ -91061,7 +91064,7 @@ case 2:return A.H(o.at(-1),r)}})
 return A.J($async$$0,r)},
 $S:18}
 A.aoh.prototype={
-$2(a,a0){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=a0.d<148,g=j.a,f=g.c,e=f.ch,d=h?1:2,c=t.S,b=A.cV(e,0,A.et(d,"count",c),A.Q(e).c).d6(0,!1)
+$2(a,a0){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=a0.d<148,g=j.a,f=g.c,e=f.CW,d=h?1:2,c=t.S,b=A.cV(e,0,A.et(d,"count",c),A.Q(e).c).d6(0,!1)
 e=j.b
 d=A.l2(i,B.H,new A.cD(e,i,i,i,i,i,B.jB),7,i,i,7)
 s=f.z
@@ -91091,8 +91094,8 @@ if(g&&b.length!==0){d=A.b([],n)
 for(s=b.length,k=0;k<b.length;b.length===s||(0,A.t)(b),++k)d.push(new A.UC(b[k],i))
 B.b.P(e,A.b([B.K,A.dv(B.mB,d,4,5)],n))}if(g){if(p)d=i
 else{d=m.rx
-d=q.aoB(d==null?m.k3:d,1.18)}B.b.P(e,A.b([B.K,A.R(j.e,2,B.av,i,d,B.dE,i)],n))}if(g&&f.CW.length!==0){g=A.b([],n)
-for(f=f.CW,f=A.cV(f,0,A.et(2,"count",c),A.Q(f).c),c=f.$ti,f=new A.aK(f,f.gD(0),c.i("aK<a6.E>")),c=c.i("a6.E");f.v();){d=f.d
+d=q.aoB(d==null?m.k3:d,1.18)}B.b.P(e,A.b([B.K,A.R(j.e,2,B.av,i,d,B.dE,i)],n))}if(g&&f.cx.length!==0){g=A.b([],n)
+for(f=f.cx,f=A.cV(f,0,A.et(2,"count",c),A.Q(f).c),c=f.$ti,f=new A.aK(f,f.gD(0),c.i("aK<a6.E>")),c=c.i("a6.E");f.v();){d=f.d
 g.push(new A.YZ(d==null?c.a(d):d,i))}e.push(new A.ap(B.Hv,A.dv(B.mB,g,6,6),i))}return A.b6(e,B.aG,B.lk,B.p)},
 $S:576}
 A.YZ.prototype={
@@ -91181,7 +91184,7 @@ A.hz(m).ZU("/",new A.asK(),t.X)
 case 1:return A.I(q,r)}})
 return A.J($async$uj,r)},
 G(a){var s=this,r=null,q=A.iz(r,B.Bg),p=A.D7(r,B.PE,s.d,B.JZ,!0,1,r,!1,r,r,B.mg),o=A.D7(r,B.Pk,s.e,B.JY,!0,1,r,!0,r,new A.asL(s),B.mf),n=s.r,m=n?r:s.gajV()
-return A.ja(q,A.BX(!0,A.azU(A.hi(new A.ex(B.Dn,A.bB(new A.ap(B.os,new A.xQ(A.b6(A.b([B.a4_,B.ag,B.a45,B.Z2,p,B.iT,o,B.Z1,new A.zh(!1,m,r,r,r,r,B.H,r,!1,r,!0,r,A.R(n?"Checking...":"Login",r,r,r,r,r,r),r),B.iT,A.R(s.f,r,r,r,r,r,r),B.bO,B.a43],t.p),B.da,B.m,B.cd),r),r),r,r,r,r,r),r),r,r),B.zX,B.HE,B.aO),B.au,!0))}}
+return A.ja(q,A.BX(!0,A.azU(A.hi(new A.ex(B.Dn,A.bB(new A.ap(B.os,new A.xQ(A.b6(A.b([B.a40,B.ag,B.a45,B.Z2,p,B.iT,o,B.Z1,new A.zh(!1,m,r,r,r,r,B.H,r,!1,r,!0,r,A.R(n?"Checking...":"Login",r,r,r,r,r,r),r),B.iT,A.R(s.f,r,r,r,r,r,r),B.bO,B.a43],t.p),B.da,B.m,B.cd),r),r),r,r,r,r,r),r),r,r),B.zX,B.HE,B.aO),B.au,!0))}}
 A.asI.prototype={
 $0(){var s=this.a
 s.r=!0
@@ -91253,7 +91256,7 @@ s=this.e
 s.O$=r
 s.M$=0
 this.aG()},
-G(a){var s=this,r=null,q=B.c.aE("psecu").toLowerCase(),p=A.aRz(q),o=p?"%LOCALAPPDATA%\\RayAI\\psecu\\credential-manifests\\"+q+".json":"",n=A.b([new A.ig("tenantScope","PSECU tenant scope",p?B.ae:B.af,"Tenant id is normalized and must remain scoped to the PSECU ecosystem."),B.VL,B.VN,B.VP,B.VM,B.VO,B.VQ],t.M5),m=B.b.gce($.a_v().Mc(B.lU)),l=A.iz(r,B.a3o),k=A.bv(a,B.aN,t.w).w,j=t.p,i=A.bB(new A.ap(B.R,A.b6(A.b([B.Jg,B.J,A.R("PSECU Test Run Setup",r,r,r,A.G(a).ok.f,r,r),B.K,A.R("Tenant-scoped automation setup for "+m.b+". PSECU users can select testing and security lanes for their website without seeing the rest of the SolveMotion ecosystem.",r,r,r,r,r,r),B.J,A.dv(B.a5,B.Pw,8,8)],j),B.q,B.m,B.p),r),r,r,r,B.a4,r)
+G(a){var s=this,r=null,q=B.c.aE("psecu").toLowerCase(),p=A.aRz(q),o=p?"%LOCALAPPDATA%\\RayAI\\psecu\\credential-manifests\\"+q+".json":"",n=A.b([new A.ig("tenantScope","PSECU tenant scope",p?B.ae:B.af,"Tenant id is normalized and must remain scoped to the PSECU ecosystem."),B.VL,B.VN,B.VP,B.VM,B.VO,B.VQ],t.M5),m=B.b.gce($.a_v().Mc(B.lU)),l=A.iz(r,B.a3p),k=A.bv(a,B.aN,t.w).w,j=t.p,i=A.bB(new A.ap(B.R,A.b6(A.b([B.Jg,B.J,A.R("PSECU Test Run Setup",r,r,r,A.G(a).ok.f,r,r),B.K,A.R("Tenant-scoped automation setup for "+m.b+". PSECU users can select testing and security lanes for their website without seeing the rest of the SolveMotion ecosystem.",r,r,r,r,r,r),B.J,A.dv(B.a5,B.Pw,8,8)],j),B.q,B.m,B.p),r),r,r,r,B.a4,r)
 n=new A.ae9(q,u.K,"test-digital.psecu.com",10,o,"C:\\src\\RayAI\\tools\\Register-PsecuCredential.ps1","C:\\src\\RayAI\\tools\\Invoke-PsecuReadinessDefectReport.ps1",n,B.pC).garB()?"Executable":"Approval gated"
 j=A.b([i,A.aGZ(a,B.IP,A.b(["Application id: "+m.a+".","Target host: test-digital.psecu.com.","Login route: https://test-digital.psecu.com/apps/PSECUOLB/#_frmLogin.","Approved local credential slots: 10.","Run readiness: "+n+".","RayAI prepares the tenant-scoped request and result report; the approved local runner owns browser execution and evidence capture."],t.s),"PSECU Digital Platform"),s.ak8(a),s.a8C(a),s.aik(a)],j)
 n=s.y
@@ -91272,14 +91275,14 @@ for(m=m.c,s=0;s<15;++s){r=m[s]
 q=l.m(0,r.a)
 p=A.R(r.b,o,o,o,o,o,o)
 k.push(A.a2_(B.au,B.i2,!0,new A.asq(this,r),A.R(r.c+"\n"+r.x,o,o,o,o,o,o),p,q))}return A.bB(new A.ap(B.R,A.b6(k,B.q,B.m,B.p),o),o,o,o,B.a4,o)},
-a8C(a){var s=this,r=null,q=t.p,p=A.e7(A.b([B.J9,B.iS,A.jR(A.b6(A.b([A.R("PSECU Test Account Credentials",r,r,r,A.G(a).ok.w,r,r),B.by,B.a3q],q),B.q,B.m,B.p))],q),B.q,B.m,B.p,0),o=A.D7(r,B.n,s.d,B.K1,!0,1,r,!1,new A.asf(s),r,B.mg),n=s.r,m=n?"Show password":"Hide password"
+a8C(a){var s=this,r=null,q=t.p,p=A.e7(A.b([B.J9,B.iS,A.jR(A.b6(A.b([A.R("PSECU Test Account Credentials",r,r,r,A.G(a).ok.w,r,r),B.by,B.a3r],q),B.q,B.m,B.p))],q),B.q,B.m,B.p,0),o=A.D7(r,B.n,s.d,B.K1,!0,1,r,!1,new A.asf(s),r,B.mg),n=s.r,m=n?"Show password":"Hide password"
 return A.bB(new A.ap(B.R,A.b6(A.b([p,B.iT,o,B.J,A.D7(!1,B.n,s.e,A.azg(r,B.dv,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Test account password",!0,!0,!1,r,B.Jx,r,r,r,r,r,r,A.zG(r,r,A.i2(n?B.J0:B.J_,r,r,r),r,r,new A.asg(s),r,r,m),r,r,r,r,r),!1,1,r,n,new A.ash(s),r,r)],q),B.q,B.m,B.p),r),r,r,r,B.a4,r)},
 aik(a){var s=this,r="Run Automation Report",q=null,p=A.R(r,q,q,q,A.G(a).ok.w,q,q),o=s.f.a!==0&&B.c.aE(s.d.a.a).length!==0&&s.e.a.a.length!==0&&!s.w?new A.asm(s,a):q,n=s.w,m=n?B.m9:B.ph
 return A.bB(new A.ap(B.R,A.b6(A.b([p,B.K,B.a4a,B.J,A.a5x(m,A.R(n?"Running Automation Report":r,q,q,q,q,q,q),o),B.J,A.R(s.x,q,q,q,q,q,q)],t.p),B.q,B.m,B.p),q),q,q,q,B.a4,q)},
 aio(a,b){var s=null,r="Required",q=b.a,p=A.R("PSECU Test Run Report Ready",s,s,s,A.G(a).ok.w,s,s),o=A.e_(s,A.R("Run "+q.b.a,s,s,s,s,s,s),s),n=q.c.length,m=t.p
 n=A.dv(B.a5,A.b([o,A.e_(s,A.R(""+n+" testing lanes",s,s,s,s,s,s),s),A.e_(s,A.R(""+n*q.d.length+" scoped checks",s,s,s,s,s,s),s),A.e_(s,A.R(""+q.r.length+" gates",s,s,s,s,s,s),s)],m),8,8)
 o=A.kB(a,"Credential username","The username is held only in the current screen state and is not written into RayAI source, doctrine, test assets, web output, or baseline files.",b.d?"Provided":r)
-return A.bB(new A.ap(B.R,A.b6(A.b([p,B.ag,n,B.J,o,A.kB(a,"Password","The password is masked in the form, omitted from the report, and must be consumed only by the approved local runner or credential vault workflow.",b.e?"Provided and redacted":r),A.kB(a,"Target application","PSECU Digital Banking at test-digital.psecu.com; no other ecosystem apps are included for the PSECU tenant.","Scoped"),B.K,A.ic(B.pk,B.a3G,new A.asn(this,a,b))],m),B.q,B.m,B.p),s),s,s,s,B.a4,s)},
+return A.bB(new A.ap(B.R,A.b6(A.b([p,B.ag,n,B.J,o,A.kB(a,"Password","The password is masked in the form, omitted from the report, and must be consumed only by the approved local runner or credential vault workflow.",b.e?"Provided and redacted":r),A.kB(a,"Target application","PSECU Digital Banking at test-digital.psecu.com; no other ecosystem apps are included for the PSECU tenant.","Scoped"),B.K,A.ic(B.pk,B.a3H,new A.asn(this,a,b))],m),B.q,B.m,B.p),s),s,s,s,B.a4,s)},
 ajm(a,b){this.a6(new A.aso(this,b,a))},
 Ou(){var s=this
 if(s.y==null){s.a6(new A.asc())
@@ -91459,7 +91462,7 @@ return new A.T1(s.gWL(),s.gapd())}}
 A.T1.prototype={
 G(a){return A.eh(new A.aoY(this),$.aKV(),t.v)},
 a6T(a){var s,r,q,p,o,n,m,l,k=this,j=null,i=A.G(a),h=k.w,g=i.ok,f=g.x,e=t.p
-g=A.b([A.R("Automation Bootstrap",j,j,j,g.w,j,j),B.K,B.a3H,B.J,A.R("Test type details",j,j,j,f,j,j),B.aK],e)
+g=A.b([A.R("Automation Bootstrap",j,j,j,g.w,j,j),B.K,B.a3I,B.J,A.R("Test type details",j,j,j,f,j,j),B.aK],e)
 for(s=$.kO().c,r=k.d,q=0;q<15;++q){p=s[q]
 o=r.m(0,p.a)
 n=A.R(p.b,j,j,j,j,j,j)
@@ -91528,7 +91531,7 @@ s=new A.a3(n,new A.aoR(),A.Q(n).i("a3<1>")).gD(0)
 n=p.ok
 l=t.p
 k=n.x
-return A.bB(new A.ap(B.R,A.b6(A.b([A.e7(A.b([B.Jy,B.AL,A.jR(A.b6(A.b([A.R("Executive Test Report",r,r,r,n.w,r,r),B.by,B.a3W],l),B.q,B.m,B.p))],l),B.q,B.m,B.p,0),B.J,A.dv(B.a5,B.LO,8,8),B.iT,A.dv(B.a5,A.b([A.h4(a,B.oW,"Apps in scope",B.e.k(o)),A.h4(a,B.hV,"Testing lanes",B.e.k(m)),A.h4(a,B.IW,"Security lanes",B.e.k(s)),A.h4(a,B.p5,"Live results","0"),A.h4(a,B.hW,"Approval gates",B.e.k(j))],l),10,10),B.bO,A.R("Report coverage summary",r,r,r,k,r,r),B.K,A.fj(a,"Unit Testing","Package-level checks are reflected in the report across the selected ecosystem apps.",q),A.fj(a,"Integration Testing","Route, contract, asset, and Core 12 display-boundary coverage is represented for executive review.",q),A.fj(a,"Functional testing","Tenant dashboard, report navigation, and app visibility workflows are included in the client-facing report.",q),A.fj(a,"Negative / boundary testing","Access denial, invalid input, tenant isolation, and blocked-command scenarios remain approval-gated.","Guarded"),A.fj(a,"Load and performance testing","Timing, responsiveness, and regression-performance lanes appear when selected.","Selectable"),B.bO,A.R("Security testing coverage",r,r,r,k,r,r),B.K,A.fj(a,"SAST + SCA development gate","Static analysis and dependency vulnerability review are positioned before release packaging so code and third-party risk are visible early.","Recommended"),A.fj(a,"DAST + IAST runtime gate","Dynamic and interactive checks require a running test environment or instrumented app session owned by the approved local runner.","Runtime gated"),A.fj(a,"API and application penetration coverage","API, web, mobile, and manual penetration testing can be tracked in the report, but final results require authorized evidence from a security tester or approved tool.","Approval gated"),A.fj(a,"Network, cloud, and social engineering coverage","Infrastructure, cloud permissions, and employee-facing social engineering tests are shown as scoped lanes and must remain explicitly approved before execution.","Authorized only"),B.J,A.R("Client-facing conclusion",r,r,r,k,r,r),B.aK,B.a4d],l),B.q,B.m,B.p),r),r,r,r,B.a4,r)}}
+return A.bB(new A.ap(B.R,A.b6(A.b([A.e7(A.b([B.Jy,B.AL,A.jR(A.b6(A.b([A.R("Executive Test Report",r,r,r,n.w,r,r),B.by,B.a3X],l),B.q,B.m,B.p))],l),B.q,B.m,B.p,0),B.J,A.dv(B.a5,B.LO,8,8),B.iT,A.dv(B.a5,A.b([A.h4(a,B.oW,"Apps in scope",B.e.k(o)),A.h4(a,B.hV,"Testing lanes",B.e.k(m)),A.h4(a,B.IW,"Security lanes",B.e.k(s)),A.h4(a,B.p5,"Live results","0"),A.h4(a,B.hW,"Approval gates",B.e.k(j))],l),10,10),B.bO,A.R("Report coverage summary",r,r,r,k,r,r),B.K,A.fj(a,"Unit Testing","Package-level checks are reflected in the report across the selected ecosystem apps.",q),A.fj(a,"Integration Testing","Route, contract, asset, and Core 12 display-boundary coverage is represented for executive review.",q),A.fj(a,"Functional testing","Tenant dashboard, report navigation, and app visibility workflows are included in the client-facing report.",q),A.fj(a,"Negative / boundary testing","Access denial, invalid input, tenant isolation, and blocked-command scenarios remain approval-gated.","Guarded"),A.fj(a,"Load and performance testing","Timing, responsiveness, and regression-performance lanes appear when selected.","Selectable"),B.bO,A.R("Security testing coverage",r,r,r,k,r,r),B.K,A.fj(a,"SAST + SCA development gate","Static analysis and dependency vulnerability review are positioned before release packaging so code and third-party risk are visible early.","Recommended"),A.fj(a,"DAST + IAST runtime gate","Dynamic and interactive checks require a running test environment or instrumented app session owned by the approved local runner.","Runtime gated"),A.fj(a,"API and application penetration coverage","API, web, mobile, and manual penetration testing can be tracked in the report, but final results require authorized evidence from a security tester or approved tool.","Approval gated"),A.fj(a,"Network, cloud, and social engineering coverage","Infrastructure, cloud permissions, and employee-facing social engineering tests are shown as scoped lanes and must remain explicitly approved before execution.","Authorized only"),B.J,A.R("Client-facing conclusion",r,r,r,k,r,r),B.aK,B.a4d],l),B.q,B.m,B.p),r),r,r,r,B.a4,r)}}
 A.aoY.prototype={
 $2(a1,a2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=null,e="Finds and records ecosystem bugs, classifies risk, and waits for approval before fixes.",d="Not reported",c=A.aU0(a2.b),b=a2.c!=null,a=c==null,a0=A.ok(a?f:c.b,"Ecosystem Testing / Bug Intelligence")
 if(a2.a===B.bb)s="Loading contract"
@@ -91627,7 +91630,7 @@ A.w8.prototype={
 G(a){var s,r=this,q=null,p=r.c,o=p.c,n=p.d,m=o.length*n.length,l=B.d.aK(m*0.72),k=B.d.aK(m*0.2),j=new A.a3(o,new A.ap3(),A.Q(o).i("a3<1>")).gD(0),i=new A.a3(n,new A.ap4(),A.Q(n).i("a3<1>")).gD(0),h=A.iz(q,B.a4m),g=A.bv(a,B.aN,t.w).w
 p=p.b
 s=t.p
-return A.ja(h,A.lw(A.b([A.bB(new A.ap(B.R,A.b6(A.b([B.pj,B.J,A.R("SolveMotion Labs Testing Readout",q,q,q,A.G(a).ok.f,q,q),B.K,A.R("RayAI generated an executive report for "+n.length+" apps, "+o.length+" testing lanes, "+j+" security lanes, and "+m+" scoped checks.",q,q,q,q,q,q),B.J,A.dv(B.a5,A.b([B.nv,B.EZ,A.e_(q,A.R("Run "+p.a,q,q,q,q,q,q),q)],s),8,8)],s),B.q,B.m,B.p),q),q,q,q,B.a4,q),A.bB(new A.ap(B.R,A.dv(B.a5,A.b([A.h4(a,B.p0,"Passed checks",B.e.k(l)),A.h4(a,B.p3,"Needs review",B.e.k(k)),A.h4(a,B.hW,"Approval gated",B.e.k(m-l-k)),A.h4(a,B.p7,"App gates",B.e.k(i))],s),10,10),q),q,q,q,B.a4,q),r.aim(a),r.a9G(a),r.ai7(a),r.a7l(a),r.ai6(a),r.a6M(a),A.bB(new A.ap(B.R,A.b6(A.b([A.R("Evidence and Certification",q,q,q,A.G(a).ok.w,q,q),B.K,A.R("Evidence root: "+p.x,q,q,q,q,q,q),B.K,B.a3A],s),B.q,B.m,B.p),q),q,q,q,B.au,q)],s),new A.as(16,16,16,32+g.r.d)))},
+return A.ja(h,A.lw(A.b([A.bB(new A.ap(B.R,A.b6(A.b([B.pj,B.J,A.R("SolveMotion Labs Testing Readout",q,q,q,A.G(a).ok.f,q,q),B.K,A.R("RayAI generated an executive report for "+n.length+" apps, "+o.length+" testing lanes, "+j+" security lanes, and "+m+" scoped checks.",q,q,q,q,q,q),B.J,A.dv(B.a5,A.b([B.nv,B.EZ,A.e_(q,A.R("Run "+p.a,q,q,q,q,q,q),q)],s),8,8)],s),B.q,B.m,B.p),q),q,q,q,B.a4,q),A.bB(new A.ap(B.R,A.dv(B.a5,A.b([A.h4(a,B.p0,"Passed checks",B.e.k(l)),A.h4(a,B.p3,"Needs review",B.e.k(k)),A.h4(a,B.hW,"Approval gated",B.e.k(m-l-k)),A.h4(a,B.p7,"App gates",B.e.k(i))],s),10,10),q),q,q,q,B.a4,q),r.aim(a),r.a9G(a),r.ai7(a),r.a7l(a),r.ai6(a),r.a6M(a),A.bB(new A.ap(B.R,A.b6(A.b([A.R("Evidence and Certification",q,q,q,A.G(a).ok.w,q,q),B.K,A.R("Evidence root: "+p.x,q,q,q,q,q,q),B.K,B.a3B],s),B.q,B.m,B.p),q),q,q,q,B.au,q)],s),new A.as(16,16,16,32+g.r.d)))},
 aim(a){var s,r,q,p,o,n=null,m=this.c.e,l=A.b([A.R("Run Package Preview",n,n,n,A.G(a).ok.w,n,n),B.ag,A.fj(a,"Run Package Handoff",""+m.length+" orchestrator-owned stages are ready for local review. RayAI does not execute this package.","Prepared"),B.K],t.p)
 for(m=A.cV(m,0,A.et(8,"count",t.S),A.Q(m).c),s=m.$ti,m=new A.aK(m,m.gD(0),s.i("aK<a6.E>")),s=s.i("a6.E");m.v();){r=m.d
 if(r==null)r=s.a(r)
@@ -92196,7 +92199,7 @@ r.toString
 q=A.aRa(r,o)}if(q)return s.c
 o=A.iz(p,B.Bg)
 s=s.f
-return A.ja(o,A.hi(new A.ex(B.Do,A.bB(new A.ap(B.os,A.b6(A.b([B.a3T,B.J,A.R(s==null?"This RayAI area is protected. Sign in with an authorized admin or client account.":s,p,p,p,p,p,p),B.bO,B.a3t],t.p),B.q,B.m,B.cd),p),p,p,p,p,p),p),p,p))},
+return A.ja(o,A.hi(new A.ex(B.Do,A.bB(new A.ap(B.os,A.b6(A.b([B.a3U,B.J,A.R(s==null?"This RayAI area is protected. Sign in with an authorized admin or client account.":s,p,p,p,p,p,p),B.bO,B.a3u],t.p),B.q,B.m,B.cd),p),p,p,p,p,p),p),p,p))},
 $S:79}
 A.v9.prototype={}
 A.abp.prototype={
@@ -96194,19 +96197,19 @@ B.d7=new A.tk(1,"isTrue")
 B.hb=new A.tk(2,"isFalse")
 B.dT=new A.tk(3,"mixed")
 B.EV=new A.tm(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a3P=new A.aU("Evidence status: Required",null,null,null,null,null,null,null,null)
+B.a3Q=new A.aU("Evidence status: Required",null,null,null,null,null,null,null,null)
 B.H=new A.tv(0,"none")
-B.EW=new A.dZ(null,B.a3P,null,null)
-B.a3O=new A.aU("Release signal: Conditional green",null,null,null,null,null,null,null,null)
-B.EZ=new A.dZ(null,B.a3O,null,null)
+B.EW=new A.dZ(null,B.a3Q,null,null)
+B.a3P=new A.aU("Release signal: Conditional green",null,null,null,null,null,null,null,null)
+B.EZ=new A.dZ(null,B.a3P,null,null)
 B.a4e=new A.aU("Evidence backed",null,null,null,null,null,null,null,null)
 B.F0=new A.dZ(null,B.a4e,null,null)
-B.a3B=new A.aU("Risk posture: Controlled",null,null,null,null,null,null,null,null)
-B.nv=new A.dZ(null,B.a3B,null,null)
-B.a3D=new A.aU("No auto execution",null,null,null,null,null,null,null,null)
-B.F3=new A.dZ(null,B.a3D,null,null)
-B.a3J=new A.aU("RayAI render-only",null,null,null,null,null,null,null,null)
-B.F9=new A.dZ(null,B.a3J,null,null)
+B.a3C=new A.aU("Risk posture: Controlled",null,null,null,null,null,null,null,null)
+B.nv=new A.dZ(null,B.a3C,null,null)
+B.a3E=new A.aU("No auto execution",null,null,null,null,null,null,null,null)
+B.F3=new A.dZ(null,B.a3E,null,null)
+B.a3K=new A.aU("RayAI render-only",null,null,null,null,null,null,null,null)
+B.F9=new A.dZ(null,B.a3K,null,null)
 B.eO=new A.dz(0,B.x)
 B.Fc=new A.JY(B.lB)
 B.Xb=new A.qV(2,"clear")
@@ -96900,7 +96903,7 @@ B.ae=new A.em(0,"waiting")
 B.bF=new A.em(10,"coverageGap")
 B.vF=new A.bg(B.ii,[B.ae,B.ae,B.ae,B.ae,B.bF],t.EZ)
 B.Lv=s(["directProcessExecutionFromRayAI","baselineCreation","phonePush","macHandoff","productionPublish"],t.s)
-B.Uz=new A.d3("rayai","RayAI","C:\\src\\RayAI","6.0.0+35",B.PO,B.Lm,B.vF,B.Lv)
+B.Uz=new A.d3("rayai","RayAI","C:\\src\\RayAI","6.0.0+37",B.PO,B.Lm,B.vF,B.Lv)
 B.OH=s(["C:\\src\\Build-SolveMotion.ps1"],t.s)
 B.NK=s(["pubspec.yaml exists","analysis_options.yaml exists","test directory exists with 0 files","build script validates Version 6.0"],t.s)
 B.RF=new A.bg(B.ii,[B.ae,B.ae,B.bF,B.ae,B.bF],t.EZ)
@@ -96952,17 +96955,6 @@ B.Uw=new A.d3("command_center","Command Center","C:\\src\\CommandCenter","6.0",B
 B.l0=s([B.Uz,B.UB,B.UC,B.UA,B.UF,B.Ux,B.UD,B.UE,B.Uy,B.Uw],A.ah("w<d3>"))
 B.KC=s([239,191,189],t.t)
 B.KF=s(["RayAI prepares the tenant-scoped automation request and shows exactly what would run.","RayAI web does not directly start PowerShell, build scripts, browser automation, phone pushes, Git, or production publishing.","The local orchestrator must own execution, evidence folders, result.json, stdout, stderr, CSV, HTML, and bug report artifacts.","A test cannot display Passed without canonical execution evidence from the orchestrator result data."],t.s)
-B.W_=new A.fd("solvemotion","SolveMotion","Movement app intelligence and reports.")
-B.VX=new A.fd("solvemotionstudio","SolveMotion Labs Studio","Governed software creation and project orchestration.")
-B.VU=new A.fd("solvepharmacy","SolvePharmacy","Pharmacy app intelligence and education status.")
-B.VY=new A.fd("solvecrime","SolveCrime","Case, scene, evidence, and report intelligence.")
-B.VW=new A.fd("solvemind","SolveMind","Cognitive app intelligence and readiness.")
-B.VS=new A.fd("solveoura","SolveOura","Guarded in-progress wearable app visibility.")
-B.VT=new A.fd("core12","Core 12","Render-only Core 12 output visibility.")
-B.VZ=new A.fd("ask_rayai","Ask RayAI","Tenant-scoped evidence-backed conversational workspace.")
-B.VV=new A.fd("website","Website / RayAI Web Portal","Website and portal visibility for the tenant.")
-B.VR=new A.fd("business_process","Business Process / Workflow","Tenant workflow coverage and evidence visibility.")
-B.l1=s([B.W_,B.VX,B.VU,B.VY,B.VW,B.VS,B.VT,B.VZ,B.VV,B.VR],A.ah("w<fd>"))
 B.L8=s([4,9,14,19],t.t)
 B.Pf=s([137,80,78,71,13,10,26,10],t.Z)
 B.JI=new A.n3(0,"png")
@@ -97014,12 +97006,12 @@ B.aU=new A.m3(4,"start")
 B.iV=new A.m3(5,"end")
 B.LK=s([B.cU,B.ep,B.dE,B.fS,B.aU,B.iV],A.ah("w<m3>"))
 B.LM=s(["Settings visibility only.","No environment, security, build, or external service setting is changed here."],t.s)
-B.a3x=new A.aU("Executive view",null,null,null,null,null,null,null,null)
-B.F1=new A.dZ(null,B.a3x,null,null)
+B.a3y=new A.aU("Executive view",null,null,null,null,null,null,null,null)
+B.F1=new A.dZ(null,B.a3y,null,null)
 B.a4j=new A.aU("Sales ready",null,null,null,null,null,null,null,null)
 B.F5=new A.dZ(null,B.a4j,null,null)
-B.a40=new A.aU("Evidence gated",null,null,null,null,null,null,null,null)
-B.F6=new A.dZ(null,B.a40,null,null)
+B.a41=new A.aU("Evidence gated",null,null,null,null,null,null,null,null)
+B.F6=new A.dZ(null,B.a41,null,null)
 B.LO=s([B.F1,B.F5,B.F6],t.p)
 B.Mz=s([2,1.13276676],t.n)
 B.KN=s([2.18349805,1.20311921],t.n)
@@ -97042,8 +97034,8 @@ B.Mf=s([B.bz,B.b6,B.ci],A.ah("w<ky>"))
 B.pC=s(["RayAI web and Android display readiness only and do not read Windows Credential Manager.","RayAI web and Android do not open the PSECU website, start a browser, or run local automation.","Credential manifests may contain tenant id, slot labels, count, and timestamp only; no account ids, usernames, passwords, tokens, cookies, or browser state.","Passed and Failed PSECU results require future local orchestrator evidence, not RayAI inference."],t.s)
 B.Mm=s(["No financial aggregator credential entry is performed by this screen.","This screen provides display-only workflow evidence; file transfer, scheduled transfer jobs, and downstream booking actions remain outside this screen.","No core-system boarding action or staging update action is performed by this screen.","No duplicate business logic, Core 12 scoring, or external system automation is implemented in this screen."],t.s)
 B.Jm=new A.bU(B.fe,18,null,null,null)
-B.a41=new A.aU("Admin controlled",null,null,null,null,null,null,null,null)
-B.EX=new A.dZ(B.Jm,B.a41,null,null)
+B.a42=new A.aU("Admin controlled",null,null,null,null,null,null,null,null)
+B.EX=new A.dZ(B.Jm,B.a42,null,null)
 B.IN=new A.ao(61586,"MaterialIcons",!1)
 B.Jh=new A.bU(B.IN,18,null,null,null)
 B.a48=new A.aU("Folder scoped",null,null,null,null,null,null,null,null)
@@ -97076,6 +97068,17 @@ B.c3=new A.eI(8,"helperError")
 B.c4=new A.eI(9,"counter")
 B.cY=new A.eI(10,"container")
 B.MG=s([B.aW,B.b7,B.ao,B.bm,B.bn,B.bo,B.ai,B.b1,B.c3,B.c4,B.cY],A.ah("w<eI>"))
+B.W_=new A.fd("solvemotion","SolveMotion","Movement app intelligence and reports.")
+B.VY=new A.fd("solvemotionstudio","SolveStudio","Governed software creation and project orchestration.")
+B.VU=new A.fd("solvepharmacy","SolvePharmacy","Pharmacy app intelligence and education status.")
+B.VX=new A.fd("solvecrime","SolveCrime","Case, scene, evidence, and report intelligence.")
+B.VW=new A.fd("solvemind","SolveMind","Cognitive app intelligence and readiness.")
+B.VS=new A.fd("solveoura","SolveOura","Guarded in-progress wearable app visibility.")
+B.VT=new A.fd("core12","Core 12","Render-only Core 12 output visibility.")
+B.VZ=new A.fd("ask_rayai","Ask RayAI","Tenant-scoped evidence-backed conversational workspace.")
+B.VV=new A.fd("website","Website / RayAI Web Portal","Website and portal visibility for the tenant.")
+B.VR=new A.fd("business_process","Business Process / Workflow","Tenant workflow coverage and evidence visibility.")
+B.l1=s([B.W_,B.VY,B.VU,B.VX,B.VW,B.VS,B.VT,B.VZ,B.VV,B.VR],A.ah("w<fd>"))
 B.Q0=new A.lx("en",null,"US")
 B.pD=s([B.Q0],t.ss)
 B.pE=s([0,41,61,101,131,181,251,301,360],t.n)
@@ -97185,10 +97188,10 @@ B.NZ=s(["What is blocking this release?","Which applications failed their latest
 B.O2=s(["click","scroll"],t.s)
 B.a4h=new A.aU("Admin login opens client tenant setup.",null,null,null,null,null,null,null,null)
 B.aK=new A.d5(null,6,null,null)
-B.a3u=new A.aU("Each client receives a username, password, tenant id, and selected ecosystem folders.",null,null,null,null,null,null,null,null)
-B.a3z=new A.aU("Client login opens a dashboard filtered to that client ecosystem only.",null,null,null,null,null,null,null,null)
-B.a3E=new A.aU("Core 12 output visibility remains render-only. RayAI does not run local scoring.",null,null,null,null,null,null,null,null)
-B.O3=s([B.a4h,B.aK,B.a3u,B.aK,B.a3z,B.aK,B.a3E],t.p)
+B.a3v=new A.aU("Each client receives a username, password, tenant id, and selected ecosystem folders.",null,null,null,null,null,null,null,null)
+B.a3A=new A.aU("Client login opens a dashboard filtered to that client ecosystem only.",null,null,null,null,null,null,null,null)
+B.a3F=new A.aU("Core 12 output visibility remains render-only. RayAI does not run local scoring.",null,null,null,null,null,null,null,null)
+B.O3=s([B.a4h,B.aK,B.a3v,B.aK,B.a3A,B.aK,B.a3F],t.p)
 B.DC=new A.t2()
 B.fG=new A.OU(1,"page")
 B.iz=new A.en(B.b9,B.fG)
@@ -97294,10 +97297,10 @@ B.vQ=new A.hw(8,"symbolModifier")
 B.pK=s([B.e8,B.e9,B.ea,B.eb,B.lp,B.lq,B.lr,B.ls,B.vQ],A.ah("w<hw>"))
 B.a3n=new A.aU("Tenant: PSECU",null,null,null,null,null,null,null,null)
 B.F7=new A.dZ(null,B.a3n,null,null)
-B.a3v=new A.aU("Scope: Web test",null,null,null,null,null,null,null,null)
-B.F2=new A.dZ(null,B.a3v,null,null)
-B.a3K=new A.aU("Credential gated",null,null,null,null,null,null,null,null)
-B.F4=new A.dZ(null,B.a3K,null,null)
+B.a3w=new A.aU("Scope: Web test",null,null,null,null,null,null,null,null)
+B.F2=new A.dZ(null,B.a3w,null,null)
+B.a3L=new A.aU("Credential gated",null,null,null,null,null,null,null,null)
+B.F4=new A.dZ(null,B.a3L,null,null)
 B.a4k=new A.aU("Local runner required",null,null,null,null,null,null,null,null)
 B.F8=new A.dZ(null,B.a4k,null,null)
 B.Pw=s([B.F7,B.F2,B.F4,B.F8],t.p)
@@ -98701,8 +98704,8 @@ B.Z9=new A.km(3,"hide")
 B.a8e=new A.km(4,"remove")
 B.Za=new A.km(5,"timeout")
 B.Zb=new A.vg(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a42=new A.aU("SolveMotion Labs Studio could not be opened.",null,null,null,null,null,null,null,null)
-B.Zc=new A.r2(B.a42,null,null,null,null,null,null,null,null,null,null,null,null,B.on,!1,null,null,null,B.a7,null)
+B.a3o=new A.aU("SolveStudio could not be opened.",null,null,null,null,null,null,null,null)
+B.Zc=new A.r2(B.a3o,null,null,null,null,null,null,null,null,null,null,null,null,B.on,!1,null,null,null,B.a7,null)
 B.AU=new A.CE(0,"permissive")
 B.Zd=new A.CE(1,"normal")
 B.Ze=new A.CE(2,"forced")
@@ -99072,36 +99075,36 @@ B.a2e=new A.n(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,nul
 B.a_n=new A.n(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.h,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.a3l=new A.dU(B.a18,B.a05,B.a19,B.a1B,B.a_M,B.a_U,B.a0p,B.a1w,B.a0B,B.a1X,B.a_g,B.a_y,B.a1U,B.a2e,B.a_n)
 B.a3m=new A.aU("SolveMotion Labs develops governed Applied Intelligence Infrastructure across focused product surfaces, Core 12 deterministic intelligence, RayAI context, and Command Center operations.",null,null,null,null,null,null,null,null)
-B.a3o=new A.aU("PSECU Testing",null,null,null,null,null,null,null,null)
-B.a3p=new A.aU("Ecosystem",null,null,null,null,null,null,null,null)
-B.a3q=new A.aU("Enter an approved test username and password for this run request. Password values remain masked, are not saved, and are not displayed in the report.",null,null,null,null,null,null,null,null)
-B.a3r=new A.aU("Ask RayAI",null,null,null,null,null,null,null,null)
-B.a3s=new A.aU("Select all",null,null,null,null,null,null,null,null)
-B.a3t=new A.aU("Unauthenticated public access is blocked by design.",null,null,null,null,null,null,null,null)
-B.a3w=new A.aU("RayAI",null,null,null,null,null,null,null,null)
-B.a3y=new A.aU("Pin Finding",null,null,null,null,null,null,null,null)
-B.a3A=new A.aU("This report is generated from the selected RayAI scope for executive review. Production certification requires canonical local orchestrator evidence before any result is treated as final.",null,null,null,null,null,null,null,null)
-B.a3C=new A.aU("Add to Decision Log",null,null,null,null,null,null,null,null)
-B.a3F=new A.aU("Client active",null,null,null,null,null,null,null,null)
-B.a3G=new A.aU("Open PSECU Results",null,null,null,null,null,null,null,null)
-B.a3H=new A.aU("Choose testing lanes and ecosystem apps for the next orchestrator-owned run report. RayAI web prepares the request and report; the secure local orchestrator must run it on this computer.",null,null,null,null,null,null,null,null)
-B.a3I=new A.aU("Export Summary",null,null,null,null,null,null,null,null)
-B.a3L=new A.aU("- Provides tenant, admin, release, testing, and business visibility",null,null,null,null,null,null,null,null)
-B.a3M=new A.aU("Create Follow-up",null,null,null,null,null,null,null,null)
-B.a3N=new A.aU("Open Source Record",null,null,null,null,null,null,null,null)
-B.a3Q=new A.aU("Email: ray3639@comcast.net",null,null,null,null,null,null,null,null)
-B.a3R=new A.aU("Archive",null,null,null,null,null,null,null,null)
-B.a3S=new A.aU("- Keeps RayAI response references available to governed Studio workflows",null,null,null,null,null,null,null,null)
+B.a3p=new A.aU("PSECU Testing",null,null,null,null,null,null,null,null)
+B.a3q=new A.aU("Ecosystem",null,null,null,null,null,null,null,null)
+B.a3r=new A.aU("Enter an approved test username and password for this run request. Password values remain masked, are not saved, and are not displayed in the report.",null,null,null,null,null,null,null,null)
+B.a3s=new A.aU("Ask RayAI",null,null,null,null,null,null,null,null)
+B.a3t=new A.aU("Select all",null,null,null,null,null,null,null,null)
+B.a3u=new A.aU("Unauthenticated public access is blocked by design.",null,null,null,null,null,null,null,null)
+B.a3x=new A.aU("RayAI",null,null,null,null,null,null,null,null)
+B.a3z=new A.aU("Pin Finding",null,null,null,null,null,null,null,null)
+B.a3B=new A.aU("This report is generated from the selected RayAI scope for executive review. Production certification requires canonical local orchestrator evidence before any result is treated as final.",null,null,null,null,null,null,null,null)
+B.a3D=new A.aU("Add to Decision Log",null,null,null,null,null,null,null,null)
+B.a3G=new A.aU("Client active",null,null,null,null,null,null,null,null)
+B.a3H=new A.aU("Open PSECU Results",null,null,null,null,null,null,null,null)
+B.a3I=new A.aU("Choose testing lanes and ecosystem apps for the next orchestrator-owned run report. RayAI web prepares the request and report; the secure local orchestrator must run it on this computer.",null,null,null,null,null,null,null,null)
+B.a3J=new A.aU("Export Summary",null,null,null,null,null,null,null,null)
+B.a3M=new A.aU("- Provides tenant, admin, release, testing, and business visibility",null,null,null,null,null,null,null,null)
+B.a3N=new A.aU("Create Follow-up",null,null,null,null,null,null,null,null)
+B.a3O=new A.aU("Open Source Record",null,null,null,null,null,null,null,null)
+B.a3R=new A.aU("Email: ray3639@comcast.net",null,null,null,null,null,null,null,null)
+B.a3S=new A.aU("Archive",null,null,null,null,null,null,null,null)
+B.a3T=new A.aU("- Keeps RayAI response references available to governed Studio workflows",null,null,null,null,null,null,null,null)
 B.a1l=new A.n(!0,null,null,null,null,null,24,B.bJ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a3T=new A.aU("Access required",null,B.a1l,null,null,null,null,null,null)
-B.a3U=new A.aU("Save Conversation",null,null,null,null,null,null,null,null)
-B.a3V=new A.aU("Admin Access - Client Tenant Setup",null,null,null,null,null,null,null,null)
-B.a3W=new A.aU("Client-facing report view for selected apps, testing lanes, security coverage, risk posture, and approval evidence.",null,null,null,null,null,null,null,null)
-B.a3X=new A.aU("Disable",null,null,null,null,null,null,null,null)
-B.a3Y=new A.aU("Delete",null,null,null,null,null,null,null,null)
-B.a3Z=new A.aU("Saved tenant workspaces, pinned findings, exports, and handoff records will appear here.",null,null,null,null,null,null,null,null)
+B.a3U=new A.aU("Access required",null,B.a1l,null,null,null,null,null,null)
+B.a3V=new A.aU("Save Conversation",null,null,null,null,null,null,null,null)
+B.a3W=new A.aU("Admin Access - Client Tenant Setup",null,null,null,null,null,null,null,null)
+B.a3X=new A.aU("Client-facing report view for selected apps, testing lanes, security coverage, risk posture, and approval evidence.",null,null,null,null,null,null,null,null)
+B.a3Y=new A.aU("Disable",null,null,null,null,null,null,null,null)
+B.a3Z=new A.aU("Delete",null,null,null,null,null,null,null,null)
+B.a4_=new A.aU("Saved tenant workspaces, pinned findings, exports, and handoff records will appear here.",null,null,null,null,null,null,null,null)
 B.a07=new A.n(!0,null,null,null,null,null,26,B.bJ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a4_=new A.aU("Sign in to RayAI",null,B.a07,null,null,null,null,null,null)
+B.a40=new A.aU("Sign in to RayAI",null,B.a07,null,null,null,null,null,null)
 B.a2W=new A.n(!0,null,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a43=new A.aU("Production SaaS authentication will replace local seed credentials before production web re-enable.",null,B.a2W,null,null,null,null,null,null)
 B.a44=new A.aU("Ask questions about testing, bugs, release readiness, reports, costs, decisions, builds, and ecosystem status using authorized RayAI evidence.",null,null,null,null,null,null,null,null)

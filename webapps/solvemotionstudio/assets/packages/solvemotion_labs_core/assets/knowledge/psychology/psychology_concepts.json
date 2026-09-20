@@ -1,0 +1,377 @@
+{
+    "schemaVersion":  "1.0",
+    "source":  "SolveMind assets/content/solvemind_content.json",
+    "ownership":  "Core 12.0 Knowledge Domain",
+    "generatedAt":  "2026-05-13T16:55:14",
+    "sections":  {
+                     "clinicalThinking":  [
+                                              {
+                                                  "summary":  "Clinicians use both fast intuition and slow analysis.",
+                                                  "title":  "Pattern Recognition vs Analytical Thinking",
+                                                  "whyItMatters":  [
+                                                                       "Overreliance on intuition increases mistakes.",
+                                                                       "Overanalysis delays decisions.",
+                                                                       "Balanced thinking improves accuracy."
+                                                                   ],
+                                                  "keyIdeas":  [
+                                                                   "Experienced clinicians recognize familiar patterns quickly.",
+                                                                   "Analytical thinking is used when patterns are unclear.",
+                                                                   "Switching modes reduces error."
+                                                               ]
+                                              },
+                                              {
+                                                  "summary":  "Considering multiple possible explanations at once.",
+                                                  "title":  "Differential Thinking",
+                                                  "whyItMatters":  [
+                                                                       "Prevents premature conclusions.",
+                                                                       "Encourages open-minded reasoning.",
+                                                                       "Reduces diagnostic error."
+                                                                   ],
+                                                  "keyIdeas":  [
+                                                                   "Symptoms overlap across many conditions.",
+                                                                   "Clinicians rank possibilities, not pick one early.",
+                                                                   "New information updates the list."
+                                                               ]
+                                              },
+                                              {
+                                                  "summary":  "Medicine operates under uncertainty, not certainty.",
+                                                  "title":  "Probability and Uncertainty",
+                                                  "whyItMatters":  [
+                                                                       "Explains why doctors say \u0027most likely\u0027.",
+                                                                       "Clarifies why tests are not definitive.",
+                                                                       "Improves patient understanding."
+                                                                   ],
+                                                  "keyIdeas":  [
+                                                                   "Few findings are 100% specific.",
+                                                                   "Risk is evaluated, not eliminated.",
+                                                                   "Decisions balance benefit vs harm."
+                                                               ]
+                                              },
+                                              {
+                                                  "summary":  "Statistical likelihood guides reasoning.",
+                                                  "title":  "Common Things Are Common",
+                                                  "whyItMatters":  [
+                                                                       "Prevents chasing unlikely explanations.",
+                                                                       "Improves efficiency and safety.",
+                                                                       "Reduces unnecessary testing."
+                                                                   ],
+                                                  "keyIdeas":  [
+                                                                   "Frequent conditions are considered first.",
+                                                                   "Rare conditions are considered when evidence supports them.",
+                                                                   "Context heavily influences probability."
+                                                               ]
+                                              },
+                                              {
+                                                  "summary":  "Clinicians actively counter known thinking errors.",
+                                                  "title":  "Safeguards Against Cognitive Bias",
+                                                  "whyItMatters":  [
+                                                                       "Humans are predictably biased.",
+                                                                       "Medicine designs systems to reduce error.",
+                                                                       "Awareness improves decision quality."
+                                                                   ],
+                                                  "keyIdeas":  [
+                                                                   "Second opinions reduce bias.",
+                                                                   "Checklists improve consistency.",
+                                                                   "Reflection catches mistakes."
+                                                               ]
+                                              }
+                                          ],
+                     "stressAndCognition":  [
+                                                {
+                                                    "summary":  "Stress activates biological systems designed to protect the body.",
+                                                    "title":  "The Stress Response",
+                                                    "whyItMatters":  [
+                                                                         "Explains physical sensations during stress.",
+                                                                         "Normalizes short-term stress reactions."
+                                                                     ],
+                                                    "keyIdeas":  [
+                                                                     "The stress response prioritizes survival.",
+                                                                     "Energy is redirected toward immediate needs.",
+                                                                     "Non-essential processes are temporarily reduced."
+                                                                 ]
+                                                },
+                                                {
+                                                    "summary":  "Anxiety heightens sensitivity to potential danger.",
+                                                    "title":  "Anxiety and Threat Perception",
+                                                    "whyItMatters":  [
+                                                                         "Explains why anxiety feels convincing.",
+                                                                         "Reduces self-blame for anxious reactions."
+                                                                     ],
+                                                    "keyIdeas":  [
+                                                                     "The brain favors detecting threats over missing them.",
+                                                                     "Ambiguous situations may feel more dangerous.",
+                                                                     "Past experiences shape threat sensitivity."
+                                                                 ]
+                                                },
+                                                {
+                                                    "summary":  "Stress changes how information is processed and remembered.",
+                                                    "title":  "Stress Effects on Attention and Memory",
+                                                    "whyItMatters":  [
+                                                                         "Explains forgetfulness during stress.",
+                                                                         "Clarifies why recall may feel unreliable."
+                                                                     ],
+                                                    "keyIdeas":  [
+                                                                     "Attention narrows under stress.",
+                                                                     "Memory favors emotionally charged information.",
+                                                                     "Details may be missed or distorted."
+                                                                 ]
+                                                },
+                                                {
+                                                    "summary":  "Stress influences judgment and choice patterns.",
+                                                    "title":  "Decision-Making Under Pressure",
+                                                    "whyItMatters":  [
+                                                                         "Explains impulsive or rigid decisions.",
+                                                                         "Normalizes changes in thinking under pressure."
+                                                                     ],
+                                                    "keyIdeas":  [
+                                                                     "Fast decisions are favored over careful analysis.",
+                                                                     "Risk perception may shift.",
+                                                                     "Habitual responses become more likely."
+                                                                 ]
+                                                },
+                                                {
+                                                    "summary":  "Short-term and long-term stress affect cognition differently.",
+                                                    "title":  "Acute vs Chronic Stress",
+                                                    "whyItMatters":  [
+                                                                         "Explains why ongoing stress feels different.",
+                                                                         "Clarifies why rest and context matter."
+                                                                     ],
+                                                    "keyIdeas":  [
+                                                                     "Acute stress is temporary and adaptive.",
+                                                                     "Chronic stress alters baseline cognitive function.",
+                                                                     "Recovery time matters."
+                                                                 ]
+                                                }
+                                            ],
+                     "learningMemoryAttention":  [
+                                                     {
+                                                         "summary":  "Improved performance does not always mean learning has occurred.",
+                                                         "title":  "Learning vs Performance",
+                                                         "whyItMatters":  [
+                                                                              "Explains why cramming feels effective but fades.",
+                                                                              "Clarifies why struggle can support learning."
+                                                                          ],
+                                                         "keyIdeas":  [
+                                                                          "Learning reflects long-term change.",
+                                                                          "Performance can improve temporarily without lasting understanding.",
+                                                                          "Feedback timing affects retention."
+                                                                      ]
+                                                     },
+                                                     {
+                                                         "summary":  "Memories are rebuilt each time they are recalled.",
+                                                         "title":  "Memory Is Reconstructive",
+                                                         "whyItMatters":  [
+                                                                              "Explains false memories.",
+                                                                              "Clarifies why recollections differ between people."
+                                                                          ],
+                                                         "keyIdeas":  [
+                                                                          "Memory is influenced by context and emotion.",
+                                                                          "Details can change over time.",
+                                                                          "Confidence does not equal accuracy."
+                                                                      ]
+                                                     },
+                                                     {
+                                                         "summary":  "Attention is selective and finite.",
+                                                         "title":  "Limits of Attention",
+                                                         "whyItMatters":  [
+                                                                              "Explains mental fatigue.",
+                                                                              "Clarifies why focus feels effortful."
+                                                                          ],
+                                                         "keyIdeas":  [
+                                                                          "Multitasking reduces effectiveness.",
+                                                                          "Attention shifts incur cognitive cost.",
+                                                                          "Salient stimuli capture focus."
+                                                                      ]
+                                                     },
+                                                     {
+                                                         "summary":  "Forgetting is a functional part of memory systems.",
+                                                         "title":  "Why Forgetting Exists",
+                                                         "whyItMatters":  [
+                                                                              "Normalizes forgetting.",
+                                                                              "Reduces anxiety about memory lapses."
+                                                                          ],
+                                                         "keyIdeas":  [
+                                                                          "Forgetting reduces interference.",
+                                                                          "Not all information is retained equally.",
+                                                                          "Memory prioritizes relevance."
+                                                                      ]
+                                                     },
+                                                     {
+                                                         "summary":  "The brain has limits on how much information it can process at once.",
+                                                         "title":  "Cognitive Load",
+                                                         "whyItMatters":  [
+                                                                              "Explains overwhelm.",
+                                                                              "Clarifies why structure improves understanding."
+                                                                          ],
+                                                         "keyIdeas":  [
+                                                                          "Working memory capacity is limited.",
+                                                                          "Complex tasks increase load.",
+                                                                          "Organization reduces cognitive strain."
+                                                                      ]
+                                                     }
+                                                 ],
+                     "emotionRegulation":  [
+                                               {
+                                                   "summary":  "Emotions provide information about internal states and external situations.",
+                                                   "title":  "What Emotions Do",
+                                                   "whyItMatters":  [
+                                                                        "Explains why emotions feel urgent.",
+                                                                        "Normalizes emotional responses."
+                                                                    ],
+                                                   "keyIdeas":  [
+                                                                    "Emotions evolved to guide action.",
+                                                                    "They signal relevance and priority.",
+                                                                    "They influence attention and memory."
+                                                                ]
+                                               },
+                                               {
+                                                   "summary":  "Managing emotion differs from ignoring or eliminating it.",
+                                                   "title":  "Regulation vs Suppression",
+                                                   "whyItMatters":  [
+                                                                        "Clarifies common misunderstandings about emotional control.",
+                                                                        "Explains why suppression can be exhausting."
+                                                                    ],
+                                                   "keyIdeas":  [
+                                                                    "Regulation involves modulating intensity or expression.",
+                                                                    "Suppression blocks expression without addressing experience.",
+                                                                    "Different strategies have different cognitive costs."
+                                                                ]
+                                               },
+                                               {
+                                                   "summary":  "Some emotional processes occur without conscious effort.",
+                                                   "title":  "Automatic and Deliberate Regulation",
+                                                   "whyItMatters":  [
+                                                                        "Explains why regulation feels harder under pressure.",
+                                                                        "Reduces self-blame."
+                                                                    ],
+                                                   "keyIdeas":  [
+                                                                    "Many regulatory processes are automatic.",
+                                                                    "Deliberate regulation requires cognitive resources.",
+                                                                    "Stress reduces regulatory capacity."
+                                                                ]
+                                               },
+                                               {
+                                                   "summary":  "No single emotional response is always appropriate.",
+                                                   "title":  "Why Context Matters",
+                                                   "whyItMatters":  [
+                                                                        "Prevents rigid emotional rules.",
+                                                                        "Encourages contextual understanding."
+                                                                    ],
+                                                   "keyIdeas":  [
+                                                                    "Situational demands shape emotional usefulness.",
+                                                                    "Cultural norms influence expression.",
+                                                                    "Flexibility is central to healthy regulation."
+                                                                ]
+                                               },
+                                               {
+                                                   "summary":  "Emotions and thinking continuously influence each other.",
+                                                   "title":  "Emotion and Cognition",
+                                                   "whyItMatters":  [
+                                                                        "Explains why emotions affect decisions.",
+                                                                        "Integrates emotion with earlier cognition sections."
+                                                                    ],
+                                                   "keyIdeas":  [
+                                                                    "Emotions bias attention and judgment.",
+                                                                    "Cognition can reinterpret emotional meaning.",
+                                                                    "Feedback loops shape experience."
+                                                                ]
+                                               }
+                                           ],
+                     "neuroscienceBasics":  [
+                                                {
+                                                    "summary":  "The brain functions as interconnected systems rather than isolated parts.",
+                                                    "title":  "The Brain as a Network",
+                                                    "whyItMatters":  [
+                                                                         "Prevents oversimplified brain explanations.",
+                                                                         "Aligns neuroscience with psychological complexity."
+                                                                     ],
+                                                    "keyIdeas":  [
+                                                                     "Functions emerge from networks.",
+                                                                     "Multiple regions contribute to most behaviors.",
+                                                                     "Damage or change affects systems, not single abilities."
+                                                                 ]
+                                                },
+                                                {
+                                                    "summary":  "Brain cells communicate through electrical and chemical signals.",
+                                                    "title":  "Neurons and Communication",
+                                                    "whyItMatters":  [
+                                                                         "Explains learning at a biological level.",
+                                                                         "Clarifies why change takes time."
+                                                                     ],
+                                                    "keyIdeas":  [
+                                                                     "Neurons transmit signals, not thoughts.",
+                                                                     "Communication strength changes with experience.",
+                                                                     "Timing and patterns matter more than single signals."
+                                                                 ]
+                                                },
+                                                {
+                                                    "summary":  "Different regions contribute differently to cognition and emotion.",
+                                                    "title":  "Functional Brain Regions",
+                                                    "whyItMatters":  [
+                                                                         "Avoids myth of one-region-one-function.",
+                                                                         "Explains overlapping abilities."
+                                                                     ],
+                                                    "keyIdeas":  [
+                                                                     "Some regions support attention and planning.",
+                                                                     "Others process emotion or memory.",
+                                                                     "Boundaries are not rigid."
+                                                                 ]
+                                                },
+                                                {
+                                                    "summary":  "The brain changes with experience.",
+                                                    "title":  "Neuroplasticity",
+                                                    "whyItMatters":  [
+                                                                         "Supports learning and recovery concepts.",
+                                                                         "Counters fixed-brain myths."
+                                                                     ],
+                                                    "keyIdeas":  [
+                                                                     "Connections strengthen or weaken over time.",
+                                                                     "Plasticity occurs across the lifespan.",
+                                                                     "Change is gradual, not instant."
+                                                                 ]
+                                                },
+                                                {
+                                                    "summary":  "Brain science explains patterns, not certainties.",
+                                                    "title":  "Limits of Neuroscience",
+                                                    "whyItMatters":  [
+                                                                         "Prevents brain-based determinism.",
+                                                                         "Supports ethical interpretation of science."
+                                                                     ],
+                                                    "keyIdeas":  [
+                                                                     "Brain findings are statistical.",
+                                                                     "Individual experiences vary widely.",
+                                                                     "Context matters as much as biology."
+                                                                 ]
+                                                }
+                                            ],
+                     "mindFoundations":  [
+                                             {
+                                                 "summary":  "Understanding perception, attention, memory, and interpretation.",
+                                                 "title":  "How the Brain Processes Information",
+                                                 "keyIdeas":  [
+                                                                  "The brain filters far more information than it processes.",
+                                                                  "Attention is selective and limited.",
+                                                                  "Memory is reconstructive, not a recording."
+                                                              ]
+                                             },
+                                             {
+                                                 "summary":  "How psychological stress manifests physically and cognitively.",
+                                                 "title":  "Stress, Anxiety, and the Nervous System",
+                                                 "keyIdeas":  [
+                                                                  "Fight-or-flight is adaptive but costly when chronic.",
+                                                                  "Stress alters decision-making and memory.",
+                                                                  "Perceived threat matters more than actual threat."
+                                                              ]
+                                             },
+                                             {
+                                                 "summary":  "Why humans make predictable thinking mistakes.",
+                                                 "title":  "Cognitive Bias and Decision Errors",
+                                                 "keyIdeas":  [
+                                                                  "Confirmation bias",
+                                                                  "Availability heuristic",
+                                                                  "Overconfidence bias"
+                                                              ]
+                                             }
+                                         ]
+                 }
+}

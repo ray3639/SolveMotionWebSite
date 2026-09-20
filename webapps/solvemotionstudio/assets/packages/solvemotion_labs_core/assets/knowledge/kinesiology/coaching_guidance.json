@@ -1,0 +1,130 @@
+{
+  "modes": {
+    "coach_now": {
+      "label": "Coach Me Now",
+      "headline": "Turn the latest Core 12 session into one focused coaching action.",
+      "brief": "Use the current movement evidence to choose a clear next step, explain why it matters, and stay inside education-only boundaries.",
+      "actions": [
+        "Name the movement signal that matters most from the latest session.",
+        "Choose one technique or readiness adjustment for the next set.",
+        "Confirm what evidence is still missing before increasing intensity."
+      ],
+      "reflection": "After the action, compare how the movement felt, what changed, and what still needs another observation."
+    },
+    "daily_boost": {
+      "label": "Daily Boost",
+      "headline": "Convert today's readiness into a short movement-science boost.",
+      "brief": "Keep the daily plan simple: one movement focus, one confidence cue, one recovery or preparation check.",
+      "actions": [
+        "Pick one low-friction movement habit for today.",
+        "Use the latest readiness and confidence signals to scale the effort.",
+        "Record one observation that can improve the next Core 12 snapshot."
+      ],
+      "reflection": "At the end of the day, note whether the boost improved confidence, consistency, or movement awareness."
+    }
+  },
+  "profiles": {
+    "Coach": {
+      "label": "Coach",
+      "brief": "Direct cueing, plan adjustment, and athlete communication.",
+      "actions": [
+        "Translate the Core signal into one coaching cue.",
+        "Select the next progression or regression based on control and confidence."
+      ],
+      "lens": "Use short cues, observable movement language, and training-plan decisions."
+    },
+    "Parent": {
+      "label": "Parent",
+      "brief": "Supportive explanation, confidence, and safety boundaries.",
+      "actions": [
+        "Explain the movement focus in plain language.",
+        "Watch for comfort, confidence, and whether professional help is needed."
+      ],
+      "lens": "Keep the guidance calm, practical, and centered on learning and safe participation."
+    },
+    "Student": {
+      "label": "Student",
+      "brief": "Learning vocabulary, observation skill, and portfolio growth.",
+      "actions": [
+        "Write down the key term connected to the movement signal.",
+        "Connect the observation to a class concept or portfolio note."
+      ],
+      "lens": "Make the guidance educational, structured, and easy to study later."
+    },
+    "Teacher": {
+      "label": "Teacher",
+      "brief": "Lesson framing, classroom milestones, and rubric-ready evidence.",
+      "actions": [
+        "Turn the Core signal into one learning objective.",
+        "Ask students to document before-and-after observations."
+      ],
+      "lens": "Frame the output as instruction, assessment evidence, and responsible movement education."
+    },
+    "Clinician": {
+      "label": "Clinician",
+      "brief": "Clear boundaries, observed data, and referral-aware communication.",
+      "actions": [
+        "Separate observed movement facts from clinical conclusions.",
+        "Use the output to support education, referral awareness, or follow-up questions."
+      ],
+      "lens": "Keep the language precise, guarded, and explicit that the app is not diagnosing or treating."
+    },
+    "Adult": {
+      "label": "Adult",
+      "brief": "Practical consistency, readiness, and everyday movement decisions.",
+      "actions": [
+        "Choose the smallest useful action that fits today.",
+        "Scale the effort to readiness instead of forcing a full session."
+      ],
+      "lens": "Make the guidance usable immediately, with simple choices and clear limits."
+    }
+  },
+  "tones": {
+    "auto": {
+      "label": "Auto (engine)",
+      "brief": "Balanced guidance selected from the current evidence.",
+      "actions": [
+        "Let readiness, confidence, and risk signals decide how direct the message should be.",
+        "Keep the next action clear without overstating certainty."
+      ],
+      "voice": "Balanced, evidence-led, and adaptive."
+    },
+    "supportive": {
+      "label": "Supportive",
+      "brief": "Steady, reassuring guidance that builds confidence while staying accurate.",
+      "actions": [
+        "Acknowledge what is working before naming the next adjustment.",
+        "Use one calm cue and one achievable next step."
+      ],
+      "voice": "Warm, clear, and confidence-building."
+    },
+    "encouraging": {
+      "label": "Encouraging",
+      "brief": "Positive momentum with short, confidence-forward coaching.",
+      "actions": [
+        "Highlight progress from the latest session.",
+        "Give a simple challenge that still respects readiness."
+      ],
+      "voice": "Upbeat, concise, and progress-focused."
+    },
+    "motivating": {
+      "label": "Motivating",
+      "brief": "Direct action language for users who want a stronger push.",
+      "actions": [
+        "Call out the next action clearly.",
+        "Use the Core risk and confidence signals to keep intensity responsible."
+      ],
+      "voice": "Direct, energetic, and action-oriented."
+    },
+    "gentleReset": {
+      "label": "Gentle Reset",
+      "brief": "Low-pressure guidance for fatigue, uncertainty, or a reset day.",
+      "actions": [
+        "Reduce the session to one controlled movement check.",
+        "Prioritize breathing, tempo, comfort, and honest observation."
+      ],
+      "voice": "Soft, patient, and recovery-aware."
+    }
+  },
+  "guardrail": "Education-only movement guidance. This output does not diagnose injury, prescribe treatment, or replace a qualified professional."
+}

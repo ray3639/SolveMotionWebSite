@@ -15,6 +15,7 @@
       "action": "Open PSECU web testing readiness, report evidence, and local runner boundaries.",
       "category": "Testing",
       "priority": 47,
+      "isVisibleOnHome": false,
       "healthReason": "PSECU tenant login is scoped to this single testing surface; live website execution remains approval-gated and report-backed. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
       "lastGreen": "2026-08-02",
       "blockerCount": 1,
@@ -1366,21 +1367,21 @@
     },
     {
       "id": "solvemotion_studio",
-      "title": "SolveMotion Labs Studio",
+      "title": "SolveStudio",
       "routeName": "solveMotionStudio",
       "status": "Studio",
-      "summary": "Open the governed SolveMotion Labs Studio project creation and orchestration workspace.",
+      "summary": "Open the governed SolveStudio project creation and orchestration workspace.",
       "health": "green",
       "lastVerified": "2026-09-07",
       "sourceType": "phase_verified_contract",
       "sourcePath": "Studio production web build 6.0.0+6",
-      "action": "Open SolveMotion Labs Studio.",
+      "action": "Open SolveStudio.",
       "category": "Apps",
       "priority": 12,
       "healthReason": "Studio is the governed project creation and orchestration surface. RayAI remains the authentication, tenant, session, authorization, and reasoning owner.",
       "lastGreen": "2026-09-07",
       "blockerCount": 0,
-      "nextActionLabel": "Open SolveMotion Labs Studio.",
+      "nextActionLabel": "Open SolveStudio.",
       "metrics": [
         { "label": "Health", "value": "green" },
         { "label": "Status", "value": "Production" },
@@ -1390,7 +1391,7 @@
         {
           "label": "Open Studio",
           "routeName": "solveMotionStudio",
-          "description": "Open the production SolveMotion Labs Studio workspace."
+          "description": "Open the production SolveStudio workspace."
         }
       ]
     },

@@ -1,0 +1,26 @@
+{
+  "title": "NAPLEX & Licensure Intelligence",
+  "last_updated": "2024",
+  "national_metrics": {
+    "first_time_pass_rate_percent": 78,
+    "repeat_pass_rate_percent": 55,
+    "exam_format": "Computer-based adaptive examination",
+    "administered_by": "National Association of Boards of Pharmacy (NABP)"
+  },
+  "timeline_guidance": [
+    "Apply for Authorization to Test (ATT) early",
+    "Align exam scheduling with residency timelines",
+    "Verify state-specific MPJE requirements"
+  ],
+  "career_implications": [
+    "Licensure required for all pharmacist practice roles",
+    "Residency programs may request proof of licensure timeline",
+    "Board certification follows licensure"
+  ],
+  "official_resources": [
+    {
+      "name": "NABP NAPLEX Overview",
+      "url": "https://nabp.pharmacy/programs/examinations/naplex/"
+    }
+  ]
+}

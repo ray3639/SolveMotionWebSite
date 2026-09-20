@@ -1,0 +1,151 @@
+{
+  "careers": [
+    {
+      "id": "community_pharmacist",
+      "title": "Community Pharmacist",
+      "overview": "Works directly with patients in retail or outpatient settings to dispense medications, provide counseling, and ensure safe medication use.",
+      "settings": [
+        "Retail pharmacies",
+        "Grocery stores",
+        "Independent pharmacies"
+      ],
+      "skills": [
+        "Patient communication",
+        "Medication safety",
+        "Workflow management",
+        "Clinical judgment"
+      ],
+      "education": [
+        "Doctor of Pharmacy (PharmD)",
+        "State licensure",
+        "Continuing education"
+      ]
+    },
+    {
+      "id": "hospital_pharmacist",
+      "title": "Hospital Pharmacist",
+      "overview": "Supports inpatient care teams by managing medication therapy, verifying orders, and advising clinicians.",
+      "settings": [
+        "Hospitals",
+        "Health systems",
+        "Specialty clinics"
+      ],
+      "skills": [
+        "Clinical decision-making",
+        "Interdisciplinary collaboration",
+        "Medication reconciliation"
+      ],
+      "education": [
+        "Doctor of Pharmacy (PharmD)",
+        "Residency (preferred)",
+        "Board certification (optional)"
+      ]
+    }
+  ],
+  "employers": [
+    {
+      "sector": "Retail & Community",
+      "organizations": [
+        "CVS Health",
+        "Walgreens",
+        "Rite Aid",
+        "Independent Community Pharmacies"
+      ]
+    },
+    {
+      "sector": "Hospitals & Health Systems",
+      "organizations": [
+        "Academic Medical Centers",
+        "Regional Hospitals",
+        "Integrated Health Systems"
+      ]
+    },
+    {
+      "sector": "Industry & Corporate",
+      "organizations": [
+        "Pharmaceutical Manufacturers",
+        "Health Insurance Providers",
+        "Pharmacy Benefit Managers (PBMs)"
+      ]
+    },
+    {
+      "sector": "Government & Public Health",
+      "organizations": [
+        "Veterans Health Administration",
+        "Public Health Departments",
+        "Regulatory Agencies"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Clinical",
+      "items": [
+        "Medication therapy management",
+        "Drug interaction assessment",
+        "Patient counseling",
+        "Clinical documentation"
+      ]
+    },
+    {
+      "category": "Operational",
+      "items": [
+        "Workflow optimization",
+        "Inventory management",
+        "Regulatory compliance",
+        "Quality assurance"
+      ]
+    },
+    {
+      "category": "Communication",
+      "items": [
+        "Patient education",
+        "Interdisciplinary collaboration",
+        "Conflict resolution",
+        "Clear documentation"
+      ]
+    },
+    {
+      "category": "Analytical",
+      "items": [
+        "Clinical judgment",
+        "Risk assessment",
+        "Problem solving",
+        "Attention to detail"
+      ]
+    }
+  ],
+  "hiring": {
+    "pipeline": [
+      {
+        "step": "Application Submission",
+        "description": "Candidate submits application highlighting education, licensure status, and relevant experience."
+      },
+      {
+        "step": "Credential Review",
+        "description": "Employer verifies licensure eligibility, education, and basic qualifications."
+      },
+      {
+        "step": "Interview",
+        "description": "Structured interviews focusing on clinical judgment, communication, and workflow scenarios."
+      },
+      {
+        "step": "Final Selection",
+        "description": "Candidate is selected based on fit, readiness, and organizational needs."
+      }
+    ],
+    "signalsEmployersLookFor": [
+      "Clear communication skills",
+      "Understanding of medication safety",
+      "Professional judgment",
+      "Reliability and attention to detail"
+    ],
+    "whatHelpsCandidatesStandOut": [
+      "Relevant rotations or residency experience",
+      "Strong references",
+      "Demonstrated teamwork",
+      "Comfort with real-world workflows"
+    ],
+    "notes": "Hiring processes vary by employer and setting. This information is educational and not a guarantee of employment."
+  }
+}

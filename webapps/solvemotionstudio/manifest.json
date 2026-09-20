@@ -1,6 +1,6 @@
 {
-    "name": "solvemotion_studio",
-    "short_name": "solvemotion_studio",
+    "name": "SolveStudio",
+    "short_name": "SolveStudio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

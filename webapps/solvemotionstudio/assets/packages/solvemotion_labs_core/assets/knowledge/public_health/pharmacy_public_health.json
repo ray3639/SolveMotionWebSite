@@ -1,0 +1,43 @@
+{
+    "scope":  "education-only",
+    "entries":  [
+                    {
+                        "summary":  "Widely used analgesic and antipyretic with extensive population-level safety monitoring.",
+                        "compound_id":  "cmp_acetaminophen",
+                        "authority":  "CDC",
+                        "population_notes":  "Public health agencies track aggregate usage patterns to identify trends related to liver safety and unintentional overuse."
+                    },
+                    {
+                        "summary":  "Included in many over-the-counter and prescription products with established regulatory guidance.",
+                        "compound_id":  "cmp_acetaminophen",
+                        "authority":  "FDA",
+                        "population_notes":  "Regulatory advisories emphasize labeling standards and population-level risk reduction."
+                    },
+                    {
+                        "summary":  "Nonsteroidal anti-inflammatory drug monitored globally for general safety trends.",
+                        "compound_id":  "cmp_ibuprofen",
+                        "authority":  "WHO",
+                        "population_notes":  "Global surveillance focuses on cardiovascular and gastrointestinal patterns across populations."
+                    },
+                    {
+                        "summary":  "Frequently studied in population health research due to widespread use.",
+                        "compound_id":  "cmp_ibuprofen",
+                        "authority":  "NIH",
+                        "population_notes":  "Research synthesis evaluates aggregate outcomes and usage trends."
+                    },
+                    {
+                        "summary":  "Common stimulant present in foods, beverages, and supplements.",
+                        "compound_id":  "cmp_caffeine",
+                        "authority":  "CDC",
+                        "population_notes":  "Public health monitoring examines consumption patterns, especially in adolescents and adults."
+                    },
+                    {
+                        "summary":  "Regulated as a food additive and dietary component.",
+                        "compound_id":  "cmp_caffeine",
+                        "authority":  "FDA",
+                        "population_notes":  "Education focuses on awareness of stimulant intake across consumer products."
+                    }
+                ],
+    "version":  "1.0",
+    "notes":  "Population-level public health information. Not medical advice."
+}

@@ -1,0 +1,58 @@
+{
+    "schemaVersion":  "1.0",
+    "source":  "SolveMind assets/content/solvemind_content.json",
+    "ownership":  "Core 12.0 Knowledge Domain",
+    "generatedAt":  "2026-05-13T16:55:14",
+    "psychologyGlossary":  [
+                               {
+                                   "term":  "Cognition",
+                                   "whyItMatters":  "Cognition underlies thinking, memory, decision-making, and perception.",
+                                   "definition":  "The mental processes involved in acquiring, processing, and using information."
+                               },
+                               {
+                                   "term":  "Emotion",
+                                   "whyItMatters":  "Emotions influence attention, memory, and behavior.",
+                                   "definition":  "A complex psychological and physiological response to meaningful events."
+                               },
+                               {
+                                   "term":  "Stress",
+                                   "whyItMatters":  "Stress alters cognition, emotion, and physical functioning.",
+                                   "definition":  "A biological and psychological response to perceived demands or threats."
+                               },
+                               {
+                                   "term":  "Anxiety",
+                                   "whyItMatters":  "Anxiety affects perception, judgment, and attention.",
+                                   "definition":  "Heightened sensitivity to potential threat or uncertainty."
+                               },
+                               {
+                                   "term":  "Cognitive Bias",
+                                   "whyItMatters":  "Bias influences decisions even when people believe they are objective.",
+                                   "definition":  "A predictable pattern of thinking that can distort judgment."
+                               },
+                               {
+                                   "term":  "Attention",
+                                   "whyItMatters":  "Attention limits how much information can be processed at once.",
+                                   "definition":  "The selective focus on certain information while ignoring others."
+                               },
+                               {
+                                   "term":  "Memory",
+                                   "whyItMatters":  "Memory is reconstructive and influenced by context and emotion.",
+                                   "definition":  "The process of encoding, storing, and retrieving information."
+                               },
+                               {
+                                   "term":  "Neuroplasticity",
+                                   "whyItMatters":  "Plasticity explains learning and adaptation across the lifespan.",
+                                   "definition":  "The brain\u00e2\u20ac\u2122s ability to change through experience."
+                               },
+                               {
+                                   "term":  "Clinical Reasoning",
+                                   "whyItMatters":  "Clinical reasoning reduces error and premature conclusions.",
+                                   "definition":  "Structured thinking used by professionals to evaluate information under uncertainty."
+                               },
+                               {
+                                   "term":  "Ethical Boundaries",
+                                   "whyItMatters":  "Boundaries ensure safety, trust, and responsible practice.",
+                                   "definition":  "Professional limits that protect individuals from harm or misuse."
+                               }
+                           ]
+}

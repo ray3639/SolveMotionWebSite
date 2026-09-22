@@ -3,46 +3,6 @@
   "generatedAt": "20260802",
   "tiles": [
     {
-      "id": "psecu_digital_banking",
-      "title": "PSECU Testing",
-      "routeName": "psecuDigitalBanking",
-      "status": "Ready",
-      "summary": "Tenant-scoped PSECU digital banking web testing readiness, credential registration visibility, defect report handoff, and approved local automation boundaries.",
-      "health": "green",
-      "lastVerified": "2026-08-02",
-      "sourceType": "tenant_scope_contract",
-      "sourcePath": "RAYAI_6_STATUS_AND_DOCTRINE.txt",
-      "action": "Open PSECU web testing readiness, report evidence, and local runner boundaries.",
-      "category": "Testing",
-      "priority": 47,
-      "isVisibleOnHome": false,
-      "healthReason": "PSECU tenant login is scoped to this single testing surface; live website execution remains approval-gated and report-backed. Content refreshed against RayAI doctrine and build-current status contracts on 2026-08-02.",
-      "lastGreen": "2026-08-02",
-      "blockerCount": 1,
-      "nextActionLabel": "Open PSECU testing",
-      "metrics": [
-        {
-          "label": "Tenant",
-          "value": "PSECU"
-        },
-        {
-          "label": "Scope",
-          "value": "Web test"
-        },
-        {
-          "label": "Mode",
-          "value": "Gated"
-        }
-      ],
-      "workflowLinks": [
-        {
-          "label": "Open",
-          "routeName": "psecuDigitalBanking",
-          "description": "Open PSECU web testing readiness."
-        }
-      ]
-    },
-    {
       "id": "ecosystem",
       "title": "Ecosystem",
       "routeName": "ecosystem",

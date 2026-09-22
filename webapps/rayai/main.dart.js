@@ -92403,7 +92403,7 @@ $0(){return this.a.uJ(this.b)},
 $S:0}
 A.amy.prototype={
 $1(a){var s=null,r=this.a,q=this.b,p=t.p
-r=A.bq(A.b([A.X("This permanently removes the retired RayAI tenant, client identity, provisioning receipt, and audit row for "+r.d+". It does not alter the Studio submission or Requirements & Blueprint package.",s,s,s,s,s,s),B.Q,A.DC(B.m,q,A.aAv(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,r.a,s,s,s,s,s,s,s,s,"Type tenant ID to confirm",!0,!0,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s),1,s,!1,s,s)],p),B.B,B.p,B.bh)
+r=A.bq(A.b([A.X("This permanently removes the retired RayAI tenant, client identity, and live provisioning record for "+r.d+". Before removal, RayAI writes an immutable, non-secret deletion-audit snapshot. It does not alter the Studio submission or Requirements & Blueprint package.",s,s,s,s,s,s),B.Q,A.DC(B.m,q,A.aAv(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,r.a,s,s,s,s,s,s,s,s,"Type tenant ID to confirm",!0,!0,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s),1,s,!1,s,s)],p),B.B,B.p,B.bh)
 return A.aDB(A.b([A.vR(B.Bg,new A.amw(a),s),A.aAb(B.a43,new A.amx(a,q))],p),r,B.a46)},
 $S:182}
 A.amw.prototype={
@@ -92419,7 +92419,7 @@ A.amz.prototype={
 $0(){this.a.cy="Tenant ID confirmation did not match. No client was deleted."},
 $S:0}
 A.amA.prototype={
-$0(){this.a.cy="Retired client permanently deleted from RayAI."},
+$0(){this.a.cy="Retired client permanently deleted from RayAI; immutable audit evidence was retained."},
 $S:0}
 A.amB.prototype={
 $0(){var s=null,r=this.b.a

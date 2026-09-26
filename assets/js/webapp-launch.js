@@ -2,7 +2,7 @@
   "use strict";
 
   function localOrigin() {
-    return "http://localhost:8088";
+    return "http://localhost:8080";
   }
 
   function normalizePath(path) {

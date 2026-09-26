@@ -1,4 +1,78 @@
 SOLVEMOTION LABS WEBSITE STATUS AND DOCTRINE
+
+CURRENT WEBSITE TRANSFORMATION CHECKPOINT - 2026-09-25
+GLOBAL_DOCTRINE=C:\src\GLOBAL_RULES.md
+CURRENT_PHASE=Website Experience Transformation A-Z / Phase P
+CURRENT_STEP=6 of 6 - post-source-validation browser acceptance
+LAST_GREEN_GATE=120_CASE_AUTOMATED_BROWSER_MATRIX_AND_LOCAL_JOURNEYS
+CURRENT_STATUS=LOCAL_CORRECTIONS_VALIDATED; full Phase P and A-Z release remain OPEN
+
+The dated journal below is historical evidence. Its earlier CURRENT/GREEN labels
+do not supersede this checkpoint or current GLOBAL_RULES.md.
+
+Verified completed: eight approved SolveMind/SolveMotion icon references; common
+SolveStudio public header with Labs logo, all 14 navigation links including RayAI
+and Metrics, and authority band; prior two-file responsive correction with 24
+Chrome checks; exactly 12 promotional-label corrections with ten targeted renders.
+These targeted gates are not full browser/device or production acceptance.
+
+ACTIVE_REPORT=C:\src\_inspection_reports\SolveMotionWebSite\Phase-P-Step6-CurrentAcceptance-20260925-221012528\CURRENT-ACCEPTANCE-AND-HANDOFF-STATUS.md
+PROMOTIONAL_LABEL_EVIDENCE=C:\src\_inspection_reports\SolveMotionWebSite\Phase-P-Step6-PromotionalLabels-20260925-213437816\GATE-CLOSEOUT-GREEN.md
+VERIFIED_CURRENT_BATCH=120 current Chrome/Edge matrix cases pass, with eight
+Support retests replacing only its failed duplicate-hero cases. Also passed:
+20 keyboard/touch goal journeys, 100 career-family selections, ecosystem toggles,
+Metrics navigation and 20 file/HTTP launch-route checks. RayAI/SolveCrime artwork
+sizing and the Support duplicate hero are corrected. The existing launcher uses
+governed Python, loopback binding and the same port 8080 as file launch links.
+Capture hashes/dimensions and current source/asset identities were independently
+verified. Local observed maximum load event=228.5 ms; observed layout shift=0.
+These are automated/local baselines, not live performance, exhaustive human
+visual acceptance, screen-reader certification or authenticated product proof.
+OPEN_GAPS=Formal full Phase P acceptance disposition; Q-X phase closeouts;
+required approved Studio/RayAI staged authenticated-entry/security evidence;
+conditional Y privacy, scoped publication and live validation; Z final closeout.
+PRODUCT_ENTRY_DEPENDENCY=Current Studio/RayAI release authority holds isolated
+staging/configuration, authenticated security, QA/client/visual signoffs and
+production approval. Local web candidates Studio 34 and RayAI 59 are not the
+preserved website copies Studio 28 and RayAI 48 and were not copied or published.
+PRODUCT_HANDOFF_AUTHORITY=C:\src\_inspection_reports\SolveStudio\SolveStudio-RayAI-Final-Release-Blocker-and-Owner-Handoff-20260925.md
+REQUIRED_OWNER_INPUT=Approved isolated staging target, exact frontend/backend
+candidate identity, authorized actors/data boundary, and existing authenticated
+entry/security validation contract. No production-session fixture or new auth,
+staging, QA or execution owner may be invented. This is not an optional-media hold.
+
+Historical browser inventory remains 103/120 files, 17 missing, 81 unqualified.
+File existence is not acceptance. Current-source corrections require current evidence.
+Studio/RayAI final production screenshots and product handoff remain deferred.
+Optional artwork may remain when truthfully labeled; runtime/public-use/privacy
+provenance must be established before any image is claimed as a production capture.
+SolveMotion public propagation remains a separate verification dependency.
+Fourteen manifest workstation paths require publication/privacy disposition;
+this is not a confirmed live-exposure finding.
+
+Current entry authority: the later Phase N human decision below supersedes the
+older RayAI-first-only narrative. Public website entry and authenticated RayAI
+handoff converge on one canonical Studio. Public entry grants no protected
+tenant, admin, build, execution or production authority.
+
+Remaining authorized sequence, subject to predecessor GREEN:
+P current browser/device, accessibility and performance acceptance;
+Q qualified product media; R architecture/governance/claim verification;
+S compatibility/legal/brand wording; T Studio/RayAI entry contract;
+U accessibility/device acceptance; V performance/metadata/discoverability;
+W existing analytics-owner privacy review; X complete regression;
+Y exact scoped publication through C:\src\PushWebDownloads.ps1 and live proof;
+Z final production doctrine synchronization, source/evidence hashes, permanent
+GREEN baseline and formal closeout. Existing six-step registry remains below.
+
+PRE_PATCH_ROOT=C:\src\_PRE_PATCH\SolveMotionWebSite
+BASELINE_ROOT=C:\src\_BASELINES (direct project-cycle-phase-status folder)
+No publication or permanent baseline has been performed in this continuation.
+This checkpoint is status reconciliation, not Phase Z production closeout.
+END CURRENT CHECKPOINT
+
+HISTORICAL JOURNAL (preserved unchanged below)
+
 Updated: 20260716-201035
 
 CURRENT WEBSITE STATE:
@@ -2325,3 +2399,326 @@ No git add dot.
 No git add all.
 No mirror copy.
 
+
+================================================================================
+SOLVEMOTION LABS WEBSITE EXPERIENCE TRANSFORMATION DOCTRINE
+================================================================================
+
+Effective date:
+2026-09-13
+
+Program objective:
+Transform solvemotionlabs.com from a product-oriented website into the front door to the full SolveMotion Labs ecosystem for students, educators, colleges and universities, professionals, companies, developers, and AI-assisted teams.
+
+Primary experience:
+Discover -> Learn -> Build -> Govern -> Execute
+
+Primary visitor question:
+What do you want to accomplish?
+
+Platform statement:
+SolveMotion Labs builds governed intelligence systems that help people learn, solve problems, and create real-world solutions from the classroom to the enterprise.
+
+Human intelligence doctrine:
+You need HI (Human Intelligence) to do AI (Artificial Intelligence).
+AI accelerates the work. Human intelligence provides the judgment.
+
+Authority model:
+- SolveMotion Labs Studio owns governed SDLC orchestration and workspace experience.
+- RayAI owns governed reasoning, context, authentication, and established authorization flow.
+- Core 12 owns shared deterministic operational intelligence.
+- Command Center owns controlled execution where established.
+- Specialized applications retain approved domain presentation and workflow ownership.
+- Human authorization remains required for consequential AI-assisted decisions.
+
+Studio entry doctrine:
+Website -> RayAI authentication -> authorized Studio handoff -> SolveMotion Labs Studio.
+No second authentication path, duplicate Studio authorization system, or direct authorization bypass may be created.
+
+Preserve existing polished implementation:
+- Existing premium visual system and main.css remain authoritative unless a later inspected phase proves a required change.
+- Existing platform-metrics.js remains the metrics owner unless a later inspected phase proves a required change.
+- Existing Core 12, RayAI, Command Center, Studio, ecosystem, education, trust, and product content is reused rather than duplicated.
+- Existing index.html custom-domain metadata delta is preserved and kept separate from transformation work.
+
+Net-new transformation areas:
+- Audience-first homepage entry.
+- What do you want to accomplish goal experience.
+- Student, Education, and Organization pathways.
+- Discover Your Path.
+- Deterministic goal router.
+- Public Studio walkthrough.
+- Simplified navigation.
+- Governed Website -> RayAI -> Studio intent flow.
+
+A-Z TRANSFORMATION PHASE REGISTRY
+
+PHASE A
+Step 1 of 6 - Doctrine, inventory, and ownership discovery
+Step 2 of 6 - Current production website inventory
+Step 3 of 6 - Authority and source-of-truth mapping
+Step 4 of 6 - Current audience and journey mapping
+Step 5 of 6 - Transformation gap classification
+Step 6 of 6 - Phase A evidence and permanent ownership baseline
+
+PHASE B
+Step 1 of 6 - Lock primary brand promise
+Step 2 of 6 - Lock HI and AI philosophy
+Step 3 of 6 - Define student messaging
+Step 4 of 6 - Define education messaging
+Step 5 of 6 - Define organization messaging
+Step 6 of 6 - Validate claims and messaging boundaries
+
+PHASE C
+Step 1 of 6 - Design simplified global navigation
+Step 2 of 6 - Map existing pages into the new information architecture
+Step 3 of 6 - Identify secondary pages that leave primary navigation
+Step 4 of 6 - Identify duplicate or competing journeys
+Step 5 of 6 - Design footer and supporting navigation
+Step 6 of 6 - Verify every production page remains reachable
+
+PHASE D
+Step 1 of 6 - Design the new homepage hero
+Step 2 of 6 - Introduce What do you want to accomplish
+Step 3 of 6 - Add rotating or selectable visitor goals
+Step 4 of 6 - Add Explore SolveMotion Labs and Build Something with Studio actions
+Step 5 of 6 - Connect hero actions to audience pathways
+Step 6 of 6 - Validate responsive and accessible behavior
+
+PHASE E
+Step 1 of 6 - Define supported visitor intents
+Step 2 of 6 - Define deterministic goal-routing rules
+Step 3 of 6 - Build the recommendation experience
+Step 4 of 6 - Route recommendations to authoritative products and content
+Step 5 of 6 - Add Why this path explanations
+Step 6 of 6 - Validate that routing does not require hallucinated AI decisions
+
+PHASE F
+Step 1 of 6 - Create the student entry journey
+Step 2 of 6 - Create the high-school pathway
+Step 3 of 6 - Create the college pathway
+Step 4 of 6 - Connect career exploration to specialized applications
+Step 5 of 6 - Add student-friendly previews and explanations
+Step 6 of 6 - Validate mobile, accessibility, and student usability
+
+PHASE G
+Step 1 of 6 - Create Discover Your Path interest assessment
+Step 2 of 6 - Map interests to career families
+Step 3 of 6 - Map careers to SolveMotion Labs applications
+Step 4 of 6 - Create career discovery cards
+Step 5 of 6 - Add educational next steps
+Step 6 of 6 - Validate recommendation integrity
+
+PHASE H
+Step 1 of 6 - Create SolveMotion Labs for Education
+Step 2 of 6 - Define high-school use cases
+Step 3 of 6 - Define college and university use cases
+Step 4 of 6 - Define applied-learning experiences
+Step 5 of 6 - Teach responsible AI and the HI-to-AI philosophy
+Step 6 of 6 - Validate institutional calls to action
+
+PHASE I
+Step 1 of 6 - Create SolveMotion Labs for Organizations
+Step 2 of 6 - Explain governed AI
+Step 3 of 6 - Explain governed SDLC orchestration
+Step 4 of 6 - Explain deterministic intelligence ownership
+Step 5 of 6 - Explain controlled execution and human authorization
+Step 6 of 6 - Validate enterprise journey and claims
+
+PHASE J
+Step 1 of 6 - Create flagship SolveMotion Labs Studio showcase
+Step 2 of 6 - Explain Idea through Release lifecycle
+Step 3 of 6 - Explain multi-agent orchestration
+Step 4 of 6 - Explain human authorization points
+Step 5 of 6 - Create Studio demonstration experience
+Step 6 of 6 - Connect Studio CTA to governed RayAI authorization
+
+PHASE K
+Step 1 of 6 - Create public Studio walkthrough
+Step 2 of 6 - Show representative project request
+Step 3 of 6 - Show requirements clarification and planning
+Step 4 of 6 - Show RayAI, Core 12, Studio, and Command Center ownership
+Step 5 of 6 - Show human approval points
+Step 6 of 6 - Connect walkthrough to authenticated Studio
+
+PHASE L
+Step 1 of 6 - Design SolveMotion Labs ecosystem map
+Step 2 of 6 - Place SolveMotion Labs at the ecosystem center
+Step 3 of 6 - Show Studio, RayAI, Core 12, and Command Center
+Step 4 of 6 - Show specialized domain applications
+Step 5 of 6 - Add hover and tap explanations
+Step 6 of 6 - Validate responsive ecosystem visualization
+
+PHASE M
+Step 1 of 6 - Design governance architecture visualization
+Step 2 of 6 - Document authority boundaries
+Step 3 of 6 - Show reasoning, deterministic intelligence, and execution separation
+Step 4 of 6 - Show human authorization
+Step 5 of 6 - Add accessible explanatory content
+Step 6 of 6 - Validate architecture wording against actual ownership
+
+PHASE N
+Step 1 of 6 - Standardize product-page structure
+Step 2 of 6 - Lead each page with problem solved
+Step 3 of 6 - Identify intended audience
+Step 4 of 6 - Add verified screenshots and workflows
+Step 5 of 6 - Add correct next action
+Step 6 of 6 - Validate every launch path
+
+PHASE O
+Step 1 of 6 - Convert product descriptions into user journeys
+Step 2 of 6 - Create domain career-entry journeys
+Step 3 of 6 - Connect education requirements
+Step 4 of 6 - Connect career and knowledge exploration
+Step 5 of 6 - Connect professional tools
+Step 6 of 6 - Validate journey continuity
+
+PHASE P
+Step 1 of 6 - Upgrade typography system
+Step 2 of 6 - Upgrade reusable card system
+Step 3 of 6 - Improve visual hierarchy and spacing
+Step 4 of 6 - Add restrained animation and interaction
+Step 5 of 6 - Add browser and device product previews
+Step 6 of 6 - Validate performance and accessibility
+
+PHASE Q
+Step 1 of 6 - Identify production-green screens
+Step 2 of 6 - Capture approved product visuals
+Step 3 of 6 - Create Studio demonstration visuals
+Step 4 of 6 - Create student experience visuals
+Step 5 of 6 - Create organization experience visuals
+Step 6 of 6 - Optimize all media assets
+
+PHASE R
+Step 1 of 6 - Present architecture evidence
+Step 2 of 6 - Present governance evidence
+Step 3 of 6 - Present development methodology
+Step 4 of 6 - Present research methodology
+Step 5 of 6 - Add only validated case studies and outcomes
+Step 6 of 6 - Run claim-verification gate
+
+PHASE S
+Step 1 of 6 - Explain compatibility with AI-assisted workflows
+Step 2 of 6 - Explain governed workflow around tools such as ChatGPT and Copilot
+Step 3 of 6 - Explain human authorization
+Step 4 of 6 - Explain agent orchestration
+Step 5 of 6 - Avoid unsupported partnership or endorsement claims
+Step 6 of 6 - Validate legal and brand wording
+
+PHASE T
+Step 1 of 6 - Inventory all current Studio entry links
+Step 2 of 6 - Classify launch links versus informational links
+Step 3 of 6 - Define website-to-RayAI Studio intent contract
+Step 4 of 6 - Reuse existing RayAI authentication
+Step 5 of 6 - Reuse existing authorized Studio handoff
+Step 6 of 6 - Validate Website to RayAI to Studio end to end
+
+PHASE U
+Step 1 of 6 - Validate mobile navigation
+Step 2 of 6 - Validate mobile hero and goal router
+Step 3 of 6 - Validate cards and journeys
+Step 4 of 6 - Validate touch interactions
+Step 5 of 6 - Validate keyboard and screen-reader behavior
+Step 6 of 6 - Complete accessibility and device gate
+
+PHASE V
+Step 1 of 6 - Inspect page weight and runtime performance
+Step 2 of 6 - Optimize images and media
+Step 3 of 6 - Upgrade page metadata
+Step 4 of 6 - Add appropriate structured content
+Step 5 of 6 - Improve search discoverability
+Step 6 of 6 - Complete performance regression gate
+
+PHASE W
+Step 1 of 6 - Define privacy-respecting journey events
+Step 2 of 6 - Measure audience-path selection
+Step 3 of 6 - Measure goal-router use
+Step 4 of 6 - Measure Studio interest
+Step 5 of 6 - Measure education and organization pathways
+Step 6 of 6 - Complete analytics privacy review
+
+PHASE X
+Step 1 of 6 - Regress all global navigation
+Step 2 of 6 - Regress all product and audience pages
+Step 3 of 6 - Regress all application launch paths
+Step 4 of 6 - Regress RayAI and Studio authorization flow
+Step 5 of 6 - Regress mobile, accessibility, and performance
+Step 6 of 6 - Produce full regression evidence
+
+PHASE Y
+Step 1 of 6 - Classify production worktree state
+Step 2 of 6 - Define exact scoped publish inventory
+Step 3 of 6 - Create PRE_PUBLISH preservation
+Step 4 of 6 - Publish through existing authoritative website publisher
+Step 5 of 6 - Verify custom production domain
+Step 6 of 6 - Complete production GREEN gate
+
+PHASE Z
+Step 1 of 6 - Finalize architecture documentation
+Step 2 of 6 - Synchronize final doctrine
+Step 3 of 6 - Capture final screenshots and evidence
+Step 4 of 6 - Record final source hashes
+Step 5 of 6 - Create permanent validated baseline under C:\src\_BASELINES
+Step 6 of 6 - Complete A-Z transformation closeout
+
+Completion rule:
+The cycle is complete only when Phase Z Step 6 of 6 is GREEN with final production verification, doctrine synchronization, evidence, hashes, and permanent validated baseline.
+
+================================================================================
+
+================================================================================
+PHASE N STEP 3 HUMAN PRODUCT DECISION LOCK - SOLVEMOTION LABS STUDIO + SOLVEOURA
+================================================================================
+
+Human decision status=LOCKED
+
+SOLVEMOTION LABS STUDIO - INTENDED AUDIENCE
+SolveMotion Labs Studio is for individuals and teams who have an application idea and want a guided, governed path from requirements discovery through Blueprint approval and the SolveMotion Labs software development lifecycle.
+
+SOLVEMOTION LABS STUDIO - ENTRY ARCHITECTURE
+Studio has exactly two approved entry paths.
+
+RayAI Entry Path:
+The user opens the RayAI app and completes the normal RayAI security/login flow. After successful authentication, the user reaches the RayAI home/dashboard. From there, the user selects the SolveMotion Labs Studio button. The Studio button is the bridge. RayAI then performs the governed Studio handoff using the authenticated session/context, and Studio opens at the canonical Main Studio Screen.
+
+RAYAI_ENTRY_PATH=RayAI App -> Security/Login -> RayAI Home/Dashboard -> Studio Button -> Governed Studio Handoff -> Main Studio Screen
+
+Website Entry Path:
+The user goes to the SolveMotion Labs production website and selects the Studio entry. That path opens the same canonical Main Studio Screen directly without requiring the RayAI security/login flow first.
+
+WEBSITE_ENTRY_PATH=SolveMotionLabs.com -> Studio Entry -> Main Studio Screen
+
+CANONICAL_STUDIO_DESTINATION=Main Studio Screen
+
+SHARED_CANONICAL_STUDIO_FLOW=Main Studio Screen -> Studio Agent -> Guided Discovery -> Blueprint -> Review -> Submit -> Owner Review -> Approval -> Tenant/Ecosystem -> Client Approval -> Payment -> Development -> QA -> Staging -> Production
+
+STUDIO_ENTRY_INVARIANTS:
+- RayAI login must not route directly into Studio.
+- The authenticated user reaches the RayAI home/dashboard before selecting the Studio button.
+- The Studio button is the governed bridge from RayAI into Studio.
+- The website path does not require the RayAI security/login flow first.
+- Both entry paths converge on the same canonical Main Studio Screen.
+- Do not create a second Studio landing implementation.
+- Do not create a second Blueprint owner.
+- Do not create a second SDLC process.
+- Do not create separate Studio lifecycle logic for RayAI and website entry.
+- Studio owns project UX and governed orchestration presentation.
+- RayAI retains authentication, tenant, session, authorization, governed reasoning, and response-reference ownership where applicable to the authenticated RayAI path.
+- Core 12 retains shared deterministic intelligence ownership.
+- Command Center retains controlled execution ownership.
+- Project Manifest retains authoritative project lifecycle/state ownership.
+- Human approval remains required at consequential approval boundaries.
+
+SOLVEOURA - PHASE N STEP 3 TREATMENT
+SolveOura remains an in-progress product.
+Its final market audience is not yet finalized.
+Phase N Step 3 must preserve the in-progress status and must not invent or imply a finalized production-market audience.
+The website may describe the current recovery direction and current verified capabilities, but it must not present SolveOura as a completed production product or mature finalized offering.
+
+OURA_IN_PROGRESS_STATUS_LOCKED=True
+OURA_FINAL_MARKET_AUDIENCE_FINALIZED=False
+OURA_FINAL_AUDIENCE_INVENTION_AUTHORIZED=False
+
+PHASE_N_STEP3_HUMAN_DECISION_LOCKED=True
+PHASE_N_STEP3_NEXT_GATE=TARGETED_AUDIENCE_COPY_DESIGN_AND_PATCH
+================================================================================

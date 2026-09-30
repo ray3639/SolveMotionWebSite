@@ -30,7 +30,7 @@
         {"label": "Open Psychology Tools", "target": "psychology_tools", "reason": "Choose a Core-owned applied psychology workflow."},
         {"label": "Open Reports", "target": "reports", "reason": "Review and save report-ready Core output."}
       ],
-      "reportOutput": ["Daily Coach reviewed the current Core snapshot, selected a focused psychology learning action, identified an ethical boundary, connected the activity to career/application readiness, and prepared next steps for report review."],
+      "reportOutput": ["Daily Coach briefing prompt: review the current Core snapshot, choose a focused psychology learning action, identify an ethical boundary, connect the activity to career/application readiness, and note next steps for a report."],
       "sourceLinks": ["APA Psychology Careers: https://www.apa.org/education-career/guide/careers", "NIMH Mental Health Information: https://www.nimh.nih.gov/health", "BLS Psychologists: https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm"]
     },
     {
@@ -44,7 +44,7 @@
       "skills": ["Emotional labeling", "Metacognition", "Readiness review", "Behavior tracking", "Reflective practice"],
       "examples": ["Confidence is high but stress is also high, so the user records that state and chooses a low-risk study review rather than a major career decision.", "Focus is low, so the user selects one small action such as reading one APA career page or drafting one portfolio-project question."],
       "buttons": [{"label": "Save Check-In", "target": "save_check_in", "reason": "Record local input for future Core processing."}],
-      "reportOutput": ["Daily check-in captured focus, confidence, stress, and readiness as user-entered signals. These signals are not clinical scores and should be interpreted only by Core output or qualified guidance where appropriate."],
+      "reportOutput": ["Daily check-in prompt: record user-entered focus, confidence, stress, and readiness. These signals are not clinical scores and should be interpreted only by Core output or qualified guidance where appropriate."],
       "sourceLinks": ["APA Stress: https://www.apa.org/topics/stress", "CDC Mental Health: https://www.cdc.gov/mental-health/"]
     },
     {
@@ -59,7 +59,7 @@
       "examples": ["Cognition and bias connects to Bias Checker, Cognitive Distortion Analyzer, UX research, behavioral science, research design, and application interview examples.", "Ethics and boundaries connects to consent, privacy, scope, referral, supervision, respectful language, and report warnings."],
       "expandedCategories": ["Psychology Foundations: branches, approaches, theories, research methods, evidence limits.", "Behavioral Health Literacy: wellbeing, stress, risk awareness, support-seeking boundaries, referral language.", "Cognition and Bias: attention, memory, learning, decision quality, distortions, judgment errors.", "Education Pathways: grade-level preparation, college prerequisites, graduate pathways, supervised experience.", "Career Paths: clinical, counseling, school, I-O, UX research, behavioral science, research, healthcare, government, consulting.", "Companies and Employers: healthcare systems, clinics, universities, labs, consulting firms, tech research teams, nonprofits, government agencies.", "Internships and Experience: labs, assistant roles, peer-support limits, observation hours, practicum readiness, supervised settings.", "Start a Company: education products, assessment workflows, research support, behavior-change programs, ethical service boundaries.", "Business Models: education products, B2B research services, school programs, employer wellbeing, behavioral product strategy.", "Certifications: research ethics, mental health first aid, statistics tools, UX research, crisis referral literacy, data privacy.", "Portfolio Projects: case analyses, survey studies, literature reviews, intervention plans, ethics memos, career maps.", "Application Prep: resumes, interviews, statements of purpose, recommendation evidence, company research, internship tracking."],
       "buttons": [{"label": "Open School Roadmap", "target": "school_roadmap", "reason": "Plan grade and course preparation."}, {"label": "Open Career Paths", "target": "career_paths", "reason": "Connect learning to psychology career directions."}, {"label": "Open Companies", "target": "companies", "reason": "Review employers and application targets."}],
-      "reportOutput": ["Daily Coach connected the selected action to Core 12 domains so the session can support learning, career planning, portfolio evidence, and application preparation."],
+      "reportOutput": ["Core 12 domain mapping prompt: connect the chosen action to relevant Core 12 domains for learning, career planning, portfolio evidence, and application preparation."],
       "sourceLinks": ["APA Education and Career: https://www.apa.org/education-career", "O*NET Psychologists: https://www.onetonline.org/link/summary/19-3033.00", "CareerOneStop: https://www.careeronestop.org/"]
     },
     {
@@ -87,7 +87,7 @@
       "skills": ["Study planning", "Source review", "Vocabulary growth", "Project design", "Milestone tracking"],
       "examples": ["High school: compare cognitive, developmental, social, biological, and clinical psychology, then write a short reflection on what each branch can and cannot explain.", "College: pair research methods with statistics, ethics, literature review, and a small survey design that does not collect sensitive data without supervision."],
       "buttons": [{"label": "Open School Roadmap", "target": "school_roadmap", "reason": "Review level-specific study guidance."}],
-      "reportOutput": ["Learning path reviewed: topic, level, source, vocabulary, practice task, ethical limit, and next milestone."],
+      "reportOutput": ["Learning path review prompt: record topic, level, source, vocabulary, practice task, ethical limit, and next milestone after reviewing the path."],
       "sourceLinks": ["College Board AP Psychology: https://apstudents.collegeboard.org/courses/ap-psychology", "APA Psychology Topics: https://www.apa.org/topics"]
     },
     {
@@ -101,7 +101,7 @@
       "skills": ["Career mapping", "Employer research", "Resume evidence", "Interview preparation", "Portfolio alignment"],
       "examples": ["UX Researcher: connect cognitive psychology, research design, survey methods, usability studies, ethics, and a portfolio case study.", "Clinical pathway: connect abnormal psychology, developmental psychology, assessment literacy, supervised hours, licensure, privacy, referral, and professional boundaries."],
       "buttons": [{"label": "Open Career Paths", "target": "career_paths", "reason": "Compare psychology career directions."}, {"label": "Open Companies", "target": "companies", "reason": "Review employer sectors and applications."}, {"label": "Open Reports", "target": "reports", "reason": "Save application-ready evidence."}],
-      "reportOutput": ["Career/application action prepared: role target, related psychology branch, employer sector, evidence to build, boundary/risk note, and next application step."],
+      "reportOutput": ["Career/application planning prompt: record role target, related psychology branch, employer sector, evidence to build, boundary/risk note, and next application step."],
       "sourceLinks": ["BLS Psychologists: https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm", "O*NET Clinical and Counseling Psychologists: https://www.onetonline.org/link/summary/19-3033.00", "CareerOneStop Resume Guide: https://www.careeronestop.org/JobSearch/Resumes/resumes.aspx"]
     },
     {
@@ -115,7 +115,7 @@
       "skills": ["Consent review", "Privacy protection", "Scope limits", "Referral awareness", "Respectful communication"],
       "examples": ["For a class survey, do not collect names, diagnoses, trauma history, or crisis details without proper supervision and approval.", "For a case study, discuss behavior, context, and evidence without labeling a real person or implying a diagnosis."],
       "buttons": [{"label": "Open Psychology Tools", "target": "psychology_tools", "reason": "Use Ethics Boundary Review."}],
-      "reportOutput": ["Ethical boundary reviewed: consent, privacy, sensitive content, professional scope, referral limits, and respectful language."],
+      "reportOutput": ["Ethical boundary check prompt: consider consent, privacy, sensitive content, professional scope, referral limits, and respectful language."],
       "sourceLinks": ["APA Ethics Code: https://www.apa.org/ethics/code", "HHS OHRP: https://www.hhs.gov/ohrp/regulations-and-policy/index.html", "988 Lifeline: https://988lifeline.org/"]
     },
     {
@@ -129,7 +129,7 @@
       "skills": ["Case formulation", "Evidence matching", "Alternative explanations", "Bias review", "Report writing"],
       "examples": ["A student avoids group work: compare social anxiety, motivation, peer norms, learning history, sleep, stress, and classroom context without diagnosing.", "A product user abandons onboarding: compare attention load, reward design, habit formation, trust, social proof, and usability evidence."],
       "buttons": [{"label": "Open Case Studies", "target": "case_studies", "reason": "Practice with Core case examples."}],
-      "reportOutput": ["Case practice completed: context, behavior, possible explanations, evidence needed, bias risk, ethical boundary, and next step."],
+      "reportOutput": ["Case practice prompt: record context, behavior, possible explanations, evidence needed, bias risk, ethical boundary, and next step during practice."],
       "sourceLinks": ["APA Psychology Topics: https://www.apa.org/topics", "NIMH Health Topics: https://www.nimh.nih.gov/health/topics"]
     },
     {
@@ -143,7 +143,7 @@
       "skills": ["Project scoping", "Research design", "Evidence planning", "Ethics memo writing", "Career storytelling"],
       "examples": ["Survey design project: create a non-sensitive study habit survey, state consent language, list limitations, and produce a dashboard-style summary.", "Career map project: compare clinical psychology, counseling, school psychology, I-O psychology, UX research, and behavioral science by education, skills, employers, and boundaries."],
       "buttons": [{"label": "Open Psychology Tools", "target": "psychology_tools", "reason": "Use Survey Builder or Research Design."}, {"label": "Open Career Paths", "target": "career_paths", "reason": "Tie projects to roles."}],
-      "reportOutput": ["Portfolio action prepared: project type, question, ethical boundary, evidence plan, related career, employer sector, and next artifact."],
+      "reportOutput": ["Portfolio planning prompt: record project type, question, ethical boundary, evidence plan, related career, employer sector, and next artifact."],
       "sourceLinks": ["APA Student Resources: https://www.apa.org/ed/precollege", "Common App: https://www.commonapp.org/"]
     },
     {
@@ -157,7 +157,7 @@
       "skills": ["Credential evaluation", "Skill practice", "Statistics literacy", "Communication", "Application evidence"],
       "examples": ["Research role prep: practice literature review, research ethics, statistics basics, spreadsheet cleaning, and plain-language result summaries.", "Behavioral-health pathway prep: learn privacy, referral limits, empathy, supervision boundaries, and respectful documentation."],
       "buttons": [{"label": "Open School Roadmap", "target": "school_roadmap", "reason": "Connect skills to level-specific study."}, {"label": "Open Companies", "target": "companies", "reason": "Match skills to employer needs."}],
-      "reportOutput": ["Skill action prepared: selected skill, practice artifact, evidence source, certification/credential check, career fit, and next milestone."],
+      "reportOutput": ["Skill planning prompt: record chosen skill, practice artifact, evidence source, certification/credential check, career fit, and next milestone."],
       "sourceLinks": ["CareerOneStop Credentials: https://www.careeronestop.org/Toolkit/Training/find-certifications.aspx", "APA Education and Career: https://www.apa.org/education-career"]
     },
     {
@@ -172,7 +172,7 @@
       "examples": ["What am I assuming, and what evidence would change my mind?", "What part of this issue belongs to learning, and what part would require a qualified professional or supervised setting?"],
       "practicePrompts": ["What did I observe today before interpreting it?", "Which psychology concept best explains part of this, and what does it not explain?", "What bias or distortion could shape my interpretation?", "What ethical boundary or privacy issue needs attention?", "What is one concrete next action I can take safely?"],
       "buttons": [{"label": "Save Check-In", "target": "save_check_in", "reason": "Capture reflection as future Core input."}, {"label": "Open Reports", "target": "reports", "reason": "Review report-ready wording."}],
-      "reportOutput": ["Reflection prepared: observation, emotion, assumption, evidence, bias risk, ethical boundary, and next action."],
+      "reportOutput": ["Reflection prompt: record observation, emotion, assumption, evidence, bias risk, ethical boundary, and next action."],
       "sourceLinks": ["APA Topics: https://www.apa.org/topics"]
     },
     {
@@ -186,7 +186,7 @@
       "skills": ["Professional summarization", "Learning evidence", "Career alignment", "Risk note writing", "Action closeout"],
       "examples": ["Today I reviewed cognitive psychology and bias risk, used the Cognitive Distortion Analyzer, connected it to UX research and behavioral science, checked consent/privacy boundaries, and chose one portfolio action for my school roadmap.", "Today I compared clinical, counseling, and school psychology pathways, reviewed supervised-hour expectations, named an ethics boundary, and prepared one application bullet about research and communication skills."],
       "buttons": [{"label": "Copy Report Summary", "target": "copy_report", "reason": "Copy the Core-owned report wording."}, {"label": "Open Reports", "target": "reports", "reason": "Save or export the report."}],
-      "reportOutput": ["Knowledge areas reviewed; Psychology Tools used; bias/risk notes; career/company/application alignment; recommended learning path; Core explanation; next actions; source links reviewed."],
+      "reportOutput": ["Suggested report fields: knowledge areas examined; Psychology Tools actually used (if any); bias/risk notes; career/company/application alignment; learning path considered; Core explanation; next actions; source links actually checked (if any)."],
       "sourceLinks": ["APA Careers: https://www.apa.org/education-career/guide/careers", "BLS Occupational Outlook: https://www.bls.gov/ooh/"]
     },
     {
@@ -200,7 +200,7 @@
       "skills": ["Source evaluation", "Career research", "Ethics review", "Education planning", "Application preparation"],
       "examples": ["Use APA career pages to compare psychology pathways before choosing a major or project.", "Use BLS and O*NET to understand role descriptions, education, work activities, and labor-market context."],
       "buttons": [{"label": "Open Reports", "target": "reports", "reason": "Document sources reviewed."}],
-      "reportOutput": ["Source review completed: official psychology, education, career, ethics, and behavioral-health references checked for today's learning action."],
+      "reportOutput": ["Source review status: not recorded. Open relevant references for today's learning action and record which ones you actually checked."],
       "sourceLinks": ["APA Education and Career: https://www.apa.org/education-career", "APA Ethics Code: https://www.apa.org/ethics/code", "BLS Psychologists: https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm", "O*NET Psychologists: https://www.onetonline.org/link/summary/19-3033.00", "NIMH Mental Health Information: https://www.nimh.nih.gov/health", "CDC Mental Health: https://www.cdc.gov/mental-health/", "CareerOneStop: https://www.careeronestop.org/", "College Board AP Psychology: https://apstudents.collegeboard.org/courses/ap-psychology", "Common App: https://www.commonapp.org/"]
     }
   ]

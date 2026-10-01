@@ -1,0 +1,185 @@
+{
+  "schemaVersion": "health_science_careers_v1",
+  "careers": [
+    {
+      "id": "physician",
+      "title": "Physician",
+      "summary": "Physicians diagnose and treat illness and injury, promote health, and work across clinical, educational, research, public-service, and administrative settings within licensed professional scope.",
+      "domainFamily": "medicine",
+      "careerFamily": "physician",
+      "pathwayIds": ["medicine_pathway_us"],
+      "educationRelationships": [
+        {
+          "pathwayId": "medicine_pathway_us",
+          "stageIds": ["medicine_high_school_preparation", "medicine_college_premed_preparation", "medicine_application_transition", "medicine_medical_school", "medicine_residency", "medicine_fellowship_career"],
+          "relationshipType": "education_and_training_pathway",
+          "summary": "The linked pathway organizes a U.S.-context educational sequence from exploration through medical education, residency, optional fellowship, licensure verification, and career development."
+        }
+      ],
+      "skills": [
+        {
+          "id": "physician_patient_care",
+          "title": "Patient care and procedural skills",
+          "category": "acgme_competency_domain",
+          "summary": "Develop supervised, specialty-appropriate patient-care capabilities and progressive responsibility through accredited training.",
+          "sourceRefs": ["https://www.acgme.org/programs-and-institutions/programs/common-program-requirements/"]
+        },
+        {
+          "id": "physician_medical_knowledge",
+          "title": "Medical knowledge",
+          "category": "acgme_competency_domain",
+          "summary": "Build and apply biomedical, clinical, epidemiological, and social-behavioral knowledge within professional training and scope.",
+          "sourceRefs": ["https://www.acgme.org/programs-and-institutions/programs/common-program-requirements/"]
+        },
+        {
+          "id": "physician_practice_learning",
+          "title": "Practice-based learning and improvement",
+          "category": "acgme_competency_domain",
+          "summary": "Use evidence, feedback, quality improvement, and self-assessment to improve supervised practice and lifelong learning.",
+          "sourceRefs": ["https://www.acgme.org/programs-and-institutions/programs/common-program-requirements/"]
+        },
+        {
+          "id": "physician_communication",
+          "title": "Interpersonal and communication skills",
+          "category": "acgme_competency_domain",
+          "summary": "Communicate effectively with patients, families, and professional teams while respecting privacy and role boundaries.",
+          "sourceRefs": ["https://www.acgme.org/programs-and-institutions/programs/common-program-requirements/"]
+        },
+        {
+          "id": "physician_professionalism",
+          "title": "Professionalism",
+          "category": "acgme_competency_domain",
+          "summary": "Demonstrate ethical conduct, accountability, respect, responsiveness, and professional responsibilities appropriate to training and practice.",
+          "sourceRefs": ["https://www.acgme.org/programs-and-institutions/programs/common-program-requirements/"]
+        },
+        {
+          "id": "physician_systems_practice",
+          "title": "Systems-based practice",
+          "category": "acgme_competency_domain",
+          "summary": "Learn how patient care operates within health systems, teams, quality structures, and resource constraints.",
+          "sourceRefs": ["https://www.acgme.org/programs-and-institutions/programs/common-program-requirements/"]
+        }
+      ],
+      "employerCategories": [
+        {
+          "id": "physician_hospital_health_system",
+          "title": "Hospitals and health systems",
+          "summary": "Physicians may practice in hospital and integrated health-system settings, subject to specialty, privileges, licensure, and organizational requirements.",
+          "sourceRefs": ["https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm"]
+        },
+        {
+          "id": "physician_office_clinic",
+          "title": "Physician offices and clinics",
+          "summary": "Office, group-practice, ambulatory, and clinic environments represent broad practice settings rather than specific job openings or endorsements.",
+          "sourceRefs": ["https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm"]
+        },
+        {
+          "id": "physician_public_service",
+          "title": "Government, public health, and nonprofit service",
+          "summary": "Some physician careers contribute through public agencies, community organizations, policy, service, or population-health work.",
+          "sourceRefs": ["https://students-residents.aamc.org/choosing-medical-career/explore-medical-careers"]
+        },
+        {
+          "id": "physician_education_research_industry",
+          "title": "Education, research, and industry",
+          "summary": "Medical careers can include teaching, research, innovation, administration, and related non-clinical or combined roles whose qualifications vary.",
+          "sourceRefs": ["https://students-residents.aamc.org/medical-careers/learn-about-medical-career-paths"]
+        }
+      ],
+      "opportunityCategories": [
+        {
+          "id": "physician_clinical_practice",
+          "title": "Clinical practice",
+          "summary": "Patient-care work varies by specialty, setting, licensure, credentials, supervision, and organizational privileges.",
+          "sourceRefs": ["https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm"]
+        },
+        {
+          "id": "physician_research",
+          "title": "Research",
+          "summary": "Research opportunities can include basic, clinical, translational, implementation, or health-services work with role-specific training and oversight.",
+          "sourceRefs": ["https://students-residents.aamc.org/choosing-medical-career/explore-medical-careers"]
+        },
+        {
+          "id": "physician_medical_education",
+          "title": "Medical education",
+          "summary": "Physicians may contribute to learner education, assessment, curriculum, or mentorship according to institutional qualifications and responsibilities.",
+          "sourceRefs": ["https://students-residents.aamc.org/medical-careers/learn-about-medical-career-paths"]
+        },
+        {
+          "id": "physician_public_health_administration",
+          "title": "Public health and administration",
+          "summary": "Some roles focus on systems, quality, policy, population health, leadership, or administration in addition to or instead of clinical practice.",
+          "sourceRefs": ["https://students-residents.aamc.org/choosing-medical-career/explore-medical-careers"]
+        },
+        {
+          "id": "physician_specialty_development",
+          "title": "Specialty and subspecialty development",
+          "summary": "Specialty and subspecialty pathways differ; current training and certification relationships must be verified with applicable programs and boards.",
+          "sourceRefs": ["https://abms.org/member-boards/specialty-subspecialty-certificates/"]
+        }
+      ],
+      "readinessCriteria": [
+        {
+          "id": "physician_pathway_verification",
+          "title": "Verify the education and training pathway",
+          "category": "verification",
+          "summary": "Use current official program, accreditation, application, licensing, and certification sources for every consequential requirement.",
+          "evidenceExamples": ["Current program requirements", "Accreditation source", "Jurisdiction-specific licensing source"],
+          "sourceRefs": ["https://students-residents.aamc.org/medical-careers/learn-about-medical-career-paths", "https://www.fsmb.org/u.s.-medical-regulatory-trends-and-actions/guide-to-medical-regulation-in-the-united-states/about-physician-licensure/"]
+        },
+        {
+          "id": "physician_supervised_competency_evidence",
+          "title": "Build supervised competency evidence",
+          "category": "learning_evidence",
+          "summary": "Document supervised learning, feedback, assessment, reflection, and improvement without treating app records as credentialing evidence.",
+          "evidenceExamples": ["Supervisor feedback", "Program assessment", "Reflective learning record", "Quality-improvement participation"],
+          "sourceRefs": ["https://www.acgme.org/programs-and-institutions/programs/common-program-requirements/"]
+        },
+        {
+          "id": "physician_career_exploration",
+          "title": "Explore roles with qualified guidance",
+          "category": "career_exploration",
+          "summary": "Compare specialties, settings, responsibilities, and training through current official information and qualified mentors rather than an automated fit score.",
+          "evidenceExamples": ["Mentor discussion", "Supervised observation", "Specialty comparison notes", "Current official source review"],
+          "sourceRefs": ["https://students-residents.aamc.org/choosing-medical-career/explore-medical-careers"]
+        }
+      ],
+      "comparisonFacts": [
+        {
+          "id": "physician_role_scope",
+          "title": "Role scope varies",
+          "category": "role",
+          "summary": "Physician duties vary substantially by specialty, setting, patient population, credentials, and professional scope.",
+          "sourceRefs": ["https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm"]
+        },
+        {
+          "id": "physician_training_sequence",
+          "title": "Education and training are multi-stage",
+          "category": "education_and_training",
+          "summary": "The U.S. pathway generally connects prerequisite preparation, medical education, residency, and optional fellowship while exact requirements remain program-specific.",
+          "sourceRefs": ["https://students-residents.aamc.org/medical-careers/learn-about-medical-career-paths", "https://www.acgme.org/about/overview/"]
+        },
+        {
+          "id": "physician_setting_breadth",
+          "title": "Work settings are diverse",
+          "category": "work_setting",
+          "summary": "Potential settings span patient care, education, research, public service, administration, and related roles; availability and qualifications are not implied.",
+          "sourceRefs": ["https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm", "https://students-residents.aamc.org/choosing-medical-career/explore-medical-careers"]
+        },
+        {
+          "id": "physician_licensure_certification",
+          "title": "Licensure and certification are distinct",
+          "category": "credentialing",
+          "summary": "State medical licensure and specialty-board certification have different authorities, purposes, and current requirements.",
+          "sourceRefs": ["https://www.fsmb.org/u.s.-medical-regulatory-trends-and-actions/guide-to-medical-regulation-in-the-united-states/about-physician-licensure/", "https://abms.org/member-boards/specialty-subspecialty-certificates/"]
+        }
+      ],
+      "provenance": {
+        "contentVersion": "1.0.0",
+        "reviewedDate": "2026-09-30",
+        "sourceRefs": ["https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm", "https://students-residents.aamc.org/medical-careers/learn-about-medical-career-paths", "https://students-residents.aamc.org/choosing-medical-career/explore-medical-careers", "https://www.acgme.org/programs-and-institutions/programs/common-program-requirements/", "https://www.fsmb.org/u.s.-medical-regulatory-trends-and-actions/guide-to-medical-regulation-in-the-united-states/about-physician-licensure/", "https://abms.org/member-boards/specialty-subspecialty-certificates/"],
+        "limitations": ["Educational U.S.-context overview only; not medical, career, admissions, legal, licensing, certification, or financial advice.", "Employer and opportunity categories are general learning structures, not current job listings, endorsements, rankings, or guarantees.", "Requirements, roles, settings, accreditation, licensure, certification, and opportunities change and require current official verification.", "The record does not score readiness, recommend a career, determine suitability, or guarantee admission, matching, credentials, employment, compensation, or outcomes."]
+      }
+    }
+  ]
+}

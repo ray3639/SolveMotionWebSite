@@ -1,0 +1,346 @@
+{
+  "schemaVersion": "health_science_pathways_v1",
+  "pathways": [
+    {
+      "id": "pharmacy_foundation",
+      "title": "Pharmacy education foundation",
+      "summary": "A reusable stage outline that links preparation, professional pharmacy education, and optional postgraduate training without replacing program-specific requirements.",
+      "domainFamily": "pharmacy",
+      "careerIds": ["pharmacist"],
+      "stages": [
+        {
+          "id": "pharmacy_preparation",
+          "title": "Academic and experience preparation",
+          "sequence": 1,
+          "stageType": "preparation",
+          "summary": "Review prerequisite domains, communication skills, supervised exposure, and current program requirements.",
+          "educationRequirements": [
+            {
+              "id": "program_specific_prerequisites",
+              "title": "Program-specific prerequisites",
+              "category": "admissions",
+              "summary": "Requirements vary by institution and must be verified with the current program source.",
+              "sourceRefs": ["https://www.pharmcas.org/", "https://www.aacp.org/"]
+            }
+          ],
+          "courseDomains": ["biology", "chemistry", "mathematics", "communication"],
+          "experienceCategories": [
+            {
+              "id": "pharmacy_observation",
+              "title": "Pharmacy observation or work exposure",
+              "category": "exposure",
+              "summary": "Observe pharmacy settings or build relevant experience within legal, privacy, and supervision boundaries.",
+              "supervisionRequired": true
+            }
+          ],
+          "trainingOptions": []
+        },
+        {
+          "id": "professional_pharmacy_education",
+          "title": "Professional pharmacy education",
+          "sequence": 2,
+          "stageType": "professional_education",
+          "summary": "Complete an accredited professional program and its required experiential education.",
+          "educationRequirements": [],
+          "courseDomains": ["pharmaceutical sciences", "pharmacotherapy", "patient care", "practice skills"],
+          "experienceCategories": [],
+          "trainingOptions": [
+            {
+              "id": "pharmd_program",
+              "title": "Doctor of Pharmacy program",
+              "trainingType": "professional_degree",
+              "summary": "Program structure and licensure preparation must be verified with current accredited-program and jurisdiction sources.",
+              "sourceRefs": ["https://www.acpe-accredit.org/", "https://nabp.pharmacy/"]
+            }
+          ]
+        },
+        {
+          "id": "pharmacy_postgraduate_options",
+          "title": "Postgraduate options",
+          "sequence": 3,
+          "stageType": "postgraduate_training",
+          "summary": "Compare employment, residency, fellowship, graduate education, and other supervised development options.",
+          "educationRequirements": [],
+          "courseDomains": [],
+          "experienceCategories": [],
+          "trainingOptions": [
+            {
+              "id": "pharmacy_residency",
+              "title": "Pharmacy residency",
+              "trainingType": "residency",
+              "summary": "Availability, eligibility, structure, and accreditation status require current program verification.",
+              "sourceRefs": ["https://www.ashp.org/professional-development/residency-information"]
+            },
+            {
+              "id": "pharmacy_fellowship",
+              "title": "Pharmacy fellowship",
+              "trainingType": "fellowship",
+              "summary": "Industry and research fellowship structures vary and require current sponsor verification.",
+              "sourceRefs": ["https://www.aacp.org/"]
+            }
+          ]
+        }
+      ],
+      "provenance": {
+        "contentVersion": "1.0.0",
+        "reviewedDate": "2026-09-30",
+        "sourceRefs": ["https://www.aacp.org/", "https://www.acpe-accredit.org/", "https://nabp.pharmacy/"],
+        "limitations": ["Educational overview only.", "Program requirements, accreditation, admissions, licensure, and training availability can change and require current official verification."]
+      }
+    },
+    {
+      "id": "health_science_exploration",
+      "title": "Health and science exploration foundation",
+      "summary": "A reusable early-stage structure for exploring health and science education without presenting a complete profession-specific pathway.",
+      "domainFamily": "health_science",
+      "careerIds": [],
+      "stages": [
+        {
+          "id": "health_science_exploration_stage",
+          "title": "Explore domains and evidence",
+          "sequence": 1,
+          "stageType": "exploration",
+          "summary": "Compare science domains, education expectations, ethical boundaries, supervised experiences, and current official sources before choosing a profession-specific path.",
+          "educationRequirements": [],
+          "courseDomains": ["biology", "chemistry", "physics", "mathematics", "behavioral science", "communication"],
+          "experienceCategories": [
+            {
+              "id": "supervised_health_exposure",
+              "title": "Supervised health-related exposure",
+              "category": "exposure",
+              "summary": "Use appropriately supervised observation, service, research, or workplace experiences while respecting privacy and role boundaries.",
+              "supervisionRequired": true
+            }
+          ],
+          "trainingOptions": []
+        }
+      ],
+      "provenance": {
+        "contentVersion": "1.0.0",
+        "reviewedDate": "2026-09-30",
+        "sourceRefs": ["https://www.bls.gov/ooh/healthcare/", "https://www.careeronestop.org/"],
+        "limitations": ["This is an exploration framework, not admissions or career advice.", "Profession-specific requirements must be added from current authoritative sources in their approved domain phase."]
+      }
+    },
+    {
+      "id": "medicine_pathway_us",
+      "title": "Medicine education and training pathway",
+      "summary": "A U.S.-context educational overview connecting early exploration, college preparation, medical education, graduate medical education, optional subspecialty training, licensure verification, and a physician career.",
+      "domainFamily": "medicine",
+      "careerIds": ["physician"],
+      "stages": [
+        {
+          "id": "medicine_high_school_preparation",
+          "title": "High school preparation and exploration",
+          "sequence": 1,
+          "stageType": "preparation",
+          "summary": "Build broad academic, communication, reasoning, service, and career-exploration foundations without treating high school activities as admissions guarantees.",
+          "educationRequirements": [
+            {
+              "id": "medicine_early_foundations",
+              "title": "Broad academic and skill foundations",
+              "category": "preparation",
+              "summary": "Use available science, mathematics, communication, career exploration, and feedback opportunities while verifying local course and program options.",
+              "sourceRefs": ["https://students-residents.aamc.org/resources-k-12-students/four-things-high-school-student-can-do-prepare-medical-school"]
+            }
+          ],
+          "courseDomains": ["biology", "chemistry", "physics", "mathematics", "communication", "behavioral science"],
+          "experienceCategories": [
+            {
+              "id": "medicine_early_exploration",
+              "title": "Career and community exploration",
+              "category": "exploration",
+              "summary": "Explore health careers, service, research, and supervised learning opportunities while respecting privacy, safety, age, and role boundaries.",
+              "supervisionRequired": true
+            }
+          ],
+          "trainingOptions": []
+        },
+        {
+          "id": "medicine_college_premed_preparation",
+          "title": "College and pre-med preparation",
+          "sequence": 2,
+          "stageType": "premedical_education",
+          "summary": "Develop academic foundations and premed competencies while checking each medical school's current coursework, assessment, experience, and application expectations.",
+          "educationRequirements": [
+            {
+              "id": "medicine_program_specific_prerequisites",
+              "title": "Program-specific academic requirements",
+              "category": "admissions",
+              "summary": "Required and recommended coursework varies by medical school and must be verified through current official program sources.",
+              "sourceRefs": ["https://students-residents.aamc.org/medical-school-admission-requirements/required-premedical-coursework-and-competencies"]
+            },
+            {
+              "id": "medicine_premed_competencies",
+              "title": "Premed competency development",
+              "category": "competencies",
+              "summary": "Use professional, thinking and reasoning, and science competency categories as a reflection framework rather than an admissions score.",
+              "sourceRefs": ["https://students-residents.aamc.org/real-stories-demonstrating-premed-competencies/premed-competencies-entering-medical-students"]
+            }
+          ],
+          "courseDomains": ["living systems", "chemistry", "physics", "quantitative reasoning", "human behavior", "scientific inquiry", "written communication"],
+          "experienceCategories": [
+            {
+              "id": "medicine_clinical_exposure",
+              "title": "Supervised clinical or health-care exposure",
+              "category": "exposure",
+              "summary": "Use lawful, supervised observation, employment, or service to understand health-care roles without exceeding the learner's scope.",
+              "supervisionRequired": true
+            },
+            {
+              "id": "medicine_service_experience",
+              "title": "Service and community engagement",
+              "category": "service",
+              "summary": "Build sustained service experience and reflect on community needs without treating an activity or hour count as a universal requirement.",
+              "supervisionRequired": false
+            },
+            {
+              "id": "medicine_research_experience",
+              "title": "Research and scientific inquiry",
+              "category": "research",
+              "summary": "Use supervised research or inquiry opportunities to develop evidence, teamwork, communication, and scientific reasoning skills.",
+              "supervisionRequired": true
+            }
+          ],
+          "trainingOptions": []
+        },
+        {
+          "id": "medicine_application_transition",
+          "title": "Medical-school application transition",
+          "sequence": 3,
+          "stageType": "application_transition",
+          "summary": "Verify current institution-specific admissions requirements, application components, policies, assessments, dates, fees, and eligibility directly with each program and official application service.",
+          "educationRequirements": [
+            {
+              "id": "medicine_current_application_requirements",
+              "title": "Current application requirements",
+              "category": "admissions",
+              "summary": "Application requirements and policies are not universal and can change; use current school and official application-service sources.",
+              "sourceRefs": ["https://students-residents.aamc.org/medical-school-admission-requirements/medical-school-admission-requirements-reports-applicants-and-advisors"]
+            }
+          ],
+          "courseDomains": [],
+          "experienceCategories": [],
+          "trainingOptions": []
+        },
+        {
+          "id": "medicine_medical_school",
+          "title": "Accredited medical education",
+          "sequence": 4,
+          "stageType": "professional_education",
+          "summary": "Complete an appropriately accredited medical education program and its required academic, clinical, professional, and assessment components.",
+          "educationRequirements": [
+            {
+              "id": "medicine_accreditation_verification",
+              "title": "Medical-program accreditation verification",
+              "category": "accreditation",
+              "summary": "Confirm a program's current accreditation and eligibility implications directly with the applicable accreditor and program.",
+              "sourceRefs": ["https://www.aamc.org/medical-school-accreditation", "https://osteopathic.org/accreditation/"]
+            }
+          ],
+          "courseDomains": ["biomedical science", "clinical science", "patient care", "professional development", "health systems"],
+          "experienceCategories": [
+            {
+              "id": "medicine_supervised_clinical_education",
+              "title": "Supervised clinical education",
+              "category": "clinical_education",
+              "summary": "Develop clinical knowledge and skills through the program's supervised education and assessment structure.",
+              "supervisionRequired": true
+            }
+          ],
+          "trainingOptions": [
+            {
+              "id": "medicine_md_program",
+              "title": "MD medical education program",
+              "trainingType": "professional_degree",
+              "summary": "Verify current program accreditation, curriculum, admissions, assessment, graduation, and eligibility requirements with the program and LCME sources.",
+              "sourceRefs": ["https://www.aamc.org/medical-school-accreditation"]
+            },
+            {
+              "id": "medicine_do_program",
+              "title": "DO medical education program",
+              "trainingType": "professional_degree",
+              "summary": "Verify current program accreditation, curriculum, admissions, assessment, graduation, and eligibility requirements with the program and COCA sources.",
+              "sourceRefs": ["https://osteopathic.org/accreditation/"]
+            }
+          ]
+        },
+        {
+          "id": "medicine_residency",
+          "title": "Residency and graduate medical education",
+          "sequence": 5,
+          "stageType": "graduate_medical_education",
+          "summary": "Enter supervised specialty training through a residency whose eligibility, accreditation, matching, assessment, and completion requirements must be verified from current official sources.",
+          "educationRequirements": [
+            {
+              "id": "medicine_residency_eligibility_verification",
+              "title": "Residency eligibility and program verification",
+              "category": "graduate_medical_education",
+              "summary": "Residency eligibility and program requirements vary; verify current requirements with the program, accreditor, application/matching services, and relevant licensing authority.",
+              "sourceRefs": ["https://www.acgme.org/about/overview/", "https://www.fsmb.org/u.s.-medical-regulatory-trends-and-actions/guide-to-medical-regulation-in-the-united-states/about-physician-licensure/"]
+            }
+          ],
+          "courseDomains": ["specialty knowledge", "patient care", "systems-based practice", "professionalism", "communication"],
+          "experienceCategories": [
+            {
+              "id": "medicine_resident_training",
+              "title": "Supervised resident training",
+              "category": "graduate_medical_education",
+              "summary": "Develop specialty competence through supervised patient care, feedback, assessment, scholarship, and progressive responsibility within the program.",
+              "supervisionRequired": true
+            }
+          ],
+          "trainingOptions": [
+            {
+              "id": "medicine_acgme_residency",
+              "title": "Residency program",
+              "trainingType": "residency",
+              "summary": "Program accreditation, specialty requirements, duration, eligibility, supervision, and completion standards require current program and ACGME verification.",
+              "sourceRefs": ["https://www.acgme.org/programs-and-institutions/programs/common-program-requirements/"]
+            }
+          ]
+        },
+        {
+          "id": "medicine_fellowship_career",
+          "title": "Optional fellowship and medical-career development",
+          "sequence": 6,
+          "stageType": "career_transition",
+          "summary": "Verify jurisdiction-specific licensure, consider optional fellowship or other advanced training where applicable, and use the relevant specialty authority for certification and continuing-development requirements.",
+          "educationRequirements": [
+            {
+              "id": "medicine_licensure_verification",
+              "title": "Jurisdiction-specific physician licensure",
+              "category": "licensure",
+              "summary": "Licensure requirements vary by jurisdiction and can change; verify them directly with the relevant medical board.",
+              "sourceRefs": ["https://www.fsmb.org/u.s.-medical-regulatory-trends-and-actions/guide-to-medical-regulation-in-the-united-states/about-physician-licensure/", "https://www.fsmb.org/step-3/state-licensure/"]
+            },
+            {
+              "id": "medicine_certification_verification",
+              "title": "Specialty or subspecialty certification verification",
+              "category": "certification",
+              "summary": "Certification is separate from state licensure; verify eligibility and continuing requirements with the relevant certification board.",
+              "sourceRefs": ["https://abms.org/member-boards/specialty-subspecialty-certificates/"]
+            }
+          ],
+          "courseDomains": ["specialty development", "quality improvement", "lifelong learning", "professional responsibility"],
+          "experienceCategories": [],
+          "trainingOptions": [
+            {
+              "id": "medicine_optional_fellowship",
+              "title": "Optional subspecialty fellowship",
+              "trainingType": "fellowship",
+              "summary": "Fellowship is applicable to selected subspecialty paths; eligibility, accreditation, duration, and certification relationships require current program and specialty-source verification.",
+              "sourceRefs": ["https://www.acgme.org/programs-and-institutions/programs/common-program-requirements/", "https://abms.org/member-boards/specialty-subspecialty-certificates/"]
+            }
+          ]
+        }
+      ],
+      "provenance": {
+        "contentVersion": "1.0.0",
+        "reviewedDate": "2026-09-30",
+        "sourceRefs": ["https://students-residents.aamc.org/real-stories-demonstrating-premed-competencies/premed-competencies-entering-medical-students", "https://students-residents.aamc.org/medical-school-admission-requirements/required-premedical-coursework-and-competencies", "https://www.aamc.org/medical-school-accreditation", "https://osteopathic.org/accreditation/", "https://www.acgme.org/about/overview/", "https://www.fsmb.org/u.s.-medical-regulatory-trends-and-actions/guide-to-medical-regulation-in-the-united-states/about-physician-licensure/", "https://abms.org/member-boards/specialty-subspecialty-certificates/"],
+        "limitations": ["Educational U.S.-context overview only; this record is not admissions, academic, career, legal, licensing, certification, or medical advice.", "School prerequisites, application policies, assessments, accreditation, residency and fellowship requirements, licensure, certification, and program availability can change and must be verified with current official sources.", "No activity, course, score, hour count, program, or training path guarantees admission, matching, licensure, certification, employment, or career outcomes."]
+      }
+    }
+  ]
+}

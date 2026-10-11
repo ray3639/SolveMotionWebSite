@@ -1,11 +1,11 @@
 {
-    "name": "rayai",
-    "short_name": "rayai",
+    "name": "RayAI",
+    "short_name": "RayAI",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#0B1220",
+    "theme_color": "#0B1220",
+    "description": "RayAI connects your authorized applications, project evidence, and next actions.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

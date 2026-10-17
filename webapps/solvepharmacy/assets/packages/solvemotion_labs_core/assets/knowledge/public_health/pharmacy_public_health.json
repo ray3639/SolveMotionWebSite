@@ -2,40 +2,40 @@
     "scope":  "education-only",
     "entries":  [
                     {
-                        "summary":  "Widely used analgesic and antipyretic with extensive population-level safety monitoring.",
-                        "compound_id":  "cmp_acetaminophen",
-                        "authority":  "CDC",
-                        "population_notes":  "Public health agencies track aggregate usage patterns to identify trends related to liver safety and unintentional overuse."
-                    },
-                    {
-                        "summary":  "Included in many over-the-counter and prescription products with established regulatory guidance.",
+                        "summary":  "FDA warns that excess acetaminophen can cause severe liver injury.",
                         "compound_id":  "cmp_acetaminophen",
                         "authority":  "FDA",
-                        "population_notes":  "Regulatory advisories emphasize labeling standards and population-level risk reduction."
+                        "population_notes":  "Read the acetaminophen overview and product labeling for the context of this warning. Source reading: https://www.fda.gov/drugs/safe-use-over-counter-pain-relievers-and-fever-reducers/acetaminophen"
                     },
                     {
-                        "summary":  "Nonsteroidal anti-inflammatory drug monitored globally for general safety trends.",
+                        "summary":  "Acetaminophen can appear in more than one medicine, creating a risk of unintentional overlap.",
+                        "compound_id":  "cmp_acetaminophen",
+                        "authority":  "FDA",
+                        "population_notes":  "The consumer page discusses ingredient labels and overlapping acetaminophen products. Source reading: https://www.fda.gov/consumers/consumer-updates/dont-overuse-acetaminophen"
+                    },
+                    {
+                        "summary":  "FDA pain-reliever education identifies ibuprofen as an NSAID and discusses kidney and stomach-bleeding risks.",
                         "compound_id":  "cmp_ibuprofen",
-                        "authority":  "WHO",
-                        "population_notes":  "Global surveillance focuses on cardiovascular and gastrointestinal patterns across populations."
+                        "authority":  "FDA",
+                        "population_notes":  "The brochure describes risks for some people with medical conditions; it does not establish individual suitability. Source reading: https://www.fda.gov/drugs/safe-use-over-counter-pain-relievers-and-fever-reducers/best-way-take-your-over-counter-pain-reliever-seriously-four-panel-brochure"
                     },
                     {
-                        "summary":  "Frequently studied in population health research due to widespread use.",
+                        "summary":  "MedlinePlus lists serious gastrointestinal warnings for ibuprofen, including ulcers and bleeding.",
                         "compound_id":  "cmp_ibuprofen",
-                        "authority":  "NIH",
-                        "population_notes":  "Research synthesis evaluates aggregate outcomes and usage trends."
+                        "authority":  "NLM MedlinePlus",
+                        "population_notes":  "Read the full drug-information warning for the risk context and the populations it discusses. Source reading: https://medlineplus.gov/druginfo/meds/a682159.html"
                     },
                     {
-                        "summary":  "Common stimulant present in foods, beverages, and supplements.",
+                        "summary":  "The CDC school-nutrition resource discusses caffeine and other stimulants in energy drinks used by students.",
                         "compound_id":  "cmp_caffeine",
                         "authority":  "CDC",
-                        "population_notes":  "Public health monitoring examines consumption patterns, especially in adolescents and adults."
+                        "population_notes":  "Scope: school nutrition and energy drinks. Read the source for the populations and concerns it discusses. Source reading: https://www.cdc.gov/school-nutrition/energy-drinks/index.html"
                     },
                     {
-                        "summary":  "Regulated as a food additive and dietary component.",
+                        "summary":  "FDA describes differences in caffeine sensitivity related to individual factors, health conditions and medicines.",
                         "compound_id":  "cmp_caffeine",
                         "authority":  "FDA",
-                        "population_notes":  "Education focuses on awareness of stimulant intake across consumer products."
+                        "population_notes":  "The page discusses caffeine from multiple consumer sources; no personal intake limit is established in this record. Source reading: https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
                     }
                 ],
     "version":  "1.0",

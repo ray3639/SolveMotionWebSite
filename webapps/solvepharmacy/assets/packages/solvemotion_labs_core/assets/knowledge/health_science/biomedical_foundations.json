@@ -1,0 +1,1024 @@
+{
+  "schemaVersion": "core_biomedical_evidence_v1",
+  "document": {
+    "schemaVersion": "core_biomedical_discovery_v1",
+    "documentId": "melanoma_braf_foundations",
+    "contentVersion": "1.1.0",
+    "entities": [
+      {
+        "id": "cancer:melanoma",
+        "kind": "cancer",
+        "label": "Melanoma",
+        "summary": "Melanoma involves pigment-producing cells. This molecular research reference is not an individual diagnosis.",
+        "attributes": {
+          "scope": "EDUCATIONAL_REFERENCE_NOT_INDIVIDUAL_RESULT"
+        },
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://medlineplus.gov/genetics/gene/braf/",
+            "https://www.cancer.gov/types/skin/research"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      },
+      {
+        "id": "gene:braf",
+        "kind": "gene",
+        "label": "BRAF gene",
+        "summary": "BRAF supplies instructions for a signaling protein involved in cell growth.",
+        "attributes": {
+          "scope": "EDUCATIONAL_REFERENCE_NOT_INDIVIDUAL_RESULT"
+        },
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/braf-gene",
+            "https://medlineplus.gov/genetics/gene/braf/"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURATED_VERSIONED"
+        }
+      },
+      {
+        "id": "protein:braf",
+        "kind": "protein",
+        "label": "B-Raf protein",
+        "summary": "B-Raf participates in cellular signaling; altered forms can affect growth regulation.",
+        "attributes": {
+          "scope": "EDUCATIONAL_REFERENCE_NOT_INDIVIDUAL_RESULT"
+        },
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/braf-gene",
+            "https://medlineplus.gov/genetics/gene/braf/"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURATED_VERSIONED"
+        }
+      },
+      {
+        "id": "mutation:braf_context",
+        "kind": "mutation",
+        "label": "BRAF alteration context",
+        "summary": "BRAF alterations are discussed in melanoma research. No measured variant or patient specimen is supplied.",
+        "attributes": {
+          "scope": "EDUCATIONAL_REFERENCE_NOT_INDIVIDUAL_RESULT"
+        },
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/braf-gene",
+            "https://www.cancer.gov/types/skin/research"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      },
+      {
+        "id": "pathway:ras_mapk",
+        "kind": "pathway",
+        "label": "RAS / MAPK signaling",
+        "summary": "This signaling pathway participates in growth, division and other cellular functions.",
+        "attributes": {
+          "scope": "EDUCATIONAL_REFERENCE_NOT_INDIVIDUAL_RESULT"
+        },
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://medlineplus.gov/genetics/gene/braf/"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURATED_VERSIONED"
+        }
+      },
+      {
+        "id": "process:cell_growth",
+        "kind": "cellular_process",
+        "label": "Cell growth and division",
+        "summary": "Growth and division are among the cellular functions influenced by RAS / MAPK signaling.",
+        "attributes": {
+          "scope": "EDUCATIONAL_REFERENCE_NOT_INDIVIDUAL_RESULT"
+        },
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://medlineplus.gov/genetics/gene/braf/"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURATED_VERSIONED"
+        }
+      },
+      {
+        "id": "target:braf_context",
+        "kind": "target",
+        "label": "BRAF research target",
+        "summary": "NCI discusses altered B-Raf as a target in melanoma research; this is not a treatment selection.",
+        "attributes": {
+          "scope": "EDUCATIONAL_REFERENCE_NOT_INDIVIDUAL_RESULT"
+        },
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/types/skin/research"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      },
+      {
+        "id": "mechanism:signaling_blockade",
+        "kind": "mechanism",
+        "label": "Signaling blockade research",
+        "summary": "NCI describes research involving blockade of signaling proteins in melanoma.",
+        "attributes": {
+          "scope": "EDUCATIONAL_REFERENCE_NOT_INDIVIDUAL_RESULT"
+        },
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/types/skin/research"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      },
+      {
+        "id": "resistance:melanoma_context",
+        "kind": "resistance",
+        "label": "Resistance research context",
+        "summary": "Treatment resistance is a research question in the NCI melanoma overview. No individual outcome or timing is inferred.",
+        "attributes": {
+          "scope": "EDUCATIONAL_REFERENCE_NOT_INDIVIDUAL_RESULT"
+        },
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/types/skin/research"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      },
+      {
+        "id": "biomarker:melanoma_context",
+        "kind": "biomarker",
+        "label": "Biomarker research context",
+        "summary": "NCI describes work on markers of possible response. No individual biomarker result is recorded.",
+        "attributes": {
+          "scope": "EDUCATIONAL_REFERENCE_NOT_INDIVIDUAL_RESULT"
+        },
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/types/skin/research"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      },
+      {
+        "id": "evidence:nci_braf",
+        "kind": "evidence",
+        "label": "NCI BRAF educational reference",
+        "summary": "Curated public educational reference; no original study, trial result or individual response is supplied.",
+        "attributes": {
+          "scope": "CURATED_EDUCATIONAL_REFERENCE"
+        },
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/braf-gene"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURATED_VERSIONED"
+        }
+      },
+      {
+        "id": "evidence:nlm_braf",
+        "kind": "evidence",
+        "label": "NIH MedlinePlus BRAF educational reference",
+        "summary": "Curated public educational reference; no original study, trial result or individual response is supplied.",
+        "attributes": {
+          "scope": "CURATED_EDUCATIONAL_REFERENCE"
+        },
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://medlineplus.gov/genetics/gene/braf/"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURATED_VERSIONED"
+        }
+      },
+      {
+        "id": "evidence:nci_melanoma",
+        "kind": "evidence",
+        "label": "NCI melanoma research overview",
+        "summary": "Curated public educational reference; no original study, trial result or individual response is supplied.",
+        "attributes": {
+          "scope": "CURATED_EDUCATIONAL_REFERENCE"
+        },
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/types/skin/research"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      },
+      {
+        "id": "compound:vemurafenib",
+        "kind": "compound",
+        "label": "Vemurafenib",
+        "summary": "NCI describes a small molecule interacting with BRAF(V600E) kinase. This entry supplies molecular context for research comparison only.",
+        "attributes": {
+          "scope": "SOURCE_DESCRIBED_RESEARCH_COMPARISON"
+        },
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/vemurafenib"
+          ],
+          "limitations": [
+            "Source-described molecular mechanism only; no original study, assay result, trial phase or individual response is supplied.",
+            "Research comparison does not assess clinical suitability, efficacy, safety, dosing, approval or a treatment choice. Qualified human review and current official verification are required."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      },
+      {
+        "id": "compound:dabrafenib",
+        "kind": "compound",
+        "label": "Dabrafenib",
+        "summary": "NCI describes a compound that binds B-Raf and inhibits its activity. No comparative response or individual suitability is supplied.",
+        "attributes": {
+          "scope": "SOURCE_DESCRIBED_RESEARCH_COMPARISON"
+        },
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dabrafenib"
+          ],
+          "limitations": [
+            "Source-described molecular mechanism only; no original study, assay result, trial phase or individual response is supplied.",
+            "Research comparison does not assess clinical suitability, efficacy, safety, dosing, approval or a treatment choice. Qualified human review and current official verification are required."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      },
+      {
+        "id": "mechanism:vemurafenib_binding",
+        "kind": "mechanism",
+        "label": "Vemurafenib binding context",
+        "summary": "The NCI description places binding at the ATP site of BRAF(V600E), with inhibition of kinase activity.",
+        "attributes": {
+          "scope": "SOURCE_DESCRIBED_RESEARCH_COMPARISON"
+        },
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/vemurafenib"
+          ],
+          "limitations": [
+            "Source-described molecular mechanism only; no original study, assay result, trial phase or individual response is supplied.",
+            "Research comparison does not assess clinical suitability, efficacy, safety, dosing, approval or a treatment choice. Qualified human review and current official verification are required."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      },
+      {
+        "id": "mechanism:dabrafenib_binding",
+        "kind": "mechanism",
+        "label": "Dabrafenib binding context",
+        "summary": "The NCI description links B-Raf binding to inhibition of its activity and downstream signaling context.",
+        "attributes": {
+          "scope": "SOURCE_DESCRIBED_RESEARCH_COMPARISON"
+        },
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dabrafenib"
+          ],
+          "limitations": [
+            "Source-described molecular mechanism only; no original study, assay result, trial phase or individual response is supplied.",
+            "Research comparison does not assess clinical suitability, efficacy, safety, dosing, approval or a treatment choice. Qualified human review and current official verification are required."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      },
+      {
+        "id": "target:braf_v600e_context",
+        "kind": "target",
+        "label": "BRAF(V600E) kinase context",
+        "summary": "Variant-specific molecular context in the NCI vemurafenib description; no measured variant or patient specimen is supplied.",
+        "attributes": {
+          "scope": "SOURCE_DESCRIBED_RESEARCH_COMPARISON"
+        },
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/vemurafenib"
+          ],
+          "limitations": [
+            "Source-described molecular mechanism only; no original study, assay result, trial phase or individual response is supplied.",
+            "Research comparison does not assess clinical suitability, efficacy, safety, dosing, approval or a treatment choice. Qualified human review and current official verification are required."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      },
+      {
+        "id": "evidence:nci_vemurafenib",
+        "kind": "evidence",
+        "label": "NCI vemurafenib mechanism reference",
+        "summary": "Curated molecular reference; not an original experiment or clinical validation record.",
+        "attributes": {
+          "scope": "SOURCE_DESCRIBED_RESEARCH_COMPARISON"
+        },
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/vemurafenib"
+          ],
+          "limitations": [
+            "Source-described molecular mechanism only; no original study, assay result, trial phase or individual response is supplied.",
+            "Research comparison does not assess clinical suitability, efficacy, safety, dosing, approval or a treatment choice. Qualified human review and current official verification are required."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      },
+      {
+        "id": "evidence:nci_dabrafenib",
+        "kind": "evidence",
+        "label": "NCI dabrafenib mechanism reference",
+        "summary": "Curated molecular reference; not an original experiment or clinical validation record.",
+        "attributes": {
+          "scope": "SOURCE_DESCRIBED_RESEARCH_COMPARISON"
+        },
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dabrafenib"
+          ],
+          "limitations": [
+            "Source-described molecular mechanism only; no original study, assay result, trial phase or individual response is supplied.",
+            "Research comparison does not assess clinical suitability, efficacy, safety, dosing, approval or a treatment choice. Qualified human review and current official verification are required."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      }
+    ],
+    "relationships": [
+      {
+        "id": "gene_encodes_braf",
+        "fromId": "gene:braf",
+        "toId": "protein:braf",
+        "kind": "encodes",
+        "label": "BRAF encodes B-Raf protein",
+        "evidenceIds": [
+          "evidence:nci_braf",
+          "evidence:nlm_braf"
+        ],
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/braf-gene",
+            "https://medlineplus.gov/genetics/gene/braf/"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURATED_VERSIONED"
+        }
+      },
+      {
+        "id": "braf_pathway_context",
+        "fromId": "protein:braf",
+        "toId": "pathway:ras_mapk",
+        "kind": "part_of",
+        "label": "B-Raf participates in RAS / MAPK signaling",
+        "evidenceIds": [
+          "evidence:nlm_braf"
+        ],
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://medlineplus.gov/genetics/gene/braf/"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURATED_VERSIONED"
+        }
+      },
+      {
+        "id": "pathway_growth_context",
+        "fromId": "pathway:ras_mapk",
+        "toId": "process:cell_growth",
+        "kind": "affects",
+        "label": "RAS / MAPK signaling influences growth and division",
+        "evidenceIds": [
+          "evidence:nlm_braf"
+        ],
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://medlineplus.gov/genetics/gene/braf/"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURATED_VERSIONED"
+        }
+      },
+      {
+        "id": "melanoma_braf_context",
+        "fromId": "cancer:melanoma",
+        "toId": "mutation:braf_context",
+        "kind": "has_mutation",
+        "label": "Some melanomas have BRAF alterations",
+        "evidenceIds": [
+          "evidence:nci_melanoma"
+        ],
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/types/skin/research"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      },
+      {
+        "id": "alteration_gene_context",
+        "fromId": "mutation:braf_context",
+        "toId": "gene:braf",
+        "kind": "associated_with",
+        "label": "Alteration context refers to the BRAF gene",
+        "evidenceIds": [
+          "evidence:nci_braf"
+        ],
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/braf-gene"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURATED_VERSIONED"
+        }
+      },
+      {
+        "id": "braf_target_context",
+        "fromId": "target:braf_context",
+        "toId": "protein:braf",
+        "kind": "associated_with",
+        "label": "Research target context refers to altered B-Raf",
+        "evidenceIds": [
+          "evidence:nci_melanoma"
+        ],
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/types/skin/research"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      },
+      {
+        "id": "blockade_target_context",
+        "fromId": "mechanism:signaling_blockade",
+        "toId": "target:braf_context",
+        "kind": "associated_with",
+        "label": "NCI discusses signaling-blockade research",
+        "evidenceIds": [
+          "evidence:nci_melanoma"
+        ],
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/types/skin/research"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      },
+      {
+        "id": "melanoma_resistance_context",
+        "fromId": "cancer:melanoma",
+        "toId": "resistance:melanoma_context",
+        "kind": "associated_with",
+        "label": "NCI discusses resistance in melanoma research",
+        "evidenceIds": [
+          "evidence:nci_melanoma"
+        ],
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/types/skin/research"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      },
+      {
+        "id": "melanoma_biomarker_context",
+        "fromId": "cancer:melanoma",
+        "toId": "biomarker:melanoma_context",
+        "kind": "associated_with",
+        "label": "NCI discusses biomarker research in melanoma",
+        "evidenceIds": [
+          "evidence:nci_melanoma"
+        ],
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/types/skin/research"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      },
+      {
+        "id": "vemurafenib_mechanism",
+        "fromId": "compound:vemurafenib",
+        "toId": "mechanism:vemurafenib_binding",
+        "kind": "associated_with",
+        "label": "NCI describes a binding mechanism for vemurafenib",
+        "evidenceIds": [
+          "evidence:nci_vemurafenib"
+        ],
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/vemurafenib"
+          ],
+          "limitations": [
+            "Source-described molecular mechanism only; no original study, assay result, trial phase or individual response is supplied.",
+            "Research comparison does not assess clinical suitability, efficacy, safety, dosing, approval or a treatment choice. Qualified human review and current official verification are required."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      },
+      {
+        "id": "vemurafenib_target",
+        "fromId": "mechanism:vemurafenib_binding",
+        "toId": "target:braf_v600e_context",
+        "kind": "affects",
+        "label": "NCI describes inhibition in BRAF(V600E) kinase context",
+        "evidenceIds": [
+          "evidence:nci_vemurafenib"
+        ],
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/vemurafenib"
+          ],
+          "limitations": [
+            "Source-described molecular mechanism only; no original study, assay result, trial phase or individual response is supplied.",
+            "Research comparison does not assess clinical suitability, efficacy, safety, dosing, approval or a treatment choice. Qualified human review and current official verification are required."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      },
+      {
+        "id": "dabrafenib_mechanism",
+        "fromId": "compound:dabrafenib",
+        "toId": "mechanism:dabrafenib_binding",
+        "kind": "associated_with",
+        "label": "NCI describes a binding mechanism for dabrafenib",
+        "evidenceIds": [
+          "evidence:nci_dabrafenib"
+        ],
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dabrafenib"
+          ],
+          "limitations": [
+            "Source-described molecular mechanism only; no original study, assay result, trial phase or individual response is supplied.",
+            "Research comparison does not assess clinical suitability, efficacy, safety, dosing, approval or a treatment choice. Qualified human review and current official verification are required."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      },
+      {
+        "id": "dabrafenib_target",
+        "fromId": "mechanism:dabrafenib_binding",
+        "toId": "target:braf_context",
+        "kind": "affects",
+        "label": "NCI describes inhibition in B-Raf context",
+        "evidenceIds": [
+          "evidence:nci_dabrafenib"
+        ],
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dabrafenib"
+          ],
+          "limitations": [
+            "Source-described molecular mechanism only; no original study, assay result, trial phase or individual response is supplied.",
+            "Research comparison does not assess clinical suitability, efficacy, safety, dosing, approval or a treatment choice. Qualified human review and current official verification are required."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      },
+      {
+        "id": "v600e_protein_context",
+        "fromId": "target:braf_v600e_context",
+        "toId": "protein:braf",
+        "kind": "associated_with",
+        "label": "BRAF(V600E) is a variant-specific B-Raf context",
+        "evidenceIds": [
+          "evidence:nci_vemurafenib"
+        ],
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/vemurafenib"
+          ],
+          "limitations": [
+            "Source-described molecular mechanism only; no original study, assay result, trial phase or individual response is supplied.",
+            "Research comparison does not assess clinical suitability, efficacy, safety, dosing, approval or a treatment choice. Qualified human review and current official verification are required."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      }
+    ],
+    "evidenceSources": [
+      {
+        "evidenceId": "evidence:nci_braf",
+        "origin": "CURATED_REFERENCE",
+        "citation": "NCI BRAF educational reference",
+        "sourceLocator": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/braf-gene",
+        "studyId": null,
+        "trialId": null,
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/braf-gene"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURATED_VERSIONED"
+        }
+      },
+      {
+        "evidenceId": "evidence:nlm_braf",
+        "origin": "CURATED_REFERENCE",
+        "citation": "NIH MedlinePlus BRAF educational reference",
+        "sourceLocator": "https://medlineplus.gov/genetics/gene/braf/",
+        "studyId": null,
+        "trialId": null,
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://medlineplus.gov/genetics/gene/braf/"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURATED_VERSIONED"
+        }
+      },
+      {
+        "evidenceId": "evidence:nci_melanoma",
+        "origin": "CURATED_REFERENCE",
+        "citation": "NCI melanoma research overview",
+        "sourceLocator": "https://www.cancer.gov/types/skin/research",
+        "studyId": null,
+        "trialId": null,
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/types/skin/research"
+          ],
+          "limitations": [
+            "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+            "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      },
+      {
+        "evidenceId": "evidence:nci_vemurafenib",
+        "origin": "CURATED_REFERENCE",
+        "citation": "NCI vemurafenib mechanism reference",
+        "sourceLocator": "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/vemurafenib",
+        "studyId": null,
+        "trialId": null,
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/vemurafenib"
+          ],
+          "limitations": [
+            "Source-described molecular mechanism only; no original study, assay result, trial phase or individual response is supplied.",
+            "Research comparison does not assess clinical suitability, efficacy, safety, dosing, approval or a treatment choice. Qualified human review and current official verification are required."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      },
+      {
+        "evidenceId": "evidence:nci_dabrafenib",
+        "origin": "CURATED_REFERENCE",
+        "citation": "NCI dabrafenib mechanism reference",
+        "sourceLocator": "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dabrafenib",
+        "studyId": null,
+        "trialId": null,
+        "provenance": {
+          "contentVersion": "1.0.0",
+          "reviewedDate": "2026-10-17",
+          "sourceRefs": [
+            "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dabrafenib"
+          ],
+          "limitations": [
+            "Source-described molecular mechanism only; no original study, assay result, trial phase or individual response is supplied.",
+            "Research comparison does not assess clinical suitability, efficacy, safety, dosing, approval or a treatment choice. Qualified human review and current official verification are required."
+          ],
+          "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+        }
+      }
+    ],
+    "limitations": [
+      "Bounded educational melanoma/BRAF reference, not complete cancer coverage or an individual investigation.",
+      "No original experimental studies, registered trial records, patient data or clinical-validation records are supplied.",
+      "Mechanistic rationale and contextual references do not establish efficacy, safety, a treatment recommendation or a cure.",
+      "Missing supporting/challenging records in this document are not proof that no such evidence exists. Qualified humans perform and validate science.",
+      "Source-described molecular mechanism only; no original study, assay result, trial phase or individual response is supplied.",
+      "Research comparison does not assess clinical suitability, efficacy, safety, dosing, approval or a treatment choice. Qualified human review and current official verification are required."
+    ]
+  },
+  "assessments": [
+    {
+      "id": "assessment:nci_gene",
+      "relationshipId": "gene_encodes_braf",
+      "evidenceId": "evidence:nci_braf",
+      "stance": "SUPPORTS",
+      "level": "MECHANISTIC_RATIONALE",
+      "validationState": "SOURCE_CHECKED_NOT_VALIDATED",
+      "note": "Educational source context only; no original experiment or clinical validation record is supplied.",
+      "replicationStudyIds": []
+    },
+    {
+      "id": "assessment:nlm_gene",
+      "relationshipId": "gene_encodes_braf",
+      "evidenceId": "evidence:nlm_braf",
+      "stance": "SUPPORTS",
+      "level": "MECHANISTIC_RATIONALE",
+      "validationState": "SOURCE_CHECKED_NOT_VALIDATED",
+      "note": "Educational source context only; no original experiment or clinical validation record is supplied.",
+      "replicationStudyIds": []
+    },
+    {
+      "id": "assessment:pathway",
+      "relationshipId": "braf_pathway_context",
+      "evidenceId": "evidence:nlm_braf",
+      "stance": "SUPPORTS",
+      "level": "MECHANISTIC_RATIONALE",
+      "validationState": "SOURCE_CHECKED_NOT_VALIDATED",
+      "note": "Educational source context only; no original experiment or clinical validation record is supplied.",
+      "replicationStudyIds": []
+    },
+    {
+      "id": "assessment:growth",
+      "relationshipId": "pathway_growth_context",
+      "evidenceId": "evidence:nlm_braf",
+      "stance": "SUPPORTS",
+      "level": "MECHANISTIC_RATIONALE",
+      "validationState": "SOURCE_CHECKED_NOT_VALIDATED",
+      "note": "Educational source context only; no original experiment or clinical validation record is supplied.",
+      "replicationStudyIds": []
+    },
+    {
+      "id": "assessment:melanoma_context",
+      "relationshipId": "melanoma_braf_context",
+      "evidenceId": "evidence:nci_melanoma",
+      "stance": "CONTEXT_ONLY",
+      "level": "UNKNOWN",
+      "validationState": "SOURCE_CHECKED_NOT_VALIDATED",
+      "note": "Educational source context only; no original experiment or clinical validation record is supplied.",
+      "replicationStudyIds": []
+    },
+    {
+      "id": "assessment:resistance_context",
+      "relationshipId": "melanoma_resistance_context",
+      "evidenceId": "evidence:nci_melanoma",
+      "stance": "CONTEXT_ONLY",
+      "level": "UNKNOWN",
+      "validationState": "SOURCE_CHECKED_NOT_VALIDATED",
+      "note": "Educational source context only; no original experiment or clinical validation record is supplied.",
+      "replicationStudyIds": []
+    },
+    {
+      "id": "assessment:vemurafenib_mechanism",
+      "relationshipId": "vemurafenib_mechanism",
+      "evidenceId": "evidence:nci_vemurafenib",
+      "stance": "SUPPORTS",
+      "level": "MECHANISTIC_RATIONALE",
+      "validationState": "SOURCE_CHECKED_NOT_VALIDATED",
+      "note": "Support for the source-described molecular relationship only; no experimental result, comparative efficacy or clinical validation is established.",
+      "replicationStudyIds": []
+    },
+    {
+      "id": "assessment:vemurafenib_target",
+      "relationshipId": "vemurafenib_target",
+      "evidenceId": "evidence:nci_vemurafenib",
+      "stance": "SUPPORTS",
+      "level": "MECHANISTIC_RATIONALE",
+      "validationState": "SOURCE_CHECKED_NOT_VALIDATED",
+      "note": "Support for the source-described molecular relationship only; no experimental result, comparative efficacy or clinical validation is established.",
+      "replicationStudyIds": []
+    },
+    {
+      "id": "assessment:dabrafenib_mechanism",
+      "relationshipId": "dabrafenib_mechanism",
+      "evidenceId": "evidence:nci_dabrafenib",
+      "stance": "SUPPORTS",
+      "level": "MECHANISTIC_RATIONALE",
+      "validationState": "SOURCE_CHECKED_NOT_VALIDATED",
+      "note": "Support for the source-described molecular relationship only; no experimental result, comparative efficacy or clinical validation is established.",
+      "replicationStudyIds": []
+    },
+    {
+      "id": "assessment:dabrafenib_target",
+      "relationshipId": "dabrafenib_target",
+      "evidenceId": "evidence:nci_dabrafenib",
+      "stance": "SUPPORTS",
+      "level": "MECHANISTIC_RATIONALE",
+      "validationState": "SOURCE_CHECKED_NOT_VALIDATED",
+      "note": "Support for the source-described molecular relationship only; no experimental result, comparative efficacy or clinical validation is established.",
+      "replicationStudyIds": []
+    },
+    {
+      "id": "assessment:v600e_protein_context",
+      "relationshipId": "v600e_protein_context",
+      "evidenceId": "evidence:nci_vemurafenib",
+      "stance": "SUPPORTS",
+      "level": "MECHANISTIC_RATIONALE",
+      "validationState": "SOURCE_CHECKED_NOT_VALIDATED",
+      "note": "Support for the source-described molecular relationship only; no experimental result, comparative efficacy or clinical validation is established.",
+      "replicationStudyIds": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "question:defined_context",
+      "text": "Which biological context and measurements would make a research claim precise enough to test?",
+      "entityId": "cancer:melanoma",
+      "relationshipId": null,
+      "provenance": {
+        "contentVersion": "1.0.0",
+        "reviewedDate": "2026-10-17",
+        "sourceRefs": [
+          "https://www.cancer.gov/types/skin/research"
+        ],
+        "limitations": [
+          "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+          "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+        ],
+        "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+      }
+    },
+    {
+      "id": "question:resistance_context",
+      "text": "What source evidence and model limitations should be reviewed when investigating resistance?",
+      "entityId": "resistance:melanoma_context",
+      "relationshipId": "melanoma_resistance_context",
+      "provenance": {
+        "contentVersion": "1.0.0",
+        "reviewedDate": "2026-10-17",
+        "sourceRefs": [
+          "https://www.cancer.gov/types/skin/research"
+        ],
+        "limitations": [
+          "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+          "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+        ],
+        "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+      }
+    },
+    {
+      "id": "question:evidence_translation",
+      "text": "What additional evidence and qualified review would be needed before discussing clinical translation?",
+      "entityId": null,
+      "relationshipId": null,
+      "provenance": {
+        "contentVersion": "1.0.0",
+        "reviewedDate": "2026-10-17",
+        "sourceRefs": [
+          "https://www.cancer.gov/research/participate/clinical-trials/how-trials-work"
+        ],
+        "limitations": [
+          "Short original educational reference, source-checked on 2026-10-17; not an original experiment, patient result or qualified clinical validation.",
+          "Research interpretation, experimentation and consequential decisions require qualified human review. No treatment, dose, response prediction or approval is supplied."
+        ],
+        "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+      }
+    }
+  ]
+}

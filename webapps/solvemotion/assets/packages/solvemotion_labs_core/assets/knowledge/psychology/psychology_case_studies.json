@@ -232,7 +232,7 @@
                                          ],
                             "id":  "case_2",
                             "difficulty":  "basic",
-                            "biasTag":  "anchoring",
+                            "biasTag":  "availability",
                             "domainTag":  "clinical",
                             "stages":  [
                                            {
@@ -365,7 +365,7 @@
                                          ],
                             "id":  "case_3",
                             "difficulty":  "intermediate",
-                            "biasTag":  "recency",
+                            "biasTag":  "anchoring",
                             "domainTag":  "school",
                             "stages":  [
                                            {
@@ -498,7 +498,7 @@
                                          ],
                             "id":  "case_4",
                             "difficulty":  "intermediate",
-                            "biasTag":  "authority",
+                            "biasTag":  "loss aversion",
                             "domainTag":  "family",
                             "stages":  [
                                            {
@@ -777,7 +777,7 @@
                                          ],
                             "id":  "case_6",
                             "difficulty":  "basic",
-                            "biasTag":  "confirmation",
+                            "biasTag":  "fundamental attribution error",
                             "domainTag":  "emergency",
                             "stages":  [
                                            {
@@ -910,7 +910,7 @@
                                          ],
                             "id":  "case_7",
                             "difficulty":  "basic",
-                            "biasTag":  "anchoring",
+                            "biasTag":  "status quo bias",
                             "domainTag":  "finance",
                             "stages":  [
                                            {
@@ -1043,7 +1043,7 @@
                                          ],
                             "id":  "case_8",
                             "difficulty":  "intermediate",
-                            "biasTag":  "recency",
+                            "biasTag":  "sunk cost fallacy",
                             "domainTag":  "sports",
                             "stages":  [
                                            {
@@ -1176,7 +1176,7 @@
                                          ],
                             "id":  "case_9",
                             "difficulty":  "intermediate",
-                            "biasTag":  "authority",
+                            "biasTag":  "negativity bias",
                             "domainTag":  "healthcare",
                             "stages":  [
                                            {
@@ -1309,7 +1309,7 @@
                                          ],
                             "id":  "case_10",
                             "difficulty":  "advanced",
-                            "biasTag":  "overconfidence",
+                            "biasTag":  "halo effect",
                             "domainTag":  "community",
                             "stages":  [
                                            {
@@ -1588,7 +1588,7 @@
                                          ],
                             "id":  "case_12",
                             "difficulty":  "basic",
-                            "biasTag":  "anchoring",
+                            "biasTag":  "availability",
                             "domainTag":  "clinical",
                             "stages":  [
                                            {
@@ -1721,7 +1721,7 @@
                                          ],
                             "id":  "case_13",
                             "difficulty":  "intermediate",
-                            "biasTag":  "recency",
+                            "biasTag":  "anchoring",
                             "domainTag":  "school",
                             "stages":  [
                                            {
@@ -1854,7 +1854,7 @@
                                          ],
                             "id":  "case_14",
                             "difficulty":  "intermediate",
-                            "biasTag":  "authority",
+                            "biasTag":  "loss aversion",
                             "domainTag":  "family",
                             "stages":  [
                                            {
@@ -2133,7 +2133,7 @@
                                          ],
                             "id":  "case_16",
                             "difficulty":  "basic",
-                            "biasTag":  "confirmation",
+                            "biasTag":  "fundamental attribution error",
                             "domainTag":  "emergency",
                             "stages":  [
                                            {
@@ -2266,7 +2266,7 @@
                                          ],
                             "id":  "case_17",
                             "difficulty":  "basic",
-                            "biasTag":  "anchoring",
+                            "biasTag":  "status quo bias",
                             "domainTag":  "finance",
                             "stages":  [
                                            {
@@ -2399,7 +2399,7 @@
                                          ],
                             "id":  "case_18",
                             "difficulty":  "intermediate",
-                            "biasTag":  "recency",
+                            "biasTag":  "sunk cost fallacy",
                             "domainTag":  "sports",
                             "stages":  [
                                            {
@@ -2532,7 +2532,7 @@
                                          ],
                             "id":  "case_19",
                             "difficulty":  "intermediate",
-                            "biasTag":  "authority",
+                            "biasTag":  "negativity bias",
                             "domainTag":  "healthcare",
                             "stages":  [
                                            {
@@ -2665,7 +2665,7 @@
                                          ],
                             "id":  "case_20",
                             "difficulty":  "advanced",
-                            "biasTag":  "overconfidence",
+                            "biasTag":  "halo effect",
                             "domainTag":  "community",
                             "stages":  [
                                            {
@@ -2944,7 +2944,7 @@
                                          ],
                             "id":  "case_22",
                             "difficulty":  "basic",
-                            "biasTag":  "anchoring",
+                            "biasTag":  "availability",
                             "domainTag":  "clinical",
                             "stages":  [
                                            {
@@ -3077,7 +3077,7 @@
                                          ],
                             "id":  "case_23",
                             "difficulty":  "intermediate",
-                            "biasTag":  "recency",
+                            "biasTag":  "anchoring",
                             "domainTag":  "school",
                             "stages":  [
                                            {
@@ -3210,7 +3210,7 @@
                                          ],
                             "id":  "case_24",
                             "difficulty":  "intermediate",
-                            "biasTag":  "authority",
+                            "biasTag":  "loss aversion",
                             "domainTag":  "family",
                             "stages":  [
                                            {
@@ -3489,7 +3489,7 @@
                                          ],
                             "id":  "case_26",
                             "difficulty":  "basic",
-                            "biasTag":  "confirmation",
+                            "biasTag":  "fundamental attribution error",
                             "domainTag":  "emergency",
                             "stages":  [
                                            {
@@ -3622,7 +3622,7 @@
                                          ],
                             "id":  "case_27",
                             "difficulty":  "basic",
-                            "biasTag":  "anchoring",
+                            "biasTag":  "status quo bias",
                             "domainTag":  "finance",
                             "stages":  [
                                            {
@@ -3755,7 +3755,7 @@
                                          ],
                             "id":  "case_28",
                             "difficulty":  "intermediate",
-                            "biasTag":  "recency",
+                            "biasTag":  "sunk cost fallacy",
                             "domainTag":  "sports",
                             "stages":  [
                                            {
@@ -3888,7 +3888,7 @@
                                          ],
                             "id":  "case_29",
                             "difficulty":  "intermediate",
-                            "biasTag":  "authority",
+                            "biasTag":  "negativity bias",
                             "domainTag":  "healthcare",
                             "stages":  [
                                            {
@@ -4021,7 +4021,7 @@
                                          ],
                             "id":  "case_30",
                             "difficulty":  "advanced",
-                            "biasTag":  "overconfidence",
+                            "biasTag":  "halo effect",
                             "domainTag":  "community",
                             "stages":  [
                                            {
@@ -4300,7 +4300,7 @@
                                          ],
                             "id":  "case_32",
                             "difficulty":  "basic",
-                            "biasTag":  "anchoring",
+                            "biasTag":  "availability",
                             "domainTag":  "clinical",
                             "stages":  [
                                            {
@@ -4433,7 +4433,7 @@
                                          ],
                             "id":  "case_33",
                             "difficulty":  "intermediate",
-                            "biasTag":  "recency",
+                            "biasTag":  "anchoring",
                             "domainTag":  "school",
                             "stages":  [
                                            {
@@ -4566,7 +4566,7 @@
                                          ],
                             "id":  "case_34",
                             "difficulty":  "intermediate",
-                            "biasTag":  "authority",
+                            "biasTag":  "loss aversion",
                             "domainTag":  "family",
                             "stages":  [
                                            {
@@ -4845,7 +4845,7 @@
                                          ],
                             "id":  "case_36",
                             "difficulty":  "basic",
-                            "biasTag":  "confirmation",
+                            "biasTag":  "fundamental attribution error",
                             "domainTag":  "emergency",
                             "stages":  [
                                            {
@@ -4978,7 +4978,7 @@
                                          ],
                             "id":  "case_37",
                             "difficulty":  "basic",
-                            "biasTag":  "anchoring",
+                            "biasTag":  "status quo bias",
                             "domainTag":  "finance",
                             "stages":  [
                                            {
@@ -5111,7 +5111,7 @@
                                          ],
                             "id":  "case_38",
                             "difficulty":  "intermediate",
-                            "biasTag":  "recency",
+                            "biasTag":  "sunk cost fallacy",
                             "domainTag":  "sports",
                             "stages":  [
                                            {
@@ -5244,7 +5244,7 @@
                                          ],
                             "id":  "case_39",
                             "difficulty":  "intermediate",
-                            "biasTag":  "authority",
+                            "biasTag":  "negativity bias",
                             "domainTag":  "healthcare",
                             "stages":  [
                                            {
@@ -5377,7 +5377,7 @@
                                          ],
                             "id":  "case_40",
                             "difficulty":  "advanced",
-                            "biasTag":  "overconfidence",
+                            "biasTag":  "halo effect",
                             "domainTag":  "community",
                             "stages":  [
                                            {
@@ -5656,7 +5656,7 @@
                                          ],
                             "id":  "case_42",
                             "difficulty":  "basic",
-                            "biasTag":  "anchoring",
+                            "biasTag":  "availability",
                             "domainTag":  "clinical",
                             "stages":  [
                                            {
@@ -5789,7 +5789,7 @@
                                          ],
                             "id":  "case_43",
                             "difficulty":  "intermediate",
-                            "biasTag":  "recency",
+                            "biasTag":  "anchoring",
                             "domainTag":  "school",
                             "stages":  [
                                            {
@@ -5922,7 +5922,7 @@
                                          ],
                             "id":  "case_44",
                             "difficulty":  "intermediate",
-                            "biasTag":  "authority",
+                            "biasTag":  "loss aversion",
                             "domainTag":  "family",
                             "stages":  [
                                            {
@@ -6201,7 +6201,7 @@
                                          ],
                             "id":  "case_46",
                             "difficulty":  "basic",
-                            "biasTag":  "confirmation",
+                            "biasTag":  "fundamental attribution error",
                             "domainTag":  "emergency",
                             "stages":  [
                                            {
@@ -6334,7 +6334,7 @@
                                          ],
                             "id":  "case_47",
                             "difficulty":  "basic",
-                            "biasTag":  "anchoring",
+                            "biasTag":  "status quo bias",
                             "domainTag":  "finance",
                             "stages":  [
                                            {
@@ -6467,7 +6467,7 @@
                                          ],
                             "id":  "case_48",
                             "difficulty":  "intermediate",
-                            "biasTag":  "recency",
+                            "biasTag":  "sunk cost fallacy",
                             "domainTag":  "sports",
                             "stages":  [
                                            {
@@ -6600,7 +6600,7 @@
                                          ],
                             "id":  "case_49",
                             "difficulty":  "intermediate",
-                            "biasTag":  "authority",
+                            "biasTag":  "negativity bias",
                             "domainTag":  "healthcare",
                             "stages":  [
                                            {
@@ -6733,7 +6733,7 @@
                                          ],
                             "id":  "case_50",
                             "difficulty":  "advanced",
-                            "biasTag":  "overconfidence",
+                            "biasTag":  "halo effect",
                             "domainTag":  "community",
                             "stages":  [
                                            {
@@ -7012,7 +7012,7 @@
                                          ],
                             "id":  "case_52",
                             "difficulty":  "basic",
-                            "biasTag":  "anchoring",
+                            "biasTag":  "availability",
                             "domainTag":  "clinical",
                             "stages":  [
                                            {
@@ -7145,7 +7145,7 @@
                                          ],
                             "id":  "case_53",
                             "difficulty":  "intermediate",
-                            "biasTag":  "recency",
+                            "biasTag":  "anchoring",
                             "domainTag":  "school",
                             "stages":  [
                                            {
@@ -7278,7 +7278,7 @@
                                          ],
                             "id":  "case_54",
                             "difficulty":  "intermediate",
-                            "biasTag":  "authority",
+                            "biasTag":  "loss aversion",
                             "domainTag":  "family",
                             "stages":  [
                                            {
@@ -7557,7 +7557,7 @@
                                          ],
                             "id":  "case_56",
                             "difficulty":  "basic",
-                            "biasTag":  "confirmation",
+                            "biasTag":  "fundamental attribution error",
                             "domainTag":  "emergency",
                             "stages":  [
                                            {
@@ -7690,7 +7690,7 @@
                                          ],
                             "id":  "case_57",
                             "difficulty":  "basic",
-                            "biasTag":  "anchoring",
+                            "biasTag":  "status quo bias",
                             "domainTag":  "finance",
                             "stages":  [
                                            {
@@ -7823,7 +7823,7 @@
                                          ],
                             "id":  "case_58",
                             "difficulty":  "intermediate",
-                            "biasTag":  "recency",
+                            "biasTag":  "sunk cost fallacy",
                             "domainTag":  "sports",
                             "stages":  [
                                            {
@@ -7956,7 +7956,7 @@
                                          ],
                             "id":  "case_59",
                             "difficulty":  "intermediate",
-                            "biasTag":  "authority",
+                            "biasTag":  "negativity bias",
                             "domainTag":  "healthcare",
                             "stages":  [
                                            {
@@ -8089,7 +8089,7 @@
                                          ],
                             "id":  "case_60",
                             "difficulty":  "advanced",
-                            "biasTag":  "overconfidence",
+                            "biasTag":  "halo effect",
                             "domainTag":  "community",
                             "stages":  [
                                            {
@@ -8368,7 +8368,7 @@
                                          ],
                             "id":  "case_62",
                             "difficulty":  "basic",
-                            "biasTag":  "anchoring",
+                            "biasTag":  "availability",
                             "domainTag":  "clinical",
                             "stages":  [
                                            {
@@ -8501,7 +8501,7 @@
                                          ],
                             "id":  "case_63",
                             "difficulty":  "intermediate",
-                            "biasTag":  "recency",
+                            "biasTag":  "anchoring",
                             "domainTag":  "school",
                             "stages":  [
                                            {
@@ -8634,7 +8634,7 @@
                                          ],
                             "id":  "case_64",
                             "difficulty":  "intermediate",
-                            "biasTag":  "authority",
+                            "biasTag":  "loss aversion",
                             "domainTag":  "family",
                             "stages":  [
                                            {
@@ -8913,7 +8913,7 @@
                                          ],
                             "id":  "case_66",
                             "difficulty":  "basic",
-                            "biasTag":  "confirmation",
+                            "biasTag":  "fundamental attribution error",
                             "domainTag":  "emergency",
                             "stages":  [
                                            {
@@ -9046,7 +9046,7 @@
                                          ],
                             "id":  "case_67",
                             "difficulty":  "basic",
-                            "biasTag":  "anchoring",
+                            "biasTag":  "status quo bias",
                             "domainTag":  "finance",
                             "stages":  [
                                            {
@@ -9179,7 +9179,7 @@
                                          ],
                             "id":  "case_68",
                             "difficulty":  "intermediate",
-                            "biasTag":  "recency",
+                            "biasTag":  "sunk cost fallacy",
                             "domainTag":  "sports",
                             "stages":  [
                                            {
@@ -9312,7 +9312,7 @@
                                          ],
                             "id":  "case_69",
                             "difficulty":  "intermediate",
-                            "biasTag":  "authority",
+                            "biasTag":  "negativity bias",
                             "domainTag":  "healthcare",
                             "stages":  [
                                            {
@@ -9445,7 +9445,7 @@
                                          ],
                             "id":  "case_70",
                             "difficulty":  "advanced",
-                            "biasTag":  "overconfidence",
+                            "biasTag":  "halo effect",
                             "domainTag":  "community",
                             "stages":  [
                                            {
@@ -9724,7 +9724,7 @@
                                          ],
                             "id":  "case_72",
                             "difficulty":  "basic",
-                            "biasTag":  "anchoring",
+                            "biasTag":  "availability",
                             "domainTag":  "clinical",
                             "stages":  [
                                            {
@@ -9857,7 +9857,7 @@
                                          ],
                             "id":  "case_73",
                             "difficulty":  "intermediate",
-                            "biasTag":  "recency",
+                            "biasTag":  "anchoring",
                             "domainTag":  "school",
                             "stages":  [
                                            {
@@ -9990,7 +9990,7 @@
                                          ],
                             "id":  "case_74",
                             "difficulty":  "intermediate",
-                            "biasTag":  "authority",
+                            "biasTag":  "loss aversion",
                             "domainTag":  "family",
                             "stages":  [
                                            {
@@ -10269,7 +10269,7 @@
                                          ],
                             "id":  "case_76",
                             "difficulty":  "basic",
-                            "biasTag":  "confirmation",
+                            "biasTag":  "fundamental attribution error",
                             "domainTag":  "emergency",
                             "stages":  [
                                            {
@@ -10402,7 +10402,7 @@
                                          ],
                             "id":  "case_77",
                             "difficulty":  "basic",
-                            "biasTag":  "anchoring",
+                            "biasTag":  "status quo bias",
                             "domainTag":  "finance",
                             "stages":  [
                                            {
@@ -10535,7 +10535,7 @@
                                          ],
                             "id":  "case_78",
                             "difficulty":  "intermediate",
-                            "biasTag":  "recency",
+                            "biasTag":  "sunk cost fallacy",
                             "domainTag":  "sports",
                             "stages":  [
                                            {
@@ -10668,7 +10668,7 @@
                                          ],
                             "id":  "case_79",
                             "difficulty":  "intermediate",
-                            "biasTag":  "authority",
+                            "biasTag":  "negativity bias",
                             "domainTag":  "healthcare",
                             "stages":  [
                                            {
@@ -10801,7 +10801,7 @@
                                          ],
                             "id":  "case_80",
                             "difficulty":  "advanced",
-                            "biasTag":  "overconfidence",
+                            "biasTag":  "halo effect",
                             "domainTag":  "community",
                             "stages":  [
                                            {
@@ -11080,7 +11080,7 @@
                                          ],
                             "id":  "case_82",
                             "difficulty":  "basic",
-                            "biasTag":  "anchoring",
+                            "biasTag":  "availability",
                             "domainTag":  "clinical",
                             "stages":  [
                                            {
@@ -11213,7 +11213,7 @@
                                          ],
                             "id":  "case_83",
                             "difficulty":  "intermediate",
-                            "biasTag":  "recency",
+                            "biasTag":  "anchoring",
                             "domainTag":  "school",
                             "stages":  [
                                            {
@@ -11346,7 +11346,7 @@
                                          ],
                             "id":  "case_84",
                             "difficulty":  "intermediate",
-                            "biasTag":  "authority",
+                            "biasTag":  "loss aversion",
                             "domainTag":  "family",
                             "stages":  [
                                            {
@@ -11625,7 +11625,7 @@
                                          ],
                             "id":  "case_86",
                             "difficulty":  "basic",
-                            "biasTag":  "confirmation",
+                            "biasTag":  "fundamental attribution error",
                             "domainTag":  "emergency",
                             "stages":  [
                                            {
@@ -11758,7 +11758,7 @@
                                          ],
                             "id":  "case_87",
                             "difficulty":  "basic",
-                            "biasTag":  "anchoring",
+                            "biasTag":  "status quo bias",
                             "domainTag":  "finance",
                             "stages":  [
                                            {
@@ -11891,7 +11891,7 @@
                                          ],
                             "id":  "case_88",
                             "difficulty":  "intermediate",
-                            "biasTag":  "recency",
+                            "biasTag":  "sunk cost fallacy",
                             "domainTag":  "sports",
                             "stages":  [
                                            {
@@ -12024,7 +12024,7 @@
                                          ],
                             "id":  "case_89",
                             "difficulty":  "intermediate",
-                            "biasTag":  "authority",
+                            "biasTag":  "negativity bias",
                             "domainTag":  "healthcare",
                             "stages":  [
                                            {
@@ -12157,7 +12157,7 @@
                                          ],
                             "id":  "case_90",
                             "difficulty":  "advanced",
-                            "biasTag":  "overconfidence",
+                            "biasTag":  "halo effect",
                             "domainTag":  "community",
                             "stages":  [
                                            {
@@ -12436,7 +12436,7 @@
                                          ],
                             "id":  "case_92",
                             "difficulty":  "basic",
-                            "biasTag":  "anchoring",
+                            "biasTag":  "availability",
                             "domainTag":  "clinical",
                             "stages":  [
                                            {
@@ -12569,7 +12569,7 @@
                                          ],
                             "id":  "case_93",
                             "difficulty":  "intermediate",
-                            "biasTag":  "recency",
+                            "biasTag":  "anchoring",
                             "domainTag":  "school",
                             "stages":  [
                                            {
@@ -12702,7 +12702,7 @@
                                          ],
                             "id":  "case_94",
                             "difficulty":  "intermediate",
-                            "biasTag":  "authority",
+                            "biasTag":  "loss aversion",
                             "domainTag":  "family",
                             "stages":  [
                                            {
@@ -12981,7 +12981,7 @@
                                          ],
                             "id":  "case_96",
                             "difficulty":  "basic",
-                            "biasTag":  "confirmation",
+                            "biasTag":  "fundamental attribution error",
                             "domainTag":  "emergency",
                             "stages":  [
                                            {
@@ -13114,7 +13114,7 @@
                                          ],
                             "id":  "case_97",
                             "difficulty":  "basic",
-                            "biasTag":  "anchoring",
+                            "biasTag":  "status quo bias",
                             "domainTag":  "finance",
                             "stages":  [
                                            {
@@ -13247,7 +13247,7 @@
                                          ],
                             "id":  "case_98",
                             "difficulty":  "intermediate",
-                            "biasTag":  "recency",
+                            "biasTag":  "sunk cost fallacy",
                             "domainTag":  "sports",
                             "stages":  [
                                            {
@@ -13380,7 +13380,7 @@
                                          ],
                             "id":  "case_99",
                             "difficulty":  "intermediate",
-                            "biasTag":  "authority",
+                            "biasTag":  "negativity bias",
                             "domainTag":  "healthcare",
                             "stages":  [
                                            {
@@ -13513,7 +13513,7 @@
                                          ],
                             "id":  "case_100",
                             "difficulty":  "advanced",
-                            "biasTag":  "overconfidence",
+                            "biasTag":  "halo effect",
                             "domainTag":  "community",
                             "stages":  [
                                            {

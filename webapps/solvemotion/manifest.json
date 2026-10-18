@@ -1,11 +1,11 @@
 {
-    "name":  "solvemotion",
-    "short_name":  "solvemotion",
+    "name":  "SolveMotion — Movement, Training & Recovery",
+    "short_name":  "SolveMotion",
     "start_url":  ".",
     "display":  "browser",
-    "background_color":  "#0175C2",
-    "theme_color":  "#0175C2",
-    "description":  "A new Flutter project.",
+    "background_color":  "#07121D",
+    "theme_color":  "#07121D",
+    "description":  "Movement education, local video review, training logs and recorded image measurements. No medical clearance.",
     "orientation":  "any",
     "prefer_related_applications":  false,
     "icons":  [

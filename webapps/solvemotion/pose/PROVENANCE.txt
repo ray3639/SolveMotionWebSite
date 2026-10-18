@@ -1,0 +1,8 @@
+SolveMotion local Web pose adapter, Phase G.
+Runtime: @mediapipe/tasks-vision1.1.1, npm registry tarball SHA512 jwntgT5tzDrKOkqg6xNDNpRcTUnGvmylZE5DFnzPXossiWOIDdZX+C81LI75hlXhsG58YZW+lGzcmjH1qrQE/Q==.
+Model: Google MediaPipe pose_landmarker_lite/float16/1/pose_landmarker_lite.task, Apache2.0 per included official model card.
+Package and model license: Apache2.0; LICENSE.txt retained. Exact asset source URLs/SHA256/bytes are in the central phase report pose-runtime/web-pose-staged-assets.json.
+One locally decoded frame enters a bounded disposable module worker. Runtime, WASM and model assets resolve to the app origin; no image upload or remote inference service.
+Image coordinates only. Visibility and optional presence remain distinct supplied evidence; threshold0.6 is software display policy, not scientific qualification. Relative normalized z is not metric depth and is not interchangeable with native MLKit image-pixel z. World coordinates are deliberately excluded.
+Single-person image use; multiple returned bodies are withheld, never treated as identity evidence. Detector output does not prove absence of other people, actual occlusion, biomechanical accuracy, medical clearance or safe return-to-sport.
+Official documentation: https://developers.google.com/edge/mediapipe/solutions/vision/pose_landmarker/web_js

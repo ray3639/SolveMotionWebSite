@@ -1,4 +1,12 @@
 User-agent: *
 Allow: /
+Disallow: /webapps/rayai/
+Disallow: /webapps/rayai-staging/
+Disallow: /AGENTS.md
+Disallow: /SOLVEMOTION_WEBSITE_STATUS_AND_DOCTRINE.txt
+Disallow: /Start-Website.ps1
+Disallow: /_inspection_reports/
+Disallow: /_PRE_PATCH/
+Disallow: /_BASELINES/
 
 Sitemap: https://solvemotionlabs.com/sitemap.xml

@@ -1,0 +1,23 @@
+# Hand-authored static website: do not add the managed Pages default theme.
+# Output exclusions do not make committed source private in a public repository.
+theme: null
+exclude:
+  - AGENTS.md
+  - SOLVEMOTION_WEBSITE_STATUS_AND_DOCTRINE.txt
+  - Start-Website.ps1
+  - webapps/rayai-staging
+  - "**/AGENTS.md"
+  - "**/SOLVEMOTION_WEBSITE_STATUS_AND_DOCTRINE.txt"
+  - "*.ps1"
+  - "*.psm1"
+  - "*.psd1"
+  - "*.py"
+  - "*.pyc"
+  - "*.rb"
+  - "*.yml"
+  - "*.yaml"
+  - "*.log"
+  - "*.zip"
+  - private-evidence
+  - "**/private-evidence"
+  - "*-staging"

@@ -19,6 +19,7 @@
       ['SolveMind', 'products/solvemind.html'],
       ['SolveMotion', 'products/solvemotion.html'],
       ['SolveCrime', 'products/solvecrime.html'],
+      ['SolveThrone - In Development', 'products/solvethrone.html'],
       ['SolveOura - In Development', 'products/solveoura.html'],
       ['Command Center', 'applications.html#command-center']
     ]],
@@ -92,10 +93,10 @@
     identity.prepend(logo);
     const description = document.createElement('p');
     description.textContent = 'Human judgment. Governed intelligence. Connected learning and creation.';
-    brand.append(identity, description, link('About', navigationRoute('About', 'Our mission')), link('Contact', navigationRoute('About', 'Contact')));
+    brand.append(identity, description, link('About', navigationRoute('About', 'Our mission')), link('Contact', navigationRoute('About', 'Contact')), link('Support: support@solvemotionlabs.com', 'mailto:support@solvemotionlabs.com'), link('Business: ray.oneal@solvemotionlabs.com', 'mailto:ray.oneal@solvemotionlabs.com'));
     grid.append(brand);
     const columns = [
-      ['Applications', ['RayAI', 'SolveStudio + Agent', 'SolveMotion', 'SolvePharmacy', 'SolveMind', 'SolveCrime', 'SolveOura - In Development'].map((name) => [name === 'SolveStudio + Agent' ? 'SolveStudio' : name, navigationRoute('Products', name)])],
+      ['Applications', ['RayAI', 'SolveStudio + Agent', 'SolveMotion', 'SolvePharmacy', 'SolveMind', 'SolveCrime', 'SolveThrone - In Development', 'SolveOura - In Development'].map((name) => [name === 'SolveStudio + Agent' ? 'SolveStudio' : name, navigationRoute('Products', name)])],
       ['Platform', ['Core 12', 'Command Center'].map((name) => [name, navigationRoute('Products', name)]).concat([['Intelligence Map', navigationRoute('Resources', 'Intelligence map')]])],
       ['Explore', [
         ['Products', navigationRoute('Products', 'Explore all products')],

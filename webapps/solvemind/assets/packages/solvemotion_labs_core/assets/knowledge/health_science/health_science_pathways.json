@@ -141,7 +141,36 @@
               "title": "Broad academic and skill foundations",
               "category": "preparation",
               "summary": "Use available science, mathematics, communication, career exploration, and feedback opportunities while verifying local course and program options.",
-              "sourceRefs": ["https://students-residents.aamc.org/resources-k-12-students/four-things-high-school-student-can-do-prepare-medical-school"]
+              "sourceRefs": [
+                "https://students-residents.aamc.org/resources-k-12-students/four-things-high-school-student-can-do-prepare-medical-school"
+              ]
+            },
+            {
+              "id": "medicine_study_habits",
+              "title": "Study habits and time management",
+              "category": "academic_preparation",
+              "summary": "Practice consistent study routines and plan time for learning, commitments and rest. Ask teachers or counselors for feedback when a strategy is not working; this is preparation, not a measure of admissions readiness.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/resources-k-12-students/four-things-high-school-student-can-do-prepare-medical-school"
+              ]
+            },
+            {
+              "id": "medicine_math_science_preparation",
+              "title": "Math and science foundations",
+              "category": "academic_preparation",
+              "summary": "Explore the math and science courses available at your school with a counselor. Build understanding through suitable coursework and learning resources; access to a particular advanced course is not a universal medical-school requirement.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/resources-k-12-students/four-things-high-school-student-can-do-prepare-medical-school"
+              ]
+            },
+            {
+              "id": "medicine_writing_communication",
+              "title": "Writing, communication and critical reading",
+              "category": "academic_preparation",
+              "summary": "Use writing, humanities, discussion and presentations to practice explaining ideas and evaluating information. Reflect on feedback and communication with others alongside science learning.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/resources-k-12-students/four-things-high-school-student-can-do-prepare-medical-school"
+              ]
             }
           ],
           "courseDomains": ["biology", "chemistry", "physics", "mathematics", "communication", "behavioral science"],
@@ -168,14 +197,240 @@
               "title": "Program-specific academic requirements",
               "category": "admissions",
               "summary": "Required and recommended coursework varies by medical school and must be verified through current official program sources.",
-              "sourceRefs": ["https://students-residents.aamc.org/medical-school-admission-requirements/required-premedical-coursework-and-competencies"]
+              "sourceRefs": [
+                "https://students-residents.aamc.org/medical-school-admission-requirements/required-premedical-coursework-and-competencies"
+              ]
             },
             {
               "id": "medicine_premed_competencies",
               "title": "Premed competency development",
               "category": "competencies",
               "summary": "Use professional, thinking and reasoning, and science competency categories as a reflection framework rather than an admissions score.",
-              "sourceRefs": ["https://students-residents.aamc.org/real-stories-demonstrating-premed-competencies/premed-competencies-entering-medical-students"]
+              "sourceRefs": [
+                "https://students-residents.aamc.org/real-stories-demonstrating-premed-competencies/premed-competencies-entering-medical-students"
+              ]
+            },
+            {
+              "id": "medicine_major_choice",
+              "title": "Choosing a major",
+              "category": "course_planning",
+              "summary": "Explore a major that fits your interests while planning each target school's prerequisites with academic and prehealth advisors. A major title does not establish completed prerequisites or guarantee admission.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/applying-medical-school/how-choose-best-premed-major"
+              ]
+            },
+            {
+              "id": "medicine_course_sequencing",
+              "title": "Course and prerequisite sequencing",
+              "category": "course_planning",
+              "summary": "Planning question: which courses must precede others in your own college catalog, and when are courses and labs offered? Discuss a feasible sequence with an advisor and check target-school requirements separately.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/applying-medical-school/how-choose-best-premed-major",
+                "https://students-residents.aamc.org/medical-school-admission-requirements/admission-requirements"
+              ]
+            },
+            {
+              "id": "medicine_gpa_concepts",
+              "title": "Academic records and GPA concepts",
+              "category": "academic_records",
+              "summary": "Distinguish your institution's transcript GPA from an application service's reporting rules. Consult the current official guide for repeated courses, grades and academic history; no universal GPA cutoff or admission prediction is supplied here.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/applying-medical-school-amcas/publication-chapters/grades-factored-amcas-gpa-calculations"
+              ]
+            },
+            {
+              "id": "medicine_academic_recovery",
+              "title": "Responding to academic setbacks",
+              "category": "academic_support",
+              "summary": "Reflect on learning difficulties and seek feedback and academic support. Discuss whether additional coursework or a postbaccalaureate option fits your circumstances; neither a program nor an improved record guarantees admission.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/real-stories-demonstrating-premed-competencies/premed-competencies-entering-medical-students",
+                "https://students-residents.aamc.org/preparing-medical-school/postbaccalaureate-programs"
+              ]
+            },
+            {
+              "id": "medicine_workload_balance",
+              "title": "Balancing coursework and commitments",
+              "category": "course_planning",
+              "summary": "Planning question: how will coursework, study, employment, service and personal responsibilities fit together? Review your plan with advisors, adjust when circumstances change and seek support rather than treating a fixed workload as an admissions rule.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/real-stories-demonstrating-premed-competencies/premed-competencies-entering-medical-students",
+                "https://students-residents.aamc.org/applying-medical-school/how-choose-best-premed-major"
+              ]
+            },
+            {
+              "id": "medicine_transfer_ap_planning",
+              "title": "AP, transfer and other course-credit policies",
+              "category": "current_verification",
+              "summary": "Course-credit acceptance differs across medical schools, including AP, online and community-college coursework. Verify the current policy for each target program and keep the originating academic records; college credit alone does not prove a medical-school prerequisite is satisfied.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/medical-school-admission-requirements/admission-requirements"
+              ]
+            },
+            {
+              "id": "medicine_mcat_purpose",
+              "title": "What the MCAT assesses",
+              "category": "mcat",
+              "summary": "The MCAT assesses science knowledge, critical thinking and scientific problem solving for entry to medical study. Learning about its purpose does not predict an individual score or admissions decision.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/taking-mcat-exam/take-mcat-exam"
+              ]
+            },
+            {
+              "id": "medicine_mcat_content_domains",
+              "title": "MCAT content and reasoning domains",
+              "category": "mcat",
+              "summary": "Explore biological/biochemical, chemical/physical, psychological/social/biological and critical reading/reasoning domains in the official content outline. Use its topic and skill descriptions to organize learning rather than treating a major or completed course as proof of mastery.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/prepare-mcat-exam/whats-mcat-exam-pdf-outline"
+              ]
+            },
+            {
+              "id": "medicine_mcat_study_phases",
+              "title": "Building a study and practice cycle",
+              "category": "mcat",
+              "summary": "Identify topics to learn or revisit, plan study around your commitments, practice applying concepts, and reflect on errors before adjusting the next cycle. The sequence is a planning framework with no universal study duration.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/prepare-mcat-exam/creating-your-mcat-exam-study-plan"
+              ]
+            },
+            {
+              "id": "medicine_mcat_diagnostic_assessment",
+              "title": "Using a baseline assessment",
+              "category": "mcat",
+              "summary": "Use an appropriate official sample or practice assessment to identify topics and skills needing attention. Record what you observed and what to study next; a practice result is not an app-generated prediction of an official exam result.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/prepare-mcat-exam/creating-your-mcat-exam-study-plan"
+              ]
+            },
+            {
+              "id": "medicine_mcat_practice_milestones",
+              "title": "Practice milestones and reflection",
+              "category": "mcat",
+              "summary": "Plan practice, review missed reasoning and revisit weaker topics between assessments. Include timed practice to learn the exam format; completing a checklist does not certify readiness or guarantee improvement.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/prepare-mcat-exam/creating-your-mcat-exam-study-plan"
+              ]
+            },
+            {
+              "id": "medicine_mcat_test_window",
+              "title": "Choosing a target testing window",
+              "category": "mcat_current_policy",
+              "summary": "Compare preparation needs and personal commitments with the current AAMC test calendar, registration availability, accommodations process and score-release information. A target window is a user plan, not a booked seat or verified eligibility.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/taking-mcat-exam/take-mcat-exam",
+                "https://students-residents.aamc.org/register-mcat-exam/publication-chapters/scheduling-mcat-exam"
+              ]
+            },
+            {
+              "id": "medicine_mcat_retake_concepts",
+              "title": "Considering a retake",
+              "category": "mcat_current_policy",
+              "summary": "Review prior preparation and learning needs with an advisor, then check current AAMC attempt limits, registration and scheduling policies. The app does not decide whether to retake, infer eligibility or promise a higher score.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/mcat-faq/mcat-faqs"
+              ]
+            },
+            {
+              "id": "medicine_mcat_application_timing",
+              "title": "Relating exam and application timing",
+              "category": "mcat_current_policy",
+              "summary": "Planning question: when will your official result be available relative to each program's current application and score-acceptance policies? Verify the relevant testing-year and school information; no single exam month or score-age policy applies universally.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/taking-mcat-exam/take-mcat-exam",
+                "https://students-residents.aamc.org/medical-school-admission-requirements/admission-requirements"
+              ]
+            },
+            {
+              "id": "medicine_clinical_experience_forms",
+              "title": "Exploring clinical experience",
+              "category": "clinical_experience",
+              "summary": "Explore supervised volunteering, healthcare employment or other permitted patient-facing learning opportunities. Confirm each organization's role and training expectations; an interest or logged activity never grants permission to provide clinical care.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/getting-experience/get-experience-medical-field"
+              ]
+            },
+            {
+              "id": "medicine_clinical_professional_reflection",
+              "title": "Professionalism and clinical reflection",
+              "category": "clinical_experience",
+              "summary": "Reflect on communication, teamwork and what you learned about healthcare roles. Respect the host's privacy and participation rules, and describe your learning without patient identifiers or invented responsibilities.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/aspiring-docs-fact-sheets-get-experience/shadowing-doctor"
+              ]
+            },
+            {
+              "id": "medicine_shadowing_purpose",
+              "title": "Shadowing is professional observation",
+              "category": "shadowing",
+              "summary": "Shadowing helps you observe a physician's work and explore practice settings. Distinguish observation from hands-on clinical employment or volunteering; a shadowing record does not establish patient-care skills.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/aspiring-docs-fact-sheets-get-experience/shadowing-doctor"
+              ]
+            },
+            {
+              "id": "medicine_shadowing_specialty_reflection",
+              "title": "Reflecting on specialty exposure",
+              "category": "shadowing",
+              "summary": "After an authorized observation, note the setting, professional roles and questions you want to explore further. Reflect on similarities and differences between specialties without treating a brief experience as evidence of suitability or a universal hour requirement.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/aspiring-docs-fact-sheets-get-experience/shadowing-doctor"
+              ]
+            },
+            {
+              "id": "medicine_research_settings",
+              "title": "Exploring research settings",
+              "category": "research",
+              "summary": "Planning question: do your interests involve wet-lab, clinical, computational, public-health or translational investigation? Discuss the actual question, methods, role and training with a mentor rather than treating a setting label as proof of expertise.",
+              "sourceRefs": [
+                "https://oir.nih.gov/sourcebook/mentoring-training/guidelines-mentors-nih"
+              ]
+            },
+            {
+              "id": "medicine_research_mentorship",
+              "title": "Learning with a research mentor",
+              "category": "research",
+              "summary": "Discuss the research question, your responsibilities, methods you need to learn and how feedback will work. Keep your contribution distinct from the team's work and ask for guidance when the evidence or your role is uncertain.",
+              "sourceRefs": [
+                "https://oir.nih.gov/sourcebook/mentoring-training/guidelines-mentors-nih"
+              ]
+            },
+            {
+              "id": "medicine_research_outputs",
+              "title": "Posters, abstracts and publications",
+              "category": "research",
+              "summary": "Learn how research can be communicated through posters, abstracts and publications. Record only real contributions and the actual output status; discuss authorship, attribution and permission with the research team rather than inventing an accomplishment.",
+              "sourceRefs": [
+                "https://oir.nih.gov/sourcebook/ethical-conduct/responsible-conduct-research-training",
+                "https://students-residents.aamc.org/applying-medical-school-amcas/publication-chapters/adding-work-experience-and-activities"
+              ]
+            },
+            {
+              "id": "medicine_research_ethics",
+              "title": "Responsible research and evidence",
+              "category": "research",
+              "summary": "Learn about accurate records, reproducibility, responsible authorship, conflicts and protection of participants and data. Follow the institution's applicable training, review and supervision process; a learning checklist or app-generated plan is not approval to execute research.",
+              "sourceRefs": [
+                "https://oir.nih.gov/sourcebook/ethical-conduct/responsible-conduct-research-training"
+              ]
+            },
+            {
+              "id": "medicine_service_advocacy",
+              "title": "Community service and advocacy",
+              "category": "service",
+              "summary": "Explore community needs and contribute within an appropriate role. Reflect on sustained involvement, what you learned from others and the real impact of your work; service is not a universal hours target or a guaranteed admissions outcome.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/real-stories-demonstrating-premed-competencies/premed-competencies-entering-medical-students"
+              ]
+            },
+            {
+              "id": "medicine_leadership_teamwork",
+              "title": "Leadership, teamwork and responsibility",
+              "category": "leadership",
+              "summary": "Reflect on initiative, collaboration, accountability and how your actions affected a team. Describe actual responsibilities and outcomes, including challenges and feedback; a title alone does not verify leadership competence.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/real-stories-demonstrating-premed-competencies/premed-competencies-entering-medical-students"
+              ]
             }
           ],
           "courseDomains": ["living systems", "chemistry", "physics", "quantitative reasoning", "human behavior", "scientific inquiry", "written communication"],
@@ -200,6 +455,20 @@
               "category": "research",
               "summary": "Use supervised research or inquiry opportunities to develop evidence, teamwork, communication, and scientific reasoning skills.",
               "supervisionRequired": true
+            },
+            {
+              "id": "medicine_shadowing_experience",
+              "title": "Physician shadowing and professional observation",
+              "category": "shadowing",
+              "summary": "Record an authorized supervised observation and your own reflection, keeping it distinct from hands-on clinical work and excluding patient-identifying information.",
+              "supervisionRequired": true
+            },
+            {
+              "id": "medicine_leadership_experience",
+              "title": "Leadership and teamwork experience",
+              "category": "leadership",
+              "summary": "Explore appropriate team responsibilities and reflect on actual initiative, accountability, collaboration and impact within the organization's role boundaries.",
+              "supervisionRequired": false
             }
           ],
           "trainingOptions": []
@@ -216,7 +485,100 @@
               "title": "Current application requirements",
               "category": "admissions",
               "summary": "Application requirements and policies are not universal and can change; use current school and official application-service sources.",
-              "sourceRefs": ["https://students-residents.aamc.org/medical-school-admission-requirements/medical-school-admission-requirements-reports-applicants-and-advisors"]
+              "sourceRefs": [
+                "https://students-residents.aamc.org/medical-school-admission-requirements/medical-school-admission-requirements-reports-applicants-and-advisors"
+              ]
+            },
+            {
+              "id": "medicine_amcas_concepts",
+              "title": "Understanding AMCAS",
+              "category": "application",
+              "summary": "AMCAS is an application-processing service for participating medical schools, separate from the school's admissions decision. Check participation and current official instructions before planning coursework, activities, essays and other components.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/applying-medical-school-amcas/about-amcas-program"
+              ]
+            },
+            {
+              "id": "medicine_aacomas_concepts",
+              "title": "Understanding AACOMAS",
+              "category": "application",
+              "summary": "AACOMAS provides a centralized application route for participating osteopathic medical schools. Use its own current instructions and each college's requirements; do not assume AMCAS rules or one school's policies apply to every service or program.",
+              "sourceRefs": [
+                "https://www.aacom.org/become-a-doctor/apply-to-medical-school/the-application-process"
+              ]
+            },
+            {
+              "id": "medicine_application_activities",
+              "title": "Describing real activities",
+              "category": "application",
+              "summary": "Organize actual activities, dates, responsibilities and reflections for the applicable service. Keep completed experience distinct from future plans and retain evidence of your own contribution; the app must not invent activities or verify them automatically.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/applying-medical-school-amcas/publication-chapters/adding-work-experience-and-activities"
+              ]
+            },
+            {
+              "id": "medicine_personal_statement_concepts",
+              "title": "Personal statement concepts",
+              "category": "application",
+              "summary": "Reflect on your own motivations and experiences, then follow the current service's essay instructions. Drafting support may help organize your words; it must not fabricate a personal history or imply an admissions outcome.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/applying-medical-school-amcas/publication-chapters/personal-comments-essay"
+              ]
+            },
+            {
+              "id": "medicine_letter_concepts",
+              "title": "Letters of evaluation",
+              "category": "application",
+              "summary": "Learn how recommenders describe observed qualities and work. Check each program's current number, type and submission rules; a planned request is not a received letter or an endorsement created by the app.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/applying-medical-school/preparing-letters-evaluation-amcas-application"
+              ]
+            },
+            {
+              "id": "medicine_school_list_concepts",
+              "title": "Building a school research list",
+              "category": "application",
+              "summary": "Compare each program's current mission, curriculum and requirements with your interests and circumstances. Keep source notes and questions for an advisor; a research list is not a ranking of acceptance likelihood.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/how-apply-medical-school-amcas/how-apply-medical-school-amcas-program"
+              ]
+            },
+            {
+              "id": "medicine_secondary_concepts",
+              "title": "School-specific secondary applications",
+              "category": "application",
+              "summary": "Secondary applications can request school-specific information and essays. Read the current program's own instructions and deadlines rather than assuming every school has the same prompts or process.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/applying-medical-school/advisor-corner-preparing-secondary-applications"
+              ]
+            },
+            {
+              "id": "medicine_interview_concepts",
+              "title": "Preparing to discuss your experiences",
+              "category": "application",
+              "summary": "Planning question: how will you explain your real experiences, learning and questions about a program? Verify the school's current interview format and participation instructions; practice does not predict a decision.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/applying-medical-school/what-admission-officers-wish-premeds-knew-applying"
+              ]
+            },
+            {
+              "id": "medicine_decision_concepts",
+              "title": "Application decisions and next steps",
+              "category": "application",
+              "summary": "Use the school's actual communications and applicable official service instructions to understand decisions and required responses. An app checklist or projected timeline is not an admission, waitlist update or binding instruction from a school.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/how-apply-medical-school-amcas/how-apply-medical-school-amcas-program"
+              ]
+            },
+            {
+              "id": "medicine_gap_reapplication_concepts",
+              "title": "Gap periods and reapplication",
+              "category": "application",
+              "summary": "Reflect with an advisor on learning, circumstances and possible further experience before applying again or taking a gap period. Check the current service's reapplication rules; no particular gap activity guarantees a different result.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/applying-medical-school/faq/amcas-faq",
+                "https://students-residents.aamc.org/preparing-medical-school/postbaccalaureate-programs"
+              ]
             }
           ],
           "courseDomains": [],
@@ -235,7 +597,57 @@
               "title": "Medical-program accreditation verification",
               "category": "accreditation",
               "summary": "Confirm a program's current accreditation and eligibility implications directly with the applicable accreditor and program.",
-              "sourceRefs": ["https://www.aamc.org/medical-school-accreditation", "https://osteopathic.org/accreditation/"]
+              "sourceRefs": [
+                "https://www.aamc.org/medical-school-accreditation",
+                "https://osteopathic.org/accreditation/"
+              ]
+            },
+            {
+              "id": "medicine_school_learning_stages",
+              "title": "Medical-school learning stages",
+              "category": "medical_school",
+              "summary": "Explore foundational science, clinical skills and supervised clinical learning in the actual program curriculum. Schools organize and integrate these experiences differently; this overview is not a universal year-by-year schedule.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/choosing-medical-career/what-expect-medical-school"
+              ]
+            },
+            {
+              "id": "medicine_clerkship_rotation_concepts",
+              "title": "Clerkships and rotations",
+              "category": "medical_school",
+              "summary": "Clerkships and rotations provide supervised learning in clinical settings. Verify the program's required experiences, supervision, assessment and sequence; completing an app lesson does not establish clinical competence.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/choosing-medical-career/what-expect-medical-school"
+              ]
+            },
+            {
+              "id": "medicine_elective_specialty_concepts",
+              "title": "Electives and specialty exploration",
+              "category": "medical_school",
+              "summary": "Use authorized electives, interest groups, mentors and reflections on clinical learning to explore specialties. Check available experiences and eligibility with your school rather than treating interest as confirmed suitability or a training placement.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/choosing-medical-career/what-expect-medical-school"
+              ]
+            },
+            {
+              "id": "medicine_school_research_concepts",
+              "title": "Research during medical education",
+              "category": "medical_school",
+              "summary": "Discuss research interests and the fit of scholarly work with your curriculum and mentors. Keep actual contributions, supervision and institutional review distinct from career exploration or a proposed project.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/choosing-medical-career/what-expect-medical-school",
+                "https://oir.nih.gov/sourcebook/mentoring-training/guidelines-mentors-nih"
+              ]
+            },
+            {
+              "id": "medicine_residency_preparation_concepts",
+              "title": "Preparing for residency applications",
+              "category": "medical_school",
+              "summary": "Planning question: which specialty interests, program requirements, application materials and current service timelines should you review with career advisors? A preparation checklist is not verified eligibility, an interview offer or a Match result.",
+              "sourceRefs": [
+                "https://students-residents.aamc.org/choosing-medical-career/what-expect-medical-school",
+                "https://www.nrmp.org/residency-applicants/get-ready-for-the-match/"
+              ]
             }
           ],
           "courseDomains": ["biomedical science", "clinical science", "patient care", "professional development", "health systems"],
@@ -277,7 +689,29 @@
               "title": "Residency eligibility and program verification",
               "category": "graduate_medical_education",
               "summary": "Residency eligibility and program requirements vary; verify current requirements with the program, accreditor, application/matching services, and relevant licensing authority.",
-              "sourceRefs": ["https://www.acgme.org/about/overview/", "https://www.fsmb.org/u.s.-medical-regulatory-trends-and-actions/guide-to-medical-regulation-in-the-united-states/about-physician-licensure/"]
+              "sourceRefs": [
+                "https://www.acgme.org/about/overview/",
+                "https://www.fsmb.org/u.s.-medical-regulatory-trends-and-actions/guide-to-medical-regulation-in-the-united-states/about-physician-licensure/"
+              ]
+            },
+            {
+              "id": "medicine_match_concepts",
+              "title": "The Match and application services",
+              "category": "residency",
+              "summary": "Residency applications and the NRMP Match have different functions. Learn about applying, interviewing and recording true preferences from the current official services; an app comparison is not a rank submission, placement or prediction.",
+              "sourceRefs": [
+                "https://www.nrmp.org/residency-applicants/",
+                "https://www.nrmp.org/residency-applicants/get-ready-for-the-match/"
+              ]
+            },
+            {
+              "id": "medicine_residency_learning_concepts",
+              "title": "Supervised residency learning",
+              "category": "residency",
+              "summary": "Residency develops specialty knowledge and practice through supervised graduate medical education. Verify program accreditation, responsibilities, assessment and completion requirements directly; the educational pathway does not grant clinical authority.",
+              "sourceRefs": [
+                "https://www.acgme.org/about/overview/"
+              ]
             }
           ],
           "courseDomains": ["specialty knowledge", "patient care", "systems-based practice", "professionalism", "communication"],
@@ -312,14 +746,38 @@
               "title": "Jurisdiction-specific physician licensure",
               "category": "licensure",
               "summary": "Licensure requirements vary by jurisdiction and can change; verify them directly with the relevant medical board.",
-              "sourceRefs": ["https://www.fsmb.org/u.s.-medical-regulatory-trends-and-actions/guide-to-medical-regulation-in-the-united-states/about-physician-licensure/", "https://www.fsmb.org/step-3/state-licensure/"]
+              "sourceRefs": [
+                "https://www.fsmb.org/u.s.-medical-regulatory-trends-and-actions/guide-to-medical-regulation-in-the-united-states/about-physician-licensure/",
+                "https://www.fsmb.org/step-3/state-licensure/"
+              ]
             },
             {
               "id": "medicine_certification_verification",
               "title": "Specialty or subspecialty certification verification",
               "category": "certification",
               "summary": "Certification is separate from state licensure; verify eligibility and continuing requirements with the relevant certification board.",
-              "sourceRefs": ["https://abms.org/member-boards/specialty-subspecialty-certificates/"]
+              "sourceRefs": [
+                "https://abms.org/member-boards/specialty-subspecialty-certificates/"
+              ]
+            },
+            {
+              "id": "medicine_fellowship_concepts",
+              "title": "Optional fellowship training",
+              "category": "fellowship",
+              "summary": "Explore whether additional subspecialty training fits a specific career path. Fellowship availability, prerequisites, accreditation and duration depend on the actual program and specialty; it is not a universal next step or an app-issued credential.",
+              "sourceRefs": [
+                "https://www.acgme.org/about/overview/"
+              ]
+            },
+            {
+              "id": "medicine_board_certification_concepts",
+              "title": "Board certification and licensure distinctions",
+              "category": "certification",
+              "summary": "Board certification concerns a specialty board's professional standards and is distinct from a jurisdiction's medical license. Verify the appropriate board and licensing authority's current requirements; neither an app record nor a degree label proves certification or permission to practice.",
+              "sourceRefs": [
+                "https://abms.org/board-certification/",
+                "https://www.fsmb.org/u.s.-medical-regulatory-trends-and-actions/guide-to-medical-regulation-in-the-united-states/about-physician-licensure/"
+              ]
             }
           ],
           "courseDomains": ["specialty development", "quality improvement", "lifelong learning", "professional responsibility"],
@@ -336,10 +794,27 @@
         }
       ],
       "provenance": {
-        "contentVersion": "1.0.0",
+        "contentVersion": "1.4.0",
         "reviewedDate": "2026-09-30",
-        "sourceRefs": ["https://students-residents.aamc.org/real-stories-demonstrating-premed-competencies/premed-competencies-entering-medical-students", "https://students-residents.aamc.org/medical-school-admission-requirements/required-premedical-coursework-and-competencies", "https://www.aamc.org/medical-school-accreditation", "https://osteopathic.org/accreditation/", "https://www.acgme.org/about/overview/", "https://www.fsmb.org/u.s.-medical-regulatory-trends-and-actions/guide-to-medical-regulation-in-the-united-states/about-physician-licensure/", "https://abms.org/member-boards/specialty-subspecialty-certificates/"],
-        "limitations": ["Educational U.S.-context overview only; this record is not admissions, academic, career, legal, licensing, certification, or medical advice.", "School prerequisites, application policies, assessments, accreditation, residency and fellowship requirements, licensure, certification, and program availability can change and must be verified with current official sources.", "No activity, course, score, hour count, program, or training path guarantees admission, matching, licensure, certification, employment, or career outcomes."]
+        "sourceRefs": [
+          "https://students-residents.aamc.org/real-stories-demonstrating-premed-competencies/premed-competencies-entering-medical-students",
+          "https://students-residents.aamc.org/medical-school-admission-requirements/required-premedical-coursework-and-competencies",
+          "https://www.aamc.org/medical-school-accreditation",
+          "https://osteopathic.org/accreditation/",
+          "https://www.acgme.org/about/overview/",
+          "https://www.fsmb.org/u.s.-medical-regulatory-trends-and-actions/guide-to-medical-regulation-in-the-united-states/about-physician-licensure/",
+          "https://abms.org/member-boards/specialty-subspecialty-certificates/"
+        ],
+        "limitations": [
+          "Educational U.S.-context overview only; this record is not admissions, academic, career, legal, licensing, certification, or medical advice.",
+          "School prerequisites, application policies, assessments, accreditation, residency and fellowship requirements, licensure, certification, and program availability can change and must be verified with current official sources.",
+          "No activity, course, score, hour count, program, or training path guarantees admission, matching, licensure, certification, employment, or career outcomes.",
+          "Version 1.1.0 adds academic-planning concepts source-checked on 2026-10-17. The recorded review date and verification boundaries for unchanged later training material are preserved. Source checking is not independent admissions, scientific, clinical or licensing approval.",
+          "Version 1.2.0 adds MCAT learning/planning concepts source-checked on 2026-10-17. No score, admissions probability, fixed preparation duration or current registration/retake eligibility is inferred; verify the applicable testing-year policies with AAMC.",
+          "Version 1.3.0 adds experience/reflection and responsible-research learning concepts source-checked on 2026-10-17. These are educational categories, not universal hours, verified activities, competence, admissions guarantees or authorization for patient care or research execution.",
+          "Version 1.4.0 adds application and medical-training concepts source-checked on 2026-10-17. Services, curricula, selection, matching, eligibility and certification policies remain program/year/jurisdiction-specific. No application submission, admission decision, Match prediction, credential or clinical authority is supplied."
+        ],
+        "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
       }
     }
   ]

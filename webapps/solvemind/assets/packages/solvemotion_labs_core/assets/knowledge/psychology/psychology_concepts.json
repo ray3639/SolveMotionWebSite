@@ -9,27 +9,27 @@
                                                   "summary":  "Clinicians use both fast intuition and slow analysis.",
                                                   "title":  "Pattern Recognition vs Analytical Thinking",
                                                   "whyItMatters":  [
-                                                                       "Overreliance on intuition increases mistakes.",
-                                                                       "Overanalysis delays decisions.",
-                                                                       "Balanced thinking improves accuracy."
+                                                                       "Review whether the initial interpretation fits the available evidence and what remains uncertain.",
+                                                                       "Discuss time constraints and the consequences of delaying information gathering or a decision.",
+                                                                       "Review which reasoning approach fits the evidence and uncertainty; neither approach guarantees accuracy."
                                                                    ],
                                                   "keyIdeas":  [
                                                                    "Experienced clinicians recognize familiar patterns quickly.",
                                                                    "Analytical thinking is used when patterns are unclear.",
-                                                                   "Switching modes reduces error."
+                                                                   "Recheck an initial interpretation when evidence is incomplete or inconsistent; switching approaches does not guarantee error detection."
                                                                ]
                                               },
                                               {
                                                   "summary":  "Considering multiple possible explanations at once.",
                                                   "title":  "Differential Thinking",
                                                   "whyItMatters":  [
-                                                                       "Prevents premature conclusions.",
+                                                                       "Compare alternative explanations before settling on a working conclusion.",
                                                                        "Encourages open-minded reasoning.",
-                                                                       "Reduces diagnostic error."
+                                                                       "Use comparison to identify unresolved evidence; this exercise does not establish diagnostic accuracy."
                                                                    ],
                                                   "keyIdeas":  [
                                                                    "Symptoms overlap across many conditions.",
-                                                                   "Clinicians rank possibilities, not pick one early.",
+                                                                   "Compare plausible explanations and update a working conclusion as information becomes available.",
                                                                    "New information updates the list."
                                                                ]
                                               },
@@ -39,7 +39,7 @@
                                                   "whyItMatters":  [
                                                                        "Explains why doctors say \u0027most likely\u0027.",
                                                                        "Clarifies why tests are not definitive.",
-                                                                       "Improves patient understanding."
+                                                                       "Explain uncertainty in plain language and check what remains unclear."
                                                                    ],
                                                   "keyIdeas":  [
                                                                    "Few findings are 100% specific.",
@@ -51,12 +51,12 @@
                                                   "summary":  "Statistical likelihood guides reasoning.",
                                                   "title":  "Common Things Are Common",
                                                   "whyItMatters":  [
-                                                                       "Prevents chasing unlikely explanations.",
-                                                                       "Improves efficiency and safety.",
-                                                                       "Reduces unnecessary testing."
+                                                                       "Consider both prior frequency and case-specific evidence when comparing possible explanations.",
+                                                                       "Explain how evidence and uncertainty affect the next information-gathering step.",
+                                                                       "Discuss what information a proposed test could add; this lesson does not decide whether a patient needs testing."
                                                                    ],
                                                   "keyIdeas":  [
-                                                                   "Frequent conditions are considered first.",
+                                                                   "Review prior frequency together with the available evidence and the consequences of missing a serious alternative.",
                                                                    "Rare conditions are considered when evidence supports them.",
                                                                    "Context heavily influences probability."
                                                                ]
@@ -67,12 +67,12 @@
                                                   "whyItMatters":  [
                                                                        "Humans are predictably biased.",
                                                                        "Medicine designs systems to reduce error.",
-                                                                       "Awareness improves decision quality."
+                                                                       "Use awareness of possible bias to prompt an evidence check; awareness alone does not verify a decision."
                                                                    ],
                                                   "keyIdeas":  [
-                                                                   "Second opinions reduce bias.",
-                                                                   "Checklists improve consistency.",
-                                                                   "Reflection catches mistakes."
+                                                                   "Compare independent interpretations and examine disagreements; another opinion does not guarantee a correct conclusion.",
+                                                                   "Use checklists to make review steps explicit; completing a checklist does not verify a conclusion.",
+                                                                   "Use reflection to recheck reasoning; it does not guarantee that mistakes will be detected."
                                                                ]
                                               }
                                           ],
@@ -219,7 +219,7 @@
                                                                         "Normalizes emotional responses."
                                                                     ],
                                                    "keyIdeas":  [
-                                                                    "Emotions evolved to guide action.",
+                                                                    "Use the lesson example to discuss how an emotion may relate to an action.",
                                                                     "They signal relevance and priority.",
                                                                     "They influence attention and memory."
                                                                 ]

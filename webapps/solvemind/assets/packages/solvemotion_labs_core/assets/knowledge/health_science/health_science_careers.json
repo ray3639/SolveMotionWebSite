@@ -22,42 +22,42 @@
           "title": "Patient care and procedural skills",
           "category": "acgme_competency_domain",
           "summary": "Develop supervised, specialty-appropriate patient-care capabilities and progressive responsibility through accredited training.",
-          "sourceRefs": ["https://www.acgme.org/programs-and-institutions/programs/common-program-requirements/"]
+          "sourceRefs": ["https://www.acgme.org/globalassets/pfassets/programrequirements/2026-prs/cprresidency_2026.pdf"]
         },
         {
           "id": "physician_medical_knowledge",
           "title": "Medical knowledge",
           "category": "acgme_competency_domain",
           "summary": "Build and apply biomedical, clinical, epidemiological, and social-behavioral knowledge within professional training and scope.",
-          "sourceRefs": ["https://www.acgme.org/programs-and-institutions/programs/common-program-requirements/"]
+          "sourceRefs": ["https://www.acgme.org/globalassets/pfassets/programrequirements/2026-prs/cprresidency_2026.pdf"]
         },
         {
           "id": "physician_practice_learning",
           "title": "Practice-based learning and improvement",
           "category": "acgme_competency_domain",
           "summary": "Use evidence, feedback, quality improvement, and self-assessment to improve supervised practice and lifelong learning.",
-          "sourceRefs": ["https://www.acgme.org/programs-and-institutions/programs/common-program-requirements/"]
+          "sourceRefs": ["https://www.acgme.org/globalassets/pfassets/programrequirements/2026-prs/cprresidency_2026.pdf"]
         },
         {
           "id": "physician_communication",
           "title": "Interpersonal and communication skills",
           "category": "acgme_competency_domain",
           "summary": "Communicate effectively with patients, families, and professional teams while respecting privacy and role boundaries.",
-          "sourceRefs": ["https://www.acgme.org/programs-and-institutions/programs/common-program-requirements/"]
+          "sourceRefs": ["https://www.acgme.org/globalassets/pfassets/programrequirements/2026-prs/cprresidency_2026.pdf"]
         },
         {
           "id": "physician_professionalism",
           "title": "Professionalism",
           "category": "acgme_competency_domain",
           "summary": "Demonstrate ethical conduct, accountability, respect, responsiveness, and professional responsibilities appropriate to training and practice.",
-          "sourceRefs": ["https://www.acgme.org/programs-and-institutions/programs/common-program-requirements/"]
+          "sourceRefs": ["https://www.acgme.org/globalassets/pfassets/programrequirements/2026-prs/cprresidency_2026.pdf"]
         },
         {
           "id": "physician_systems_practice",
           "title": "Systems-based practice",
           "category": "acgme_competency_domain",
           "summary": "Learn how patient care operates within health systems, teams, quality structures, and resource constraints.",
-          "sourceRefs": ["https://www.acgme.org/programs-and-institutions/programs/common-program-requirements/"]
+          "sourceRefs": ["https://www.acgme.org/globalassets/pfassets/programrequirements/2026-prs/cprresidency_2026.pdf"]
         }
       ],
       "employerCategories": [
@@ -125,7 +125,7 @@
           "category": "verification",
           "summary": "Use current official program, accreditation, application, licensing, and certification sources for every consequential requirement.",
           "evidenceExamples": ["Current program requirements", "Accreditation source", "Jurisdiction-specific licensing source"],
-          "sourceRefs": ["https://students-residents.aamc.org/medical-careers/learn-about-medical-career-paths", "https://www.fsmb.org/u.s.-medical-regulatory-trends-and-actions/guide-to-medical-regulation-in-the-united-states/about-physician-licensure/"]
+          "sourceRefs": ["https://students-residents.aamc.org/medical-careers/learn-about-medical-career-paths", "https://www.fsmb.org/guide-to-medical-regulation-in-the-united-states/about-physician-licensure"]
         },
         {
           "id": "physician_supervised_competency_evidence",
@@ -133,7 +133,7 @@
           "category": "learning_evidence",
           "summary": "Document supervised learning, feedback, assessment, reflection, and improvement without treating app records as credentialing evidence.",
           "evidenceExamples": ["Supervisor feedback", "Program assessment", "Reflective learning record", "Quality-improvement participation"],
-          "sourceRefs": ["https://www.acgme.org/programs-and-institutions/programs/common-program-requirements/"]
+          "sourceRefs": ["https://www.acgme.org/globalassets/pfassets/programrequirements/2026-prs/cprresidency_2026.pdf"]
         },
         {
           "id": "physician_career_exploration",
@@ -171,14 +171,374 @@
           "title": "Licensure and certification are distinct",
           "category": "credentialing",
           "summary": "State medical licensure and specialty-board certification have different authorities, purposes, and current requirements.",
-          "sourceRefs": ["https://www.fsmb.org/u.s.-medical-regulatory-trends-and-actions/guide-to-medical-regulation-in-the-united-states/about-physician-licensure/", "https://abms.org/member-boards/specialty-subspecialty-certificates/"]
+          "sourceRefs": ["https://www.fsmb.org/guide-to-medical-regulation-in-the-united-states/about-physician-licensure", "https://abms.org/member-boards/specialty-subspecialty-certificates/"]
         }
       ],
       "provenance": {
         "contentVersion": "1.0.0",
         "reviewedDate": "2026-09-30",
-        "sourceRefs": ["https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm", "https://students-residents.aamc.org/medical-careers/learn-about-medical-career-paths", "https://students-residents.aamc.org/choosing-medical-career/explore-medical-careers", "https://www.acgme.org/programs-and-institutions/programs/common-program-requirements/", "https://www.fsmb.org/u.s.-medical-regulatory-trends-and-actions/guide-to-medical-regulation-in-the-united-states/about-physician-licensure/", "https://abms.org/member-boards/specialty-subspecialty-certificates/"],
-        "limitations": ["Educational U.S.-context overview only; not medical, career, admissions, legal, licensing, certification, or financial advice.", "Employer and opportunity categories are general learning structures, not current job listings, endorsements, rankings, or guarantees.", "Requirements, roles, settings, accreditation, licensure, certification, and opportunities change and require current official verification.", "The record does not score readiness, recommend a career, determine suitability, or guarantee admission, matching, credentials, employment, compensation, or outcomes."]
+        "sourceRefs": ["https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm", "https://students-residents.aamc.org/medical-careers/learn-about-medical-career-paths", "https://students-residents.aamc.org/choosing-medical-career/explore-medical-careers", "https://www.acgme.org/globalassets/pfassets/programrequirements/2026-prs/cprresidency_2026.pdf", "https://www.fsmb.org/guide-to-medical-regulation-in-the-united-states/about-physician-licensure", "https://abms.org/member-boards/specialty-subspecialty-certificates/"],
+        "limitations": ["Educational U.S.-context overview only; not medical, career, admissions, legal, licensing, certification, or financial advice.", "Employer and opportunity categories are general learning structures, not current job listings, endorsements, rankings, or guarantees.", "Requirements, roles, settings, accreditation, licensure, certification, and opportunities change and require current official verification.", "The record does not score readiness, recommend a career, determine suitability, or guarantee admission, matching, credentials, employment, compensation, or outcomes.", "The cited ACGME competency domains describe U.S. residency education under requirements effective July 1, 2026; specialty-specific requirements and enforcement revisions apply. This citation is not a new review or evidence of individual competence."]
+      }
+    },
+    {
+      "id": "internal_medicine",
+      "title": "Internal Medicine",
+      "summary": "Internal medicine physicians care for adolescents and adults across acute and chronic health conditions.",
+      "domainFamily": "medicine",
+      "careerFamily": "physician_specialty",
+      "pathwayIds": [
+        "medicine_pathway_us"
+      ],
+      "educationRelationships": [
+        {
+          "pathwayId": "medicine_pathway_us",
+          "stageIds": [
+            "medicine_high_school_preparation",
+            "medicine_college_premed_preparation",
+            "medicine_application_transition",
+            "medicine_medical_school",
+            "medicine_residency",
+            "medicine_fellowship_career"
+          ],
+          "relationshipType": "shared_physician_education_overview",
+          "summary": "Shared physician learning pathway only. Verify specialty-specific training and eligibility with the board and programs."
+        }
+      ],
+      "skills": [],
+      "employerCategories": [],
+      "opportunityCategories": [],
+      "readinessCriteria": [],
+      "comparisonFacts": [
+        {
+          "id": "internal_medicine_patient_interaction",
+          "title": "Patient interaction",
+          "category": "patient_interaction",
+          "summary": "Patient care includes prevention and management of adult and adolescent illness.",
+          "sourceRefs": [
+            "https://abms.org/member-board/american-board-of-internal-medicine/"
+          ]
+        },
+        {
+          "id": "internal_medicine_cognitive_diagnostic_intensity",
+          "title": "Cognitive and diagnostic work",
+          "category": "cognitive_diagnostic_intensity",
+          "summary": "Diagnostic work spans multiple organ systems; no comparative intensity rating is supplied.",
+          "sourceRefs": [
+            "https://abms.org/member-board/american-board-of-internal-medicine/"
+          ]
+        },
+        {
+          "id": "internal_medicine_team_structure",
+          "title": "Team structure",
+          "category": "team_structure",
+          "summary": "Hospitalist work includes coordinating care with other specialists.",
+          "sourceRefs": [
+            "https://abms.org/member-board/american-board-of-internal-medicine/"
+          ]
+        },
+        {
+          "id": "internal_medicine_related_specialties",
+          "title": "Related specialties",
+          "category": "related_specialties",
+          "summary": "Medical Oncology is listed as an internal-medicine subspecialty and has a separate catalog record.",
+          "sourceRefs": [
+            "https://abms.org/member-board/american-board-of-internal-medicine/"
+          ]
+        }
+      ],
+      "provenance": {
+        "contentVersion": "1.0.0",
+        "reviewedDate": "2026-10-17",
+        "sourceRefs": [
+          "https://abms.org/member-board/american-board-of-internal-medicine/"
+        ],
+        "limitations": [
+          "Educational U.S.-context specialty overview. Source-checked on 2026-10-17; not independent scientific, clinical, admissions, licensing or rights approval.",
+          "The linked general physician pathway does not specify specialty training duration, eligibility, program availability or certification requirements. Verify current official board and program sources.",
+          "Missing work-setting, research, procedure, lifestyle and other dimensions remain unavailable. No low/medium/high intensity, salary, fit, admission or Match prediction is inferred.",
+          "No clinical instructions, job listings, credential verification or permission to provide care are supplied."
+        ],
+        "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+      }
+    },
+    {
+      "id": "pediatrics",
+      "title": "Pediatrics",
+      "summary": "Pediatricians address health, development and illness from birth through young adulthood.",
+      "domainFamily": "medicine",
+      "careerFamily": "physician_specialty",
+      "pathwayIds": [
+        "medicine_pathway_us"
+      ],
+      "educationRelationships": [
+        {
+          "pathwayId": "medicine_pathway_us",
+          "stageIds": [
+            "medicine_high_school_preparation",
+            "medicine_college_premed_preparation",
+            "medicine_application_transition",
+            "medicine_medical_school",
+            "medicine_residency",
+            "medicine_fellowship_career"
+          ],
+          "relationshipType": "shared_physician_education_overview",
+          "summary": "Shared physician learning pathway only. Verify specialty-specific training and eligibility with the board and programs."
+        }
+      ],
+      "skills": [],
+      "employerCategories": [],
+      "opportunityCategories": [],
+      "readinessCriteria": [],
+      "comparisonFacts": [
+        {
+          "id": "pediatrics_patient_interaction",
+          "title": "Patient interaction",
+          "category": "patient_interaction",
+          "summary": "Care includes prevention and illness management appropriate to a young person's developmental stage.",
+          "sourceRefs": [
+            "https://abms.org/member-board/american-board-of-pediatrics/"
+          ]
+        },
+        {
+          "id": "pediatrics_cognitive_diagnostic_intensity",
+          "title": "Cognitive and diagnostic work",
+          "category": "cognitive_diagnostic_intensity",
+          "summary": "Clinical reasoning considers physical, emotional and social development; no intensity rating is supplied.",
+          "sourceRefs": [
+            "https://abms.org/member-board/american-board-of-pediatrics/"
+          ]
+        }
+      ],
+      "provenance": {
+        "contentVersion": "1.0.0",
+        "reviewedDate": "2026-10-17",
+        "sourceRefs": [
+          "https://abms.org/member-board/american-board-of-pediatrics/"
+        ],
+        "limitations": [
+          "Educational U.S.-context specialty overview. Source-checked on 2026-10-17; not independent scientific, clinical, admissions, licensing or rights approval.",
+          "The linked general physician pathway does not specify specialty training duration, eligibility, program availability or certification requirements. Verify current official board and program sources.",
+          "Missing work-setting, research, procedure, lifestyle and other dimensions remain unavailable. No low/medium/high intensity, salary, fit, admission or Match prediction is inferred.",
+          "No clinical instructions, job listings, credential verification or permission to provide care are supplied."
+        ],
+        "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+      }
+    },
+    {
+      "id": "general_surgery",
+      "title": "General Surgery",
+      "summary": "General surgeons diagnose and manage surgical conditions and provide care before, during and after operations.",
+      "domainFamily": "medicine",
+      "careerFamily": "physician_specialty",
+      "pathwayIds": [
+        "medicine_pathway_us"
+      ],
+      "educationRelationships": [
+        {
+          "pathwayId": "medicine_pathway_us",
+          "stageIds": [
+            "medicine_high_school_preparation",
+            "medicine_college_premed_preparation",
+            "medicine_application_transition",
+            "medicine_medical_school",
+            "medicine_residency",
+            "medicine_fellowship_career"
+          ],
+          "relationshipType": "shared_physician_education_overview",
+          "summary": "Shared physician learning pathway only. Verify specialty-specific training and eligibility with the board and programs."
+        }
+      ],
+      "skills": [],
+      "employerCategories": [],
+      "opportunityCategories": [],
+      "readinessCriteria": [],
+      "comparisonFacts": [
+        {
+          "id": "general_surgery_patient_interaction",
+          "title": "Patient interaction",
+          "category": "patient_interaction",
+          "summary": "Care extends across preoperative evaluation, surgery and postoperative management.",
+          "sourceRefs": [
+            "https://abms.org/member-board/american-board-of-surgery/"
+          ]
+        },
+        {
+          "id": "general_surgery_procedure_intensity",
+          "title": "Procedural work",
+          "category": "procedure_intensity",
+          "summary": "Operative care is central to this role; procedure volume and intensity are not quantified.",
+          "sourceRefs": [
+            "https://abms.org/member-board/american-board-of-surgery/"
+          ]
+        },
+        {
+          "id": "general_surgery_cognitive_diagnostic_intensity",
+          "title": "Cognitive and diagnostic work",
+          "category": "cognitive_diagnostic_intensity",
+          "summary": "Work includes diagnostic and operative decisions concerning patient safety.",
+          "sourceRefs": [
+            "https://abms.org/member-board/american-board-of-surgery/"
+          ]
+        },
+        {
+          "id": "general_surgery_team_structure",
+          "title": "Team structure",
+          "category": "team_structure",
+          "summary": "Surgeons collaborate with other members of the surgical team.",
+          "sourceRefs": [
+            "https://abms.org/member-board/american-board-of-surgery/"
+          ]
+        }
+      ],
+      "provenance": {
+        "contentVersion": "1.0.0",
+        "reviewedDate": "2026-10-17",
+        "sourceRefs": [
+          "https://abms.org/member-board/american-board-of-surgery/"
+        ],
+        "limitations": [
+          "Educational U.S.-context specialty overview. Source-checked on 2026-10-17; not independent scientific, clinical, admissions, licensing or rights approval.",
+          "The linked general physician pathway does not specify specialty training duration, eligibility, program availability or certification requirements. Verify current official board and program sources.",
+          "Missing work-setting, research, procedure, lifestyle and other dimensions remain unavailable. No low/medium/high intensity, salary, fit, admission or Match prediction is inferred.",
+          "No clinical instructions, job listings, credential verification or permission to provide care are supplied."
+        ],
+        "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+      }
+    },
+    {
+      "id": "emergency_medicine",
+      "title": "Emergency Medicine",
+      "summary": "Emergency physicians evaluate and stabilize acute illness and injury in adults and children.",
+      "domainFamily": "medicine",
+      "careerFamily": "physician_specialty",
+      "pathwayIds": [
+        "medicine_pathway_us"
+      ],
+      "educationRelationships": [
+        {
+          "pathwayId": "medicine_pathway_us",
+          "stageIds": [
+            "medicine_high_school_preparation",
+            "medicine_college_premed_preparation",
+            "medicine_application_transition",
+            "medicine_medical_school",
+            "medicine_residency",
+            "medicine_fellowship_career"
+          ],
+          "relationshipType": "shared_physician_education_overview",
+          "summary": "Shared physician learning pathway only. Verify specialty-specific training and eligibility with the board and programs."
+        }
+      ],
+      "skills": [],
+      "employerCategories": [],
+      "opportunityCategories": [],
+      "readinessCriteria": [],
+      "comparisonFacts": [
+        {
+          "id": "emergency_medicine_patient_interaction",
+          "title": "Patient interaction",
+          "category": "patient_interaction",
+          "summary": "Care involves rapid evaluation, stabilization and decisions about next care steps.",
+          "sourceRefs": [
+            "https://abms.org/member-board/american-board-of-emergency-medicine/"
+          ]
+        },
+        {
+          "id": "emergency_medicine_cognitive_diagnostic_intensity",
+          "title": "Cognitive and diagnostic work",
+          "category": "cognitive_diagnostic_intensity",
+          "summary": "Immediate decision making addresses diverse acute presentations; no numerical intensity ranking is supplied.",
+          "sourceRefs": [
+            "https://abms.org/member-board/american-board-of-emergency-medicine/"
+          ]
+        }
+      ],
+      "provenance": {
+        "contentVersion": "1.0.0",
+        "reviewedDate": "2026-10-17",
+        "sourceRefs": [
+          "https://abms.org/member-board/american-board-of-emergency-medicine/"
+        ],
+        "limitations": [
+          "Educational U.S.-context specialty overview. Source-checked on 2026-10-17; not independent scientific, clinical, admissions, licensing or rights approval.",
+          "The linked general physician pathway does not specify specialty training duration, eligibility, program availability or certification requirements. Verify current official board and program sources.",
+          "Missing work-setting, research, procedure, lifestyle and other dimensions remain unavailable. No low/medium/high intensity, salary, fit, admission or Match prediction is inferred.",
+          "No clinical instructions, job listings, credential verification or permission to provide care are supplied."
+        ],
+        "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
+      }
+    },
+    {
+      "id": "medical_oncology",
+      "title": "Medical Oncology",
+      "summary": "Medical oncologists evaluate cancer and plan systemic treatment in collaboration with other cancer specialists.",
+      "domainFamily": "medicine",
+      "careerFamily": "physician_specialty",
+      "pathwayIds": [
+        "medicine_pathway_us"
+      ],
+      "educationRelationships": [
+        {
+          "pathwayId": "medicine_pathway_us",
+          "stageIds": [
+            "medicine_high_school_preparation",
+            "medicine_college_premed_preparation",
+            "medicine_application_transition",
+            "medicine_medical_school",
+            "medicine_residency",
+            "medicine_fellowship_career"
+          ],
+          "relationshipType": "shared_physician_education_overview",
+          "summary": "Shared physician learning pathway only. Verify specialty-specific training and eligibility with the board and programs."
+        }
+      ],
+      "skills": [],
+      "employerCategories": [],
+      "opportunityCategories": [],
+      "readinessCriteria": [],
+      "comparisonFacts": [
+        {
+          "id": "medical_oncology_patient_interaction",
+          "title": "Patient interaction",
+          "category": "patient_interaction",
+          "summary": "Clinical work includes evaluating patients and planning systemic cancer care.",
+          "sourceRefs": [
+            "https://abms.org/member-board/american-board-of-internal-medicine/"
+          ]
+        },
+        {
+          "id": "medical_oncology_team_structure",
+          "title": "Team structure",
+          "category": "team_structure",
+          "summary": "Medical oncologists work with surgical, radiation and other specialists.",
+          "sourceRefs": [
+            "https://abms.org/member-board/american-board-of-internal-medicine/"
+          ]
+        },
+        {
+          "id": "medical_oncology_related_specialties",
+          "title": "Related specialties",
+          "category": "related_specialties",
+          "summary": "The board lists Medical Oncology under Internal Medicine; the parent specialty has a separate catalog record.",
+          "sourceRefs": [
+            "https://abms.org/member-board/american-board-of-internal-medicine/"
+          ]
+        }
+      ],
+      "provenance": {
+        "contentVersion": "1.0.0",
+        "reviewedDate": "2026-10-17",
+        "sourceRefs": [
+          "https://abms.org/member-board/american-board-of-internal-medicine/"
+        ],
+        "limitations": [
+          "Educational U.S.-context specialty overview. Source-checked on 2026-10-17; not independent scientific, clinical, admissions, licensing or rights approval.",
+          "The linked general physician pathway does not specify specialty training duration, eligibility, program availability or certification requirements. Verify current official board and program sources.",
+          "Missing work-setting, research, procedure, lifestyle and other dimensions remain unavailable. No low/medium/high intensity, salary, fit, admission or Match prediction is inferred.",
+          "No clinical instructions, job listings, credential verification or permission to provide care are supplied."
+        ],
+        "knowledgeFreshness": "CURRENT_OFFICIAL_VERIFICATION_REQUIRED"
       }
     }
   ]

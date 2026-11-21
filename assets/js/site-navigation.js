@@ -45,6 +45,7 @@
       ['Methodology', 'methodology.html'],
       ['Intelligence map', 'intelligence-map.html'],
       ['Roadmap', 'roadmap.html'],
+      ['Instagram', 'https://www.instagram.com/solvemotion_labs/'],
       ['Downloads', 'downloads.html'],
       ['Metrics and measurement', 'metrics.html'],
       ['Support', 'support.html']
@@ -63,6 +64,15 @@
     const url = new URL(route, base);
     anchor.href = url.href;
     anchor.textContent = label;
+    if (url.protocol === 'https:' && url.origin !== base.origin) {
+      anchor.target = '_blank';
+      anchor.rel = 'noopener noreferrer';
+      if (url.hostname === 'www.instagram.com') {
+        anchor.dataset.metric = 'interest';
+        anchor.dataset.metricProduct = 'platform';
+        anchor.dataset.metricType = 'instagram';
+      }
+    }
     if (className) anchor.className = className;
     if (!url.hash && normalized(url.pathname) === currentPath) {
       anchor.setAttribute('aria-current', 'page');
@@ -104,6 +114,7 @@
         ...['Education', 'Roadmap', 'Downloads', 'Support'].map((name) => [name, navigationRoute('Resources', name)])
       ]],
       ['Beta Testing', [['Join beta testing', 'contact.html#beta-testing']]],
+      ['Community', [['Follow on Instagram', 'https://www.instagram.com/solvemotion_labs/']]],
       ['Legal', [
         ['SolveMotion Privacy', 'privacy/solvemotion.html'],
         ['SolvePharmacy Privacy', 'privacy/solvepharmacy.html']
@@ -138,6 +149,20 @@
     footer.dataset.enhanced = 'true';
     if (!footer.isConnected) document.body.append(footer);
   }
+
+  // Existing homepage details retain all legacy anchors and guided journeys.
+  function revealHashTarget() {
+    let id;
+    try { id = decodeURIComponent(location.hash.slice(1)); } catch { return; }
+    if (!id) return;
+    const target = document.getElementById(id);
+    if (!target) return;
+    for (let parent = target.parentElement; parent; parent = parent.parentElement) {
+      if (parent.matches('details.ng-depth')) parent.open = true;
+    }
+  }
+  revealHashTarget();
+  window.addEventListener('hashchange', revealHashTarget);
 
   // Legal and error pages use the same footer without requiring a site header.
   enhanceFooter();

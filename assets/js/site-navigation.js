@@ -103,7 +103,7 @@
         ['Solutions', navigationRoute('Solutions', 'Platform and ecosystem')],
         ...['Education', 'Roadmap', 'Downloads', 'Support'].map((name) => [name, navigationRoute('Resources', name)])
       ]],
-      ['Android Testing', [['Become an Android tester', 'contact.html#android-testing']]],
+      ['Beta Testing', [['Join beta testing', 'contact.html#beta-testing']]],
       ['Legal', [
         ['SolveMotion Privacy', 'privacy/solvemotion.html'],
         ['SolvePharmacy Privacy', 'privacy/solvepharmacy.html']
